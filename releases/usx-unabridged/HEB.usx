@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="HEB" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Hebrews</para>
+  <para style="toc1">The Epistle of Hebrews</para>
+  <para style="toc2">Hebrews</para>
+  <para style="toc3">Heb.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">HEBREWS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">The Book of Hebrews is a treatise. The subject matter is the comparison between the Old and New Testaments,
+    proving that the new covenant is better than the old covenant. Though veering off into many subjects,
+    it returns to its principal subject.</para>
+  <para style="ipi">Because of the intensity, a translator must concentrate intensely while translating, juggling both the
+    translation and following the thread of reasoning. Interpolations must be supplied at critical junctures,
+    otherwise the meaning risks being lost.</para>
+  <para style="ipi">Speculations will forever abound as to who wrote this book, and the only evidence we can use to support
+    any theory is from an analysis of the text itself and a comparison to the other writings of the New Testament.
+    One piece of such evidence is that whoever wrote Hebrews had a mastery of Greek, it being probable that
+    it was his native tongue. Also, he had studied the Septuagint extensively. Although his peculiar writing
+    style isn’t immediately recognizable as what we find in Paul’s epistles, one should keep in mind that
+    Hebrews is not a letter but an essay, and that the same writer will use one style when writing a letter
+    and another when writing an essay. Furthermore, the author says in 13:23 that he’ll take Timothy with
+    him when he travels: that sounds like Paul.</para>
+  <para style="ipi">On the other hand, a simple word such as <char style="it">whence </char>[<char style="it">hothen, </char><char
+    style="w" strong="G03606">ὅθεν</char>)] is found in Hebrews in 2:17, 3:1, 7:25, 8:3, 9:18, 11:19, but
+    is nowhere to be found in any of Paul’s writing. One would a simple word like that to be independent
+    of whether what’s being written is an essay or an epistle.</para>
+  <para style="ipi">Studying the entire book, we come to the conclusion that the writer was influenced by Paul’s teachings.
+    As the last part of the last chapter talks about Timothy, he had to be a close associate of Paul’s, at
+    the bare minimum; but whether it was actually Paul who wrote it, we’ll never know.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="HEB 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 1:1" /><char style="it">t was </char>one piece at a time<char style="sup">[a]</char> and <char style="it">it
+        was </char>in many ways<char style="sup">[b]</char><char style="it"> that</char> God spoke long ago to
+        the Ancestors<char style="sup">[c]</char> by means of the prophets, <verse eid="HEB 1:1" />
+      <verse number="2" style="v" sid="HEB 1:2" />but during this time—a time in which we see His long-awaited promises coming to pass<char style="sup">[d]</char>—He
+        spoke to us in <char style="it">a</char><char style="sup">[A]</char> son whom He positioned to be <char
+        style="it">the</char> heir of everything, through whom He also made the ages (i.e., the epochs of time;
+        the periods of history); <verse eid="HEB 1:2" />
+      <verse number="3" style="v" sid="HEB 1:3" /><char style="it">and</char> who is the brightness and radiance which is emitted and beams forth from
+        His glory and is a carbon-copy<char style="sup">[e]</char> of His being, His undergirding reality<char
+        style="sup">[f]</char>, and who carries any and every thing <char style="it">on his shoulders </char>by
+        the word <char style="it">of God </char>spoken into action and having His power as its instrument<char
+        style="sup">[B]</char>. After he performed an act of cleansing for the sins <char style="it">of mankind</char>,
+        he sat at the right hand (i.e., he assumed the position of chief executive officer) of the Majesty in
+        <char style="it">the </char>Highest<char style="sup">[g]</char>, <verse eid="HEB 1:3" />
+      <verse number="4" style="v" sid="HEB 1:4" />having become so much better than the angels <char style="it">because </char>he has inherited a name
+        (i.e., a title; a position of authority; a statement of who he is; a reputation) which <char style="it">makes
+        him </char>more excellent, more distinguished than they. <verse eid="HEB 1:4" />
+      <verse number="5" style="v" sid="HEB 1:5" />Furthermore, to which of the angels did He say:
+    </para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="pi" vid="HEB 1:5">You are my son,</para>
+    <para style="pi" vid="HEB 1:5">Today I have begotten you</para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="m" vid="HEB 1:5">Plus another <char style="it">verse,</char></para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="pi" vid="HEB 1:5">I will be a Father to him,</para>
+    <para style="pi" vid="HEB 1:5">And he will be a son to Me<verse eid="HEB 1:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 1:6" />Take this for instance: when He does in fact bring the firstborn, the rightful heir,<char style="it">
+        </char>into the civilized world again, He says:</para>
+    <para style="pi" vid="HEB 1:6"></para>
+    <para style="pi" vid="HEB 1:6">Have all the angels<char style="sup">[h]</char> worship him<verse eid="HEB 1:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 1:7" />Contrast that to this: He says <char style="it">this </char>directing it to the angels,
+    </para>
+    <para style="pi" vid="HEB 1:7"></para>
+    <para style="pi" vid="HEB 1:7">The One Who makes His angels spirits,</para>
+    <para style="pi" vid="HEB 1:7">And <char style="it">makes </char>those who serve Him</para>
+    <para style="pi" vid="HEB 1:7"><char style="it">As attendants in the ritual of His worship</char></para>
+    <para style="pi" vid="HEB 1:7">A flame of fire<verse eid="HEB 1:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 1:8" />And contrast that to this: <char style="it">in regard </char>to the son <char style="it">He says</char>,
+    </para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">Your throne, God, <char style="it">will persist </char>out<char style="it"> </char>to forever and ever,</para>
+    <para style="pi" vid="HEB 1:8">And the scepter of straightness</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">(i.e., decrees and edicts which are based on</para>
+    <para style="pi" vid="HEB 1:8">moral integrity, righteousness,</para>
+    <para style="pi" vid="HEB 1:8">and an absence of guile, duplicity, or corruption)</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8"><char style="it">Is</char> <char style="it">the</char> scepter of your kingdom</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">(i.e., is the way in which you run your kingdom).<verse eid="HEB 1:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 1:9" />You loved righteousness and hated lawlessness
+    </para>
+    <para style="pi" vid="HEB 1:9">(i.e., You hated those who refuse to be restrained</para>
+    <para style="pi" vid="HEB 1:9">By the laws of God and of man).</para>
+    <para style="pi" vid="HEB 1:9">Because of this God—your God—anointed<char style="sup">[i]</char> you</para>
+    <para style="pi" vid="HEB 1:9">(i.e., singled you out and specially chose you)</para>
+    <para style="pi" vid="HEB 1:9"></para>
+    <para style="pi" vid="HEB 1:9"><char style="it">With</char> an <char style="it">anointing</char> oil derived from exhilaration,</para>
+    <para style="pi" vid="HEB 1:9">Which picks you out from among your peers</para>
+    <para style="pi" vid="HEB 1:9">And elevates you from them.<verse eid="HEB 1:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="10" style="v" sid="HEB 1:10" />And <char style="it">not only that passage, but this one too</char>:
+    </para>
+    <para style="pi" vid="HEB 1:10"></para>
+    <para style="pi" vid="HEB 1:10">In reference to the beginning,</para>
+    <para style="pi" vid="HEB 1:10">You, Lord, laid the foundation of the Earth,</para>
+    <para style="pi" vid="HEB 1:10">And the sky, the atmosphere, and outer space<char style="sup">[j]</char></para>
+    <para style="pi" vid="HEB 1:10">Are Your handiwork.<verse eid="HEB 1:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 1:11" />These very things will be destroyed;
+    </para>
+    <para style="pi" vid="HEB 1:11">You, though, will still be there.</para>
+    <para style="pi" vid="HEB 1:11">Everything will grow old <char style="it">and eventually wear out</char></para>
+    <para style="pi" vid="HEB 1:11">Like shirts, pants, and capes do.<verse eid="HEB 1:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="HEB 1:12" />Like You would do to a cape
+    </para>
+    <para style="pi" vid="HEB 1:12"><char style="it">When it’s too old to be worn anymore,</char></para>
+    <para style="pi" vid="HEB 1:12">You will roll them up or fold them,</para>
+    <para style="pi" vid="HEB 1:12"><char style="it">Put them away,</char></para>
+    <para style="pi" vid="HEB 1:12">And exchange them <char style="it">for new ones.</char></para>
+    <para style="pi" vid="HEB 1:12">But You are <char style="it">always </char>the same,</para>
+    <para style="pi" vid="HEB 1:12">And Your years <char style="it">of continuous existence</char></para>
+    <para style="pi" vid="HEB 1:12">Won’t come to an end.<verse eid="HEB 1:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 1:13" />To which of the angels did He direct <char style="it">this verse which </char>He has spoken in the past:
+    </para>
+    <para style="pi" vid="HEB 1:13"></para>
+    <para style="pi" vid="HEB 1:13">Assume the position as My chief executive<char style="sup">[k]</char></para>
+    <para style="pi" vid="HEB 1:13">Until such a time that your enemies</para>
+    <para style="pi" vid="HEB 1:13"><char style="it">Are</char> completely squashed and enslaved<char style="sup">[l]</char><verse eid="HEB 1:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="14" style="v" sid="HEB 1:14" />Are not all of <char style="it">the angels</char> spirits which serve <char style="it">as attendants
+        to the ritual of His worship and </char>who are being dispatched for the purpose of being an assistant
+        to those who are about to be receiving the relief which is rightfully theirs<char style="sup">[C]</char>?<verse eid="HEB 1:14" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">one piece at a time</char>…Also: <char style="it">bit by bit</char>; <char style="it">gradually</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">one piece at a time and it was in many ways</char>…Lit: <char style="it">many-parts
+        and many-ways</char>…Gk: <char style="it">polumerōs kai polutropōs </char>[Πολυμερῶς καὶ πολυτρόπως,
+        <char style="w" strong="G04181">Πολυμερῶς</char>), (πολυτρόπως/Strong’s4187)]. An alliteration, pun,
+        assonance, or rhyme; these words may have formed a common expression.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">Ancestors</char>…Lit: <char style="it">fathers</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">but during this time—a time in which we see His long-awaited promises coming to pass</char>…Lit:
+        <char style="it">at these last days</char>. Ref. note of John 6:39.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">carbon-copy</char>…Lit: <char style="it">the reverse pattern left on an object after
+        being stamped by a stamp with an intricate pattern; the exact replica</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">undergirding reality</char>…Also: <char style="it">substance</char>;<char style="it">
+        foundation</char>;<char style="it"> supporting structure</char>…Lit: <char style="it">what-stands-under</char>;
+        <char style="it">anything set under</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">Highest</char>…Lit: <char style="it">in high</char>. Meaning is superlative, although
+        the form is not.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">angels</char>…Lit<char style="it">: angels of God</char>. When rendered, the qualifying
+        words <char style="it">of God </char>aren’t needed. Ref. note of Col. 2:18.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">anointed</char>…Ref. note of 1 John 2:20</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">the sky, the atmosphere, and outer space</char>…Lit: <char style="it">the heavens</char>.
+        Ref. note of 2 Cor. 12:2.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">Assume the position as my My chief executive</char>…Lit: <char style="it">Sit out of</char>
+        [<char style="it">at</char>] <char style="it">my right hand</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">completely squashed and enslaved</char>…Lit: <char style="it">a footstool of your feet</char>.
+        A common idiom.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">a son</char>…Or: <char style="it">the son</char>…Lit: <char style="it">son</char>. Whether
+        we render this <char style="it">a son </char>or <char style="it">the son</char>, in either choice the
+        article is an interpolation. There are many instances in the NT where the definite article <char style="it">the
+        </char>is assumed after a preposition, and this may well be but another instance. However, there are
+        instances also where the definite article is added, added apparently to prevent ambiguity. On the other
+        hand, the omission of the definite article may be just that: the equivalent of (Gk. has none) an indefinite
+        article (or perhaps none at all) is what was intended and what’s being conveyed; the definite was not
+        intended. Though I’m not insisting that this is correct, I do favor the latter, the deciding factor being
+        the context as usual.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the word of God spoken into action and having His power as its instrument</char>…Lit:
+        <char style="it">the word of his power</char>. The Gk. for word here is <char style="it">rhema </char><char
+        style="w" strong="G04487">ῥῆμα</char>)not <char style="it">logos </char><char style="w" strong="G03056">λόγος</char>)<char
+        style="it">. </char>Also, with respect to <char style="it">of his power</char>, in Bullinger’s <char
+        style="it">Figures of Speech Used in the Bible, </char>Appendix B, since this phrase uses the genitive
+        case, “This is hardly his powerful word; but the word which is the instrument, by which His power is
+        carried out.”</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">who are about to be receiving the relief which is rightfully theirs</char>…Lit: <char
+        style="it">those who are about to be inheriting salvation</char>…Or: <char style="it">those who are destined
+        to be inheriting salvation</char>…Or: <char style="it">those who are going to be receiving salvation</char>…Some
+        notes on the GT. The Gk. verb <char style="it">mellō </char><char style="w" strong="G03195">μέλλω</char>)can
+        mean <char style="it">about to be</char>, <char style="it">going to be</char>, or perhaps <char style="it">destined
+        to be</char>. Naturally, its meaning is decided by context. Something else which is noteworthy is that
+        the infinite <char style="it">inherit </char>has a verb tense which insinuates ongoing action, as opposed
+        to a one-time action. So the heirs are about to be inheriting, going to be inheriting, or destined to
+        be inheriting salvation on an ongoing basis. This begs the question, what does <char style="it">salvation
+        </char>mean in this context? Many Christians, scholars, and translators assume it means “receiving Christ
+        in the new birth” or something similar. When applying this definition to this verse, the dilemma is that
+        the angels are sent to assist only those who are about to or are going to inherit salvation, not those
+        who already have inherited it, as the word <char style="it">mellō </char>refers to something which is
+        going to happen in the future but hasn’t happened yet. For this reason, in this verse the word <char
+        style="it">salvation </char>does not mean receiving Christ in the new birth, but it means being rescued
+        from catastrophe. This is its core meaning anyways, so the only surprise should be that Christian scholars
+        failed to apply it properly in the first place. The last piece to the puzzle is the meaning of <char
+        style="it">inherit. </char>The Gk. and English meanings are essentially the same: it means coming and
+        actually possessing what’s been set aside as yours, what’s rightfully yours. Inheriting salvation here
+        is not being born-again some time in the future, but it means coming into the relief in a dire situation
+        of that which is rightfully yours, a person who is already a Christ-follower. Angels are sent to assist
+        Christ-followers with coming into the relief which is rightfully theirs, and to come into this relief
+        on an ongoing basis.</char>
+    </note>
+  <chapter eid="HEB 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="HEB 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 2:1" />Because of this <char style="it">confusion between angels and the Son of God</char>, it’s even more necessary
+        for us to pay attention to, follow, concern ourselves with, and devote ourselves to what we heard,<char
+        style="it"> </char>lest those things slip through the cracks<char style="sup">[a]</char>. <verse eid="HEB 2:1" />
+      <verse number="2" style="v" sid="HEB 2:2" />The fact is, if the word <char style="it">of God</char> spoken <char style="it">to the human race </char>by
+        angels was enforced<char style="sup">[b]</char>, and every infraction, violation<char style="sup">[c]</char>,
+        and act of willful disobedience got a just punishment as a payback, <verse eid="HEB 2:2" />
+      <verse number="3" style="v" sid="HEB 2:3" />how will we evade <char style="it">a just punishment </char>after neglecting so great a salvation (i.e.,
+        an entire program of keeping all dimensions of calamity and disaster away from us) <char style="it">as
+        the salvation we have in Christ</char>? A salvation which was accepted and wholeheartedly embraced way
+        back then by those who listened to it as it was being spoken by the Lord resulting in us making it effective
+        and enforcing it<char style="sup">[d]</char>, <verse eid="HEB 2:3" />
+      <verse number="4" style="v" sid="HEB 2:4" /><char style="it">a message </char>which was accompanied by a conformational-attestation to its truthfulness
+        consisting of signs (i.e., miracles whose purpose is to confirm that the one performing them is authentic)
+        and not just by signs but by wonders (i.e., awe-inspiring miracles), by a variety of miracles, and by
+        bits and pieces of <char style="it">supernatural manifestations </char>of<char style="it"> </char>the
+        Holy Spirit <char style="it">which were done </char>according to His will.<verse eid="HEB 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 2:5" /><char style="it">But returning to this</char> topic<char style="it"> </char>about angels we’ve been talking
+        about here:<char style="it"> </char>the fact of the matter is that He didn’t subordinate to angels the
+        civilized world which was to come, <verse eid="HEB 2:5" />
+      <verse number="6" style="v" sid="HEB 2:6" />but somebody somewhere solemnly delivered a truthful statement <char style="it">to the contrary </char>saying,
+    </para>
+    <para style="pi" vid="HEB 2:6"></para>
+    <para style="pi" vid="HEB 2:6">What is man, that You would remember him,</para>
+    <para style="pi" vid="HEB 2:6">(i.e., give a hoot about him)</para>
+    <para style="pi" vid="HEB 2:6">Or the son of man<char style="sup">[A]</char></para>
+    <para style="pi" vid="HEB 2:6">(i.e., the ultimate human being)</para>
+    <para style="pi" vid="HEB 2:6">That You would visit him?</para>
+    <para style="pi" vid="HEB 2:6">(i.e., check on him with a purpose in mind)<verse eid="HEB 2:6"/>
+    </para>
+    <para style="pi">
+      <verse number="7" style="v" sid="HEB 2:7" />You demoted him to a position
+    </para>
+    <para style="pi" vid="HEB 2:7">Which is somewhat lower than <char style="it">the </char>angels;</para>
+    <para style="pi" vid="HEB 2:7"><char style="it">You </char>crowned him in glory and honor;<verse eid="HEB 2:7"/>
+    </para>
+    <para style="pi">
+      <verse number="8" style="v" sid="HEB 2:8" />You subordinated all things to him,
+    </para>
+    <para style="pi" vid="HEB 2:8"><char style="it">Putting them </char>under his feet<char style="sup">[e]</char></para>
+    <para style="pi" vid="HEB 2:8">(i.e., completely squashed and enslaved</para>
+    <para style="pi" vid="HEB 2:8">everything to him).</para>
+    <para style="pi" vid="HEB 2:8"></para>
+    <para style="m" vid="HEB 2:8">In this regard, in the process of subordinating all things to him, nothing evaded<char style="sup">[f]</char>
+        him <char style="it">and consequently </char>has not been subordinated to him. But at the present time
+        we do not yet see that all things have been subordinated to him. <verse eid="HEB 2:8"/>
+      <verse number="9" style="v" sid="HEB 2:9" />But we see him who’s been “demoted somewhat lower than the angels” (<char style="it">we’re referring
+        to </char>Jesus <char style="it">here</char>) because of the suffering of death “crowned in glory and
+        honor,” so that by the grace of God he would taste death for everyone.<verse eid="HEB 2:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="HEB 2:10" />You see, it was appropriate for Him—Whom all things <char style="it">are</char> because of and Whom all
+        things <char style="it">are</char> by—after leading many sons to glory, to complete <char style="it">what
+        was demanded of </char>the originator of their salvation by <char style="it">various </char>sufferings.<verse eid="HEB 2:10" />
+      <verse number="11" style="v" sid="HEB 2:11" />And, you see, the one who’s making others holy and those who are being made holy <char style="it">both
+        come</char> out of one <char style="it">God</char>; for this reason he’s not ashamed to call <char style="it">those
+        being made holy</char> “brothers” (i.e., comrades), <verse eid="HEB 2:11" />
+      <verse number="12" style="v" sid="HEB 2:12" />saying,
+    </para>
+    <para style="pi" vid="HEB 2:12"></para>
+    <para style="pi" vid="HEB 2:12">I’ll spread the word about Your <char style="it">excellent </char>title<char style="sup">[g]</char></para>
+    <para style="pi" vid="HEB 2:12">To my brothers.</para>
+    <para style="pi" vid="HEB 2:12">I will sing praises to you</para>
+    <para style="pi" vid="HEB 2:12">In the midst of the congregation.<verse eid="HEB 2:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 2:13" />Plus another <char style="it">verse</char>,
+    </para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="pi" vid="HEB 2:13">I will reach the point</para>
+    <para style="pi" vid="HEB 2:13">Where I have complete confidence in him</para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="m" vid="HEB 2:13">Plus another <char style="it">verse</char>,</para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="pi" vid="HEB 2:13">Take a look:</para>
+    <para style="pi" vid="HEB 2:13">The children that God gave me and I <char style="it">are together</char><verse eid="HEB 2:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 2:14" />So since the children have flesh and blood<char style="sup">[h]</char> in common and share in it, just
+        the same he also partook of the same<char style="sup">[i]</char> <char style="it">flesh and blood</char>
+        so that by the death <char style="it">on the cross</char> he would render him who has the power of death
+        (the devil, that is) powerless <verse eid="HEB 2:14" />
+      <verse number="15" style="v" sid="HEB 2:15" />and would set them free, <char style="it">namely </char>every and anybody who was subject to slavery
+        throughout his entire life by the fear of death.<verse eid="HEB 2:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="HEB 2:16" />Furthermore, angels of course didn’t take it upon themselves <char style="it">to die on the cross</char>,
+        but instead the seed (i.e., the direct-descendant) of Abraham took it upon himself. <verse eid="HEB 2:16" />
+      <verse number="17" style="v" sid="HEB 2:17" />The reason he had to be made into a person who’s just like all of <char style="it">his</char> brothers
+        is so that he would become a merciful, faithful, and reliable high priest in things that are relevant
+        to or which involve God, leading to atoning<char style="sup">[j]</char> for the sins of the folk-people.<verse eid="HEB 2:17" />
+      <verse number="18" style="v" sid="HEB 2:18" />In this regard, by the thing in which he has suffered, being subjected to a trial <char style="it">consisting
+        of a test</char> <char style="it">he had to pass</char>, he is able to come to the rescue of those who,
+        on an ongoing basis, are subjected to trials, tests, and temptations.<verse eid="HEB 2:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">slip through the cracks</char>…Lit: <char style="it">drift away</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">was enforced</char>…Lit: <char style="it">became</char> [<char style="it">came to be</char>]
+        <char style="it">in force</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">infraction, violation</char>…Also: <char style="it">transgression</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">making it effective and enforcing it</char>…This is the same verb <char style="it">enforced
+        </char>used in v. 2, and usage here in v. 3 has the same meaning as the usage in v. 2.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">under his feet</char>…Appears in 1:13 also. An expression used throughout the Bible.
+        Picture a hunter who shot a large game animal standing with one foot on top of the animal as he holds
+        his gun in the other hand.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">evaded</char>…Lit: <char style="it">left</char>; <char style="it">departed</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">Your excellent title</char>…Lit: <char style="it">Your name</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">flesh and blood</char>…Lit: <char style="it">blood and flesh</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">the same</char>…As the Gk. uses a plural form, it must refer to flesh and blood</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">atoning</char>…Lit: <char style="it">expiating</char>; <char style="it">propitiating</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the son of man</char>…Ref. Matt. 8:20 for note on <char style="it">son of man. </char>The
+        sentence, “What is man that you would remember him, or the son of man that you would visit him?” is a
+        figure of speech called an epexegesis. In this figure of speech, a fact is stated then is restated with
+        more detail added in the restatement. The initial statement is incomplete; the restatement completes
+        it. Therefore, the one spoken of in this passage is the “son of man,” not mankind in general. Some have
+        taken this passage (and also Psalm 8, where it’s quoted from) and have taught that mankind in Christ
+        has been crowned with glory and honor and has had all things subordinated to him. That’s not the case;
+        this passage is talking about the son of man, which in this passage specifically refers to Jesus. Verse
+        9 makes this even more clear by saying that it was Jesus who was “demoted somewhat lower than the angels”
+        and was “crowned in glory and honor.”</char>
+    </note>
+  <chapter eid="HEB 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="HEB 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 3:1" />For this reason, brothers (i.e., fellow comrades), saints (i.e., those God has separated to Himself),
+        partakers of a heaven-calling (i.e., those summoned from heaven to be Christians), consider <char style="it">for
+        a moment</char><char style="sup">[a]</char> the apostle (i.e., the trail-blazer) and high priest (i.e.,
+        our primary representative to God; the one who stands between us and God) of our confession <char style="it">of
+        faith</char>, Jesus, <verse eid="HEB 3:1" />
+      <verse number="2" style="v" sid="HEB 3:2" />being faithful to Him who appointed him as <char style="it">was </char>also Moses <char style="it">faithful
+        as one chosen from </char>among<char style="sup">[b]</char> his entire house (i.e., all his kinsmen).<verse eid="HEB 3:2" />
+      <verse number="3" style="v" sid="HEB 3:3" />Furthermore, this fellow <char style="it">Jesus</char> is worthy of even more glory (i.e., praise, esteem,
+        honor, and adulation) than Moses consistent with how much more value and honor the one who built, landscaped,
+        and furnished a house has <char style="it">than the house itself</char>. <verse eid="HEB 3:3" />
+      <verse number="4" style="v" sid="HEB 3:4" />You see, every house has a person who builds, landscapes, and furnishes it, but God is the builder, landscaper,
+        and furnisher of everything. <verse eid="HEB 3:4" />
+      <verse number="5" style="v" sid="HEB 3:5" />And while, yes, Moses, was faithful to his entire house as a servant (more specifically, an earthly servant
+        who waited for God to speak then obeyed)<char style="sup">[A]</char> resulting in <char style="it">his
+        service </char>being an attestation to the truthfulness of the things which will be spoken of, <verse eid="HEB 3:5" />
+      <verse number="6" style="v" sid="HEB 3:6" />but Christ <char style="it">was faithful </char>as a son over his house, a house we are <char style="it">a
+        part of</char>, should we adhere to hope’s confidence and to its boasting (i.e., what we beam with pride
+        over when we talk).<verse eid="HEB 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 3:7" />In light of this, <char style="it">it’s </char>just like the Holy Spirit says <char style="it">in the
+        Old Testament</char>,</para>
+    <para style="pi" vid="HEB 3:7"></para>
+    <para style="pi" vid="HEB 3:7">If you happen to hear His voice today,<verse eid="HEB 3:7"/>
+    </para>
+    <para style="pi">
+      <verse number="8" style="v" sid="HEB 3:8" />Don’t harden your hearts like <char style="it">they did </char>in the
+    </para>
+    <para style="pi" vid="HEB 3:8">Went-Over-the-Edge-and-Rebelled episode,</para>
+    <para style="pi" vid="HEB 3:8"><char style="it">Like when they were hardened </char>according to the time<char style="sup">[c]</char></para>
+    <para style="pi" vid="HEB 3:8">When they put Me through a test</para>
+    <para style="pi" vid="HEB 3:8">In the wilderness <char style="it">of Sinai</char>,<verse eid="HEB 3:8"/>
+    </para>
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 3:9" /><char style="it">A test in </char>which your predecessors<char style="sup">[d]</char>
+    </para>
+    <para style="pi" vid="HEB 3:9">Put Me through to see if I would pass.</para>
+    <para style="pi" vid="HEB 3:9">And they saw the things I did <verse eid="HEB 3:9"/>
+      <verse number="10" style="v" sid="HEB 3:10" /><char style="it">Over a</char> forty year <char style="it">period</char>.
+    </para>
+    <para style="pi" vid="HEB 3:10">In light of this, I was provoked to anger</para>
+    <para style="pi" vid="HEB 3:10">By that generation and said,</para>
+    <para style="pi" vid="HEB 3:10">“They always wander off the <char style="it">true</char> path</para>
+    <para style="pi" vid="HEB 3:10">By w<char style="it">hat is in their </char>heart;</para>
+    <para style="pi" vid="HEB 3:10">They did not know, recognize or understand My ways.”<verse eid="HEB 3:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 3:11" />As I swore <char style="it">I would do </char>in My <char style="it">outburst of </char>wrath:
+    </para>
+    <para style="pi" vid="HEB 3:11">“There’s not a chance that they’ll enter My rest”.<verse eid="HEB 3:11"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 3:12" />Be on the lookout, comrades, lest there be an evil, unbelieving (i.e., stubbornly refusing to believe)
+        heart in any of you which revolts against and departs from<char style="sup">[e]</char> <char style="it">the
+        </char>Living God, <verse eid="HEB 3:12" />
+      <verse number="13" style="v" sid="HEB 3:13" />no—instead<char style="it"> stave off such apostasy,</char> encourage yourselves day in, day out, as
+        long as <char style="it">the word</char> “today” (<char style="it">which I used in the previous quotation</char>)<char
+        style="it"> </char>still applies, so that none of you would be hardened by the tendency of sin to cause
+        a person to become delusional<char style="sup">[f]</char>. <verse eid="HEB 3:13" />
+      <verse number="14" style="v" sid="HEB 3:14" />The fact of the matter is that we have become partakers of Christ if we happen to firmly adhere<char
+        style="it"> from </char>beginning to end <char style="it">to that which is</char> of the undergirding
+        reality <verse eid="HEB 3:14" />
+      <verse number="15" style="v" sid="HEB 3:15" />by what we’re being told:
+    </para>
+    <para style="pi" vid="HEB 3:15"></para>
+    <para style="pi" vid="HEB 3:15">If you happen to hear His voice today,</para>
+    <para style="pi" vid="HEB 3:15">Don’t harden your hearts like <char style="it">they did </char>in the</para>
+    <para style="pi" vid="HEB 3:15">Went-Over-the-Edge-and-Rebelled episode<verse eid="HEB 3:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="16" style="v" sid="HEB 3:16" />In this regard, which of the people who heard <char style="it">this</char> went over the edge and rebelled?—It
+        wasn’t everyone who left Egypt via Moses, was it? <verse eid="HEB 3:16" />
+      <verse number="17" style="v" sid="HEB 3:17" />Whom was He angry with <char style="it">for </char>forty years? Was it not with those who sinned, who
+        dropped dead in the wilderness <char style="it">and whose</char> corpses <char style="it">were left lying
+        there</char>? <verse eid="HEB 3:17" />
+      <verse number="18" style="v" sid="HEB 3:18" />Whom did He swear wouldn’t “enter into His rest”?—It was none other than the disobedient. <verse eid="HEB 3:18" />
+      <verse number="19" style="v" sid="HEB 3:19" />We see that they were not able to enter because of unbelief (i.e., their stubborn refusal to believe
+        what God said).<verse eid="HEB 3:19" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">consider</char> <char style="it">for a moment</char>…the verb tense insinuates that
+        this is a one-time action</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">from among</char>…Or: <char style="it">in</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">the time</char>…Lit: <char style="it">in the day</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">predecessors</char>…Lit: <char style="it">fathers</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">revolts against and departs from</char>…Same root from which <char style="it">apostasy
+        </char>is derived in 2 Thess. 2:3</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">tendency of sin to cause a person to become delusional</char>…Lit: <char style="it">the
+        deceitfulness of sin</char>. Ref. note of Mark 4:19.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">servant (more specifically, an earthly servant who waited for God to speak then obeyed)</char>…Lit:
+        <char style="it">attendant</char>. The Gk. word <char style="it">therapōn </char><char style="w" strong="G02324">θεράπων</char>).
+        A therapōn is someone who attends to the needs of another by waiting on them. It applies to either a
+        bedside nurse who attends to a sick person (hence its connection with healing) or serving somebody in
+        a general sense where the servant waits for the person to say something then obeys it. This latter meaning
+        is the case. In fact, therapōn is the word used in the phrase “Moses My servant” which appears in the
+        LXX in Exod. 4:10; 14:31; Num. 12:7. As the writer of Hebrews is mimicking the exact word that the LXX
+        uses to refer to Moses as God’s servant, it indicates that whoever wrote Hebrews had read the LXX extensively.</char>
+    </note>
+  <chapter eid="HEB 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="HEB 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 4:1" />So let us fear lest any one of you seem to come up short while there lingers a promise to enter His rest.<verse eid="HEB 4:1" />
+      <verse number="2" style="v" sid="HEB 4:2" />You see, we too were given a good news message (the Gospel) just as those people were, but no—the verbally-given
+        message<char style="sup">[a]</char> <char style="it">from God</char> did not benefit those people, not
+        having been blended with faith by those who heard it. <verse eid="HEB 4:2" />
+      <verse number="3" style="v" sid="HEB 4:3" />The fact of the matter is that those who believed <char style="it">the message </char>enter into the
+        rest <char style="it">that we’re discussing here</char> indicated by what He has stated:</para>
+    <para style="pi" vid="HEB 4:3"></para>
+    <para style="pi" vid="HEB 4:3">As I swore <char style="it">I would do </char>in My <char style="it">outburst of </char>wrath: </para>
+    <para style="pi" vid="HEB 4:3">“There’s not a chance that they’ll enter My rest.”</para>
+    <para style="pi" vid="HEB 4:3"></para>
+    <para style="m" vid="HEB 4:3"><char style="it">…Referring to another rest </char>even though <char style="it">the result </char>of
+        the things which were done <char style="it">during creation </char>has been in existence since the world
+        was initially created<char style="sup">[b]</char>. <verse eid="HEB 4:3"/>
+      <verse number="4" style="v" sid="HEB 4:4" />To elaborate on this point, somewhere <char style="it">in the Old Testament (in a place we’re all too
+        familiar with)</char> He made a statement about Saturday<char style="sup">[c]</char> that goes like this:</para>
+    <para style="pi" vid="HEB 4:4"></para>
+    <para style="pi" vid="HEB 4:4">And God rested on the seventh day from all of His works<verse eid="HEB 4:4"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="5" style="v" sid="HEB 4:5" />Plus <char style="it">what’s </char>in this <char style="it">verse</char>:
+    </para>
+    <para style="pi" vid="HEB 4:5"></para>
+    <para style="pi" vid="HEB 4:5">There’s not a chance that they’ll enter My rest<verse eid="HEB 4:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 4:6" />So since what’s left over <char style="it">after all of this </char>(<char style="it">and has yet to
+        be dealt with</char>) is for some people to enter <char style="it">His rest</char>, and <char style="it">since
+        </char>the previous group of people who were told about the good things <char style="it">God intended
+        for them</char> didn’t enter <char style="it">any rest</char> because of disobedience, <verse eid="HEB 4:6" />
+      <verse number="7" style="v" sid="HEB 4:7" /><char style="it">this topic is addressed </char>again <char style="it">in the Old Testament</char>: After
+        this huge gap in time, a specific day <char style="it">referred to as </char>“today” is defined by David
+        according to the way it’s spoken of <char style="it">in Psalms</char>:</para>
+    <para style="pi" vid="HEB 4:7"></para>
+    <para style="pi" vid="HEB 4:7">If you happen to hear His voice today,</para>
+    <para style="pi" vid="HEB 4:7">Don’t harden your hearts<verse eid="HEB 4:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 4:8" />You see, if Joshua gave them a rest <char style="it">of any sort</char>, he wouldn’t have been talking
+        about another time after this period of time. <verse eid="HEB 4:8" />
+      <verse number="9" style="v" sid="HEB 4:9" />Therefore, what’s <char style="it">left on the table</char><char style="sup">[d]</char> is a Sabbath
+        observance<char style="sup">[A]</char> for God’s people. <verse eid="HEB 4:9" />
+      <verse number="10" style="v" sid="HEB 4:10" />The fact is, he who entered into<char style="sup">[e]</char> (i.e., joined in body, mind, and spirit)
+        His rest <char style="it">is </char>also the same person who rested from his works just as God <char
+        style="it">rested </char>from His own <char style="it">work of creation</char>. <verse eid="HEB 4:10" />
+      <verse number="11" style="v" sid="HEB 4:11" />So let’s be eager and in a hurry to enter into that rest, so that no one will fail by the same pattern
+        of disobedience.<verse eid="HEB 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 4:12" />You see, the word of God <char style="it">is </char>living, active and effective, and sharper<char style="sup">[B]</char>
+        than any double-edged sword and is able to penetrate to the extent of separating soul (i.e., the mind,
+        will, and emotions) and spirit into different parts, and of separating<char style="it"> </char>joint
+        and marrow, and is able to judge, deciding between right and wrong, the thoughts, reflections, and thinking
+        processes of a heart. <verse eid="HEB 4:12" />
+      <verse number="13" style="v" sid="HEB 4:13" />There’s no kind of person, no person anywhere<char style="sup">[f]</char>, who’s invisible or undetectable
+        when subjected to His intense gaze<char style="sup">[g]</char>, but everyone is stripped naked and cracked
+        wide open under His scrutiny<char style="sup">[h]</char>, with which <char style="it">this same </char>statement
+        <char style="it">applies </char>to us<char style="sup">[i]</char>.<verse eid="HEB 4:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 4:14" />So having a great high priest who has traversed the sky and outer space and reached heaven<char style="sup">[j]</char>,
+        Jesus the son of God, let us adhere <char style="it">to the articles </char>of the confession. <verse eid="HEB 4:14" />
+      <verse number="15" style="v" sid="HEB 4:15" />You see, we don’t have a high priest who’s unable to sympathize with our weaknesses, but one who has
+        been tested, tempted, and pushed to the breaking point in every category<char style="sup">[k]</char>
+        and in identical ways apart from sin. <verse eid="HEB 4:15" />
+      <verse number="16" style="v" sid="HEB 4:16" />So let us approach the throne of grace with boldness to receive mercy and find grace, the end result
+        being help at the right time.<verse eid="HEB 4:16" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">the verbally-given message</char>…Lit: <char style="it">the word of the voice</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">the world was initially created</char>…Lit: <char style="it">foundation of the world</char>.
+        A biblical expression; ref. note of 1 Pet. 1:20.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">Saturday</char>…Lit: <char style="it">the seventh</char> [<char style="it">day</char>].
+        Ref. note of John 2:1.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">what’s left on the table</char>…Lit: <char style="it">there is left behind</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">entered into</char>…A biblical expression, also used in Matt. 19:17; 25:21. Implies
+        joining something with a gladness, not under compulsion.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">no kind of person, no person anywhere</char>…Lit: <char style="it">creature</char>.
+        A figure of speech; also used in Mark 16:15; 2 Cor. 5:17; see usage there.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">when subjected to His intense gaze</char>…Lit: <char style="it">before Him</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">under His scrutiny</char>…Lit: <char style="it">to His eyes</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">with which this same statement applies to us</char>…Lit: <char style="it">with whom
+        the word</char> [or, <char style="it">the matter</char>; <char style="it">the statement</char>] <char
+        style="it">to us</char>. </char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">has traversed the sky and outer space, and reached heaven</char>…Lit: <char style="it">has
+        gone through the heavens</char>. Ref. note of 2 Cor. 12:2.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">in every category</char>…Lit: <char style="it">according to all</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">a Sabbath observance</char>…The Gk. noun <char style="it">sabbatismos </char><char style="w"
+        strong="G04520">σαββατισμός</char>), which comes from the verb <char style="it">sabbatidzō </char>(αββατιζω/no
+        Strong’s number), which means <char style="it">to keep the Sabbath. </char>The noun-converting suffix
+        <char style="it">mos </char>at the end of <char style="it">sabbatismos </char>in conjunction with the
+        lack (and the lack is prominent) of the definite article implies that sabbatismos is a type of Sabbath
+        keeping. Sabbatismos is only found this one time in the NT. Had the writer of Hebrews intended to mean
+        <char style="it">Sabbath </char>explicitly, he would’ve used the word <char style="it">sabbaton </char><char
+        style="w" strong="G04521">σάββατον</char>), which is common, and would’ve included the definite article.</char>
+      <char style="fp"></char>
+      <char style="ft">This Sabbath observance that’s the subject of discourse in this chapter and the previous is not the same
+        as the Sabbath which God instituted in Genesis. That’s the point which is made in vv. 8–10. The “rest”
+        spoken of here is a rest where one ceases to work (v. 10) but receives the promises of God.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">sharper</char>…Roman soldiers kept their swords razor sharp and in combat used their
+        short, nimble swords to slice their opponents in the small gaps in their armor where unprotected flesh
+        was exposed, causing wounds with little exertion of force. This is what this verse refers to.</char>
+    </note>
+  <chapter eid="HEB 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="HEB 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 5:1" />The fact of the matter is that every high priest drawn from the pool of human beings for the benefit
+        of mankind is appointed to a position <char style="it">in regard to</char> those things pertaining to
+        God in order to offer offerings, plus sacrifices on top of that, on behalf of sinners, <verse eid="HEB 5:1" />
+      <verse number="2" style="v" sid="HEB 5:2" />being able to moderate his feelings, restrain himself, and be gentle to the ignorant, to those who lack
+        understanding, to those who are mistaken, and to those who’ve gone astray, since he too is engulfed in
+        <char style="it">human</char> frailty<char style="sup">[a]</char>, <verse eid="HEB 5:2" />
+      <verse number="3" style="v" sid="HEB 5:3" />and because of <char style="it">this</char> same frailty, just like what affects the folk-people, he’s
+        obliged just the same to offer up offerings over and over again in matters where his own sins are involved.<verse eid="HEB 5:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 5:4" />Furthermore,<char style="it"> </char>any-old person can’t do the honor and appoint himself to the position
+        <char style="it">of high priest</char>, but instead the one called by God <char style="it">to be a high
+        priest </char>gets <char style="it">to be appointed</char> just like Aaron was <char style="it">appointed</char>.<verse eid="HEB 5:4" />
+      <verse number="5" style="v" sid="HEB 5:5" />In the same way Christ didn’t become a high priest in a self-aggrandizing manner—uh-uh—<char style="it">his
+        appointment was in line with</char> what was spoken<char style="it"> </char>to him:</para>
+    <para style="pi" vid="HEB 5:5"></para>
+    <para style="pi" vid="HEB 5:5">You are My son</para>
+    <para style="pi" vid="HEB 5:5">Today I have begotten you<verse eid="HEB 5:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 5:6" /><char style="it">This is</char> also consistent with what a different <char style="it">verse</char> says:
+    </para>
+    <para style="pi" vid="HEB 5:6"></para>
+    <para style="pi" vid="HEB 5:6">You are a priest <char style="it">and will be one </char>forevermore</para>
+    <para style="pi" vid="HEB 5:6">According to the order of Melchizedek<verse eid="HEB 5:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 5:7" />Who, during the time when he had a human body<char style="sup">[b]</char>, offered up <char style="it">an
+        offering of </char>prayers plus humble, earnest, urgent requests for protection<char style="sup">[A]</char>
+        on top of that to the One having the power to continually rescue and protect him from death, <char style="it">praying</char>
+        with loud<char style="sup">[c]</char> crying and tears, and he was listened to and heeded because of
+        the reverent awe he had in the presence of God. <verse eid="HEB 5:7" />
+      <verse number="8" style="v" sid="HEB 5:8" />Although he was a son, he learned the obedience <char style="it">required of him </char>from the things
+        he suffered, <verse eid="HEB 5:8" />
+      <verse number="9" style="v" sid="HEB 5:9" />and once the items of obedience <char style="it">that were required of</char> him<char style="it"> </char>were
+        finished, he became a source of eternal salvation<char style="sup">[d]</char>, <verse eid="HEB 5:9" />
+      <verse number="10" style="v" sid="HEB 5:10" />designated by God <char style="it">to be </char>a high priest after the order of Melchizedek.<verse eid="HEB 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 5:11" />There’s a lot <char style="it">we were wanting to go over with you</char> on this topic, and it’s difficult
+        to explain <char style="it">anything</char> to you since you’ve gotten to where you don’t listen very
+        well. <verse eid="HEB 5:11" />
+      <verse number="12" style="v" sid="HEB 5:12" />In fact, you should be teachers by this time, <char style="it">but instead </char>you need to have someone
+        <char style="it">come and </char>teach you the fundamentals<char style="sup">[e]</char><char style="sup">[B]</char>
+        of the word<char style="sup">[f]</char> of God all over again, and have gotten to where you require milk
+        and can’t<char style="it"> handle </char>solid food. <verse eid="HEB 5:12" />
+      <verse number="13" style="v" sid="HEB 5:13" />You see, anyone who’s on a milk-only diet has not demonstrated competency<char style="sup">[g]</char>
+        in those things which have their origin in the subject of righteousness: he’s an infant, you see. <verse eid="HEB 5:13" />
+      <verse number="14" style="v" sid="HEB 5:14" />But solid food is for grown-ups, who in the course of <char style="it">their </char>maturity have developed
+        and trained <char style="it">their</char> faculties of perception to distinguish both good and bad<char
+        style="sup">[C]</char>.<verse eid="HEB 5:14" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">human frailty</char>…Lit: <char style="it">weakness</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">during the time when he had a human body</char>…Lit: <char style="it">in the days of
+        his flesh</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">loud</char>…Also: <char style="it">strong</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">a source of eternal salvation</char>…This does not mean that he was one of many sources
+        of eternal salvation</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">fundamentals</char>…Lit: <char style="it">elementary principles</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">word</char>…Lit: <char style="it">words</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">has not demonstrated competency</char>…Lit: <char style="it">untested</char>; <char
+        style="it">unproven</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">humble, earnest, urgent requests for protection</char>…The only occurrence of the Gk.
+        word <char style="it">hiketāria</char> <char style="w" strong="G02428">ἱκετηρία</char>)in the NT. Hiketāria,
+        and the words it’s surrounded by here appear in a phrase from Job 40:22 in the LXX. As the writer of
+        Hebrews was quite familiar with the LXX (ref. note of 3:5), he must have borrowed the phrase from there.
+        Hiketāria refers to “the olive branch which a supplicant held in his hand” (Liddell &amp; Scott). Also
+        see Gen. 8:11. Meyer in his commentary says that hiketāria “denotes the olive branch which the supplicant
+        pleading for protection bore in his hand…It implies thus the prostate or urgent entreaty of one seeking
+        refuge.”</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">teach you the fundamentals</char>…There’s an odd word [Gk. <char style="it">tina</char>,
+        a form of <char style="it">tis</char>, <char style="w" strong="G05100">τίς</char>)] tossed in here which
+        is dropped from most translations because it’s difficult to make sense of. Adding <char style="it">tina</char>
+        back in, the new rendering would be something like: “teach you some things which are the fundamentals”
+        or “teach you some fundamentals.”</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">have developed and trained their faculties of perception to distinguish both good and
+        bad</char>…The <char style="it">faculties of perception </char>is the Gk. word <char style="it">aisthātārion
+        </char><char style="w" strong="G00145">αἰσθητήριον</char>), which means the perception formed from external
+        stimuli. In this context, it refers to the capacity to understand, to gain insight, and to exercise discernment
+        based on information which one obtains through all sources that a person obtains information from. This
+        is additionally confirmed by the choice of the Gk. word used for <char style="it">good </char>in this
+        verse [<char style="it">kalos</char>, (καλῶς /Strong’s 2773)], as this word refers to goodness perceived
+        from the outside, as opposed to goodness which exists on the inside of someone. The goodness is perceived
+        from the outside through the faculties of perception spoken of here. But in practical terms, what the
+        writer of Hebrews is referring to is a person who through practice and experience is able to observe
+        a given situation and through little pieces of information gleaned here and there is able to see the
+        good and the evil in that situation, and distinguish between the two. One example is this: years ago
+        my brother-in-law used to top by my mother-in-law’s apartment briefly, bring friends occasionally, and
+        after listening to these guys talk casually a bit could tell if they were no good or not. She was always
+        right. Another example: I’m thinking of a well-known evangelist who had a huge ministry who died a few
+        years ago. Just about everyone in the city in which he lived either praised him as a great saint who
+        could do no wrong or condemned him as a horrible sinner who could do no right. The truth is that he was
+        a mixture of both good and bad, but hardly anyone in the city would say that that was the case. The problem,
+        you see, is that they couldn’t distinguish good from bad.</char>
+    </note>
+  <chapter eid="HEB 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="HEB 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 6:1" />In light of this, putting aside the subject material of the fundamental <char style="it">doctrines</char>
+        of Christ, let us forge ahead<char style="sup">[a]</char>, not again laying a foundation <char style="it">comprised
+        </char>of repentance (i.e., a change in practice in moving away from one thing to another) from dead
+        works and<char style="sup">[A]</char> of faith in God; <verse eid="HEB 6:1" />
+      <verse number="2" style="v" sid="HEB 6:2" /><char style="it">the </char>doctrine of baptisms<char style="sup">[B]</char>, <char style="it">the doctrine
+        </char>of the laying on of hands, and <char style="it">the doctrine </char>of the resurrection of <char
+        style="it">the </char>dead (i.e., life after death) and eternal judgment<char style="sup">[C]</char>.<verse eid="HEB 6:2" />
+      <verse number="3" style="v" sid="HEB 6:3" />We will do this if indeed we secure God’s permission.<verse eid="HEB 6:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 6:4" />But the fact is, those who were enlightened at one time and tasted (i.e., experienced) of the Heaven-Gift
+        and became partakers of <char style="it">the </char>Holy Spirit<char style="sup">[b]</char> <verse eid="HEB 6:4" />
+      <verse number="5" style="v" sid="HEB 6:5" />and tasted that <char style="it">the</char> word of God<char style="sup">[c]</char> <char style="it">in
+        action</char> is splendid and tasted<char style="it"> </char>of the powers of the coming age, <verse eid="HEB 6:5" />
+      <verse number="6" style="v" sid="HEB 6:6" />and <char style="it">then </char>fall to the side (i.e., fail to follow through with the commitment)
+        are unable to <char style="it">engage </char>again <char style="it">in the process</char> of renewing
+        themselves with the goal of repentance in mind<char style="sup">[D]</char>, deciding, as far as their
+        own lives are concerned, to have absolutely nothing to do with<char style="sup">[d]</char> the son of
+        God and to expose him to public ridicule. <verse eid="HEB 6:6" />
+      <verse number="7" style="v" sid="HEB 6:7" />You see, a piece of soil which drinks the rain which frequently comes <char style="it">down </char>on
+        it and generates<char style="sup">[e]</char> food useful to those who farm it receives for itself blessing
+        and praise from God; <verse eid="HEB 6:7" />
+      <verse number="8" style="v" sid="HEB 6:8" />but <char style="it">a piece of soil</char> that bears thorns and thistles <char style="it">gets </char>rejected
+        and a curse looms over it<char style="sup">[f]</char>, <char style="it">a piece of soil </char>that what
+        eventually ends up happening to it is that <char style="it">everything on it is</char> burned <char style="it">to
+        the ground</char>.<verse eid="HEB 6:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 6:9" />But in your case, beloved, we’re convinced <char style="it">you’ll produce</char> things which are better
+        and are in sync<char style="sup">[g]</char> with salvation, in spite of us talking like this. <verse eid="HEB 6:9" />
+      <verse number="10" style="v" sid="HEB 6:10" />The fact is that God is not unfair in that He’ll not overlook your accomplishments and the love you demonstrated,
+        <char style="it">a love </char>directed towards who He is<char style="sup">[h]</char>, <char style="it">in
+        your </char>having served the saints (i.e., the people of God) and <char style="it">in your</char> serving
+        <char style="it">them at this time</char>. <verse eid="HEB 6:10" />
+      <verse number="11" style="v" sid="HEB 6:11" />We strongly desire that each of you demonstrate the same eagerness and intensity towards the certitude
+        of hope until <char style="it">the </char>ends <char style="it">are obtained</char> <verse eid="HEB 6:11" />
+      <verse number="12" style="v" sid="HEB 6:12" />so that you won’t become lazy, but <char style="it">will become </char>imitators of those who through
+        faith and patience inherit the promises.<verse eid="HEB 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="HEB 6:13" />You see, God made a promise to Abraham, and since He didn’t have anyone better to swear by swore by Himself<verse eid="HEB 6:13" />
+      <verse number="14" style="v" sid="HEB 6:14" />saying,
+    </para>
+    <para style="pi" vid="HEB 6:14"></para>
+    <para style="pi" vid="HEB 6:14">I’m absolutely going to bless your socks off</para>
+    <para style="pi" vid="HEB 6:14">And grow your numbers in spades<char style="sup">[i]</char><verse eid="HEB 6:14"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="15" style="v" sid="HEB 6:15" />The way he obtained what was promised to him is that he patiently and persistently endured. <verse eid="HEB 6:15" />
+      <verse number="16" style="v" sid="HEB 6:16" />Along these lines, people swear by someone who’s great, and the oath <char style="it">put forth </char>for
+        the purpose of confirming <char style="it">that what was promised will be done</char> puts an end to
+        any disagreement <char style="it">that might’ve existed </char>between <char style="it">the parties involved</char>.<verse eid="HEB 6:16" />
+      <verse number="17" style="v" sid="HEB 6:17" />In this regard God, wanting all the more to demonstrate to the recipients of the promise the immutability
+        <char style="it">and resoluteness</char> of His will, intervened with an oath, <verse eid="HEB 6:17" />
+      <verse number="18" style="v" sid="HEB 6:18" />so that through two immutable matters of business (<char style="it">namely</char> <char style="it">a
+        promise and an oath</char>), in <char style="it">both of</char> which it is impossible for God to lie,
+        we would have tremendous encouragement, we who have run for cover by taking hold of the hope set before
+        us, <verse eid="HEB 6:18" />
+      <verse number="19" style="v" sid="HEB 6:19" /><char style="it">a hope</char> which is like an anchor to the soul, both secure and firm, and which enters
+        the inside room, the one behind the curtain<char style="sup">[j]</char> (i.e., enters into the most secret
+        and holiest room in the temple, the Holy of Holies), <verse eid="HEB 6:19" />
+      <verse number="20" style="v" sid="HEB 6:20" />where a trailblazer<char style="sup">[k]</char> entered on our behalf—Jesus—now that he forever became
+        a high priest in the <char style="it">priestly </char>order of Melchizedek.<verse eid="HEB 6:20" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">forge ahead</char>…Also: <char style="it">carry on</char>…Lit: <char style="it">carry</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">Holy Spirit</char>…This may be a synecdoche for the baptism in the Holy Spirit</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">word of God</char>…The Gk. word <char style="it">rhema </char><char style="w" strong="G04487">ῥῆμα</char>)
+        is used in place of the normally used <char style="it">logos </char><char style="w" strong="G03056">λόγος</char>).
+        Rhema insinuates a spoken word, which insinuates the usage of it.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">deciding, as far as their own lives are concerned, to have absolutely nothing to do
+        with</char>…Lit: <char style="it">crucifying to themselves the son of God</char>. This is a NT idiom;
+        it is also used in Gal. 6:14.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">generates</char>…Lit: <char style="it">gives birth to</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">looms over it</char>…Lit: [<char style="it">is</char>] <char style="it">near</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">in sync</char>…Lit: <char style="it">in keeping</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">who He is</char>…Lit: <char style="it">his name</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">to bless your socks off and grow your numbers in spades</char>…Lit<char style="it">:
+        blessing I will bless you and multiplying I will multiply you</char>. Saying <char style="it">blessing
+        bless</char> and <char style="it">multiplying multiply</char> is a figure of speech.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">enters the inside room, the one behind the curtain</char>…Lit: <char style="it">enters
+        the inside of the curtain</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">trailblazer</char>…Also: <char style="it">forerunner</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">and</char>…The Gk. words <char style="it">kai</char> <char style="w" strong="G02532">καί</char>)and
+        <char style="it">te </char><char style="w" strong="G05037">τέ</char>), which are the two primary words
+        for <char style="it">and, </char>are interspersed in vv. 1–3 in such a way that repentance from dead
+        works and faith in God are coupled together, and the resurrection from the dead and eternal judgment
+        are coupled together. Also, the usage insinuates that not only is baptism a doctrine, but so is the laying
+        on of hands and the resurrection of the dead coupled with eternal judgment.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">baptisms</char>…The Gk. word <char style="it">baptismos </char><char style="w" strong="G00909">βαπτισμός</char>),
+        derived from the verb <char style="it">baptizō </char><char style="w" strong="G00907">βαπτίζω</char>).
+        The connection to the word <char style="it">baptism </char>is obvious; nearly every (perhaps every) rendering
+        of <char style="it">baptism </char>in English comes from these words. Some translations like the NASB
+        render this “instructions about washings,” which is incorrect. First, the words “instructions about”
+        are an interpolation (that is to say, they don’t exist in the GT and were added to make sense of the
+        text). Second, “instructions about washings” are covered in “repentance from dead works”; no need to
+        cover it again. Third, the context decides any ambiguity. This word <char style="it">baptismos</char>
+        appears four times in the NT, here and in 2 Cor. 2:12; Mark 7:4; Heb. 9:10. The times in which it means
+        a dipping in water or ceremonial washings are obvious by the context. As this passage is about “fundamental
+        doctrines,” is not baptism a fundamental doctrine? Have their not been entire denominational splits over
+        this issue? Is it not a pillar of the Christian faith? Fourth, although <char style="it">baptismos </char>as
+        used in the NT is context-variable, the verb <char style="it">baptizō </char>is mostly used to refer
+        to baptism. Fifth, those who render <char style="it">baptismos</char> as “instructions about washings”
+        do so primarily to avoid the obvious fact that this word is plural (baptisms) not singular (baptism).
+        They do so because they believe there is only one type of baptism relevant to the church today, namely
+        water baptism, and if they were to render this word literally as what it obviously is—baptisms—they would
+        they would be forced to acknowledge that there is a second baptism, the baptism in the Holy Spirit, and
+        that this baptism wasn’t just for the early church but is for believers today.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">eternal judgment</char>…The “fundamental doctrines of Christ” should be understood as
+        the essential doctrines of Christianity. A brief description: “repentance from dead works” is the abandonment
+        of the notion that obeying the Law of Moses or any other list of rules is your ticket to obtaining righteousness.
+        This is coupled with “faith in God”: that we obtain righteousness by faith. As these are the crux of
+        Paul’s message, the writer of Hebrews was at a minimum a disciple of Paul. Next are the “doctrines”:
+        baptisms, laying on of hands, the resurrection of the dead coupled with eternal judgment. The doctrine
+        of baptisms is that a person who accepts Christ as Savior should be immediately baptized in water without
+        delay. Also, there is a second baptism which occurs after accepting Christ, that is the baptism in the
+        Holy Spirit. It is accompanied by speaking in tongues. The doctrine of the laying on of hands institutes
+        a holy ordinance for the church to practice in the form of one or several believers placing their hands
+        on another believer while at the same time praying. This was done in the Bible for praying for the sick,
+        for the baptism of the Holy Spirit, and for ordination into the ministry. The next doctrine is the resurrection
+        of the dead, which in the NT refers to life after death. The doctrine asserts that we don’t cease to
+        exist when we die, but that we live on eternally in another life, in another body, be it eternal bliss
+        or eternal damnation. The final doctrine, one which connect s to the previous, is eternal judgment: that
+        when our lives are over, we will stand before God in judgment, the outcome for which will be rewards
+        and punishments.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">unable to engage again in the process of renewing themselves with the goal of repentance
+        in mind</char>…The verb tense in the infinitive <char style="it">renew </char>speaks of the process of
+        renewing and not of a renewal as a whole. This person has reached the point where he’s lost the capability
+        of changing. His will is altered to where he will not change again. It’s not that God cannot forgive
+        him, it’s that he will never, ever change. The once-saved-always-saved teaching should be reconsidered
+        in light of this passage.</char>
+    </note>
+  <chapter eid="HEB 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="HEB 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 7:1" />You see, this Melchizedek, king of Jerusalem<char style="sup">[a]</char>, priest of God the Highest,
+        who met with Abraham when he was returning from the Battle of Siddim<char style="sup">[b]</char> and
+        blessed him, <verse eid="HEB 7:1" />
+      <verse number="2" style="v" sid="HEB 7:2" />to whom Abraham gave ten percent of everything he owned, <char style="it">whose name is </char>first
+        and foremost translated “King of Righteousness” then subsequent to that “King of Salem” (that is King
+        of Peace), <verse eid="HEB 7:2" />
+      <verse number="3" style="v" sid="HEB 7:3" /><char style="it">who’s described in the Bible as being</char> fatherless, motherless, <char style="it">having</char>
+        no genealogy, having no period of time which was early-on for him nor an end-of-life period but made
+        to resemble the son of God, remains a priest into perpetuity.<verse eid="HEB 7:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 7:4" />Observe how great this fellow is whom the patriarch Abraham gave ten percent of the spoils <char style="it">from
+        that battle </char>to. <verse eid="HEB 7:4" />
+      <verse number="5" style="v" sid="HEB 7:5" />Those who are <char style="it">included in the family tree </char>of the sons of Levi<char style="sup">[A]</char>,
+        being endowed with the priesthood<char style="it">, </char>indeed possess a commandment from the Law
+        <char style="it">of Moses</char> to receive <char style="it">tithes (i.e., ten percent) </char>from the
+        folk-people<char style="it"> </char>(their kinsmen<char style="sup">[c]</char> in other words), although
+        they had <char style="it">yet </char>to leave the loins of Abraham (i.e., they had yet to be born). <verse eid="HEB 7:5" />
+      <verse number="6" style="v" sid="HEB 7:6" />But he who’s not descended from them or is included in their genealogy collected a tithe from Abraham
+        and blessed the one in possession of the promises. <verse eid="HEB 7:6" />
+      <verse number="7" style="v" sid="HEB 7:7" />Indisputably, the inferior person was blessed by the superior. <verse eid="HEB 7:7" />
+      <verse number="8" style="v" sid="HEB 7:8" />In this case people who die receive tithe payments, but in that case a statement of fact is on record
+        that he <char style="it">who receives tithe payments</char> is alive and continues to live. <verse eid="HEB 7:8" />
+      <verse number="9" style="v" sid="HEB 7:9" />A comment can be made along these lines that <char style="it">the </char>tithe-receiving <char style="it">sons
+        of </char>Levi pay a tithe through Abraham. <verse eid="HEB 7:9" />
+      <verse number="10" style="v" sid="HEB 7:10" />You see <char style="it">they were </char>in the loins of the patriarch yet <char style="it">to be born
+        </char>when Melchizedek met him.<verse eid="HEB 7:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 7:11" />So if the Levitical priesthood really was the end-all (the folk-people, you see, based their system of
+        religious regulations on it), why was there a need for another priest to come to prominence, one who’s
+        described as belonging to the order of Melchizedek and not to Aaron’s order? <verse eid="HEB 7:11" />
+      <verse number="12" style="v" sid="HEB 7:12" />The fact is, a changing of the priesthood necessitates a change in law (i.e., a change to the rules which
+        govern religious observance and as part of that the establishment a priesthood). <verse eid="HEB 7:12" />
+      <verse number="13" style="v" sid="HEB 7:13" />You see, the person whom these things address belongs to another tribe, a tribe<char style="it"> </char>for
+        which there is no<char style="it"> mention of </char>attending to the altar (i.e., of any priestly duties).<verse eid="HEB 7:13" />
+      <verse number="14" style="v" sid="HEB 7:14" />In this regard, it’s clear that our Lord broke through like the sun peering over the horizon in the morning
+        in <char style="it">the tribe of </char>Judah, a tribe for which <char style="it">the Law of </char>Moses
+        has no mention of priesthood. <verse eid="HEB 7:14" />
+      <verse number="15" style="v" sid="HEB 7:15" />It’s even more clear that that there’s another priest coming to prominence, one who resembles Melchizedek,<verse eid="HEB 7:15" />
+      <verse number="16" style="v" sid="HEB 7:16" /><char style="it">a priest </char>who has not come into being according to <char style="it">a </char>law
+        of commandment of flesh (i.e., according to rules which require you to be of a certain lineage) but rather
+        according to <char style="it">the </char>power of an indestructible life. <verse eid="HEB 7:16" />
+      <verse number="17" style="v" sid="HEB 7:17" />In this regard, <char style="it">this </char>statement of truth is declared <char style="it">in the Old
+        Testament:</char></para>
+    <para style="pi" vid="HEB 7:17"></para>
+    <para style="pi" vid="HEB 7:17">You are a priest <char style="it">and will be one </char>forevermore</para>
+    <para style="pi" vid="HEB 7:17">According to the order of Melchizedek<verse eid="HEB 7:17"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="18" style="v" sid="HEB 7:18" />The cancellation of a previously-instituted commandment <char style="it">which established a priesthood
+        </char>certainly occurs on account of said-commandment’s frailty and uselessness. <verse eid="HEB 7:18" />
+      <verse number="19" style="v" sid="HEB 7:19" />You see, the Law <char style="it">of Moses </char>isn’t the end-all but is a gateway to a better hope,
+        a hope by which we draw near to God. <verse eid="HEB 7:19" />
+      <verse number="20" style="v" sid="HEB 7:20" />To the extent that <char style="it">those who are designated by the Law to be priests are priests </char>apart
+        from there being any oath…</para>
+    <para style="p" vid="HEB 7:20">And the fact is, those who are <char style="it">designated by the Law to be </char>priests have become
+        <char style="it">priests </char>apart from there being an oath<char style="sup">[B]</char>, <verse eid="HEB 7:20"/>
+      <verse number="21" style="v" sid="HEB 7:21" />but on the other hand, the <char style="it">priesthood which replaces it was established</char> with
+        an oath by means of what was spoken to him, “The Lord <char style="it">God </char>swore <char style="it">an
+        oath </char>and won’t rescind <char style="it">it</char>: ‘You are a priest <char style="it">and will
+        be one </char>forevermore’.”<verse eid="HEB 7:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 7:22" />…To that extent Jesus has become a guarantee of a better covenant. <verse eid="HEB 7:22" />
+      <verse number="23" style="v" sid="HEB 7:23" />And while there have been many priests who have come <char style="it">and gone over the years, </char>death
+        preventing them from continuing on <char style="it">in their role as priest</char>, <verse eid="HEB 7:23" />
+      <verse number="24" style="v" sid="HEB 7:24" />on the other hand, because he’ll stay unchanged forever<char style="sup">[d]</char>, he retains the <char
+        style="it">true</char> priesthood <char style="it">in perpetuity</char>. <verse eid="HEB 7:24" />
+      <verse number="25" style="v" sid="HEB 7:25" />As a result, he’s also able to totally, completely, and continually save (i.e., to protect, preserve,
+        and prevent from harm) those who come to God through him, always alive and ready to intercede<char style="sup">[e]</char>
+        for them.<verse eid="HEB 7:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="HEB 7:26" />You see, such <char style="it">as I described </char>is what we have: a fitting, appropriate, relevant
+        high priest, one who is holy, innocent, and unsullied, separated from the sinners <char style="it">he
+        intercedes for</char> and situated higher than the sky, the spiritual world, and heaven itself; <verse eid="HEB 7:26" />
+      <verse number="27" style="v" sid="HEB 7:27" />one who doesn’t need (like the high priests need) to offer up a sacrifice each day for his own sins first,
+        then and only then to offer <char style="it">sacrifices</char> for the sins <char style="it">of the people</char>,
+        since he did this one time when he offered up himself <char style="it">as a sacrifice for sin </char>and
+        is done with it<char style="it">.</char> <verse eid="HEB 7:27" />
+      <verse number="28" style="v" sid="HEB 7:28" />You see, the Law put men who have a weakness (i.e., limitations; shortcomings) in place as high priests;
+        but the message contained in the oath<char style="sup">[f]</char>, <char style="it">a message</char>
+        <char style="it">which was made</char> after the Law <char style="it">established its priesthood</char>,
+        forevermore <char style="it">established as high priest </char>a<char style="it"> </char>son who has
+        been made to be the end-all and who has been made complete ad-infinitum.<verse eid="HEB 7:28" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">Jerusalem</char>…Lit: <char style="it">Salem</char>. Some liberties taken. Jerusalem
+        gets its name from Salem, which is the old city that Jerusalem was built over.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">the Battle of Siddim</char>…Lit: <char style="it">the slaughter of the kings</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">kinsmen</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">he’ll stay unchanged forever</char>…Lit: <char style="it">he remains forever unchanged</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">always alive and ready to intercede</char>…Also: <char style="it">at all times living
+        for the goal of interceding</char>. The word used for <char style="it">intercede</char> is the same word
+        used in 1 Tim. 2:1; ref. note there.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">message contained in the oath</char>…Lit: <char style="it">the word of the oath</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">sons of Levi</char>…Both Moses and his brother Aaron belonged to the tribe of Levi.
+        When God spoke to Moses in the wilderness and instituted the Law of Moses, He designated the tribe of
+        Levi and all their descendants to forevermore be ministers for the new religion, dispersed among the
+        other tribes to assist in the religious service and regulations. The Levites didn’t work but lived off
+        tithes. Now God appointed Aaron (who was of the tribe of Levi, hence himself a Levite) and his sons and
+        their descendants perpetually to be the priests, and there are different terms used in this passage to
+        refer to this order, some of which are synecdoches. Terms such as Levi, Aaron, the sons of Levi, and
+        the sons of Aaron all mean the same thing.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">those who are designated by the Law to be priests have become priests apart from there
+        being an oath</char>…Apparently, every oath referred to in this chapter is an oath which promises that
+        the priesthood established will last eternally, like the first oath in v. 7 (“you are a priest forevermore”).</char>
+    </note>
+  <chapter eid="HEB 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="HEB 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 8:1" />The crux of the argument given here is this: we have such a high priest, a priest who sat down at the
+        right hand (i.e., was appointed chief executive) of the throne of the Majesty in heaven<char style="sup">[a]</char>,<verse eid="HEB 8:1" />
+      <verse number="2" style="v" sid="HEB 8:2" />one who’s a servant who performs the rituals that involve the holy things, places, and observances and
+        the rituals of the True Tabernacle, a tabernacle which the Lord erected, and not a human being. <verse eid="HEB 8:2" />
+      <verse number="3" style="v" sid="HEB 8:3" />You see, every high priest is appointed to go about offering offerings plus sacrifices on top of that;
+        as a result, it’s necessary for this person to have some <char style="it">offering </char>to offer. <verse eid="HEB 8:3" />
+      <verse number="4" style="v" sid="HEB 8:4" />So if he were on the Earth, he would not be a priest <char style="it">of any sort</char>, there being
+        <char style="it">others</char> whose <char style="it">job is to </char>offer offerings according to law
+        (i.e., in accordance with the rules that had been laid down, specifically rules in the Law of Moses),<verse eid="HEB 8:4" />
+      <verse number="5" style="v" sid="HEB 8:5" />those in particular who serve as copies and representations<char style="sup">[b]</char> of what goes
+        on in the spiritual world and in heaven, like in the word of caution Moses had been given when he was
+        intending to erect the tabernacle <char style="it">in the wilderness of Sinai</char>,</para>
+    <para style="pi" vid="HEB 8:5"></para>
+    <para style="pi" vid="HEB 8:5">See to it that all things are made to reflect</para>
+    <para style="pi" vid="HEB 8:5">The blueprint shown to you on the mountain<verse eid="HEB 8:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 8:6" />But now he’s at the point where he’s obtained a ritualistic-service which is a quantum leap improvement,
+        which is in proportion to him being the mediator of a better covenant, one which has been enacted on
+        the basis of better promises.<verse eid="HEB 8:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 8:7" />You see, if the first covenant had no defects or problems, there would be no basis for going about seeking
+        a second <char style="it">covenant</char>. <verse eid="HEB 8:7" />
+      <verse number="8" style="v" sid="HEB 8:8" />In this regard, in pointing out problems He tells them,
+    </para>
+    <para style="pi" vid="HEB 8:8"></para>
+    <para style="pi" vid="HEB 8:8">Here now—“A time is coming,” says <char style="it">the </char>Lord,</para>
+    <para style="pi" vid="HEB 8:8">“<char style="it">A time in which </char>I will cause a new covenant</para>
+    <para style="pi" vid="HEB 8:8">To take shape and assume its final form</para>
+    <para style="pi" vid="HEB 8:8">Where the nations<char style="sup">[c]</char> of Israel and Judah are concerned—<verse eid="HEB 8:8"/>
+    </para>
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 8:9" /><char style="it">A covenant </char>that isn’t modeled after 
+    </para>
+    <para style="pi" vid="HEB 8:9">The covenant I made with your ancestors<char style="sup">[d]</char></para>
+    <para style="pi" vid="HEB 8:9">During the time I put My hand on them</para>
+    <para style="pi" vid="HEB 8:9">(i.e., supernaturally intervened in their lives)</para>
+    <para style="pi" vid="HEB 8:9">In order to lead them out of Egypt.</para>
+    <para style="pi" vid="HEB 8:9">Since they wouldn’t remain in My covenant,</para>
+    <para style="pi" vid="HEB 8:9">I paid no more attention to them,” says <char style="it">the </char>Lord.<verse eid="HEB 8:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="10" style="v" sid="HEB 8:10" />”Because the very covenant I will enter into
+    </para>
+    <para style="pi" vid="HEB 8:10">With the nation of Israel after that period of time,”</para>
+    <para style="pi" vid="HEB 8:10">Says the Lord,</para>
+    <para style="pi" vid="HEB 8:10">“Is a covenant where I will go about delivering</para>
+    <para style="pi" vid="HEB 8:10">My laws to their minds.</para>
+    <para style="pi" vid="HEB 8:10">I will write them upon their hearts.</para>
+    <para style="pi" vid="HEB 8:10">I will assume the role of being their God,</para>
+    <para style="pi" vid="HEB 8:10">And they will assume the role of being my people.<verse eid="HEB 8:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 8:11" />There is no conceivable scenario where each person
+    </para>
+    <para style="pi" vid="HEB 8:11"><char style="it">Will have to </char>teach his fellow citizen or his comrade<char style="sup">[e]</char></para>
+    <para style="pi" vid="HEB 8:11">Telling them <char style="it">how to</char> know the Lord,</para>
+    <para style="pi" vid="HEB 8:11">Since everyone will know Me directly</para>
+    <para style="pi" vid="HEB 8:11">From those of them who are insignificant</para>
+    <para style="pi" vid="HEB 8:11">To those who of them who are great,<verse eid="HEB 8:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="HEB 8:12" />Because I will treat their wrong-doings with mercy<char style="sup">[f]</char>,
+    </para>
+    <para style="pi" vid="HEB 8:12">And I will absolutely not remember their sins anymore.”<verse eid="HEB 8:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 8:13" />By saying <char style="it">the word </char>“new” <char style="it">in conjunction with this other covenant,</char>
+        He obsoleted the first <char style="it">covenant</char>. But whatever thing is growing old and becoming
+        obsolete has nearly faded into obscurity<char style="sup">[g]</char>.<verse eid="HEB 8:13" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">in heaven</char>…Lit: <char style="it">in the heavens</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">representations</char>…Lit: <char style="it">shadows</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">nations</char>…Lit: <char style="it">house</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">ancestors</char>…Lit: <char style="it">fathers</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">treat their wrong-doings with mercy</char>…Lit: <char style="it">be merciful with their
+        wrong-doings</char>. A figure of speech.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">nearly faded into obscurity</char>…Lit: <char style="it">near disappearing</char></char>
+    </note>
+  <chapter eid="HEB 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="HEB 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 9:1" />Now the first <char style="it">covenant </char>regulated and maintained a service of religious rituals
+        and the systematic order <char style="it">of what is deemed</char> holy<char style="sup">[a]</char>.<verse eid="HEB 9:1" />
+      <verse number="2" style="v" sid="HEB 9:2" />You see, the outer sanctuary<char style="sup">[b]</char> was prepared <char style="it">in such a way
+        that it</char> <char style="it">contained</char> the menorah and the Table of Showbread. <char style="it">This
+        outer sanctuary </char>is called the Holy Place. <verse eid="HEB 9:2" />
+      <verse number="3" style="v" sid="HEB 9:3" />But behind a curtain is the second sanctuary, which is called <char style="it">the </char>Holy of Holies,<verse eid="HEB 9:3" />
+      <verse number="4" style="v" sid="HEB 9:4" />having <char style="it">a</char> golden incense altar and the ark of the covenant, the ark being completely
+        wrapped in a gold covering. Inside <char style="it">the ark</char> is a golden vase which contained the
+        <char style="it">sample of </char>manna <char style="it">saved from the time of wandering in the wilderness</char>,
+        Aaron’s rod which budded, and the <char style="it">stone </char>tablets of the <char style="it">Ten </char>Commandments<char
+        style="sup">[c]</char>, <verse eid="HEB 9:4" />
+      <verse number="5" style="v" sid="HEB 9:5" />and <char style="it">situated </char>above the ark overshadowing the mercy seat were cherubim of <char
+        style="it">God’s </char>glory—things we won’t go into a piece-by-piece description of at this time.<verse eid="HEB 9:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="HEB 9:6" />Now things were set up this way: throughout the year, the priests <char style="it">periodically</char>
+        entered the outer sanctuary in order to make sure the required rituals were done, <verse eid="HEB 9:6" />
+      <verse number="7" style="v" sid="HEB 9:7" />but just one time a year the high priest entered the inner sanctuary, but not without <char style="it">taking
+        </char>blood <char style="it">with him</char>, blood<char style="it"> </char>that he offered on behalf
+        of himself and on behalf of the sins that the folk-people unknowingly committed. <verse eid="HEB 9:7" />
+      <verse number="8" style="v" sid="HEB 9:8" />This is what the Holy Spirit is signifying: while the outer sanctuary still exists and is being actively
+        used<char style="sup">[d]</char>, the way <char style="it">into </char>the Holy of Holies has not yet
+        been revealed, <verse eid="HEB 9:8" />
+      <verse number="9" style="v" sid="HEB 9:9" />a particular <char style="it">concept</char> which is analogous to<char style="sup">[e]</char> the period
+        of time which has arrived and is presently in operation, which according to <char style="it">this analogy
+        means that </char>the offering up of offerings and sacrifices is powerless to bring those performing
+        the rituals to completeness along the lines of conscience; <verse eid="HEB 9:9" />
+      <verse number="10" style="v" sid="HEB 9:10" />the regulations involved with eating, drinking, various kinds of ceremonial washings <char style="it">were</char>
+        physical and self-originated acts<char style="sup">[f]</char> only, imposed until a period of reform
+        <char style="it">happened to arrive and change things</char>.<verse eid="HEB 9:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 9:11" />Christ showed up as a high priest of the good things which came into being because of the greater and
+        more perfect tabernacle, <char style="it">which is</char> not hand-made (in other words, not of this
+        planet<char style="sup">[g]</char>). <verse eid="HEB 9:11" />
+      <verse number="12" style="v" sid="HEB 9:12" />It was not by the blood of goats and calves but by his own blood that he entered once and for all into
+        the Holy of Holies and obtained<char style="sup">[h]</char> eternal release and deliverance <char style="it">from
+        sin</char>. <verse eid="HEB 9:12" />
+      <verse number="13" style="v" sid="HEB 9:13" />You see, if the blood of bulls and goats and the sprinkling of <char style="it">the</char> ashes of an
+        <char style="it">incinerated</char> heifer make those who’ve been defiled pristine and undefiled <char
+        style="it">again </char>to <char style="it">the producing of </char>the purity of the flesh, <verse eid="HEB 9:13" />
+      <verse number="14" style="v" sid="HEB 9:14" />how much more will the blood of Christ, who through <char style="it">the </char>Eternal Spirit offered
+        himself without blemish to God, cleanse your conscience from dead works resulting in <char style="it">you
+        </char>serving the Living God?<verse eid="HEB 9:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="HEB 9:15" />Because of this, he’s the mediator of a new covenant, so that, considering that a death occurred for
+        the redemption (i.e., the settling of something; fixing what’s broken) of the transgressions <char style="it">which
+        were committed </char>under the first covenant, those who’ve been called <char style="it">to be God’s
+        people </char>would partake of the eternal inheritance (i.e., the things God has immutably and irrevocably
+        reserved for them and intended for them to have). <verse eid="HEB 9:15" />
+      <verse number="16" style="v" sid="HEB 9:16" />The fact of the matter is that where a last will and testament<char style="sup">[A]</char> <char style="it">(which
+        is what a covenant is) is concerned</char>, it’s necessary that <char style="it">the</char> death of
+        the <char style="it">will’s </char>testator be proven legally. <verse eid="HEB 9:16" />
+      <verse number="17" style="v" sid="HEB 9:17" />You see, upon <char style="it">the </char>death <char style="it">of the testator</char> <char style="it">the</char>
+        will is frozen as-is and can no longer be amended in any way; it never has that <char style="it">immutability</char>-strength
+        while the testator is<char style="it"> </char>still<char style="it"> </char>alive <char style="it">and
+        therefore able to amend it at any time. </char><verse eid="HEB 9:17" />
+      <verse number="18" style="v" sid="HEB 9:18" />Hence, the first <char style="it">covenant</char> was not instituted apart from <char style="it">the
+        inclusion of</char> blood. <verse eid="HEB 9:18" />
+      <verse number="19" style="v" sid="HEB 9:19" />In fact, once every commandment in the Law was spoken to all the people by Moses, taking the blood of
+        calves and goats <char style="it">mixed </char>with water, red wool, and hyssop, he sprinkled the scroll
+        <char style="it">he read from </char>itself and all the people <verse eid="HEB 9:19" />
+      <verse number="20" style="v" sid="HEB 9:20" /><char style="it">while </char>saying, “This <char style="it">is the </char>blood of the covenant which
+        God commanded you to keep<char style="sup">[i]</char>.&quot; <verse eid="HEB 9:20" />
+      <verse number="21" style="v" sid="HEB 9:21" />In addition he sprinkled the tabernacle and all the serving vessels used in the rituals in blood the
+        same way. <verse eid="HEB 9:21" />
+      <verse number="22" style="v" sid="HEB 9:22" /><char style="it">It’s </char>almost <char style="it">as though it’s an Old Testament axiom that </char>according
+        to the Law <char style="it">of Moses</char> everything is purified and cleansed by blood, and apart from
+        the shedding of blood <char style="it">any sort of </char>forgiveness <char style="it">of sin</char>
+        doesn’t happen.<verse eid="HEB 9:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="HEB 9:23" />While the copies of the things in the spirit-world<char style="sup">[j]</char> (i.e., the copies being
+        the earthly tabernacle and items in it) need to be cleansed by these things (i.e., by the blood of calves,
+        of goats, etc.), but the actual things in the spirit-world <char style="it">that the earthly things are
+        a copy of require </char>better sacrifices than <char style="it">the ones offered on earth</char>. <verse eid="HEB 9:23" />
+      <verse number="24" style="v" sid="HEB 9:24" />You see, Christ didn’t enter a Holy of Holies that was created by human hands, <char style="it">these
+        man-made things merely being </char>symbolic representations and mirror-copies of the real things, but
+        instead <char style="it">entered </char>into the same thing (i.e., the thing which the symbolic representations
+        are based on) which is in the spirit-world, to be seen by, to be known by, and to be subjected to God’s
+        intense scrutiny<char style="sup">[k]</char> on our behalf. <verse eid="HEB 9:24" />
+      <verse number="25" style="v" sid="HEB 9:25" />Nor is it the case that he repetitively<char style="sup">[l]</char> brings himself <char style="it">into
+        this Holy of Holies in the spirit-world</char> just like the high priest enters the <char style="it">earthly
+        </char>Holy of Holies each year with another <char style="it">batch of </char>blood <char style="it">to
+        be sprinkled</char>. <verse eid="HEB 9:25" />
+      <verse number="26" style="v" sid="HEB 9:26" />If that were the case, he would have to suffer <char style="it">and die on the cross</char> many times
+        starting the moment the human race began<char style="sup">[m]</char>; but at this this critical moment
+        in the annuls of history<char style="sup">[n]</char>, he appeared this once for the obliteration of the
+        sin <char style="it">of mankind </char>because of his sacrifice having been disclosed and made known
+        to everyone. <verse eid="HEB 9:26" />
+      <verse number="27" style="v" sid="HEB 9:27" />And reflective of the fact that it’s been allocated that <char style="it">every person </char>in the
+        human race undergo death once <char style="it">and only once</char> and after this <char style="it">undergo
+        </char>judgment, <verse eid="HEB 9:27" />
+      <verse number="28" style="v" sid="HEB 9:28" />in the same way as this, Christ, having been brought forth one time <char style="it">only </char>for
+        the purpose of being offered up for the sins of the many, will be seen a second time apart from sin (i.e.,
+        he’ll make a second appearance, and this appearance will have nothing to do with atoning for sins) by
+        those who assiduously and eagerly look to him for salvation (i.e., look to him to protect them from potential
+        harm, whatever that might be).<verse eid="HEB 9:28" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">the systematic order of what is deemed holy</char>…Or: <char style="it">the worldly
+        holy</char>…Lit: <char style="it">the worldly</char> [or <char style="it">systematic</char>] <char style="it">holiness</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">outer sanctuary</char>…Lit: <char style="it">first tabernacle</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">the stone tablets of the Ten Commandments</char>…Lit: <char style="it">the tablets of
+        the covenant</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">still exists and is still being actively used</char>…Lit: <char style="it">is still
+        standing</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">analogous to</char>…Lit: <char style="it">parable</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">physical and self-originated acts</char>…Lit: <char style="it">of flesh</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">planet</char>…Lit: <char style="it">creation</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">obtained</char>…Lit: <char style="it">found</char>; <char style="it">discovered</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">you to keep</char>…Lit: <char style="it">to you</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">spirit-world</char>…Lit: <char style="it">heavens</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">to be seen by, to be known by, and to be subjected to God’s intense scrutiny</char>…Lit:
+        <char style="it">to be made manifest by the face of God</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">repetitively</char>…Lit: <char style="it">often</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">starting the moment the human race began</char> …Lit: <char style="it">from</char> [<char
+        style="it">the</char>] <char style="it">foundation of the world</char>. Ref. note of 4:3.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">at this critical moment in the annuls of history</char>…Lit: <char style="it">at a consummation
+        of the ages</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">last will and testament</char>…Lit: <char style="it">covenant</char>. The word <char
+        style="it">covenant </char>appears in a few places in this chapter (most notably in v. 15). The covenant
+        of v. 15 apparently is also the will of v. 16, but the context of v. 16 is such that it refers to a will.</char>
+    </note>
+  <chapter eid="HEB 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="HEB 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 10:1" />You see, the Law, containing a shadow of the good things to come and not itself the form <char style="it">which
+        casts the </char>things’ <char style="it">shadow</char>, by the same sacrifices that are continuously
+        being offered year after year can never complete or perfect those who approach <char style="it">God in
+        this way</char>; <verse eid="HEB 10:1" />
+      <verse number="2" style="v" sid="HEB 10:2" />otherwise, wouldn’t <char style="it">these sacrifices </char>ceased to have been offered because those
+        performing the rituals would have no more sins on their consciences once they had been cleansed? <verse eid="HEB 10:2" />
+      <verse number="3" style="v" sid="HEB 10:3" />No—in <char style="it">doing </char>those things year after year, there’s a reminder of sins <char style="it">that
+        need to be cleansed. </char><verse eid="HEB 10:3" />
+      <verse number="4" style="v" sid="HEB 10:4" />The fact of the matter is that it’s impossible for the blood of bulls and goats to take away sins. <verse eid="HEB 10:4" />
+      <verse number="5" style="v" sid="HEB 10:5" />In this light, while entering the world <char style="it">Jesus</char> said<char style="sup">[a]</char>,
+    </para>
+    <para style="pi" vid="HEB 10:5"></para>
+    <para style="pi" vid="HEB 10:5">“Sacrifice and offering was not what You wanted;</para>
+    <para style="pi" vid="HEB 10:5">Instead, You prepared a body for me.<verse eid="HEB 10:5"/>
+    </para>
+    <para style="pi">
+      <verse number="6" style="v" sid="HEB 10:6" />You were not pleased
+    </para>
+    <para style="pi" vid="HEB 10:6">With <char style="it">the usual </char>burnt offerings</para>
+    <para style="pi" vid="HEB 10:6">And<char style="it"> the like</char> surrounding sin.”<verse eid="HEB 10:6"/>
+    </para>
+    <para style="pi">
+      <verse number="7" style="v" sid="HEB 10:7" />Then I said, “Hey, I have come—
+    </para>
+    <para style="pi" vid="HEB 10:7">If you rummage through <char style="it">the right </char>scroll<char style="sup">[A]</char></para>
+    <para style="pi" vid="HEB 10:7">You’ll find this written about me—</para>
+    <para style="pi" vid="HEB 10:7">‘<char style="it">I have come </char>to do<char style="sup">[b]</char> Your will, O God.’”<verse eid="HEB 10:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 10:8" /><char style="it">He was</char> saying in the above <char style="it">quotation</char> that “sacrifice
+        and offering” and “<char style="it">the usual</char> burnt offerings and <char style="it">the like </char>surrounding
+        sin” <char style="it">were </char>“not what You wanted” nor<char style="it"> were You </char>“pleased”
+        <char style="it">with them</char>, the very <char style="it">offerings</char> which are offered as prescribed
+        by <char style="it">the </char>Law; <verse eid="HEB 10:8" />
+      <verse number="9" style="v" sid="HEB 10:9" />Then he said, “‘Hey, I have come…to do Your will.” He gets the first (i.e., the sacrifices, offerings,
+        and burnt offerings) out of the way so that the second (i.e., Jesus’s coming to do God’s will) would
+        stand <char style="it">in its place</char>. <verse eid="HEB 10:9" />
+      <verse number="10" style="v" sid="HEB 10:10" />By the will <char style="it">of God referred to in this passage,</char> we will be sanctified (i.e.,
+        set apart from sin and made holy) through the offering of the body of Jesus Christ once and for all.<verse eid="HEB 10:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 10:11" />Day after day every priest has taken a stand performing the ritualistic service of worship, serving the
+        same sacrifices which have been offered many a time, things in particular which can never remove sins.<verse eid="HEB 10:11" />
+      <verse number="12" style="v" sid="HEB 10:12" />But after this fellow <char style="it">Jesus</char> offered one <char style="it">sacrifice</char> for
+        sins that would last ad infinitum, he sat down at the right hand of God (i.e., assumed the position of
+        God’s chief executive), <verse eid="HEB 10:12" />
+      <verse number="13" style="v" sid="HEB 10:13" />from that point onwards waiting until <char style="it">such a time that </char>his enemies be placed
+        under his feet (i.e., that they be completely squashed and enslaved). <verse eid="HEB 10:13" />
+      <verse number="14" style="v" sid="HEB 10:14" />You see, by <char style="it">the offering up of </char>one offering he has perpetually completed, finished,
+        and perfected those being sanctified.<verse eid="HEB 10:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="HEB 10:15" />But <char style="it">on this topic</char> the Holy Spirit also gives us supporting evidence; you see,
+        he has stated afterwards,<verse eid="HEB 10:15" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="16" style="v" sid="HEB 10:16" />”This <char style="it">is</char> the very covenant
+    </para>
+    <para style="pi" vid="HEB 10:16">Which I will make with them after that period of time,”</para>
+    <para style="pi" vid="HEB 10:16">Says the Lord,</para>
+    <para style="pi" vid="HEB 10:16">“Granting My laws <char style="it">to be</char> upon their heart and upon their mind,</para>
+    <para style="pi" vid="HEB 10:16"><char style="it">As I grant, so </char>will I write them<char style="it">.</char><verse eid="HEB 10:16"/>
+    </para>
+    <para style="pi">
+      <verse number="17" style="v" sid="HEB 10:17" />And as far as their sins and of their lawlessness
+    </para>
+    <para style="pi" vid="HEB 10:17">(i.e., things that have their origin in the refusal to</para>
+    <para style="pi" vid="HEB 10:17">Be restrained by the rules of God and of man)</para>
+    <para style="pi" vid="HEB 10:17">And things that have their origin in the same:</para>
+    <para style="pi" vid="HEB 10:17">By no means will I remember <char style="it">them </char>any further.”<verse eid="HEB 10:17"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="18" style="v" sid="HEB 10:18" />Where <char style="it">one finds </char>these <char style="it">sins</char> removed, <char style="it">any</char>
+        offering pertaining to sin <char style="it">is </char>no longer <char style="it">relevant</char>.<verse eid="HEB 10:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="HEB 10:19" />So comrades<char style="sup">[c]</char>, <char style="it">having</char> boldness by the blood of Jesus
+        to enter the Holy of Holies<char style="sup">[B]</char>, <verse eid="HEB 10:19" />
+      <verse number="20" style="v" sid="HEB 10:20" />an entrance which he newly made available to us, a way through the curtain which is brand-new and living
+        (in other words, <char style="it">a way through</char> his flesh), <verse eid="HEB 10:20" />
+      <verse number="21" style="v" sid="HEB 10:21" />and <char style="it">having such </char>a<char style="it"> </char>great priest <char style="it">as this
+        </char>over the house of God, <verse eid="HEB 10:21" />
+      <verse number="22" style="v" sid="HEB 10:22" />let us approach <char style="it">the Holy of Holies </char>with a true heart <char style="it">and </char>in
+        <char style="it">an</char> assurance <char style="it">which is </char>of faith, <char style="it">our</char>
+        hearts having been sprinkled (<char style="it">analogous to the mixture of blood, water, and hyssop which
+        the priest sprinkled over the people</char>)<char style="it"> purging us </char>from a conscience haunted
+        by evil deeds<char style="sup">[d]</char> and our body washed (<char style="it">analogous to the ceremonial
+        washings that were done under the Law</char>) in clean water. <verse eid="HEB 10:22" />
+      <verse number="23" style="v" sid="HEB 10:23" />Let us resolutely hold on to hope’s confession, for He Who promised is faithful. <verse eid="HEB 10:23" />
+      <verse number="24" style="v" sid="HEB 10:24" />And let us consider, take notice of, and study one another for the purpose of agitating or provoking
+        love and good works, <verse eid="HEB 10:24" />
+      <verse number="25" style="v" sid="HEB 10:25" />not abandoning the <char style="it">practice of </char>gathering ourselves at one place, like some people
+        are in the habit of doing—no, <char style="it">we should be </char>encouraging <char style="it">each
+        other </char>instead, even more so seeing the day <char style="it">of the Lord</char> fast approaching.<verse eid="HEB 10:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="HEB 10:26" />In fact, for those of us who deliberately sin after obtaining the recognition of or the precise understanding
+        of the truth, there’s no longer a sacrifice pertaining to sin left in place <char style="it">that can
+        cleanse us of our sin</char>, <verse eid="HEB 10:26" />
+      <verse number="27" style="v" sid="HEB 10:27" />but there’s an air of a dreadful expectation of judgment and of a raging fire which are coming to consume
+        those who <char style="it">set themselves</char> in opposition. <verse eid="HEB 10:27" />
+      <verse number="28" style="v" sid="HEB 10:28" />Anyone who remorselessly<char style="sup">[e]</char> set aside an individual law in the Law of Moses
+        would be killed upon the testimony of two or three witnesses. <verse eid="HEB 10:28" />
+      <verse number="29" style="v" sid="HEB 10:29" />How much worse of a punishment do you think the one who tramples under foot (i.e., completely trashes,
+        treats with utter contempt, and completely disavows himself from) the son of God, and deems the blood
+        of the covenant which we were sanctified with unclean (i.e., vile and dirty), and insults the Spirit
+        of Grace will deserve? <verse eid="HEB 10:29" />
+      <verse number="30" style="v" sid="HEB 10:30" />In this regard, we’re quite familiar with the verse which says, “Vengeance is mine, I will repay,” plus
+        <char style="it">the verse,</char> “<char style="it">The</char> Lord will judge His people.” <verse eid="HEB 10:30" />
+      <verse number="31" style="v" sid="HEB 10:31" />It’s dreadful to fall into the hands of the Living God (i.e., to reach the point where God will act in
+        judgment and cause something to happen to you).<verse eid="HEB 10:31" />
+    </para>
+    <para style="p">
+      <verse number="32" style="v" sid="HEB 10:32" />Think back over the early days, when you were first enlightened. Back then you endured a huge bout of
+        sufferings. <verse eid="HEB 10:32" />
+      <verse number="33" style="v" sid="HEB 10:33" />While the vilification, vituperation, and reviling plus persecution made you a public spectacle, you
+        became fellow participants of those who are regularly made to live their lives this way. <verse eid="HEB 10:33" />
+      <verse number="34" style="v" sid="HEB 10:34" />In this regard, you shared in the same sufferings<char style="sup">[f]</char> of those who are in jail<char
+        style="sup">[g]</char>, and you took the looting of your possessions with joy, knowing that you own a
+        possession which is better, one that can’t be taken away from you. <verse eid="HEB 10:34" />
+      <verse number="35" style="v" sid="HEB 10:35" />So don’t get rattled or lose your nerve<char style="sup">[h]</char>; there’s a huge benefit of having
+        <char style="it">such </char>confidence, <verse eid="HEB 10:35" />
+      <verse number="36" style="v" sid="HEB 10:36" />seeing that you need endurance, so that, having done the will of God, you would get ahold of the promise
+        for yourself.<verse eid="HEB 10:36" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="37" style="v" sid="HEB 10:37" />The fact of the matter is that
+    </para>
+    <para style="pi" vid="HEB 10:37">In just a little, little while now</para>
+    <para style="pi" vid="HEB 10:37">He who’s coming will come and won’t delay <char style="it">any further.</char><verse eid="HEB 10:37"/>
+    </para>
+    <para style="pi">
+      <verse number="38" style="v" sid="HEB 10:38" />But the person I deem righteous<char style="sup">[i]</char>
+    </para>
+    <para style="pi" vid="HEB 10:38">Will live out of faith,</para>
+    <para style="pi" vid="HEB 10:38">But if he shirks <char style="it">his faith</char><char style="sup">[j]</char>,</para>
+    <para style="pi" vid="HEB 10:38">My soul <char style="it">will take</char> no pleasure in him.<verse eid="HEB 10:38"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="39" style="v" sid="HEB 10:39" />But you don’t <char style="it">have the characteristics</char> of a shirker <char style="it">whose actions</char>
+        result in destruction, but rather <char style="it">you have the characteristics of a person of</char>
+        faith <char style="it">whose actions</char> result in the acquisition and securing of <char style="it">the
+        </char>soul (i.e., the part of you that makes you unique).<verse eid="HEB 10:39" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">said</char>…Lit: <char style="it">says</char>. Present tense used for past tense. Ref.
+        note of Luke 17:37.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">do</char>…The verb tense used in the GT insinuates that this is a one-time action. It
+        appears that this refers to Jesus’s death on the cross.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">a conscience haunted by evil deeds</char>…Lit: <char style="it">an evil conscience</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">remorselessly</char>…Lit: <char style="it">without pity</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">shared in the same sufferings</char>…Or<char style="it">: sympathized with</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">are in jail</char>…Lit: <char style="it">in bonds</char>. A NT synecdoche.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">get rattled or lose your nerve</char>…Lit<char style="it">: throw away your confidence</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">the person I deem righteous</char>…Lit: <char style="it">my righteous one</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">shirks his faith</char>…Also: <char style="it">shrink back</char>; <char style="it">avoid</char>;
+        <char style="it">draw back</char>; <char style="it">disappear</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">rummage through the right scroll</char>…Lit: <char style="it">with the knob and roller
+        of the scroll</char>. Without being certain what this means, the assumption is that this is a figure
+        of speech similar to Gal. 3:10, but here it refers to the turning of the knob which advances the place
+        in the scroll. This is indicative of the reader browsing through the scroll to locate a passage which
+        is about to be read aloud.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">Holy of Holies</char>…Lit: <char style="it">of the holies</char>. Looking at the precise
+        wording of the GT, the term “Holy of Holies” is introduced in 9:3, and the GT literally reads “holy of
+        holies.” Thenceforth, however, the author of Hebrews shortens the literal phrase from <char style="it">holy
+        of holies </char>to <char style="it">of the holies </char>(9:8); <char style="it">the holies </char>(9:12,25);
+        and simply <char style="it">holies </char>(9:24). So the phrase <char style="it">of the holies </char>which
+        appears in 10:19 is yet another usage of a shortened form of Holy of Holies, a repetition of the wording
+        which appeared in 9:8 when you get right down to it.</char>
+    </note>
+  <chapter eid="HEB 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="HEB 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 11:1" />Faith is<char style="sup">[A]</char> the undergirding of what’s hoped for, the proof of things not seen
+        (which includes all things for which there is no physical evidence); <verse eid="HEB 11:1" />
+      <verse number="2" style="v" sid="HEB 11:2" />by this, you see, those we hold in esteem from long ago<char style="sup">[a]</char> had an official account,
+        a favorable mention, of their actions recorded for posterity.<verse eid="HEB 11:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="HEB 11:3" />By faith our mind understands that the world was set in order by a sentence spoken by God, resulting
+        in what we see coming into being out of what hasn’t been manifested.<verse eid="HEB 11:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 11:4" />By faith Abel offered God a much <char style="it">better </char>sacrifice than Cain, through which an
+        attestation to him being righteous was entered <char style="it">into the official record</char>, the
+        record specifying the gifts he offered to God, and through <char style="it">his faith</char>, <char style="it">though</char>
+        he’s dead he’s still speaking.<verse eid="HEB 11:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 11:5" />By faith Enoch was instantaneously transported from one place to another for the purpose of not experiencing<char
+        style="sup">[b]</char> death; “There was no trace of him to be found<char style="sup">[c]</char> because
+        God had transported him.” You see, before he was transported, it had been stated for the record that
+        he had pleased God quite well.<verse eid="HEB 11:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="HEB 11:6" />Now apart from faith it’s impossible to be well-pleasing to God, for he who approaches God must believe
+        (and have already believed ahead of time)<char style="sup">[d]</char> that He is <char style="it">the
+        Great I Am</char> and that a reward manifests itself <char style="it">and is awarded </char>to those
+        who seek Him out.<verse eid="HEB 11:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 11:7" />By faith Noah, having been warned by God about things that had not yet been seen, in piety and in the
+        fear of God built and provisioned an ark for the purpose of preserving his family and keeping it safe,
+        through which <char style="it">faith</char> he condemned the world (i.e., consigned the world to punishment)
+        and became an heir of the righteousness which comes from faith.<verse eid="HEB 11:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="HEB 11:8" />By faith Abraham obeyed when he was summoned to leave <char style="it">the place he lived and </char>go
+        to <char style="it">the place </char>which he was going to receive as an inheritance (i.e., a place which
+        was reserved for him exclusively and in perpetuity), and he departed having no idea where he was going.<verse eid="HEB 11:8" />
+      <verse number="9" style="v" sid="HEB 11:9" />By faith he emigrated and became a foreign resident in the land of promise, living in tents with Isaac
+        and Jacob, joint-heirs of the same promise. <verse eid="HEB 11:9" />
+      <verse number="10" style="v" sid="HEB 11:10" />You see, he anticipated, expected, and was eagerly awaiting the city which is not a rickety-rackety,
+        makeshift one but is built to last<char style="sup">[e]</char>, whose builder and architect is God.<verse eid="HEB 11:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 11:11" />By faith, even Sarah, who couldn’t have children, got the ability to conceive in her old age, since she
+        considered the One Who had promised to be faithful. <verse eid="HEB 11:11" />
+      <verse number="12" style="v" sid="HEB 11:12" />As this was the case, one man (and this fellow was debilitated<char style="sup">[f]</char>) sired <char
+        style="it">a nation </char>as innumerable as the stars in the sky and the grains of sand on the beach.<verse eid="HEB 11:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="HEB 11:13" />All these <char style="it">people </char>died in sync with<char style="it"> </char>faith, not having
+        received the promises, but having seen and greeted them from afar instead, and having confessed that
+        they were foreigners on this planet. <verse eid="HEB 11:13" />
+      <verse number="14" style="v" sid="HEB 11:14" />The fact is, those who say such things make it evident that they seek their native country. <verse eid="HEB 11:14" />
+      <verse number="15" style="v" sid="HEB 11:15" />If they kept on rehashing memories of<char style="it"> fondness for</char> that <char style="it">ungodly
+        </char>place they ventured forth from, they would have found<char style="sup">[g]</char> an opportunity
+        <char style="it">or made an excuse</char> to return; <verse eid="HEB 11:15" />
+      <verse number="16" style="v" sid="HEB 11:16" />but as it stands, they aspire for better, that is to say, for <char style="it">something</char> from
+        the spiritual domain or from heaven. In light of this, God is not ashamed to be called their God, for
+        He has prepared a city for them.<verse eid="HEB 11:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="HEB 11:17" />By faith Abraham, while being tested, offered up Isaac—he who gladly received the promises offered up
+        his one and only <char style="it">son</char>, <verse eid="HEB 11:17" />
+      <verse number="18" style="v" sid="HEB 11:18" />to whom it was spoken, “The descendants who will perpetuate your family tree will be designated as coming
+        through Isaac.<char style="sup">[h]</char>” <verse eid="HEB 11:18" />
+      <verse number="19" style="v" sid="HEB 11:19" /><char style="it">Abraham </char>figured that, in addition <char style="it">to the promises He already
+        made,</char> God is able to raise <char style="it">someone </char>from the dead. As a result of this,
+        he recovered <char style="it">Isaac from the dead</char> in an analogous fashion.<verse eid="HEB 11:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="HEB 11:20" />Also by faith Isaac pronounced blessings over Jacob and Esau in regard to what would happen <char style="it">to
+        them </char>in the future.<verse eid="HEB 11:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="HEB 11:21" />By faith Jacob while on his death bed pronounced blessings over the sons of Joseph, and “bowed down <char
+        style="it">in worship</char> <char style="it">leaning</char> on top of his staff<char style="sup">[B]</char>.”<verse eid="HEB 11:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 11:22" />By faith Joseph, nearing the end, left a reminder about the Exodus with the descendants of Israel and
+        left orders about his bones (i.e., orders that they take his bones with them when they leave).<verse eid="HEB 11:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="HEB 11:23" />By faith Moses was hidden by his parents after he was born out of a reverential fear because they saw
+        that the boy had charisma<char style="sup">[i]</char>, and they didn’t fear the king’s decree. <verse eid="HEB 11:23" />
+      <verse number="24" style="v" sid="HEB 11:24" />By faith Moses <char style="it">grew up and</char> became a great man and renounced his claim of being
+        the son of Pharaoh’s daughter, <verse eid="HEB 11:24" />
+      <verse number="25" style="v" sid="HEB 11:25" />having chosen to endure the hardship with God’s folk rather than to retain the pleasures of sin for a
+        brief span of time, <verse eid="HEB 11:25" />
+      <verse number="26" style="v" sid="HEB 11:26" />considering the vilification and reviling of Christ to be greater riches than the treasures of Egypt;
+        for he was focused on the reward.<verse eid="HEB 11:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="HEB 11:27" />By faith he left Egypt, unafraid of the wrath of <char style="it">Pharaoh</char> the king, for he endured
+        as <char style="it">one</char> seeing the Unseen-One. <verse eid="HEB 11:27" />
+      <verse number="28" style="v" sid="HEB 11:28" />By faith he observed the Passover and the marking of the blood, <char style="it">done</char> so that
+        the Destroyer wouldn’t touch any of their firstborn <char style="it">sons</char>. <verse eid="HEB 11:28" />
+      <verse number="29" style="v" sid="HEB 11:29" />By faith he crossed the Red Sea as if it was dry land; when the Egyptians tried <char style="it">to cross
+        </char>it, they were drowned.<verse eid="HEB 11:29" />
+    </para>
+    <para style="p">
+      <verse number="30" style="v" sid="HEB 11:30" />By faith the walls of Jericho fell after being <char style="it">marched around </char>in a circle for
+        seven days.<verse eid="HEB 11:30" />
+    </para>
+    <para style="p">
+      <verse number="31" style="v" sid="HEB 11:31" />By faith, the prostitute Rahab wasn’t wiped out with those who were disobedient after extending a welcome
+        to the spies and taking them in<char style="sup">[j]</char>.<verse eid="HEB 11:31" />
+    </para>
+    <para style="p">
+      <verse number="32" style="v" sid="HEB 11:32" />And what more will I say? For there’s not enough time to go into detail about Gideon, Barak, Samson,
+        Jephthah, David, plus Solomon and the prophets, <verse eid="HEB 11:32" />
+      <verse number="33" style="v" sid="HEB 11:33" />who through faith conquered kingdoms, put into practice standards of fairness <char style="it">while
+        ruling</char>, obtained promises, shut the mouths of lions, <verse eid="HEB 11:33" />
+      <verse number="34" style="v" sid="HEB 11:34" />extinguished intense heat-generating fires<char style="sup">[k]</char>, escaped <char style="it">the</char>
+        sword’s edge, got their strength back from weakness, became mighty men in war, routed foreign armies
+        in battle. <verse eid="HEB 11:34" />
+      <verse number="35" style="v" sid="HEB 11:35" />Women got <char style="it">members of</char> their <char style="it">family</char> who died to come back
+        to life. Others were tortured but refused the chance to get out of it, so that they would be better off
+        in their life after death<char style="sup">[l]</char>. <verse eid="HEB 11:35" />
+      <verse number="36" style="v" sid="HEB 11:36" />Others experienced jeering and whipping; still others <char style="it">experienced </char>being chained
+        up and locked up. <verse eid="HEB 11:36" />
+      <verse number="37" style="v" sid="HEB 11:37" />They were stoned to death, they were sawn <char style="it">in two</char>, they were tempted and brought
+        to the breaking point, they were slain by the sword, they wandered about in sheepskins, in goatskins,
+        while being impoverished, afflicted, distressed, mistreated— <verse eid="HEB 11:37" />
+      <verse number="38" style="v" sid="HEB 11:38" /><char style="it">people</char> whom the world is not worthy of—<char style="it">They lived in </char>deserts,
+        on mountains, in caves, in underground tunnels—<verse eid="HEB 11:38" />
+    </para>
+    <para style="p">
+      <verse number="39" style="v" sid="HEB 11:39" />Because of their faith all of these people had a favorable account of <char style="it">their exploits</char>
+        recorded for posterity’s sake but did not obtain the promise, <verse eid="HEB 11:39" />
+      <verse number="40" style="v" sid="HEB 11:40" />God having provided something better for us, so that <char style="it">their ranks</char> would not be
+        complete without us <char style="it">added</char>.<verse eid="HEB 11:40" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">those we hold in esteem from long ago</char>…Lit: <char style="it">the elders</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">experiencing</char>…Lit: <char style="it">seeing</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">There was no trace of him to be found</char>…Lit: <char style="it">he was not found</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">believe (and have already believed ahead of time)</char>…Lit: <char style="it">believe</char>,
+        but with a verb tense which insinuates a one-time believing, one that occurred in the past.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">is not a rickety-rackety, makeshift one but is built to last</char>…Lit: <char style="it">has
+        foundations</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">debilitated</char> …Lit: <char style="it">dead</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">found</char>…Lit: <char style="it">had</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">The descendants who will perpetuate your family tree will be designated as coming through
+        Isaac</char>…Lit: <char style="it">by Isaac seed to you will be called</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">had charisma</char>…Also: <char style="it">sophisticated; well-bred; handsome; capable</char>.
+        The Gk. word used here at its core refers to the splendor of cities in contrast to the lack of such splendor
+        one finds in the countryside.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">extending a welcome to the spies and taking them in</char>…Lit: <char style="it">receiving
+        the spies with peace</char>. An expression; ref. note of Matt. 10:13.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">intense heat-generating fires</char>…Lit: <char style="it">the power of fire</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">life after death</char>…Lit: <char style="it">resurrection</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Faith is</char>…Some translations render this ”now faith is,” which is also correct.
+        However, the Gk. word for <char style="it">now </char>is the conjunction <char style="it">de, </char>one
+        of the most common words in the NT<char style="it">. De</char> does not mean “at this moment in time.”
+        Some ministers, however, take the word “now” to mean “faith is now” in other words “faith by nature exists
+        at this moment in time.” They then go on to explain how a principle of faith is that it exists in the
+        here-and-now, not some time in the future. While this is true about faith, this is not what the GT of
+        11:1 is saying. Other translations’ use of “now” should not be taken to mean “at the present time.”</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">bowed down in worship leaning on top of his staff</char>…The GT of this is a verbatim
+        quotation of Gen. 47:31 in the LXX. As Jacob’s blessings of Joseph’s sons is found in Gen. 48, not 47,
+        it’s a mystery why these two seemingly disjointed accounts are linked together here.</char>
+    </note>
+  <chapter eid="HEB 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="HEB 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 12:1" />For this very reason, we too, surrounded by such a cluster<char style="sup">[a]</char> of <char style="it">tremendous
+        </char>witnesses, let us lay aside every burden and the sin which entangles us and run with endurance
+        the up-and-coming race we’re entered in, <verse eid="HEB 12:1" />
+      <verse number="2" style="v" sid="HEB 12:2" />setting our undivided attention on Jesus, the originator and perfector of our faith, who, instead of
+        <char style="it">giving up because of </char>the task he was assigned to do, endured the cross, disregarding
+        and having contempt for the shame <char style="it">associated with it</char> ,and has sat down at the
+        right hand of God’s throne (i.e., he took up the position of God’s chief executive). <verse eid="HEB 12:2" />
+      <verse number="3" style="v" sid="HEB 12:3" />Furthermore, consider for a moment that he has endured such <char style="it">extreme</char> opposition
+        from sinners, so that you not grow weary in <char style="it">the depths of </char>your souls and capitulate—<verse eid="HEB 12:3" />
+      <verse number="4" style="v" sid="HEB 12:4" />You have yet to resist to the point of bloodshed, <verse eid="HEB 12:4" />
+      <verse number="5" style="v" sid="HEB 12:5" />and you’ve completely forgotten the encouragement which addresses you as sons:
+    </para>
+    <para style="pi" vid="HEB 12:5"></para>
+    <para style="pi" vid="HEB 12:5">My son, do not take lightly the discipline of the Lord</para>
+    <para style="pi" vid="HEB 12:5"><char style="it">As he molds you into the person you need to be</char><char style="sup">[b]</char></para>
+    <para style="pi" vid="HEB 12:5">Nor capitulate when corrected by Him.<verse eid="HEB 12:5"/>
+    </para>
+    <para style="pi">
+      <verse number="6" style="v" sid="HEB 12:6" />You see, whom the Lord loves He disciplines,
+    </para>
+    <para style="pi" vid="HEB 12:6">And He thrashes every son</para>
+    <para style="pi" vid="HEB 12:6">Whom He has whole-heartedly welcomed as His own<char style="sup">[c]</char>.<verse eid="HEB 12:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 12:7" />You endure for the purpose of <char style="it">being molded by</char> discipline<char style="it"> into
+        the person you need to become</char><char style="sup">[c]</char>: God treats you like <char style="it">you
+        are His </char>son. In this regard, <char style="it">can you think of </char>any son whom his father
+        doesn’t discipline? <verse eid="HEB 12:7" />
+      <verse number="8" style="v" sid="HEB 12:8" />But if you live in absence of<char style="sup">[d]</char> discipline, which you all get your fair share
+        of now, then you’re children some strange woman had out of wedlock and not sons <char style="it">who
+        are included in the family</char>.<verse eid="HEB 12:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 12:9" />Furthermore, we had fathers in the natural who disciplined us time and time again, and we gave them our
+        respect; how much more should we submit to the Father of <char style="it">our</char> spirits and live
+        <char style="it">this way</char>? <verse eid="HEB 12:9" />
+      <verse number="10" style="v" sid="HEB 12:10" />You see, while it’s true that for a brief period<char style="sup">[e]</char> <char style="it">our natural
+        fathers </char>disciplined <char style="it">us </char>the way they personally thought discipline ought
+        to be done, but He, though, <char style="it">disciplines us </char>for our own benefit, for the purpose
+        of us <char style="it">being able to </char>partake of His holiness on an ongoing basis. <verse eid="HEB 12:10" />
+      <verse number="11" style="v" sid="HEB 12:11" />While any discipline at the time it’s occurring is not considered to be a bundle of joy, but instead
+        is painful, later on it yields a peaceful result, namely righteousness, to those who have been trained
+        by <char style="it">the discipline</char> <char style="it">they received</char>.<verse eid="HEB 12:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 12:12" />In light of this, put the hands that lie idle at your side and the knees which have become weak back
+        in the position where they’re poised for action, <verse eid="HEB 12:12" />
+      <verse number="13" style="v" sid="HEB 12:13" />and clear out a straight path for your feet, so that <char style="it">the </char>hip joint, knee joint,
+        etc. which is preventing you from walking not be dislocated any more, but rather be healed.<verse eid="HEB 12:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 12:14" />Pursue peace with all people, and <char style="it">pursue </char>holiness, without which no one will
+        see the Lord. <verse eid="HEB 12:14" />
+      <verse number="15" style="v" sid="HEB 12:15" />Check up on any person who might lack the grace of God (i.e., who needs to receive mercy, kindness, or
+        forgiveness from God) and help them in whatever situation <char style="it">they’re in </char>which is
+        causing this, lest some root of bitterness grow up<char style="it"> </char>and become a source of irritation,
+        annoyance, or trouble, and many people would be tainted by <char style="it">this root</char>; <verse eid="HEB 12:15" />
+      <verse number="16" style="v" sid="HEB 12:16" />lest there be some fornicator <char style="it">metaphorically speaking</char><char style="sup">[B]</char><char
+        style="it"> </char>(i.e., someone who’s immoral in a way which is analogous to sexually immorality) or
+        someone who’s profane or has no piety like Esau, who sold what was rightfully his by birth for one meal.<verse eid="HEB 12:16" />
+      <verse number="17" style="v" sid="HEB 12:17" />In fact, you know <char style="it">the story, </char>how afterwards, while wanting to receive <char style="it">his</char>
+        inheritance <char style="it">through</char> the blessing <char style="it">bestowed by Isaac</char>, he
+        was rejected; the simple fact is that there was no way he could turn the situation around<char style="sup">[f]</char>,
+        although with tears <char style="it">on his face </char>he tried.<verse eid="HEB 12:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="HEB 12:18" />The fact of the matter is that you haven’t come to a physically tangible <char style="it">mountain like
+        Mount Sinai</char>, to one which is on fire, and to darkness and to gloom and to a whirlwind <verse eid="HEB 12:18" />
+      <verse number="19" style="v" sid="HEB 12:19" />and to the sound of a trumpet and to a voice speaking words, a voice which those who heard it begged
+        that not another word be spoken to them; <verse eid="HEB 12:19" />
+      <verse number="20" style="v" sid="HEB 12:20" />you see, they couldn’t take it anymore, couldn’t stand the order, “If so much as an animal happens to
+        touch the mountain, it will be stoned <char style="it">to death</char>.” <verse eid="HEB 12:20" />
+      <verse number="21" style="v" sid="HEB 12:21" />The scene was so terrifying that Moses said, “I’m terrified and shaking all over”—<verse eid="HEB 12:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 12:22" />—No, you’ve come to Mount Zion and to the city of the Living God, the Jerusalem in heaven, and to a myriad
+        of angels, <verse eid="HEB 12:22" />
+      <verse number="23" style="v" sid="HEB 12:23" />to the mother of all church gatherings<char style="sup">[g]</char> of the firstborn who’s registered
+        in heaven, and to God the judge of all, and to spirits of upright, decent people who’ve been made perfect,<verse eid="HEB 12:23" />
+      <verse number="24" style="v" sid="HEB 12:24" />and to Jesus the mediator of a new covenant and to the <char style="it">true </char>sprinkling-blood,
+        which calls for<char style="sup">[h]</char> better things than <char style="it">the blood of </char>Abel
+        <char style="it">which cried out from the ground</char>.<verse eid="HEB 12:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="HEB 12:25" />See to it that no one disregards or rejects what’s being called for. You see, if those people who disregarded
+        or rejected <char style="it">what was called for </char>couldn’t escape after He warned them <char style="it">when
+        they were </char>on the Earth, how much more will they not escape, they who refuse Him Who warns from
+        heaven? <verse eid="HEB 12:25" />
+      <verse number="26" style="v" sid="HEB 12:26" />That voice shook the Earth back then, but at the present time there’s a promise which He has given which
+        says, “I will yet cause the Earth to shake one more time, and not just <char style="it">shake </char>the
+        Earth but the sky, outer space, and the spirit-world too.” <verse eid="HEB 12:26" />
+      <verse number="27" style="v" sid="HEB 12:27" />But the phrase “yet one more time” insinuates the removal of those things which are shaken, as <char
+        style="it">they are things which</char> have been created, so that what would remain would be the things
+        which can’t be shaken.<verse eid="HEB 12:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="HEB 12:28" />In light of this, as we heartily embrace a kingdom which can’t be shaken, let us maintain <char style="it">an
+        attitude of </char>thankfulness<char style="sup">[i]</char>, one in which we serve God in a way that
+        pleases Him, <char style="it">keeping it </char>with reverence and awe: <verse eid="HEB 12:28" />
+      <verse number="29" style="v" sid="HEB 12:29" />For our God is a consuming fire.<verse eid="HEB 12:29" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">cluster</char>…Lit: <char style="it">cloud</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">as he molds you into the person you need to become</char>…Lit: <char style="it">for
+        discipline</char>. Ref. major note of v. 5.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">whole-heartedly welcomed as His own</char>…Lit: <char style="it">He receives</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">live in absence of</char>…Lit: <char style="it">are without</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">a brief period</char>…Lit: <char style="it">a few days</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">there was no way he could turn the situation around</char>…Lit: <char style="it">he
+        did not find a place of repentance</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the mother of all church gatherings</char>…Lit: <char style="it">a gathering and a church</char>.
+        A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">calls for</char>…Lit: <char style="it">speaks of</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">maintain an attitude of thankfulness</char>…Lit: <char style="it">have grace </char>[<char
+        style="it">thanks</char>]</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">As he molds you into the person you need to be</char>…An interpolation based on the
+        fact that the word <char style="it">discipline </char>in this verse comes from a root word meaning <char
+        style="it">son </char>or <char style="it">child</char>, and refers to the discipline, correction, and
+        instruction that a son receives that will mature him into the man he needs to become. This discipline
+        is done with this long-term goal in mind and is not a simple punishment.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">fornicator</char> <char style="it">metaphorically speaking</char>…Lit: <char style="it">fornicator</char>.
+        We know from the OT account of Esau and Jacob that Esau never committed fornication, which is any act
+        of sexual immorality (not just sex out of wedlock). Therefore, the episode where he sold his birthright
+        for a bowl of stew is a metaphor to fornication: it’s the same sin but minus the sexual component. Esau
+        had convinced himself that he would die if he didn’t eat the meal Jacob prepared (this was not true;
+        nobody dies for lack of a single meal, especially someone who can still walk). He exchanged something
+        precious for a short-term gratification of the flesh.</char>
+    </note>
+  <chapter eid="HEB 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="HEB 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 13:1" />Continue in your love for your fellow comrade, loving the fellowship you have with them. <verse eid="HEB 13:1" />
+      <verse number="2" style="v" sid="HEB 13:2" />Don’t neglect to extend a hearty friendship-welcome to those who are new to a church, new to the area,
+        or who are just plain different than yourselves. In doing this, some have unwittingly welcomed angels.<verse eid="HEB 13:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="HEB 13:3" />Remember those who are in prison<char style="sup">[a]</char> as though you’re fellow inmates, and <char
+        style="it">remember </char>those who are ill-treated as though you have to live in their shoes<char style="sup">[b]</char>.<verse eid="HEB 13:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 13:4" /><char style="it">Be sure to</char> honor the institution of marriage and <char style="it">be sure that
+        what you do </char>in bed is morally pure; for God will judge fornicators and adulterers.<verse eid="HEB 13:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 13:5" />Be sure that the kind of life you live is absent the love of money; He himself said, “There’s no way
+        I’ll ever leave you or forsake you.” <verse eid="HEB 13:5" />
+      <verse number="6" style="v" sid="HEB 13:6" /><char style="it">This gives us confidence</char> so much so that we perk up and have the gumption<char
+        style="sup">[c]</char> to say,</para>
+    <para style="pi" vid="HEB 13:6"></para>
+    <para style="pi" vid="HEB 13:6">The Lord is my helper; I will not fear.</para>
+    <para style="pi" vid="HEB 13:6">What can a person do to me?<verse eid="HEB 13:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 13:7" />Remember your leaders, the very people who spoke the word of God to you, closely observe on a continual
+        basis the end-result of their manner of life—mimic their faith.<verse eid="HEB 13:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="HEB 13:8" />Jesus Christ is the same yesterday, today, and forever.<verse eid="HEB 13:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 13:9" />Don’t get sidetracked by different and novel teachings; you see, it’s good that the heart be established
+        by grace, not by <char style="it">teachings about what</char> food <char style="it">we should or shouldn’t
+        eat</char>. <char style="it">These teachings</char> haven’t benefited those who have changed their lifestyles
+        <char style="it">to follow them</char>. <verse eid="HEB 13:9" />
+      <verse number="10" style="v" sid="HEB 13:10" />We have a <char style="it">spiritual</char> altar, and they who serve by performing the religious rituals
+        in the <char style="it">physical </char>tabernacle are not entitled to eat <char style="it">the food
+        which is a byproduct of the sacrifices offered upon it</char>. <verse eid="HEB 13:10" />
+      <verse number="11" style="v" sid="HEB 13:11" />In fact, the carcasses of the animals whose blood is brought by the high priest into the Holy of Holies
+        are incinerated outside the camp<char style="sup">[A]</char>, <char style="it">out away from where everybody
+        lived</char>. <verse eid="HEB 13:11" />
+      <verse number="12" style="v" sid="HEB 13:12" />In light of this, Jesus also, so that through his own blood he would purify, sanctify, and make the folk-people
+        holy, suffered outside of the gates of the city <char style="it">away from where everybody lived. </char><verse eid="HEB 13:12" />
+      <verse number="13" style="v" sid="HEB 13:13" />So then, let’s go outside the camp <char style="it">where everybody lives </char>and go to him, pick
+        up his vilification, vituperation, and reviling, and carry it ourselves.<verse eid="HEB 13:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 13:14" />You see, here <char style="it">on this planet </char>we don’t have a city <char style="it">for us to
+        live in </char>which is going to last into eternity, but we’re seeking after <char style="it">the city</char>
+        to come instead. <verse eid="HEB 13:14" />
+      <verse number="15" style="v" sid="HEB 13:15" />Through him let us continuously offer up to God a sacrificial offering consisting of praise<char style="sup">[B]</char>,
+        in other words, the fruit of lips which confess <char style="it">words </char>in his name and to his
+        name (i.e., by his authority and to his glory). <verse eid="HEB 13:15" />
+      <verse number="16" style="v" sid="HEB 13:16" />And don’t neglect to do acts of kindness and to help others financially; for God is quite pleased with
+        sacrificial offerings such as these.<verse eid="HEB 13:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="HEB 13:17" />Be persuaded by your leaders to the point of obeying them and submit to them; you see, they keep watch
+        over your very lives<char style="sup">[d]</char>, as they’ll be held accountable for them<char style="sup">[e]</char>.
+        <char style="it">But submit </char>so that they may do <char style="it">their job</char> with joy and
+        not <char style="it">regress into </char>grumbling; it just isn’t worth it.<verse eid="HEB 13:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="HEB 13:18" />Pray for us, and keep on praying for us. We believe that we have a good conscience (i.e., we’re not involved
+        in any wrongdoing; there’s nothing we feel guilty about) in that we are wanting to maintain a lifestyle
+        of excellence in every respect. <verse eid="HEB 13:18" />
+      <verse number="19" style="v" sid="HEB 13:19" />But more <char style="it">importantly</char>, I encourage you <char style="it">to pray </char>so that
+        I’ll be restored to you (i.e., be reinstated and continue doing with you what I was doing) as soon as
+        possible.<verse eid="HEB 13:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="HEB 13:20" />Now may the God of peace, Who brought the Great Shepherd<char style="sup">[f]</char> of the Sheep back
+        from the dead by means of <char style="it">the </char>blood of the eternal covenant—our Lord Jesus Christ—<verse eid="HEB 13:20" />
+      <verse number="21" style="v" sid="HEB 13:21" />in every good <char style="it">way</char> put you into proper order and prepare you for a purpose, doing
+        this with the goal of accomplishing His will, working in us what from His point of view is very pleasing<char
+        style="sup">[g]</char> through Jesus Christ, to whom <char style="it">be </char>the glory forever and
+        ever. Let us pause for a moment to let that sink in<char style="sup">[h]</char>.<verse eid="HEB 13:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 13:22" />Bear with me, comrades<char style="sup">[i]</char>, as I encourage you with this word of encouragement.
+        You see, I’ve only briefly written to you <char style="it">about my personal affairs. </char><verse eid="HEB 13:22" />
+      <verse number="23" style="v" sid="HEB 13:23" />Just so you know, our fellow comrade Timothy has been let out of jail. If he can manage to come over
+        <char style="it">to where I am</char> in a hurry, I’ll take him with me when I visit you.<verse eid="HEB 13:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="HEB 13:24" />Extend my greetings to all those in leadership positions and to all the saints (i.e., all the other believers).
+        Those from <char style="it">the Roman province of </char>Italy greet you.<verse eid="HEB 13:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="HEB 13:25" /><char style="it">May the</char> grace <char style="it">of God be</char> with you all.<verse eid="HEB 13:25" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">in prison</char>…Lit: <char style="it">in bonds</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">as though you have to live in their shoes</char>…Lit: <char style="it">yourselves also
+        being in the body</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">perk up and have the gumption</char>…Lit: <char style="it">to be having courage</char>.
+        Used this way in Mark 10:49; 15:43; ref. note of John 16:33.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">your very lives</char>…Lit: <char style="it">your souls</char> </char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">they’ll be held accountable for them</char>…Lit: <char style="it">they’ll have to give
+        an account</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">Shepherd</char>…Also: <char style="it">pastor</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">what from His point of view is very pleasing</char>…Lit: <char style="it">well-pleasing
+        in His sight</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">Let us pause for a moment to let that sink in</char>…Lit: <char style="it">amen. </char>Ref.
+        note of Rev. 19:4.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the camp</char>…This word and the word <char style="it">tabernacle </char>used in v.
+        10 are both references to the tabernacle used by the Israelites when the wandered in the Sinai desert
+        for forty years. Where the people lived was called a “camp” because they had no buildings to live in
+        since they could be commanded by God to pick up and leave any day.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">a sacrificial offering consisting of praise</char>…Lit: <char style="it">sacrifice of
+        praise</char>. This is a metaphor which compares praise offered to God to OT sacrifices offered to God
+        and incinerated on the altar of burnt offerings. Some have misinterpreted this to mean that it is a personal
+        sacrifice on our part to praise God.</char>
+    </note>
+  <chapter eid="HEB 13" />
+</usx>

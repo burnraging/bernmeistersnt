@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2PE" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">2 Peter</para>
+  <para style="toc1">The Epistle of 2 Peter</para>
+  <para style="toc2">2 Peter</para>
+  <para style="toc3">2 Pet.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 PETER</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">2 Peter is a long, brilliantly-written diatribe against evil people and has a different flavor than 1
+    Peter, and this is one reason why the authenticity of its authorship is in question. 2 Peter and Jude
+    are similar books and both faced opposition when the canon was first formalized, with several dissenters
+    who wanted to exclude it.</para>
+  <para style="ipi">The Greek writing style is a bit choppy in parts, but fluid overall. There is a beauty to the prose as
+    it keeps on a subject while moving from point to point. The transitions are smooth, the verses are sprinkled
+    with metaphors. Overall, the book is as enjoyable to translate as it is to read. It’s a pity that this
+    translation squashes beautiful figures of speech such as found in 2:9 which in the Greek text literally
+    reads, “the Lord knows to rescue the pious”; the figure of speech means that the Lord has a long history
+    of rescuing the pious and will certainly continue to do so.</para>
+  <para style="ipi">This epistle has many vocabulary words not found elsewhere in the NT. Between this and the fact that
+    it has not received the attention and scholarship that the more popular NT books have received makes
+    it more difficult to resolve the meaning of certain words, an example being 2:17 where the word “mist”
+    is assumed to be “drizzle.”</para>
+  <para style="ipi">The assertion that the author makes in 3:16, namely that he considers Paul’s epistles to be on par with
+    Scripture, is a view which didn’t evolve until later; when writing his epistles, Paul didn’t believe
+    he was penning Scripture.</para>
+  <para style="ipi">The author goes out of his way to assure us that this letter is in fact the second epistle (3:1), but
+    giving that assurance is not reassuring: the letter smells like a fraud—howbeit, a well-written one.
+    The epistle expends too much vitriol railing against the corrupt and too little encouraging believers,
+    which doesn’t help its case. And perhaps it is this vitriol which caused a writer other than Peter to
+    lie and claim to be him. We’ll never know.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2PE 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2PE 1:1" />Simon Peter, servant and missionary<char style="sup">[a]</char> of Jesus Christ:
+    </para>
+    <para style="p" vid="2PE 1:1">To you who received (<char style="it">because you had the good fortune to have God smile on you</char>)<char
+        style="it"> </char>an equivalent-status faith as ours in the righteousness of our God and savior Jesus
+        Christ:<verse eid="2PE 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2PE 1:2" />May grace and peace flourish in the recognition and precise understanding of our God and of Jesus our
+        Lord, <verse eid="2PE 1:2" />
+      <verse number="3" style="v" sid="2PE 1:3" />as all things having their origin in His divine power, the things associated with life and piety, have
+        been bestowed upon us all through the recognition and understanding of Him who called us by means of
+        His own glory and virtue. <verse eid="2PE 1:3" />
+      <verse number="4" style="v" sid="2PE 1:4" />Through <char style="it">this</char> <char style="it">glory and virtue </char>He has given the valuable,
+        absolute-greatest promises to us, so that through them you shoulder-to-shoulder participants would become
+        <char style="it">partakers </char>of <char style="it">His </char>divine nature, having escaped the corruption
+        which is with the strong desires and lustful passions in the world-system which humans created.<verse eid="2PE 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2PE 1:5" />And for this very reason, get all over it<char style="sup">[b]</char> and supply the moral virtue <char
+        style="it">which is dearly needed</char> in <char style="it">the application of</char> your faith, and
+        the knowledge <char style="it">which is needed </char>in the moral virtue, <verse eid="2PE 1:5" />
+      <verse number="6" style="v" sid="2PE 1:6" />and the self-control <char style="it">needed </char>in the knowledge, and the endurance <char style="it">needed
+        </char>in the self-control, and the piety in the endurance, <verse eid="2PE 1:6" />
+      <verse number="7" style="v" sid="2PE 1:7" />and the close friendship with your fellow man<char style="sup">[c]</char> in the piety, and the love
+        in the close friendship with your fellow man. <verse eid="2PE 1:7" />
+      <verse number="8" style="v" sid="2PE 1:8" />In fact, while these things exist in you and increase—as opposed to being idle or unproductive—they constitute
+        coming to the knowledge and understanding of our Lord Jesus Christ.<verse eid="2PE 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="2PE 1:9" />When you get right down to it, the one who hasn’t gotten this<char style="sup">[d]</char> is blind, not
+        being able to see the big picture, oblivious to<char style="sup">[e]</char> the cleansing of the sins
+        that he committed long ago. <verse eid="2PE 1:9" />
+      <verse number="10" style="v" sid="2PE 1:10" />All the more reason, comrades<char style="sup">[f]</char>, to get on it and make sure your Christian
+        walk is tied down<char style="sup">[g]</char>; you see, by doing this, there’s no way at all that you’ll
+        ever get off-track. <verse eid="2PE 1:10" />
+      <verse number="11" style="v" sid="2PE 1:11" />The fact is, this is the way that the access into the eternal kingdom (<char style="it">i.e., God’s involvement
+        in our lives</char>) of our Lord and Savior Jesus Christ will be abundantly supplied to you.<verse eid="2PE 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2PE 1:12" />Therefore I intend to constantly remind you of these things, although you’ve reached the point where
+        you have firsthand knowledge and are established in the truth which is right in front of you. <verse eid="2PE 1:12" />
+      <verse number="13" style="v" sid="2PE 1:13" />But I consider it to be the right thing to do, to stir you up by giving you <char style="it">copious
+        </char>reminders for as long as I’m in this physical container of a body<char style="sup">[h]</char>,<verse eid="2PE 1:13" />
+      <verse number="14" style="v" sid="2PE 1:14" />seeing that the laying aside of my body is imminent, just as our Lord Jesus Christ made clear to me.<verse eid="2PE 1:14" />
+      <verse number="15" style="v" sid="2PE 1:15" />Now I’ll urgently be about the business of<char style="sup">[i]</char> having you constantly keep these
+        memories <char style="it">alive</char> after I depart <char style="it">from this life.</char><verse eid="2PE 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2PE 1:16" />You see, we weren’t copying crafty, cunning myths when we made known to you the power and coming of our
+        Lord Jesus Christ, but we happened to be eye-witnesses of that magnificence instead, <verse eid="2PE 1:16" />
+      <verse number="17" style="v" sid="2PE 1:17" />seeing that he received honor and glory from God the Father in such <char style="it">majestic</char>-sounding
+        words delivered to him by the Magnificent Glory, “This is My Beloved Son, with whom I’ve been very pleased.”<verse eid="2PE 1:17" />
+      <verse number="18" style="v" sid="2PE 1:18" />From out of the sky we heard the sounds of those words, after being brought up the holy mountain with
+        him. <verse eid="2PE 1:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="2PE 1:19" />We have the prophetic word which is more definite. You’d better pay attention <char style="it">to it</char>
+        like using a lamp to shine in a dark place until daylight shines through at daybreak and the morning
+        star rises in your hearts. <verse eid="2PE 1:19" />
+      <verse number="20" style="v" sid="2PE 1:20" />Understand this first and foremost: every prophecy of Scripture did not come into being from a single
+        individual’s explanation <char style="it">of what he assumed God was saying</char>; <verse eid="2PE 1:20" />
+      <verse number="21" style="v" sid="2PE 1:21" />the fact of the matter is, no prophecy is ever delivered by a person’s will but instead, while being
+        delivered by the Holy Spirit, men spoke <char style="it">words</char> <char style="it">that were</char>
+        from God.<verse eid="2PE 1:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">missionary</char>…Lit: <char style="it">apostle</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">get all over it</char>…Lit: <char style="it">having brought to bear all haste</char>.
+        The author uses the word <char style="it">hurry </char>as an expression, here and also in vv. 10, 15.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">close friendship with your fellow man</char>…Also: <char style="it">brotherly love</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">the one who hasn’t gotten this</char>…Lit: <char style="it">whom these things have not
+        arrived to</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">oblivious to</char>…Lit: <char style="it">having taken a forgetfulness of</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">make sure your Christian walk is tied down</char>…Lit: <char style="it">your calling
+        and selection are secure</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">physical container of a body</char>…Lit: <char style="it">tent</char>; <char style="it">tabernacle</char>.
+        The NT uses the word <char style="it">tent </char>to mean <char style="it">physical body </char>as an
+        expression.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">I’ll urgently be about the business of</char>…Lit: <char style="it">I’ll make haste</char>.
+        Ref. note in v. 5.</char>
+    </note>
+  <chapter eid="2PE 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2PE 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2PE 2:1" />Now just as false prophets appeared out of nowhere from among the <char style="it">Israeli </char>folk-people,
+        there’ll also be false teachers <char style="it">that appear </char>among you, ones in particular who
+        subtly introduce destructive philosophies<char style="sup">[a]</char> along with factions who adhere
+        to them, even denying the Lord who bought them, bringing swift-and-sure destruction upon themselves.<verse eid="2PE 2:1" />
+      <verse number="2" style="v" sid="2PE 2:2" />Many will subscribe and adhere to their debauchery, <char style="it">subscribing to those</char> through
+        whom the Way of Truth will be smeared<char style="sup">[b]</char>. <verse eid="2PE 2:2" />
+      <verse number="3" style="v" sid="2PE 2:3" />They’ll engage<char style="sup">[c]</char> you in a voraciousness of fabricated suppositions—their verdict
+        has been decided for a long time now, and their destruction isn’t snoozing.<verse eid="2PE 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2PE 2:4" />The fact of the matter is, if God didn’t spare angels who sinned<char style="sup">[A]</char>, but instead
+        consigned them to the torture chamber in the pit of hell<char style="sup">[B]</char>, <char style="it">bound
+        </char>in<char style="it"> </char>chains of gloom, to be held in custody <char style="it">there </char>until
+        their sentence is handed down; <verse eid="2PE 2:4" />
+      <verse number="5" style="v" sid="2PE 2:5" />and <char style="it">if He</char> didn’t spare <char style="it">those who lived in</char> the antediluvian
+        world<char style="sup">[d]</char>, but instead <char style="it">only </char>spared eight (He guarded
+        over and protected Noah, a preacher of righteousness), having sent a flood to the debauchery-permeated
+        civilization<char style="sup">[e]</char>; <verse eid="2PE 2:5" />
+      <verse number="6" style="v" sid="2PE 2:6" />and <char style="it">if He </char>condemned the cities of Sodom and Gomorrah to ruin and scorched them
+        to the ground, having put an example in place<char style="it">, in plain sight for all people present
+        and future to see and take note of</char><char style="sup">[f]</char><char style="it">, </char>of what
+        He intends to do to the ungodly; <verse eid="2PE 2:6" />
+      <verse number="7" style="v" sid="2PE 2:7" />and <char style="it">if He </char>rescued Lot-the-righteous who was worn out by the lifestyle of the
+        ungodly, <char style="it">one characterized</char> by licentiousness— <verse eid="2PE 2:7" />
+      <verse number="8" style="v" sid="2PE 2:8" />Speaking of which, the sights and sounds that <char style="it">that</char> righteous man <char style="it">had
+        to endure </char>day in, day out; a righteous soul living among them, having to put up with <char style="it">their
+        </char>out-of-control, immoral freak-show<char style="sup">[g]</char>— <verse eid="2PE 2:8" />
+      <verse number="9" style="v" sid="2PE 2:9" />The Lord has a long, consistent track record of<char style="sup">[h]</char> rescuing the godly from difficulties<char
+        style="sup">[i]</char>, but <char style="it">on the other hand a long, consistent track record of </char>locking
+        up and punishing the unrighteous until judgment day is reached— <verse eid="2PE 2:9" />
+      <verse number="10" style="v" sid="2PE 2:10" />but most of all <char style="it">locking up </char>those who walk in such a way that they follow the
+        lead set by the carnal nature<char style="sup">[j]</char> with its polluted desires and <char style="it">locking
+        up </char>those who despise things pertaining to authority structures.</para>
+    <para style="p" vid="2PE 2:10">Insolent, arrogant—they don’t tremble with fear while trash-talking<char style="sup">[k]</char> the sacrosanct<char
+        style="sup">[l]</char>, <verse eid="2PE 2:10"/>
+      <verse number="11" style="v" sid="2PE 2:11" />whereas angels, which are stronger and have more capabilities, don’t rain an invective judgment from
+        the Lord down on them <char style="it">when they trash-talk like this</char>. <verse eid="2PE 2:11" />
+      <verse number="12" style="v" sid="2PE 2:12" />But these people, as though they have a nature like they’ve been spawned from ridiculous creatures resulting
+        in their being enthralled to decadence<char style="sup">[m]</char>, with their ignorant trash-talking—And
+        in their decadence they’ll experience the destructive ends brought on by their decadence; <verse eid="2PE 2:12" />
+      <verse number="13" style="v" sid="2PE 2:13" />acting the wrong way, they’ll pay for their wrong-doing—They consider it a pleasure to revel in daylight,
+        stains and pimples delighting in their tricks and deceptions while they join you in feasts, <verse eid="2PE 2:13" />
+      <verse number="14" style="v" sid="2PE 2:14" />their attention fixated on nothing but<char style="sup">[n]</char> adultery and a non-stop list of sins,
+        luring unstable souls, having a heart that’s been conditioned to be covetousness, accursed children—<verse eid="2PE 2:14" />
+      <verse number="15" style="v" sid="2PE 2:15" />Forsaking the straight-and-narrow, they were led astray, imitating the way of Balaam son of Bezer, who
+        loved unrighteousness’s wage. <verse eid="2PE 2:15" />
+      <verse number="16" style="v" sid="2PE 2:16" />He got a rebuke for his wrong-doing: a donkey who can’t talk uttered something in a human voice and brought
+        the prophet’s insanity to a halt.<verse eid="2PE 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2PE 2:17" />These people are springs which have dried up and are drizzle driven by a hurricane, in whom the gloom
+        of darkness has been retained. <verse eid="2PE 2:17" />
+      <verse number="18" style="v" sid="2PE 2:18" />You see, uttering vanity’s arrogance, using the carnal nature’s licentious desires, they lure those who
+        barely escape from those who live a lifestyle of deception— <verse eid="2PE 2:18" />
+      <verse number="19" style="v" sid="2PE 2:19" />they are promised freedom, <char style="it">but </char>they exist as slaves of decadence: the fact of
+        the matter is, whatever thing a person’s been defeated by, he’s enslaved to. <verse eid="2PE 2:19" />
+      <verse number="20" style="v" sid="2PE 2:20" />For if they escape the world’s corruption by means of a recognition and precise understanding of the
+        Lord and Savior Jesus Christ, but have become entangled and defeated again by these things <char style="it">that
+        I’m writing about</char>, they wind up in the situation where their final condition is worse than their
+        original. <verse eid="2PE 2:20" />
+      <verse number="21" style="v" sid="2PE 2:21" />In fact, they would be better off to have never recognized and understood the way of righteousness than,
+        after recognizing and understanding it, to <char style="it">then</char>, out of their betrayal, turn
+        their back on the holy commandments. <verse eid="2PE 2:21" />
+      <verse number="22" style="v" sid="2PE 2:22" />In their case, all the pieces in the oh-so-true proverb fit together snugly<char style="sup">[o]</char>:
+        “A dog goes back to its own vomit,” and, “a pig that’s been washed down <char style="it">goes back </char>to
+        rolling in the mud.”<verse eid="2PE 2:22" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">philosophies</char>…Also: <char style="it">systems of thought</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">smeared</char>…Lit: <char style="it">blasphemed</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">engage</char>…Lit: <char style="it">do business with</char>. A metaphor.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">those who lived in the antediluvian world</char>…Lit: <char style="it">of</char> [<char
+        style="it">the</char>] <char style="it">ancient world</char>. Refers to the world as it existed before
+        the flood in Noah’s time.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">the debauchery-permeated civilization</char>…Lit: <char style="it">world of debaucheries</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">in place, in plain sight for all people present and future to see and take note of…</char>Lit:
+        <char style="it">having had put</char>. The Gk. verb tense insinuates the addition of the words <char
+        style="it">in plain sight for all people present and future to see and take note of.</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">out-of-control, immoral freak-show</char>…Lit: <char style="it">lawless deeds</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">the Lord has a long, consistent track record of</char>…Lit: <char style="it">the Lord
+        knows</char> [<char style="it">i.e. knows from first-hand experience/knows for a fact</char>] <char style="it">to
+        rescue</char>. A figure of speech: saying that the Lord knows to do something instead of saying that
+        He definitely will.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">difficulties</char>…Lit: <char style="it">trials</char>; <char style="it">testings</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">the carnal nature</char>…Lit: [<char style="it">the</char>] <char style="it">flesh</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">trash-talking</char>…Lit: <char style="it">blaspheming</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">the sacrosanct</char>…Lit: <char style="it">glories</char>. Assuming that <char style="it">glories
+        </char>refers to what Moses said in Exod. 33:18.</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">enthralled to decadence</char>…Lit: <char style="it">captivity and decadence</char>.
+        A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">their attention fixated on nothing but</char>…Lit: <char style="it">having eyes full
+        of</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">In their case, all the pieces in the oh-so-true proverb fit together snugly</char>…Lit:
+        <char style="it">It has come together with them to proverb of the truth</char>.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">God didn’t spare angels who sinned</char>…This statement is a pillar in the teaching
+        of “fallen angels,” that some angels rebelled against God and were cast into hell. The notion that demons
+        are fallen angels isn’t supported by what’s written in this passage since these fallen angels were incarcerated.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">torture chamber in the pit of hell</char>…Lit: <char style="it">Tartarus</char>. A deep
+        abyss of torment in Greek mythology.</char>
+    </note>
+  <chapter eid="2PE 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2PE 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2PE 3:1" />At this time I’m writing this second letter to you, beloved, in which <char style="it">letters</char>
+        I thoroughly rouse your pure mind by <char style="it">giving you </char>reminders, <verse eid="2PE 3:1" />
+      <verse number="2" style="v" sid="2PE 3:2" />to remember the collection of previously-spoken statements made by the holy prophets and to remember
+        our <char style="it">pioneering founders </char>the apostles’ commandment <char style="it">which came
+        </char>from the Lord and Savior.<verse eid="2PE 3:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2PE 3:3" />Firstmost, understand this: those who get a tremendous kick out of ridiculing<char style="sup">[a]</char>
+        will come at a critical juncture in time<char style="sup">[b]</char>, going about according to their
+        whims <verse eid="2PE 3:3" />
+      <verse number="4" style="v" sid="2PE 3:4" />saying:
+    </para>
+    <para style="p" vid="2PE 3:4">“Where is <char style="it">the fulfillment of</char> the promise of His coming<char style="sup">[A]</char>?
+        The fact is, starting from when it all began in ancient times, our ancestors have died <char style="it">and
+        gone to their eternal glory and the promise of His coming was not fulfilled in their lifetime</char>,
+        and everything’s continued following this same pattern <char style="it">with no interruption</char> from
+        ancient times onwards.<char style="sup">[c]</char>”<verse eid="2PE 3:4"/>
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2PE 3:5" />You see, what the ones who’re deliberately ignoring this are just not getting is that the sky, the upper
+        atmosphere, and outer-space<char style="sup">[d]</char> have existed for a long time now, and that the
+        landmasses were assembled out of water and by means of water through the word of God, <verse eid="2PE 3:5" />
+      <verse number="6" style="v" sid="2PE 3:6" />through which the world-back-then was flooded and destroyed. <verse eid="2PE 3:6" />
+      <verse number="7" style="v" sid="2PE 3:7" />At the present time, the sky, the upper atmosphere, outer-space, and the earth have been kept in a holding
+        pattern<char style="sup">[e]</char> by the same word <char style="it">of God </char>with an end-goal
+        of a judgment day and a <char style="it">consequent </char>destruction of <char style="it">all of </char>the
+        ungodly people.<verse eid="2PE 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2PE 3:8" />Now, make sure you get this, beloved: to the Lord, one day is like a thousand years and a thousand years
+        is like one day. <verse eid="2PE 3:8" />
+      <verse number="9" style="v" sid="2PE 3:9" />The Lord isn’t procrastinating in keeping His word<char style="sup">[f]</char>, like some consider Him
+        to be procrastinating, but He’s exercising patience in regard to you instead, not wishing anyone to be
+        destroyed but leaving space for everyone to have a change of heart and of ways<char style="sup">[g]</char>
+        instead.<verse eid="2PE 3:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2PE 3:10" />The day that the Lord will arrive like a thief <char style="it">coming at night to steal</char>, in which
+        <char style="it">day </char>the sky, the upper atmosphere, and outer-space as we know them will end<char
+        style="sup">[h]</char> in a rushing sound, but the elements<char style="sup">[B]</char>, as they are
+        heated to an extremely high temperature, will be shattered into pieces, and the earth and what was created
+        from it will be <char style="it">sought out, </char>discovered, <char style="it">and destroyed</char><char
+        style="sup">[C]</char>. <verse eid="2PE 3:10" />
+      <verse number="11" style="v" sid="2PE 3:11" />While all these things are shattered into pieces this way, the sort of lifestyle you must maintain is
+        one of holiness and piety, <verse eid="2PE 3:11" />
+      <verse number="12" style="v" sid="2PE 3:12" />eagerly awaiting for and hastening the Day of God, by means of which the sky, the upper atmosphere, and
+        outer-space will be shattered into pieces while burning, and the elements will be melted while being
+        heated to an extremely high temperature. <verse eid="2PE 3:12" />
+      <verse number="13" style="v" sid="2PE 3:13" />We eagerly await a new sky, upper atmosphere, and outer-space, and a new earth according to His promise,
+        <char style="it">where</char> in <char style="it">these new </char>things righteousness dwells.<verse eid="2PE 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2PE 3:14" />Therefore, beloved, while eagerly awaiting these things, accelerate being found spotless and blameless
+        in him in peace. <verse eid="2PE 3:14" />
+      <verse number="15" style="v" sid="2PE 3:15" />Consider our Lord <char style="it">to be </char>the patient savior, just as our beloved comrade Paul
+        wrote to you too, according to the wisdom that’s been bestowed on him, <verse eid="2PE 3:15" />
+      <verse number="16" style="v" sid="2PE 3:16" />as he too talks about all these things in his letters, in which <char style="it">letters </char>some
+        things are difficult to understand, things that the unlearned and unstable distort to their own self-destruction,
+        like they do with the rest of the Scriptures. <verse eid="2PE 3:16" />
+      <verse number="17" style="v" sid="2PE 3:17" />So you, beloved, aware of this beforehand, protect yourselves so that you won’t be deceived by unprincipled
+        men, to be led away from and <char style="it">ultimately</char> fall from your individual steadfastness.<verse eid="2PE 3:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2PE 3:18" />Now grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him <char style="it">be the
+        </char>glory from this moment to the eternal day. Amen (i.e., and with that I rest my case).<verse eid="2PE 3:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">those who get a tremendous kick out of ridiculing</char>…Lit: <char style="it">mockers-in-mocking</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">a critical juncture in time</char>…Lit: <char style="it">the last of days</char>. Ref.
+        note of John 6:39.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">The fact is, from when it all began in ancient times, our ancestors have died and gone
+        to their eternal glory and the promise of His coming was not fulfilled in their lifetime, and everything’s
+        continued following this same pattern with no interruption from ancient times onwards</char>…Lit: <char
+        style="it">For from it</char> [<char style="it">ancient-creation</char>] <char style="it">the fathers
+        have fallen asleep, all in this way continues from ancient-creation</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">the sky, the upper atmosphere, and outer-space</char>…Lit: <char style="it">the heavens</char>.
+        Ref. note of Luke 10:18.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">kept in a holding pattern</char>…Lit: <char style="it">laid up</char>; <char style="it">reserved</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">isn’t procrastinating in keeping His word</char>…Lit: <char style="it">isn’t slow of
+        promise</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">change of heart and of ways</char>…Lit: <char style="it">repentance</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">as we know them will end</char>…Lit: <char style="it">pass on by</char>; <char style="it">pass
+        away</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the promise of His coming</char>…This refers to OT promises of the coming of the Messiah
+        in power and glory and not necessarily to Jesus’s second coming. </char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the elements</char>…Not sure what this refers to</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">will be sought out, discovered, and destroyed</char>…Lit: <char style="it">will be found</char>.
+        Assumed this is a figure of speech, as the literal meaning makes little sense. Since it makes little
+        sense, the principal manuscripts disagree as to the exact wording, seeing that some manuscripts have
+        been altered to make sense of this snippet.</char>
+    </note>
+  <chapter eid="2PE 3" />
+</usx>

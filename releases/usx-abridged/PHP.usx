@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="PHP" style="id">The Bernmeister's NT</book>
+  <para style="h">Philippians</para>
+  <para style="toc1">The Epistle of Philippians</para>
+  <para style="toc2">Philippians</para>
+  <para style="toc3">Phil.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">PHILIPPIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="PHP 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 1:1" />From Paul and Timothy, slaves of Christ Jesus,
+    </para>
+    <para style="p" vid="PHP 1:1">To all the saints (i.e., believers) in Christ Jesus who live in Philippi together with the bishops (i.e.,
+        head pastors; overseers) and deacons (i.e., assistant pastors; assistants entrusted with significant
+        responsibilities; heads of ministry departments):<verse eid="PHP 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 1:2" />Grace to you and peace from God our Father and the Lord Jesus Christ.<verse eid="PHP 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="PHP 1:3" />I give thanks to my God every time I think about you while reminiscing, <verse eid="PHP 1:3" />
+      <verse number="4" style="v" sid="PHP 1:4" />always making every one of my requests put into prayer for you all with joy, <verse eid="PHP 1:4" />
+      <verse number="5" style="v" sid="PHP 1:5" />and I give thanks for your working closely with me in the spreading of the Gospel (i.e., the good-news
+        message of Christ) from the first day until the present. <verse eid="PHP 1:5" />
+      <verse number="6" style="v" sid="PHP 1:6" />I’ve reached the point where I’m convinced of this very thing, that He who began a good work in you will
+        complete it, working towards that ends until the day of Christ Jesus, <verse eid="PHP 1:6" />
+      <verse number="7" style="v" sid="PHP 1:7" />just as it’s right for me to be thinking about all of you this way, on account of me having you both
+        in my heart and in my chains and in the verbal defense and confirmation of the certainty of the Gospel—you
+        all being my fellow-workers of this grace.<verse eid="PHP 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="PHP 1:8" />In this regard, God is my witness to the fact that I long for all you with the deep, inner affections
+        of Christ Jesus. <verse eid="PHP 1:8" />
+      <verse number="9" style="v" sid="PHP 1:9" />And I pray this, that your love would proliferate even more and more in recognition, in more precise
+        knowledge, and in every sort of insight gained from perception, <verse eid="PHP 1:9" />
+      <verse number="10" style="v" sid="PHP 1:10" />resulting in your continual testing and approving of those things which excel, so that you would be sincere
+        and won’t get tripped up and would maintain this to the day of Christ, <verse eid="PHP 1:10" />
+      <verse number="11" style="v" sid="PHP 1:11" />having reached the point where you’ve been filled from the byproduct of righteousness which is through
+        Jesus Christ to the glory and praise of God.<verse eid="PHP 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 1:12" />I want you to know, comrades, that the situation I find myself in has further advanced the Gospel, <verse eid="PHP 1:12" />
+      <verse number="13" style="v" sid="PHP 1:13" />in that an awareness and understanding of my bonds in Christ has been made known among the entire palace
+        guard detachment and among everyone else, <verse eid="PHP 1:13" />
+      <verse number="14" style="v" sid="PHP 1:14" />and many of the comrades in the Lord, urged on by my bonds, are much more daring about going around speaking
+        the word of God without fear.<verse eid="PHP 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="PHP 1:15" />While it’s true that some preach Christ because they’re motivated by jealousy and strife, on the other
+        hand some are motivated by good intentions. <verse eid="PHP 1:15" />
+      <verse number="16" style="v" sid="PHP 1:16" />While they who spread the Gospel out of love know for a fact that I’ve been appointed to give a verbal
+        defense of the Gospel, <verse eid="PHP 1:16" />
+      <verse number="17" style="v" sid="PHP 1:17" />on the other hand they who proclaim Christ out of ambition and not with sincerity expect to stir up vexation
+        for me while I’m in jail. <verse eid="PHP 1:17" />
+      <verse number="18" style="v" sid="PHP 1:18" />So what?—except for this: that Christ is proclaimed in all respects, whether with ulterior motives or
+        with no hidden agenda, and in this I rejoice—and indeed I will rejoice, <verse eid="PHP 1:18" />
+      <verse number="19" style="v" sid="PHP 1:19" />for I know for a fact that this will result in deliverance for me through your prayer and the support
+        of the Spirit of Christ Jesus, <verse eid="PHP 1:19" />
+      <verse number="20" style="v" sid="PHP 1:20" />in line with my eager expectation and hope that I won’t be embarrassed or humiliated in any way, but
+        rather with every sort of frankness, forthrightness, and openness imaginable Christ will be magnified
+        now—as always—in my body, whether through life or through death.<verse eid="PHP 1:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="PHP 1:21" />You see, the way I see it, to live is Christ and to die is gain (i.e., is advantageous; is a desirable
+        option). <verse eid="PHP 1:21" />
+      <verse number="22" style="v" sid="PHP 1:22" />If I live on in the flesh, this will yield tangible results from my work. And what will I choose?—I can’t
+        tell; <verse eid="PHP 1:22" />
+      <verse number="23" style="v" sid="PHP 1:23" />I’m caught between the two, having the desire to be set free again and to be together with Christ, for
+        this is much, much better. <verse eid="PHP 1:23" />
+      <verse number="24" style="v" sid="PHP 1:24" />But to remain in the flesh is more necessary for your sakes. <verse eid="PHP 1:24" />
+      <verse number="25" style="v" sid="PHP 1:25" />And convinced of this I know that I will remain here on Earth and stay by your side—with all of you—for
+        your progress and for the joy which comes from faith, <verse eid="PHP 1:25" />
+      <verse number="26" style="v" sid="PHP 1:26" />so that your grounds for speaking proudly would proliferate in Christ Jesus by my doing, on account of
+        me visiting you again.<verse eid="PHP 1:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="PHP 1:27" />Only let your life in society be worthy of the Gospel of Christ, so that, whether I come and see you
+        or am away, I hear what you’re up to, that you stand together in one spirit, one soul, joined together
+        by the Faith of the Gospel <verse eid="PHP 1:27" />
+      <verse number="28" style="v" sid="PHP 1:28" />and are not frightened and intimidated by anything done by your adversaries, which in particular is indicative
+        of their ruin, but of your salvation (i.e., your being kept from ruin); and this intimidation-ruin-salvation
+        pattern is from God, <verse eid="PHP 1:28" />
+      <verse number="29" style="v" sid="PHP 1:29" />since the thing given—undeservedly so—to you on Christ’s behalf is to not only to believe in him but
+        to suffer on his behalf, <verse eid="PHP 1:29" />
+      <verse number="30" style="v" sid="PHP 1:30" />having the same anguish and conflict as he did, the very thing you saw happening to and in me and now
+        hear reports are happening to and in me.<verse eid="PHP 1:30" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="PHP 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="PHP 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 2:1" />So now, if there’s any comfort or exhortation in Christ, if any consolation offered by love, if any commonality
+        and fellowship of spirit, if any deep, inner affection— <verse eid="PHP 2:1" />
+      <verse number="2" style="v" sid="PHP 2:2" />you’ll make me overjoyed if you would adopt that way of thinking, having the same love, being harmonious
+        and on the same page, <verse eid="PHP 2:2" />
+      <verse number="3" style="v" sid="PHP 2:3" />with no one motivated by ambition or by conceit but by humility instead, considering each other to be
+        better than yourselves, <verse eid="PHP 2:3" />
+      <verse number="4" style="v" sid="PHP 2:4" />not paying careful attention to your own affairs exclusively but instead paying careful attention to
+        each other’s affairs as well.<verse eid="PHP 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="PHP 2:5" />Maintain in you the way of thinking that was also in Christ Jesus, <verse eid="PHP 2:5" />
+      <verse number="6" style="v" sid="PHP 2:6" />who, while existing in the form of God, didn’t think being equal to God was a thing that had to be to
+        be held onto with everything you’ve got, <verse eid="PHP 2:6" />
+      <verse number="7" style="v" sid="PHP 2:7" />but instead depleted himself and assumed the form of a slave, having turned into something similar to
+        humans, and, unveiled to the public having the appearance of that of a human being, <verse eid="PHP 2:7" />
+      <verse number="8" style="v" sid="PHP 2:8" />he humbled himself and became obedient until it reached a point where the obedience required his death,
+        not just any-old death but the death of crucifixion on a cross. <verse eid="PHP 2:8" />
+      <verse number="9" style="v" sid="PHP 2:9" />And in light of this, God exalted him (i.e., promoted him to a high position) and out of His generosity
+        gave him the name which is above all names (i.e., gave him the ultimate top rank, outranking every other
+        rank), <verse eid="PHP 2:9" />
+      <verse number="10" style="v" sid="PHP 2:10" />so that in the name of Jesus (i.e. when Jesus’s authority is invoked) every knee would bow of the things
+        in the heavens (i.e., in heaven; in the spiritual domain) and of the things on the Earth and of the things
+        under the earth (i.e., the world of the dead, including hell) <verse eid="PHP 2:10" />
+      <verse number="11" style="v" sid="PHP 2:11" />and every tongue would confess out loud that Jesus Christ is Lord to the glory of God the Father.<verse eid="PHP 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 2:12" />So now, my dear comrades, just as you have always obeyed, not just when I was there in person but even
+        more in my absence, work at the salvation where your own selves are concerned with the utmost reverence
+        and respect; <verse eid="PHP 2:12" />
+      <verse number="13" style="v" sid="PHP 2:13" />you see, God is the One Who’s working in you both the wanting and the working-on of what pleases Him.<verse eid="PHP 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="PHP 2:14" />Do all things while distancing yourselves from grumbling and scheming or plotting, <verse eid="PHP 2:14" />
+      <verse number="15" style="v" sid="PHP 2:15" />so that you would become blameless and innocent, children of God in the midst of a crooked and perverted
+        Zeitgeist, in which you shine as lights in the world, <verse eid="PHP 2:15" />
+      <verse number="16" style="v" sid="PHP 2:16" />holding fast to a message of life, resulting in me having proud words to tell others up to the day of
+        Christ, since you haven’t run life’s race or toiled for nothing.<verse eid="PHP 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="PHP 2:17" />Anyways, if I’m being poured out like a libation upon the altar and during the liturgy of your faith,
+        I will rejoice and will rejoice together with you all— <verse eid="PHP 2:17" />
+      <verse number="18" style="v" sid="PHP 2:18" />And the same for you: you will rejoice and will rejoice together with me.<verse eid="PHP 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="PHP 2:19" />Now I hope in the Lord Jesus to send Timothy to you posthaste, so that once I know what you’re up to,
+        it’ll put me at ease. <verse eid="PHP 2:19" />
+      <verse number="20" style="v" sid="PHP 2:20" />I have no one, you see, who sees things the way I do, a certain someone who’ll truly care for you. <verse eid="PHP 2:20" />
+      <verse number="21" style="v" sid="PHP 2:21" />In fact, everyone I’ve tried to find to work with me is pursuing their own self-interests, not the interests
+        of Jesus Christ. <verse eid="PHP 2:21" />
+      <verse number="22" style="v" sid="PHP 2:22" />But you’re familiar with how he qualified to receive my trust, that he served me in the Gospel like a
+        son serves a father. <verse eid="PHP 2:22" />
+      <verse number="23" style="v" sid="PHP 2:23" />So I certainly hope to send this fellow as I could immediately turn my attention to my affairs were he
+        to be sent. <verse eid="PHP 2:23" />
+      <verse number="24" style="v" sid="PHP 2:24" />I’m convinced in the Lord of the same, that I too will come posthaste.<verse eid="PHP 2:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="PHP 2:25" />I deemed it necessary that I send you Epaphroditus, my comrade, coworker, and fellow soldier-in-arms—your
+        missionary and my personal attendant— <verse eid="PHP 2:25" />
+      <verse number="26" style="v" sid="PHP 2:26" />since he was longing to see all of you and was quite distressed because you heard that he was rundown
+        with some sort of sickness. <verse eid="PHP 2:26" />
+      <verse number="27" style="v" sid="PHP 2:27" />You see, he was weakened by sickness to the point of death, but instead of him dying God had mercy on
+        him, and not just on him but on me too so that I wouldn’t be wrenched with pain upon pain. <verse eid="PHP 2:27" />
+      <verse number="28" style="v" sid="PHP 2:28" />So with even more urgency I sent him on his way so that after seeing him again you would rejoice and
+        I would be relieved of my pain. <verse eid="PHP 2:28" />
+      <verse number="29" style="v" sid="PHP 2:29" />So receive him in the Lord with all the joy you can muster, and honor individuals like him, <verse eid="PHP 2:29" />
+      <verse number="30" style="v" sid="PHP 2:30" />since he came close to death on account of Christ’s work, risking his very life so that he would fill
+        in the gap caused by your drop-off in serving me.<verse eid="PHP 2:30" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="PHP 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="PHP 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 3:1" />In conclusion, my dear comrades, rejoice in the Lord. It’s no problem at all for me to write this over
+        and over, and it’ll keep you from careening into a ditch.<verse eid="PHP 3:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 3:2" />Look at the dogs (i.e., those who are worthless, contemptuous people who live like animals; those who
+        are excluded from having a covenant with God) and don’t stop looking at them, look at those who do evil,
+        look at the anti-circumcision (i.e., those who think they have a covenant with God but the opposite is
+        true). <verse eid="PHP 3:2" />
+      <verse number="3" style="v" sid="PHP 3:3" />The fact of the matter is that we are the circumcision (i.e., you’re the ones who actually have a covenant
+        with God), the ones who have a service of worship in the Spirit of God and make audacious remarks in
+        Christ Jesus and have no confidence in the flesh (i.e., in your own selves; in your abilities apart from
+        God to please God; in your ability to gain God’s favor by simply following a list of rules; in your human
+        credentials), <verse eid="PHP 3:3" />
+      <verse number="4" style="v" sid="PHP 3:4" />although I have confidence in the flesh. If some other person has confidence in the flesh, I have more.<verse eid="PHP 3:4" />
+      <verse number="5" style="v" sid="PHP 3:5" />Circumcised on the eighth day; an Israeli by race, of the tribe of Benjamin, a Hebrew who stands out
+        among the Hebrews; a Pharisee who was totally committed to doing everything according to the Law of Moses;<verse eid="PHP 3:5" />
+      <verse number="6" style="v" sid="PHP 3:6" />as far as the intensity of his zeal, a person who was persecuting the church; as far as his pursuit of
+        a righteousness (i.e., a means of standing before God and telling Him why He should approve of your life)
+        which is generated by means of following the Law, faultless.<verse eid="PHP 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="PHP 3:7" />Never mind all that—whatever gain (i.e., advantages) I had, I consider it to be lost (i.e., to have been
+        forfeited) on account of Christ. <verse eid="PHP 3:7" />
+      <verse number="8" style="v" sid="PHP 3:8" />Oh, no, no—even I consider everything forfeited on account of the surpassing greatness and excellence
+        of the knowledge of Christ Jesus my Lord, on account of whom everything has been forfeited, and I consider
+        everything to be garbage and crap so that I may gain Christ <verse eid="PHP 3:8" />
+      <verse number="9" style="v" sid="PHP 3:9" />and that I would be found in him not having my own righteousness, one which is derived from following
+        the Law but instead one which is through the faith of Christ, which is a righteousness from God on the
+        basis of the Faith— <verse eid="PHP 3:9" />
+      <verse number="10" style="v" sid="PHP 3:10" />to come to know him and the power of his resurrection and the sharing of and participation in his sufferings,
+        while being conformed to his death, <verse eid="PHP 3:10" />
+      <verse number="11" style="v" sid="PHP 3:11" />if somehow I might attain the breaking free from and rising from the dead.<verse eid="PHP 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 3:12" />Not that I’ve already attained these things I’m writing about or have reached the point of perfection,
+        but I’m chasing after these things in the hope that I just might put them under my thumb, on the basis
+        of me having been put under the thumb by Christ Jesus. <verse eid="PHP 3:12" />
+      <verse number="13" style="v" sid="PHP 3:13" />Comrades, I don’t figure that I’ve reached the point where I’ve put these things under my thumb, but
+        I do this one thing: I forget about what’s behind me and press on to what lies ahead of me. <verse eid="PHP 3:13" />
+      <verse number="14" style="v" sid="PHP 3:14" />I keep my eye on the ball and chase after the prize of God’s high calling in Christ Jesus. <verse eid="PHP 3:14" />
+      <verse number="15" style="v" sid="PHP 3:15" />So any person at all who’s mature, may we be of this opinion; and if you are of a different opinion,
+        God will reveal this to you. <verse eid="PHP 3:15" />
+      <verse number="16" style="v" sid="PHP 3:16" />In any event, let’s be diligent about maintaining what we’ve already attained.<verse eid="PHP 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="PHP 3:17" />Become people who imitate me, comrades, and pay careful attention to those who live their day to day
+        lives using us as role-models. <verse eid="PHP 3:17" />
+      <verse number="18" style="v" sid="PHP 3:18" />You see, many live their day to day lives in the opposite manner, people whom I was constantly writing
+        to you about, but now—even while crying—I’m telling you are the enemies of the cross of Christ, <verse eid="PHP 3:18" />
+      <verse number="19" style="v" sid="PHP 3:19" />people whose destination is destruction, whose god is their belly and who take delightful pride in their
+        shame, who are consumed with thinking about earthly things. <verse eid="PHP 3:19" />
+      <verse number="20" style="v" sid="PHP 3:20" />As far as we’re concerned, though, the country that we’re citizens of exists in the heavens (i.e., in
+        the spiritual domain and in heaven itself), from which we also eagerly await a savior, namely the Lord
+        Jesus Christ, to come out of, <verse eid="PHP 3:20" />
+      <verse number="21" style="v" sid="PHP 3:21" />who will transform our humble, lowly, abased bodies into a body of his glory done in a way which is consistent
+        with him operating in what he’s capable of and with him making all things subject to himself.</para>
+    <para style="p" vid="PHP 3:21"><verse eid="PHP 3:21"/></para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="PHP 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="PHP 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 4:1" />…So my dear comrades whom I miss very much, my joy and my crowning achievement, make your stand in the
+        Lord this way, my beloved.<verse eid="PHP 4:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 4:2" />I ask that Euodia and Syntyche compromise and live harmoniously in the Lord. <verse eid="PHP 4:2" />
+      <verse number="3" style="v" sid="PHP 4:3" />Yes, and I ask you too, my honest-to-goodness business partners, help them, they who are the very ones
+        who came and joined me in helping spread the Gospel (i.e., the message I’m spreading), which includes
+        Clement and the rest of my other fellow workers whose names are in the Book of Life.<verse eid="PHP 4:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="PHP 4:4" />Always rejoice in the Lord. I’ll say it again: rejoice. <verse eid="PHP 4:4" />
+      <verse number="5" style="v" sid="PHP 4:5" />Let your courteous, generous, mild, gentle, kind, tolerant demeanor be made known to all people: the
+        Lord is nearby.<verse eid="PHP 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="PHP 4:6" />Don’t worry, be anxious, or have angst about anything, but instead in every situation and concerning
+        everything you need make your requests known to God by means of prayer and supplication with thanksgiving,<verse eid="PHP 4:6" />
+      <verse number="7" style="v" sid="PHP 4:7" />and the peace of God which transcends everything in your mind and transcends all mental activity will
+        guard your hearts and your minds in Christ Jesus.<verse eid="PHP 4:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="PHP 4:8" />In conclusion, comrades, whatsoever is true, whatsoever is honorable, whatsoever is right, whatsoever
+        is pure, whatsoever is admirable, whatsoever is laudable—let these things turn over in your head—let
+        your mind crunch these thoughts—figure these things out—meditate on them. <verse eid="PHP 4:8" />
+      <verse number="9" style="v" sid="PHP 4:9" />And what you learned, embraced, heard, and saw in me, put these things into practice, and the God of
+        peace will be with you.<verse eid="PHP 4:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="PHP 4:10" />I was just thrilled in the Lord that your consideration for how well-off I am has finally improved, in
+        the respect that you considered my financial state of affairs over and over again but time and again
+        lacked the opportunity to help me out financially. <verse eid="PHP 4:10" />
+      <verse number="11" style="v" sid="PHP 4:11" />Not that I’m forced to speak this way out of lack, seeing that I’ve learned to be self-sufficient regardless
+        of the situation I’m in. <verse eid="PHP 4:11" />
+      <verse number="12" style="v" sid="PHP 4:12" />I know from firsthand experience both how it is to be humbled (i.e., live in a financially bankrupted
+        or impoverished condition) and how it is to be prosperous: in each and every circumstance I’ve learned
+        the secret of every one of these: getting my belly filled, going hungry, prospering, and having a lack
+        of provision: <verse eid="PHP 4:12" />
+      <verse number="13" style="v" sid="PHP 4:13" />I can do anything by him who gives me the power. <verse eid="PHP 4:13" />
+      <verse number="14" style="v" sid="PHP 4:14" />Nevertheless it was a good thing that you did in commiserating with, sharing in, and partaking of my
+        difficulties.<verse eid="PHP 4:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="PHP 4:15" />Now also, you know for a fact, Philippians, that in the early days of the Gospel when I left Macedonia,
+        no church participated in regard to this matter of giving and receiving except for you only, <verse eid="PHP 4:15" />
+      <verse number="16" style="v" sid="PHP 4:16" />that once and again a second time while I was in Thessalonica you sent me a contribution to help with
+        my needs. <verse eid="PHP 4:16" />
+      <verse number="17" style="v" sid="PHP 4:17" />Not that I’m fishing for handouts—no—I’m seeking the Fruit which is being multiplied and credited to
+        your account. <verse eid="PHP 4:17" />
+      <verse number="18" style="v" sid="PHP 4:18" />But I have everything I need and then some, having been resupplied by Epaphroditus by those things sent
+        from you, a pleasant odor, an acceptable sacrifice, pleasing to God like the sacrifices offered to God
+        in the Old Testament that He said pleased Him. <verse eid="PHP 4:18" />
+      <verse number="19" style="v" sid="PHP 4:19" />My God shall supply all your needs reflective of His riches in glory in Christ Jesus. <verse eid="PHP 4:19" />
+      <verse number="20" style="v" sid="PHP 4:20" />But the glory be given to our God and Father forever and ever. Amen (i.e., let us pause a moment for
+        that finishing remark to sink in).<verse eid="PHP 4:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="PHP 4:21" />Say hello to all the saints in Christ Jesus (i.e., those who believe in Christ) for me. The comrades
+        with me extend their greetings to you as well. <verse eid="PHP 4:21" />
+      <verse number="22" style="v" sid="PHP 4:22" />All the saints say hello, especially those who belong to Caesar’s household.<verse eid="PHP 4:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="PHP 4:23" />The grace of the Lord Jesus Christ be with your spirit.<verse eid="PHP 4:23" />
+    </para>
+  <chapter eid="PHP 4" />
+</usx>

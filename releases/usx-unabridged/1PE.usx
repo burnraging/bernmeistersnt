@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1PE" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">1 Peter</para>
+  <para style="toc1">The Epistle of 1 Peter</para>
+  <para style="toc2">1 Peter</para>
+  <para style="toc3">1 Pet.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 PETER</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">The final one of the multiple faces we see of Peter is contained in his epistle, and it’s hard to imagine
+    them being the same person. The Peter of the Gospels is impulsive; the Peter of Acts is the first church
+    leader; the Peter of Galatians is called out for wrong-doing—but the Peter of this epistle is gracious
+    and mature.</para>
+  <para style="ipi">Peter the pastor admonishes the readers in a positive manner, steering them in the right direction, calling
+    them to a higher walk with the Lord, encouraging them, reminding them of who they now are.</para>
+  <para style="ipi">Like other epistles, the Greek text is choppy, as one expects in a letter. A translator finds himself
+    gleaning the gist of what Peter writes and wording it in his native language, deviating from the word-for-word
+    methodology. Sometimes the letter appears to have grammatical errors or the literal reading isn’t so
+    logical (an example is 2:5). The novice reader may have trouble following all of Peter’s OT references.
+    In spite of the fact that what Peter says isn’t written in a straightforward manner, Peter’s message
+    is clear. Case in point is the beginning of the third chapter, when Peter is talking about what women
+    wear. Logical?—not exactly. But the point is clear.</para>
+  <para style="ipi">Peter’s epistle is tender and commends what some would categorize as feminine virtues (3:8), and he has
+    obviously been transformed from the impetuous fisherman of the Gospels. But his epistles hops about from
+    here to there, randomly redirected to apocalyptic insights and symbolism found in the Old Testament a
+    few verses later (3:19–22). The speed at which Peter makes points, but then hops to another topic, is
+    breathtaking. He never lets the foot off the gas pedal, covering a lot of ground in a short letter. Upon
+    reading the epistle in one sitting, the reader will likely affirm that everything which could have been
+    said was said and that nothing more need be added.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1PE 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1PE 1:1" />Peter, missionary<char style="sup">[a]</char> of Jesus Christ:
+    </para>
+    <para style="p" vid="1PE 1:1">To <char style="it">the</char> <char style="it">specially </char>chosen temporary residents<char style="sup">[b]</char>
+        (<char style="it">namely, </char>the scattered <char style="it">believers</char> of Pontus, Galatia,
+        Cappadocia, Asia, and Bithynia) <verse eid="1PE 1:1"/>
+      <verse number="2" style="v" sid="1PE 1:2" /><char style="it">chosen </char>by the Holy Spirit according to the foreknowledge of <char style="it">the
+        </char>Father-God and directed towards obedience and towards a <char style="it">ceremonial-like </char>sprinkling
+        of the blood of Jesus Christ (<char style="it">just like Moses ratified the covenant by sprinkling oxen
+        blood over the people</char><char style="sup">[c]</char>):</para>
+    <para style="p" vid="1PE 1:2">Grace to you, and peace <char style="it">too</char>, and may they come to you in wave after wave<char
+        style="sup">[d]</char>.<verse eid="1PE 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1PE 1:3" />The blessed God and Father<char style="sup">[e]</char> of our Lord Jesus Christ, who, according to the
+        enormous amount of mercy He has, has rebirthed us to a living hope through the resurrection of Jesus
+        Christ from the dead <verse eid="1PE 1:3" />
+      <verse number="4" style="v" sid="1PE 1:4" />and to an imperishable, unsullied, non-deteriorating Customized Allocation<char style="sup">[A]</char>
+        tucked away for us in both the spiritual domain and heaven itself<char style="sup">[B]</char>— <verse eid="1PE 1:4" />
+      <verse number="5" style="v" sid="1PE 1:5" />we who by God’s power are being protected through faith and directed towards a rescue program<char style="sup">[f]</char>
+        to be revealed in the thick of it all<char style="sup">[g]</char>— <verse eid="1PE 1:5" />
+      <verse number="6" style="v" sid="1PE 1:6" />and in the thick of it all we are jubilant, if <char style="it">it so happens that</char> at the moment
+        we must undergo the distress caused by various trials, <verse eid="1PE 1:6" />
+      <verse number="7" style="v" sid="1PE 1:7" />so that the passing grade earned by our faith—a passing grade many times more precious than perishable-gold<char
+        style="sup">[h]</char> (but is verified <char style="it">to be</char> <char style="it">pure</char> by
+        <char style="it">melting it in</char> a furnace<char style="sup">[C]</char>)—would be found to result
+        in praise, glory, and honor in an unveiling of <char style="it">who </char>Jesus Christ <char style="it">is</char>.<verse eid="1PE 1:7" />
+      <verse number="8" style="v" sid="1PE 1:8" />You love him whom you don’t see; you believe in him whom at the moment you’re not familiar with through
+        direct sensory contact, and you exuberate with inexpressible, glorious joy, <verse eid="1PE 1:8" />
+      <verse number="9" style="v" sid="1PE 1:9" />taking possession of the end-result of your faith: a rescue and preservation program for your mind and
+        emotions and for your very lives as well<char style="sup">[i]</char>.<verse eid="1PE 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="1PE 1:10" />About this “rescue and preservation program”…prophets researched and examined aspects of the grace that
+        was prophesied into<char style="sup">[j]</char> you, <verse eid="1PE 1:10" />
+      <verse number="11" style="v" sid="1PE 1:11" />looking into which individuals or which particular timeframe the Spirit of Christ in them was specifying
+        over and over, going on record before it happened stating the circumstances of the Messiah’s suffering
+        and the glory which followed. <verse eid="1PE 1:11" />
+      <verse number="12" style="v" sid="1PE 1:12" />It was revealed to them that the <char style="it">prophesies</char> which were <char style="it">uttered
+        </char>through their ministries weren’t given for<char style="sup">[k]</char> themselves but for you,
+        <char style="it">namely</char> the things you’ve been told already by the evangelizations of the Gospel
+        to you by the Holy Spirit sent from heaven—things which the angels long to peer into.<verse eid="1PE 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1PE 1:13" />Therefore, having poised your minds for action<char style="sup">[l]</char>, being clear and level-headed<char
+        style="sup">[m]</char> to the utmost extent, hope for the grace delivered to you in an unveiling of <char
+        style="it">who</char> Jesus Christ <char style="it">is</char>. <verse eid="1PE 1:13" />
+      <verse number="14" style="v" sid="1PE 1:14" />As obedient children, don’t be molded by the <char style="it">carnal </char>desires you had in your previous
+        life of ignorance, <verse eid="1PE 1:14" />
+      <verse number="15" style="v" sid="1PE 1:15" />but in pace with your holy calling <char style="it">into the Faith</char>, get to where<char style="sup">[n]</char>
+        you’re holy in all of your conduct as well, <verse eid="1PE 1:15" />
+      <verse number="16" style="v" sid="1PE 1:16" />because it’s written, “Be holy since I Myself am holy.”<verse eid="1PE 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1PE 1:17" />And if you call on a Father who judges each person impartiality on the basis of their actions, live out
+        the time you spend on this planet<char style="sup">[o]</char> in fear, <verse eid="1PE 1:17" />
+      <verse number="18" style="v" sid="1PE 1:18" />knowing that you were not bought back with perishable silver or gold from your pointless, useless lifestyle
+        handed down from your ancestors, <verse eid="1PE 1:18" />
+      <verse number="19" style="v" sid="1PE 1:19" />but with precious blood like <char style="it">one gets </char>from a <char style="it">sacrificial </char>lamb
+        without defects or spots, <char style="it">namely</char> Christ. <verse eid="1PE 1:19" />
+      <verse number="20" style="v" sid="1PE 1:20" />While, yes, he was known beforehand starting from day-one<char style="sup">[p]</char>, but aside from
+        that he’s made an appearance at a critical point in time<char style="sup">[q]</char> for your sakes:<verse eid="1PE 1:20" />
+      <verse number="21" style="v" sid="1PE 1:21" />you who through him believe in God, who raised him from the dead and glorified him, so that our faith
+        and hope <char style="it">would </char>be set on God.<verse eid="1PE 1:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="1PE 1:22" />Now that our mind and emotions and our very lives as well have been purified by the obedience of truth
+        to a genuine enjoyment of and close friendship to our fellow man, love one another fervently out of pure
+        hearts, <verse eid="1PE 1:22" />
+      <verse number="23" style="v" sid="1PE 1:23" />having been rebirthed not from perishable seed but from imperishable, through the living Word of God—and
+        <char style="it">the Word </char>remains <char style="it">with us</char>. <verse eid="1PE 1:23" />
+      <verse number="24" style="v" sid="1PE 1:24" />Therefore <char style="it">the Bible says</char>:
+    </para>
+    <para style="pi" vid="1PE 1:24"></para>
+    <para style="pi" vid="1PE 1:24">Every physical body</para>
+    <para style="pi" vid="1PE 1:24">And man’s attempts to live righteously apart from God</para>
+    <para style="pi" vid="1PE 1:24">—And let’s throw in the carnal nature<char style="sup">[r]</char>—</para>
+    <para style="pi" vid="1PE 1:24">Is like grass</para>
+    <para style="pi" vid="1PE 1:24">And when the flesh is at its finest moment,</para>
+    <para style="pi" vid="1PE 1:24">At the pinnacle of its beauty and achievement<char style="sup">[s]</char>,</para>
+    <para style="pi" vid="1PE 1:24">Is like the blossoming of the grass’s flowers.</para>
+    <para style="pi" vid="1PE 1:24">The grass <char style="it">eventually </char>withers,</para>
+    <para style="pi" vid="1PE 1:24">And the blossoms fall off,<verse eid="1PE 1:24"/>
+    </para>
+    <para style="pi">
+      <verse number="25" style="v" sid="1PE 1:25" />But the Word of the Lord remains forever.
+    </para>
+    <para style="pi" vid="1PE 1:25"></para>
+    <para style="m" vid="1PE 1:25">This <char style="it">very same “Word of the Lord” </char>is the evangelized-message which was put to
+        you.<verse eid="1PE 1:25"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">missionary</char>…Lit: <char style="it">apostle</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">temporary residents</char>…Lit: <char style="it">sojourners</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">just like Moses ratified the covenant by sprinkling oxen blood over the people…</char>Ref.
+        Exod. 24:7,8</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">may they come to you in wave after wave</char>…Lit: <char style="it">be multiplied</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">God and Father</char>…An hendiadys in some respects. Ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">rescue program</char>…Lit: <char style="it">salvation</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the thick of it</char> <char style="it">all</char>…Lit: <char style="it">in</char> [<char
+        style="it">the</char>] <char style="it">last time</char>. <char style="it">Last time</char>, <char style="it">last
+        day</char>, <char style="it">last hour</char> are expressions.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">perishable gold</char>…An expression or perhaps an idiom; used here, in 1:18, in Acts
+        8:20. Not sure what it exactly means.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">mind and emotions and for your very lives as well</char>…Lit: <char style="it">soul</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">into</char>…Or: <char style="it">in</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">for</char>…Lit: <char style="it">to</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">having poised your minds for action</char>…Lit: <char style="it">having girded the loins
+        of your minds</char>. A metaphor. Ref. Luke 12:37.</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">clear and level-headed</char>…Lit: <char style="it">sober</char>. Somewhat of a metaphor.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">get to where</char>…Lit: <char style="it">become</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">spend on this planet</char>…Lit: <char style="it">sojourn</char> (like in a foreign
+        country)</char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">starting from day-one</char>…Lit: <char style="it">from the foundation of the world</char>.
+        A biblical expression; also used in Matt. 13:35, 25:34.</char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">critical point in time</char>…Lit: <char style="it">at the last of times</char>. <char
+        style="it">Last times </char>is a biblical expression.</char>
+    </note>
+    <note caller="[r]" style="f">
+      <char style="fk">[r]</char>
+      <char style="ft"><char style="it">Every physical body and man’s attempts to live righteously apart from God—and let’s
+        throw in the carnal nature</char>…Lit: <char style="it">all flesh</char></char>
+    </note>
+    <note caller="[s]" style="f">
+      <char style="fk">[s]</char>
+      <char style="ft"><char style="it">when the flesh is at its finest moment, at the pinnacle of its beauty and achievement</char>…Lit:
+        <char style="it">its glory</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Customized Allocation</char>…Or: <char style="it">Special Parcel</char>…Lit: <char style="it">inheritance</char>.
+        The word <char style="it">inheritance </char>as used in the NT leverages the concept of an inheritance
+        from the OT (ref. note of Luke 10:25), then applies this to the covenant of the NT. To recap, just as
+        God in the OT had a specific piece of land for His people to dwell in, He has a specific place where
+        He wants His NT people to “dwell.” This NT “land” is not a physical land but is a place, spiritually
+        speaking, where God has allocated for his people and has tailored it specifically for each Christian
+        denomination and even each Christian individually, just like the land of Israel in the time of Joshua
+        was partitioned by tribe, by clan, and finally by family. This spiritual “land” consists of promises
+        given in the Bible; of the movement of the Holy Spirit collectively in a denomination, a church, and
+        even customized down to the individual: a special gift or calling for each person.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">in both the spiritual domain and heaven itself</char>…Lit: <char style="it">heaven</char>.
+        The Gk. word <char style="it">heaven </char>has multiple meanings depending on the context. Paul mentioned
+        that there are at least three “heavens” (2 Cor. 12:2); these include the sky above, the spiritual domain,
+        and heaven itself.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">but is verified to be pure by melting it in a furnace</char>…Lit: <char style="it">but
+        through fire approved</char>. The word <char style="it">fire </char>here is a synecdoche for a furnace
+        used for melting and reforming gold.</char>
+    </note>
+  <chapter eid="1PE 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1PE 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1PE 2:1" />So putting aside all malice, all guile or deceitful trickery, hypocrisy, envy, and the bad-mouthing of
+        others, <verse eid="1PE 2:1" />
+      <verse number="2" style="v" sid="1PE 2:2" /><char style="it">just</char> like a newborn baby yearns for milk, yearn for the (logical <char style="it">analogy
+        to the</char><char style="sup">[A]</char>) pure milk<char style="sup">[B]</char>, in order that by it
+        you would grow into the rescue program, the program which keeps you from calamity<char style="sup">[a]</char>,<verse eid="1PE 2:2" />
+      <verse number="3" style="v" sid="1PE 2:3" />since—surely now<char style="sup">[C]</char>—you’ve tasted that the Lord is exceedingly proficient and
+        kind.<verse eid="1PE 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1PE 2:4" />Coming to him—a living stone—who failed inspection and was rejected by humans on the one hand but with
+        God <char style="it">is</char> chosen and precious on the other. <verse eid="1PE 2:4" />
+      <verse number="5" style="v" sid="1PE 2:5" />And you as living stones—<char style="it">living stones which form</char> a spiritual edifice—you yourselves
+        are being constructed into a holy priesthood to offer up<char style="sup">[b]</char> spiritual sacrifices
+        (analogous to animal sacrifices) acceptable to God through Jesus Christ. <verse eid="1PE 2:5" />
+      <verse number="6" style="v" sid="1PE 2:6" />Therefore the Bible<char style="sup">[c]</char> contains this:
+    </para>
+    <para style="pi" vid="1PE 2:6"></para>
+    <para style="pi" vid="1PE 2:6">See here now: I’m putting a stone in place</para>
+    <para style="pi" vid="1PE 2:6">In <char style="it">that conceptual, symbolic, idealized city</char> Zion—</para>
+    <para style="pi" vid="1PE 2:6">A chosen, precious cornerstone.</para>
+    <para style="pi" vid="1PE 2:6">There’s no way at all </para>
+    <para style="pi" vid="1PE 2:6">That the one who believes and trusts in him</para>
+    <para style="pi" vid="1PE 2:6">Will be disappointed or put to shame—</para>
+    <para style="pi" vid="1PE 2:6">Not a chance.<verse eid="1PE 2:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="1PE 2:7" />So honor and value <char style="it">goes to</char> you believers. But to those who refuse to believe:
+    </para>
+    <para style="pi" vid="1PE 2:7"></para>
+    <para style="pi" vid="1PE 2:7">A stone which the builders</para>
+    <para style="pi" vid="1PE 2:7">Failed during inspection and rejected—</para>
+    <para style="pi" vid="1PE 2:7">That’s the one which became</para>
+    <para style="pi" vid="1PE 2:7">The main corner <char style="it">of the foundation</char>.<verse eid="1PE 2:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="1PE 2:8" />…And:
+    </para>
+    <para style="pi" vid="1PE 2:8"></para>
+    <para style="pi" vid="1PE 2:8">A stone which causes one to veer off into a ditch</para>
+    <para style="pi" vid="1PE 2:8">Resulting in wrong-doing</para>
+    <para style="pi" vid="1PE 2:8">And <char style="it">also </char>a rock which offends<char style="sup">[D]</char></para>
+    <para style="pi" vid="1PE 2:8"></para>
+    <para style="m" vid="1PE 2:8">Those who veer off into a ditch by not believing in the Word:<char style="it"> like the stone which has
+        been put in place in Zion,</char> they too have been “put in place<char style="sup">[d]</char>” to that
+        ends.<verse eid="1PE 2:8"/>
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1PE 2:9" />But you are “A select generation, a royal priesthood, a holy people sharing the same heritage and culture,
+        a people for safe keeping, so that you all would proclaim the awesomeness<char style="sup">[e]</char>”
+        of the One who’s called you out of darkness to His marvelous light.<verse eid="1PE 2:9" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="10" style="v" sid="1PE 2:10" />Back then they were not a people
+    </para>
+    <para style="pi" vid="1PE 2:10">But now <char style="it">are </char>a people of God.</para>
+    <para style="pi" vid="1PE 2:10">They had not been shown mercy</para>
+    <para style="pi" vid="1PE 2:10">But now are being shown mercy.<verse eid="1PE 2:10"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="11" style="v" sid="1PE 2:11" />Beloved, I urge you as foreigners and temporary residents to stay away from carnal desires, the very
+        things which wage war against the psyche. <verse eid="1PE 2:11" />
+      <verse number="12" style="v" sid="1PE 2:12" />Maintain a lifestyle of good behavior among those who aren’t Christians<char style="sup">[f]</char>,
+        so that in <char style="it">the particular area</char> in which they slander you as being a bad person<char
+        style="sup">[E]</char>, out of observing the good things which you do, upon close, careful examination<char
+        style="sup">[g]</char> they would come clean and tell the truth<char style="sup">[h]</char> <char style="it">concerning
+        the area in question</char> <char style="it">about your behavior.</char><verse eid="1PE 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1PE 2:13" />Submit<char style="sup">[F]</char> to every man-made <char style="it">position of authority</char><char
+        style="sup">[i]</char> <char style="it">established </char>through the Lord<char style="sup">[j]</char>,
+        whether <char style="it">the authority be in the form of</char> a supreme leader—a king— <verse eid="1PE 2:13" />
+      <verse number="14" style="v" sid="1PE 2:14" />or whether <char style="it">it be</char> <char style="it">in the form of </char>his appointees—governors—appointed
+        to punish evildoers <char style="it">on the one hand</char> but on the other praise those who do good.<verse eid="1PE 2:14" />
+      <verse number="15" style="v" sid="1PE 2:15" /><char style="it">One submits</char> because this is the way the will of God works: you shut the ignorance
+        of stupid people up by doing good <verse eid="1PE 2:15" />
+      <verse number="16" style="v" sid="1PE 2:16" />as those who have freedom—but not the sort of freedom which, under the surface, a bad person is concealed
+        but <char style="it">the sort of freedom which conceals </char>slaves of God instead. <verse eid="1PE 2:16" />
+      <verse number="17" style="v" sid="1PE 2:17" />Honor everyone, love the band of fellow believers<char style="sup">[k]</char>, have reverence (fear even)
+        for God, honor the king.<verse eid="1PE 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1PE 2:18" />The household servants: <char style="it">I assume you are but if not you should be</char> submitting<char
+        style="sup">[l]</char> with utmost reverence to every master, not only to the good-natured and considerate
+        ones but to the corrupt ones as well. <verse eid="1PE 2:18" />
+      <verse number="19" style="v" sid="1PE 2:19" />You see, this <char style="it">is the very picture of</char> grace (i.e. forbearance, benevolence, and
+        forgiveness): if by a godly conscience someone endures the pains of unfair suffering. <verse eid="1PE 2:19" />
+      <verse number="20" style="v" sid="1PE 2:20" />When you get right down to it, what sort of congratulations <char style="it">should you expect</char>
+        if you endure the abuse and reprimands—even getting slapped around<char style="sup">[m]</char>—for wrong-doing?
+        But if you do good and endure suffering, this <char style="it">is the very picture of </char>grace from<char
+        style="sup">[n]</char> God.<verse eid="1PE 2:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1PE 2:21" />You’ve been summoned to this ends: that Christ also suffered, suffered on behalf of everyone, leaving
+        behind an example so that you would follow in the footsteps <char style="it">of him</char>…<verse eid="1PE 2:21" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="22" style="v" sid="1PE 2:22" />…Who committed no sin
+    </para>
+    <para style="pi" vid="1PE 2:22">Nor was guile found in his mouth<verse eid="1PE 2:22"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="23" style="v" sid="1PE 2:23" />He who was reviled, while he was being reviled did not revile and abuse in return; while suffering, refrained
+        from issuing threats; but kept handing <char style="it">his life</char> over to Him who judges fairly—<verse eid="1PE 2:23" />
+      <verse number="24" style="v" sid="1PE 2:24" />Who personally offered up our sins in his body upon the wooden <char style="it">cross-beam</char><char
+        style="sup">[o]</char> so that having been separated from the sins, we would live in righteousness—Who
+        with his wounds you were healed. <verse eid="1PE 2:24" />
+      <verse number="25" style="v" sid="1PE 2:25" />You see, you were wandering astray like sheep, but now—now you’ve returned to the Great Leader, Overseer,
+        and Protector<char style="sup">[p]</char> of our minds, emotions, of our very beings<char style="sup">[q]</char>.<verse eid="1PE 2:25" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">the rescue program, the program which keeps you from calamity</char>…Lit: <char style="it">salvation</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">to offer up</char>…The Gk. verb tense is aorist and not present, which implies that
+        it’s a one-time offering. This is unexpected.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">the Bible</char>…Lit: <char style="it">Scripture</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">put in place</char>…This is the same word used in v.6 and refers to that verse</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">awesomeness</char>…Lit: <char style="it">excellencies</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">those who aren’t Christians</char>…Lit: <char style="it">Gentiles</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">upon close, careful examination</char>…Lit: <char style="it">in a</char> [or perhaps
+        <char style="it">the</char>] <char style="it">day</char> <char style="it">of examination</char>. Note
+        that <char style="it">day of </char>is a biblical expression. Note that many translations use the word
+        <char style="it">visitation </char>[from <char style="it">episkeptomai</char>, <char style="w" strong="G01980">ἐπισκέπτομαι</char>)]
+        and not <char style="it">examination </char>[from <char style="it">episkopeō</char>, <char style="w"
+        strong="G01983">ἐπισκοπέω</char>)]<char style="it">. </char>The Gk. word used here is <char style="it">episkopas
+        </char>(ἐπισκοπῆς), which is a noun form of episkopeō —not a form of episkeptomai (although episkopeō
+        and episkeptomai are similar and are related etymologically).</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">come clean and tell the truth</char>…Lit: <char style="it">glorify God</char>. An idiom;
+        ref. note of John 9:24.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">to every man-made position of authority</char>…Lit: <char style="it">in all human creature</char>.
+        An idiom apparently.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">established through the Lord</char>…Lit: <char style="it">through the Lord</char>. It’s
+        not clear whether this phrase means to submit through the Lord or that the positions of authority were
+        created through the Lord. I’m guessing it’s the latter, and that this somehow extends the idiom.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">band of fellow believers</char>…Lit: <char style="it">the brotherhood</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">I assume you are but if not you should be submitting</char>…Lit: <char style="it">submitting</char>.
+        For the next several verses and into chapter 3, Peter uses participles in place of imperative verb forms,
+        while the reader understands that the imperative form is meant. By using the participle, Peter takes
+        on a less accusatory posture.</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">abuse and reprimands—even getting slapped around</char>…Lit: <char style="it">beatings
+        </char>[more literally <char style="it">buffeting </char>or<char style="it"> cuffs</char>:<char style="it">
+        </char>multiple hits with a fist or with the palm of one’s hand]. The picture here is of a slave being
+        punched or slapped by his master because of displeasure or disobedience.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">from</char>…Or: <char style="it">with</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">wooden cross-beam</char>…Lit: <char style="it">wood</char>. Ref. note of Acts 5:30.</char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">the Great Leader, Overseer, and Protector</char>…Lit: <char style="it">the</char> <char
+        style="it">shepherd </char>[<char style="it">pastor</char>]<char style="it"> and overseer </char>[<char
+        style="it">bishop</char>]. A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">minds, emotions, our very beings</char>…Lit: <char style="it">soul</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">logical analogy to</char>…Lit: <char style="it">logical</char>. Or: <char style="it">Word</char>
+        [<char style="it">of God</char>]-<char style="it">related</char>. There’s some ambiguity in what Peter
+        means by the Gk. word <char style="it">logikos </char><char style="w" strong="G03050">λογικός</char>)<char
+        style="it">, </char>the adjective that most other translations render <char style="it">Word. </char>One
+        could put up a substantial argument for either. Perhaps it means both.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">like a newborn baby yearns for milk, yearn for the (logical analogy to the) pure milk</char>…Lit:
+        <char style="it">like a newborn baby, you all yearn the logical </char>[or<char style="it"> Word-related</char>]<char
+        style="it"> pure milk </char>This is a hybrid simile and metaphor, one of the most excellent metaphors
+        in the NT. The most tremendous growth spurt that a human being experiences is when a one is a newborn
+        baby between the ages of three and seven weeks. During this time, a baby is continuously hungry for milk,
+        crying around the clock to be fed. A baby grows substantially during this four week period. Peter is
+        telling Christians to mimic the hunger which a newborn baby has; he is not telling them to imitate babies
+        in any other respect. Just as this baby hungers, is fed, and grows enormously, is the same way should
+        Christians hunger for the Word. Their growth will be like the baby’s.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">since—surely now—</char>…Lit: <char style="it">if</char>. The rendering of this word
+        [<char style="it">ei, </char><char style="w" strong="G01487">εἰ</char>)] has caused confusion to the
+        point that several ancient manuscripts have altered this word from <char style="it">ei </char>to <char
+        style="it">eiper</char> (εἰπερ/no Strong’s word) forcing it to say <char style="it">since </char>instead
+        of <char style="it">if. </char>There are secondary meanings to the word <char style="it">ei </char>that
+        Peter is likely drawing on here, but nevertheless some ambiguity remains.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">A stone which causes one to veer off into a ditch resulting in wrong-doing and also
+        a rock which offends…Lit: a stumbling stone and a rock of stumbling</char> [or, <char style="it">offense</char>].
+        Liberties taken. The word <char style="it">stumbling</char> is an idiom; ref. note of Matt. 11:6.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">they slander you as being a bad person</char> (etc.)…What Peter is saying here in v.
+        12 is that although non-Christians will slander you simply because of prejudice, stereotypes, rumors,
+        lies, misunderstandings, etc., when they’re pressed to get down to the brass tacks and look at the specific
+        circumstances about someone they know who’s a Christian, they’ll have to (or perhaps will reluctantly)
+        admit that, based on that Christian’s good behavior in the specific situations he was observed in, he
+        is a decent person after all.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">submit</char>…The Gk. word here for submit [<char style="it">hupotassō</char>, <char
+        style="w" strong="G05293">ὑποτάσσω</char>)] literally means <char style="it">to arrange oneself under</char>.
+        There are multiple words in the NT which essentially mean <char style="it">to order, to give a command,
+        </char>etc. The stem from which the word <char style="it">arrange </char>comes means to given an order,
+        and it was a military term used when a commander issued orders to deploy units of phalanxes, etc. on
+        a battlefield. A good arrangement of the units, and one which was carried out successfully, was crucial
+        to victory on the battlefield. So <char style="it">hupotassō</char> means to allow oneself to be “arranged”
+        by the person in command, knowing that the one in command has the overall view of what needs to be put
+        and where and is placing you in position according to a master plan—a plan which you might not even be
+        familiar with. This shade of meaning to the word <char style="it">submit </char>differs from a shade
+        of meaning of an underling being crushed by an oppressive overlord.</char>
+      <char style="fp"></char>
+      <char style="ft">In this regard, the Gk. word <char style="it">hypakouō</char> <char style="w" strong="G05219">ὑπακούω</char>),
+        which corresponds <char style="it">to obey</char>, literally means <char style="it">under the giving-ear-to.
+        </char>This refers to being under the audible sound—the voice commands—of another person. The nature
+        of the word is that one person is to simply obey the spoken-orders (and this would apply to any order,
+        not just a spoken one) of the one above him. The emphasis is on simple obedience to the order, without
+        questions asked and without an expectation that the one obeying will understand the big-picture. And
+        this is where submit and obey diverge. The one who submits understands that his submission is necessary
+        to accomplish the overall goal; that he should understand the overall goal and understand that he is
+        one of multiple parties, all of whom must do his part and comply with his specific command for the sake
+        of the overall strategy, vision, or long-term plan, which is planned and executed by the one in charge.
+        Therefore, a child or a slave is expected to obey, not submit, but an adult, one who has heavy responsibilities,
+        such as a soldier, is told to submit, not obey.</char>
+      <char style="fp"></char>
+      <char style="ft">Throughout history, there have been two methods whereby the common soldier takes orders from a superior:
+        the soldier can submit or he can obey. Generally speaking, armies where the soldiers submit are more
+        effective than armies where the soldiers obey. Those who submit are encouraged to think beyond their
+        individual contribution, and because of that, a person who submits may at times improvise according to
+        the need of the moment, not doing what he was directly ordered to do for the sake of the overarching
+        plan. Soldiers who simply obey will fear potential retribution due to improvisation and not exploit opportunities
+        or adapt to changing conditions on the battlefield.</char>
+    </note>
+  <chapter eid="1PE 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1PE 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1PE 3:1" />Along the same lines, wives, <char style="it">I assume you are but if not you should be</char> submitting<char
+        style="sup">[a]</char> to your husbands, so that even if any one of them are disobedient, don’t believe,
+        or simply aren’t convinced<char style="sup">[A]</char> that the Word <char style="it">of God is true
+        and that they should obey it, </char>they’ll be won over by their wives’ behavior<char style="sup">[b]</char>
+        without <char style="it">you wives having to say </char>a word <verse eid="1PE 3:1" />
+      <verse number="2" style="v" sid="1PE 3:2" />after they observe your holy<char style="sup">[c]</char> conduct <char style="it">carried out</char>
+        in reverence bordering on fear. <verse eid="1PE 3:2" />
+      <verse number="3" style="v" sid="1PE 3:3" />Your <char style="it">true beauty and persona, what makes you you</char>: let it not be what’s on the
+        outside (getting your hair done<char style="sup">[d]</char> and putting on expensive jewelry<char style="sup">[d]</char><char
+        style="it"> </char>or wearing <char style="it">stylish or</char> <char style="it">alluring</char> clothing<char
+        style="sup">[d]</char>—what you put on to make yourself look good<char style="sup">[B]</char>)— <verse eid="1PE 3:3" />
+      <verse number="4" style="v" sid="1PE 3:4" />but instead <char style="it">let your true beauty be</char> the heart’s hidden person—<char style="it">let
+        it be </char>in the indestructible <char style="it">qualities</char><char style="sup">[e]</char> of a
+        gentle, restrained, quiet (in the sense of being at-rest and at-peace)<char style="sup">[C]</char> disposition
+        and prevailing attitude<char style="sup">[f]</char>, which is dear and precious in God’s mind when He
+        focuses His attention on it<char style="sup">[g]</char>. <verse eid="1PE 3:4" />
+      <verse number="5" style="v" sid="1PE 3:5" />This is the same way that, <char style="it">years ago</char>, the holy women back then who hoped in God
+        used to make themselves look good<char style="sup">[h]</char>, submitting to their husbands, <verse eid="1PE 3:5" />
+      <verse number="6" style="v" sid="1PE 3:6" />as Sarah submitted to Abraham calling him “Sir<char style="sup">[i]</char>.” You have become her protégés<char
+        style="sup">[j]</char> <char style="it">by</char> doing good and <char style="it">at the same time</char>
+        not fearing any threats.<verse eid="1PE 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1PE 3:7" />Along the same lines, husbands, <char style="it">I assume you are but if not you should be </char>cohabitating
+        <char style="it">with your wives </char>in an understanding way, as with a weaker “vessel” (<char style="it">a
+        “vessel” being a person whose wide range of human expression is put to use</char><char style="sup">[D]</char>)—the
+        female-type—assigning honor and worth to her, as <char style="it">she </char>too <char style="it">is
+        </char>a joint-recipient of life’s grace, so that your prayers not be impeded.<verse eid="1PE 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1PE 3:8" />Now in conclusion, everyone, be harmonious (i.e. everyone be on the same page), sympathetic (i.e. share
+        the pain of others), enjoy the companionship of your fellow-comrades, compassionate (i.e. have a tender
+        sense of goodwill towards one another deep inside), and have a humble attitude, <verse eid="1PE 3:8" />
+      <verse number="9" style="v" sid="1PE 3:9" />not paying back those who mistreat you by mistreating them, nor repaying an insult with an insult but
+        blessing them (i.e. wishing them well) instead, because you were inaugurated into the Christian faith
+        for this outcome<char style="sup">[k]</char>: so that a blessing would be yours for the keeping<char
+        style="sup">[l]</char>.<verse eid="1PE 3:9" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="10" style="v" sid="1PE 3:10" />For he who wishes to love life
+    </para>
+    <para style="pi" vid="1PE 3:10">And see good days:</para>
+    <para style="pi" vid="1PE 3:10">Have him halt his tongue from bad</para>
+    <para style="pi" vid="1PE 3:10">And <char style="it">his </char>lips from the utterance of guile.<verse eid="1PE 3:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="1PE 3:11" />Let him turn away from bad and do good,
+    </para>
+    <para style="pi" vid="1PE 3:11">Search for peace and pursue it.<verse eid="1PE 3:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="1PE 3:12" />Because the Lord’s eyes are upon the righteous,
+    </para>
+    <para style="pi" vid="1PE 3:12">And His ears <char style="it">hearken </char>to their prayers,</para>
+    <para style="pi" vid="1PE 3:12">But the full attention<char style="sup">[m]</char> of the Lord <char style="it">is directed</char></para>
+    <para style="pi" vid="1PE 3:12">At those who do bad.<verse eid="1PE 3:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="13" style="v" sid="1PE 3:13" />And who’ll mistreat you if you’ve become a fanatic for doing good? <verse eid="1PE 3:13" />
+      <verse number="14" style="v" sid="1PE 3:14" />But even if you were to suffer on account of doing right, you’re blessed. Don’t be afraid of their intimidation
+        nor be troubled by them— <verse eid="1PE 3:14" />
+      <verse number="15" style="v" sid="1PE 3:15" />Instead, put Christ the Lord in a hallowed place in your hearts, a place away from everything else, ever
+        ready to give a reply in defense to everyone who asks you about the hope in you. <verse eid="1PE 3:15" />
+      <verse number="16" style="v" sid="1PE 3:16" /><char style="it">Don’t defend yourself with an attitude of aggression</char> but with gentleness and
+        reverence instead, maintaining a good conscience, so that in the area in which they badmouthed you, they
+        would be put to shame upon observing your good conduct in Christ. <verse eid="1PE 3:16" />
+      <verse number="17" style="v" sid="1PE 3:17" />The fact of the matter is, it’s better to suffer for doing good (if it’s God’s will) than for doing bad.<verse eid="1PE 3:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1PE 3:18" /><char style="it">This is </char>because Christ suffered with respect to sin also, the just on behalf
+        of the unjust, so that he would bring us to God, having died in <char style="it">the </char>flesh on
+        the one hand but having been made alive in <char style="it">the </char>Spirit<char style="sup">[n]</char>
+        on the other.<verse eid="1PE 3:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1PE 3:19" />Also, he preached in the <char style="it">Spirit</char> to the spirits in prison<char style="sup">[E]</char>,<verse eid="1PE 3:19" />
+      <verse number="20" style="v" sid="1PE 3:20" />the people back then who were disobedient and couldn’t be convinced <char style="it">that a flood was
+        coming </char>back when God’s longsuffering kept on pushing out<char style="sup">[F]</char> <char style="it">the
+        date</char> <char style="it">of the flood</char> in Noah’s time while he was building and provisioning
+        the ark, an ark into which <char style="it">just</char> a few—namely eight people—were saved (i.e. rescued
+        from impending destruction) <char style="it">from the start</char> through <char style="it">to the end</char>
+        <char style="it">of</char> the<char style="it"> deluge of </char>water, <verse eid="1PE 3:20" />
+      <verse number="21" style="v" sid="1PE 3:21" />which is a symbolic representation of <char style="it">how</char> baptism saves <char style="it">a person
+        </char>in the here-and-now—not <char style="it">the sort of “baptism” which is a purification ritual
+        whose sole purpose is to</char> remove dirt from the body, but instead <char style="it">the sort of “baptism”
+        which is </char>a good conscience’s appeal to God through the resurrection of Jesus Christ, <verse eid="1PE 3:21" />
+      <verse number="22" style="v" sid="1PE 3:22" />who is God’s chief executive<char style="sup">[o]</char>, now that he’s gone up into heaven, after <char
+        style="it">demonic </char>agents, <char style="it">demonic spirits with</char> authority <char style="it">over
+        other demon spirits</char>, and <char style="it">evil </char>forces<char style="sup">[G]</char> were
+        made subordinate to him.<verse eid="1PE 3:22" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">I assume you are but if not you should be</char> <char style="it">submitting</char>…Lit:
+        <char style="it">submitting</char>. Ref. note of 2:18.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">their wives’ behavior</char>…Lit: <char style="it">the behavior of the wives</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">holy</char>…Also: <char style="it">pure</char>; <char style="it">chaste</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">getting your hair done</char>…<char style="it">expensive jewelry</char>…<char style="it">stylish
+        or alluring clothing</char>…Lit: <char style="it">braided hair</char>…<char style="it">gold</char>…<char
+        style="it">clothing</char> [<char style="it">outerwear</char>]</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">indestructible qualities</char>…Lit: <char style="it">imperishableness</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">disposition and prevailing attitude</char>…Lit: <char style="it">spirit</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">in God’s mind when He focuses His attention on it</char>…Lit: <char style="it">before
+        God</char>. An expression.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">make themselves look good</char>…Lit: <char style="it">adorn themselves</char>. Same
+        word used in v. 3.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">sir</char>…Lit: <char style="it">lord</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">her protégés</char>…Lit: <char style="it">her children</char>. A figure of speech.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">you were inaugurated into the Christian faith for this outcome</char>…Lit: <char style="it">unto
+        this you were called</char>. The word <char style="it">called </char>in the Epistles is an expression.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">yours for the keeping</char>…Lit: <char style="it">inherit</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">full attention</char>…Lit: <char style="it">face</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">in the Spirit</char>…Or: <char style="it">by the Spirit</char>; <char style="it">in
+        spirit</char>. The ambiguity decided by the context.</char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">God’s chief executive</char>…Lit: <char style="it">in God’s right</char> [<char style="it">hand</char>].
+        An expression.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">disobedient, don’t believe, or simply aren’t convinced</char>….The Gk. word <char style="it">apeitheō
+        </char><char style="w" strong="G00544">ἀπειθέω</char>)means all three of these: <char style="it">to</char>
+        <char style="it">not be persuaded; to not believe; to be disobedient. </char>The more common word for
+        <char style="it">to believe </char>is <char style="it">pisteuō </char><char style="w" strong="G04100">πιστεύω</char>)<char
+        style="it">; to not believe</char> is <char style="it">apisteuō </char><char style="w" strong="G00569">ἀπιστέω</char>).
+        <char style="it">Apisteuō</char> has connotations of stubbornly refusing to believe out of hard-hearted
+        disobedience . Acts 28:24 shows by example the difference between these two Gk. words. But the point
+        of the matter is that Peter said that those husbands who are <char style="it">apeitheō </char>will be
+        won over—he did not say that the <char style="it">apisteuō-</char>husbands can or will be won.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">getting your hair done and putting on expensive jewelry or wearing stylish or alluring
+        clothing</char>…<char style="it">stylish or alluring clothing—what you put on to make yourself look good</char>…Lit:
+        Gk. <char style="it">kosmos </char>for <char style="it">what you put on to make yourself look good</char>.
+        <char style="it">Kosmos</char> <char style="w" strong="G02889">κόσμος</char>)<char style="it"> </char>in
+        this context uses a secondary meaning, which is <char style="it">adornment, dress, decoration. </char>It’s
+        hard to imagine that this secondary definition of <char style="it">kosmos </char>doesn’t acquire overtones
+        from its primary definition (world/worldly), which, assuming that is the case, justifies the rendering
+        <char style="it">stylish, cosmopolitan, </char>and even <char style="it">alluring. </char>In addition
+        to this use of <char style="it">kosmos</char>…Years ago, Christians who were part of the holiness movement
+        (which includes Pentecostals) interpreted verses to mean that Christian women shouldn’t braid their hair,
+        wear jewelry or wear nice clothing. This is not the point Peter is making. (And as Jeanne Wilkerson used
+        to say in rebuttal to this flaky teaching, “If the barn needs painting, why then: paint it.”) Peter is
+        saying that a woman shouldn’t consider herself to be a beautiful person because of her outward appearance
+        but because of her inward nature.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">quiet (in the sense of being at-rest and at-peace)</char>…The Gk. word used here for
+        <char style="it">quiet </char>appears nowhere else in the NT. Had Peter meant a woman who doesn’t talk
+        a lot, he would’ve used a different, more commonly used word which means quiet. But this verse is referring
+        to a woman who isn’t consumed with drama; playing games; false suspicions of the motives of others; easily
+        angered; prone to jealousy; etc.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft">a <char style="it">person whose wide range of human expression is put to use</char>…Lit: <char style="it">vessel</char>.
+        In the NT, the word <char style="it">vessel </char>when referring to a person and not to an actual container
+        is a figure of speech, a metonymy and an idiom. Ref. Acts 9:15; Rom. 9:21; 1 Cor. 4:7; 1 Thess. 4:4;
+        2 Tim. 2:20. A vessel is a container that holds something which is worth storing; the vessel’s ability
+        to hold and store that thing is what gives the vessel value. Our physical bodies are containers which
+        hold our spirits and the Holy Spirit, and this is what gives our bodies value, as our bodies are animated
+        by the Spirit inside of us. But vessels are not only bodies but human beings.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">spirits in prison</char>…According to the context, these are all the people on the earth
+        except for Noah and his family, those who didn’t make it into the ark. The assumption is that the “prison”
+        referred to here is hell and that Jesus “preached” to them when he was in hell after his death and before
+        his resurrection. Perhaps Jesus was preaching to them about the fact that he was going to be rescued
+        from that place in the same way that, when they were alive, Noah preached to them that he was going to
+        be rescued from the flood coming on the earth. This is speculation of course.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">kept on pushing out</char>…Also: <char style="it">kept on postponing. </char>Peter is
+        saying that God was doing His best to get the people on the earth to repent so He wouldn’t have to send
+        a flood, and kept on postponing the time of the flood to give them yet another opportunity to repent.
+        The oldest living person recorded in the Bible is Methuselah, whose name means “his death shall send.”
+        His name itself is a prophecy of the coming flood, and the prophecy is that when he dies the flood will
+        come (and upon correlating the dates, the flood occurred the year Methuselah died). In God’s longsuffering,
+        He postponed the date of flood, but also had to lengthen Methuselah’s life because of the prophecy. Methuselah’s
+        long life is a testimony to God’s longsuffering.</char>
+    </note>
+    <note caller="[G]" style="f">
+      <char style="fk">[G]</char>
+      <char style="ft"><char style="it">demonic agents, demon spirits with authority over other demon spirits, and evil forces</char>…Lit:
+        <char style="it">angels</char> [<char style="it">agents</char>] <char style="it">and authorities and
+        powers</char>. Based on a preponderance of NT teachings, this verse is talking about demonic spirits
+        and not about humans. The word <char style="it">angels </char>here means <char style="it">messengers
+        </char>(which is <char style="it">agents</char>)<char style="it"> </char>instead of fallen angels. These
+        agents are demonic spirits (“messengers of Satan”, 2 Cor. 12:7, NASB) which Satan sends to fulfill a
+        specific mission. The word <char style="it">authorities </char>refers to demons which are given authority
+        over other demons, and the same word is used this way in Eph. 6:12. The word <char style="it">powers
+        </char>refers to demons that are simply a force for evil. Before Jesus ascended into heaven, these wicked
+        spirits were made subordinate to him.</char>
+    </note>
+  <chapter eid="1PE 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1PE 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1PE 4:1" />So <char style="it">seeing that </char>Christ suffered in the flesh, you too arm yourselves (mentally
+        speaking) for the same, since he who’s suffered in the flesh has stopped sins <char style="it">from happening</char>.<verse eid="1PE 4:1" />
+      <verse number="2" style="v" sid="1PE 4:2" />No longer live out the remaining days of your life for the carnal passions of human nature but rather
+        <char style="it">live your days out </char>in the will of God. <verse eid="1PE 4:2" />
+      <verse number="3" style="v" sid="1PE 4:3" />The fact of the matter is, there’s been plenty of time to have acted out the yearnings of the heathen
+        nations to the nth degree, having followed a course of unrestrained indulgence in immoral, physical pleasures
+        (especially sexual ones)<char style="sup">[a]</char>; heated, passionate, over-the-top lusts and desires;
+        drunkenness; wild partying; parties centered around getting drunk; and idolatry—which is absolutely forbidden.<verse eid="1PE 4:3" />
+      <verse number="4" style="v" sid="1PE 4:4" />In regard to this, they think it’s weird that you don’t join them in rushing to the very same spigot
+        which is pouring out a shameless, wasted lifestyle<char style="sup">[b]</char>, and you’re vilified for
+        it— <verse eid="1PE 4:4" />
+      <verse number="5" style="v" sid="1PE 4:5" />They’ll have to cough up an answer for this and give it<char style="sup">[c]</char> to Him who’s primed
+        and ready<char style="sup">[d]</char> to judge <char style="it">both kinds of people, </char>those who
+        are <char style="it">spiritually</char> alive and those who are <char style="it">spiritually</char> dead<char
+        style="sup">[A]</char>. <verse eid="1PE 4:5" />
+      <verse number="6" style="v" sid="1PE 4:6" />With this in mind, you see<char style="sup">[e]</char>, a good-news message was evangelized to those
+        who are <char style="it">spiritually </char>dead, so that while—sure—in their natural lives they’re held
+        to a standard in accordance to human <char style="it">rules and expectations</char><char style="sup">[f]</char>,
+        but on the other hand in their spiritual lives would live in accordance to God’s <char style="it">grace,
+        plans, rules and expectations</char>.<verse eid="1PE 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1PE 4:7" /><char style="it">Paramount</char> among all things is that the end is near, so keep your head screwed
+        on tightly and control yourselves so you’ll stay in the mode of offering up prayers. <verse eid="1PE 4:7" />
+      <verse number="8" style="v" sid="1PE 4:8" />The number-one priority is that you maintain a fervent love for the others among you, because love covers
+        over a good number of sins.<verse eid="1PE 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1PE 4:9" />Be hospitable (i.e., be open to those who are different than yourselves) to one another without complaint.<verse eid="1PE 4:9" />
+      <verse number="10" style="v" sid="1PE 4:10" />Just as each of you received a gift <char style="it">from God</char>, as competent and dependable stewards
+        of the multi-faceted<char style="sup">[g]</char> grace of God,<char style="it"> use</char> it to serve
+        the others among you. <verse eid="1PE 4:10" />
+      <verse number="11" style="v" sid="1PE 4:11" />If someone speaks, <char style="it">have him speak </char>as though<char style="it"> he’s delivering
+        </char>a word <char style="it">of prophecy </char>from God; if someone serves, <char style="it">have
+        him serve</char> out of strength which God provides, so that in everything God would be glorified through
+        Jesus Christ, with whom is the Glory and the Might forever and ever—Amen (no more need be said).<verse eid="1PE 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1PE 4:12" />Beloved, don’t consider the trial that is happening to you—a pressure-cooker<char style="sup">[h]</char>
+        of an ordeal—to be abnormal, as though a stranger is meeting you to join up with you, <verse eid="1PE 4:12" />
+      <verse number="13" style="v" sid="1PE 4:13" />but instead, insofar as you are familiar with the sufferings of Christ, being a joint-sharer with him,
+        rejoice, so that you too would jump for joy in the revelation of his glory. <verse eid="1PE 4:13" />
+      <verse number="14" style="v" sid="1PE 4:14" />If you’re chewed out, scorned, discredited, or disgraced<char style="sup">[i]</char> because you’re affiliated
+        with and follow the precepts of Christ<char style="sup">[j]</char>, <char style="it">you’re </char>blessed,
+        because <char style="it">a spark</char> of the glory and of the Spirit of God rests upon you. <verse eid="1PE 4:14" />
+      <verse number="15" style="v" sid="1PE 4:15" />But upon closer examination, make sure it’s not the case that any of you<char style="sup">[k]</char>
+        are suffering as a murderer, a thief, a villain, or as a subversive<char style="sup">[l]</char>. <verse eid="1PE 4:15" />
+      <verse number="16" style="v" sid="1PE 4:16" />But if <char style="it">anyone suffers</char> as a Christian, let him not think to himself that he’s
+        guilty of wrongdoing<char style="sup">[m]</char>, but let him glorify God as one authorized by this <char
+        style="it">God</char><char style="sup">[n]</char>.<verse eid="1PE 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1PE 4:17" /><char style="it">This is</char> because the timeframe<char style="sup">[o]</char> <char style="it">is
+        getting closer and closer</char> for the Judgment to begin, a judgment starting from God’s house <char
+        style="it">and extending</char> <char style="it">outwards</char>. And if it starts with us first, how
+        will things turn out for those who don’t believe in the Gospel? <verse eid="1PE 4:17" />
+      <verse number="18" style="v" sid="1PE 4:18" />And…
+    </para>
+    <para style="pi" vid="1PE 4:18"></para>
+    <para style="pi" vid="1PE 4:18">If the righteous man just barely squeaks by<char style="sup">[p]</char></para>
+    <para style="pi" vid="1PE 4:18">The rank-sinner<char style="sup">[q]</char>—what’s to come of him<char style="sup">[r]</char>?<verse eid="1PE 4:18"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="19" style="v" sid="1PE 4:19" /><char style="it">Keep this in mind</char> so that even those suffering according to the will of God would,
+        by doing good, entrust their life-beings<char style="sup">[s]</char> to a faithful Creator.<verse eid="1PE 4:19" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">unrestrained indulgence in immoral, physical pleasures (especially sexual ones)</char>…Also:
+        <char style="it">licentiousness</char>; <char style="it">debauchery</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">shameless, wasted lifestyle</char>…Also: <char style="it">dissipation</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">They’ll have to cough up an answer for this and give it</char>…Lit: <char style="it">they</char>
+        <char style="it">will pay out a word</char> [<char style="it">statement</char>]</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">primed and ready</char>…Also: <char style="it">fully prepared</char>…Lit: <char style="it">having
+        the readiness</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">With this in mind, you see</char>…Lit: <char style="it">for unto this</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">in their natural lives they’re held to a standard in accordance to human rules and expectations,
+        but on the other hand in their spiritual lives would live in accordance to God’s</char> <char style="it">grace,
+        plans, rules and expectations…</char>Lit: <char style="it">judged in flesh according to men, but on the
+        other hand they would live in spirit according to God</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">multi-faceted</char>…Also: <char style="it">manifold</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">pressure-cooker</char>…Lit: <char style="it">fiery. </char>Some liberties taken.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">chewed-out, scorned, discredited, or disgraced</char>…Lit: <char style="it">reproached</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">affiliated with and follow the precepts of Christ</char>…Lit: <char style="it">in the
+        name of Christ</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">make sure it’s not the case that any of you</char>…Lit: <char style="it">let not any
+        of you</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">subversive</char>…Also: <char style="it">one who practices intrigue; a revolutionary;
+        an insurgent; one who participates in a conspiracy</char>…Lit: <char style="it">meddler</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">think to himself that he’s guilty of wrongdoing</char>…Also: <char style="it">be ashamed</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">as one authorized by this God</char>…Lit: <char style="it">in the name this</char>.
+        An expression; ref. note of Acts 4:17</char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">timeframe</char>…Lit: <char style="it">season</char></char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">squeaks by</char>…Lit: <char style="it">is being saved</char></char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">the rank-sinner</char>…Lit: <char style="it">the ungodly and sinner</char>. A hendiadys;
+        ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[r]" style="f">
+      <char style="fk">[r]</char>
+      <char style="ft"><char style="it">what’s to come of him?</char>…Lit: <char style="it">where will he appear?</char> Assumed
+        to be an expression.</char>
+    </note>
+    <note caller="[s]" style="f">
+      <char style="fk">[s]</char>
+      <char style="ft"><char style="it">life-beings</char>…Lit: <char style="it">souls</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">both kinds of people, those who are spiritually alive and those who are spiritually
+        dead</char>…Lit: <char style="it">living and dead</char>. The lack of definite articles before <char
+        style="it">living </char>and <char style="it">dead </char>emphasizes the nature of the people. The context
+        is steered by the next verse, which refers to the dead who are spiritually dead rather than physically;
+        therefore this verse refers to those who are spiritually alive and those who are spiritually dead. One
+        assumes that the living and the dead are people who are physically dead, as NT judgment occurs after
+        one dies—and this may or may not be true—but it’s not something Peter is saying explicitly.</char>
+    </note>
+  <chapter eid="1PE 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1PE 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1PE 5:1" />So those among you who are on the church governing board<char style="sup">[a]</char>: as your fellow
+        board member and witness of Christ’s sufferings and joint sharer of the coming glory to be revealed,
+        I entreat you: <verse eid="1PE 5:1" />
+      <verse number="2" style="v" sid="1PE 5:2" />Pastor (i.e. lead; be a shepherd to)<char style="sup">[A]</char> God’s sheep among you <char style="it">with
+        a leadership style</char><char style="sup">[B]</char> that doesn’t force people into doing things but
+        instead one which has them doing things God’s way<char style="sup">[b]</char>: willingly. And don’t <char
+        style="it">use your leadership position to </char>greedily and dishonestly increase your wealth but <char
+        style="it">lead </char>with a well-disposed, willing, and eager attitude instead— <verse eid="1PE 5:2" />
+      <verse number="3" style="v" sid="1PE 5:3" />Not <char style="it">leading</char> those assigned to you<char style="sup">[c]</char> as a domineering,
+        micro-managing dictator<char style="sup">[d]</char>, but <char style="it">leading by </char>becoming
+        an example of <char style="it">what </char>a sheep <char style="it">should be </char>instead. <verse eid="1PE 5:3" />
+      <verse number="4" style="v" sid="1PE 5:4" />And when the Chief Pastor appears, he’ll bring <char style="it">you </char>the unfading victor’s wreath
+        of glory.<verse eid="1PE 5:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1PE 5:5" />In the same vein, younger men: submit to the board members; and to everyone else: wrap around yourselves
+        the clothing of a humble attitude, since…</para>
+    <para style="pi" vid="1PE 5:5"></para>
+    <para style="pi" vid="1PE 5:5">God opposes the arrogant</para>
+    <para style="pi" vid="1PE 5:5">But gives grace to the humble<verse eid="1PE 5:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="6" style="v" sid="1PE 5:6" />So humble yourselves under God’s mighty hand—His mighty ability to intervene in the affairs of mankind—so
+        that He would cause things to turn out well for you<char style="sup">[e]</char> when the time’s right<char
+        style="sup">[f]</char>, <verse eid="1PE 5:6" />
+      <verse number="7" style="v" sid="1PE 5:7" />casting all of your cares, anxieties, and worries upon Him, since He’s concerned about you.<verse eid="1PE 5:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1PE 5:8" />Be level-headed and stay focused<char style="sup">[g]</char>. Your adversary the devil saunters about
+        like a roaring lion, looking for someone to devour— <verse eid="1PE 5:8" />
+      <verse number="9" style="v" sid="1PE 5:9" />Firmly stand against him—firmly resist him—in the faith, knowing first-hand that the same thing is being
+        perpetrated on your fellow comrades<char style="sup">[h]</char> in the world, in this ungodly human society.<verse eid="1PE 5:9" />
+      <verse number="10" style="v" sid="1PE 5:10" />But the God of every and all grace, He who called you to His eternal glory in Christ, after suffering
+        a bit, He’ll rehabilitate, restore, mend, stabilize, make you resolute, strengthen you, establish you,
+        and put you on a firm foundation— <verse eid="1PE 5:10" />
+      <verse number="11" style="v" sid="1PE 5:11" />To Him be the Power forever—Amen (no more need by said).<verse eid="1PE 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1PE 5:12" />By means of Silvanus, a comrade<char style="sup">[i]</char> who is faithful to you (that’s what I figure),
+        I wrote over the course of a few paragraphs<char style="sup">[j]</char>, encouraging, counseling, entreating,
+        and declaring these things to be God’s true grace—stand in and stick to the grace!<char style="sup">[C]</char>.<verse eid="1PE 5:12" />
+      <verse number="13" style="v" sid="1PE 5:13" />The sister-church in <char style="it">metaphorical </char>Babylon (<char style="it">which is Rome</char>)<char
+        style="sup">[D]</char>, greets you, and <char style="it">so does </char>Mark my son<char style="sup">[E]</char>.<verse eid="1PE 5:13" />
+      <verse number="14" style="v" sid="1PE 5:14" />Greet one another with hearty handshakes and warm hugs of love<char style="sup">[F]</char>.
+    </para>
+    <para style="p" vid="1PE 5:14">Peace to you all in Christ.<verse eid="1PE 5:14"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">on the church governing board</char>…Lit: <char style="it">elders</char>. Some liberties
+        taken; ref. note of Acts 11:30.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">God’s way</char>…Lit: <char style="it">according to God</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">those assigned to you</char>…Lit: <char style="it">of the portions</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">not leading the heirs of eternal life as a domineering, micro-managing dictator</char>…Lit:
+        <char style="it">not lording-over</char>. The Gk. word for <char style="it">lording-over </char>literally
+        means <char style="it">lording down upon </char>or <char style="it">lording to the utmost extent.</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">cause things to turn out well for you</char>…Lit: <char style="it">exalt you</char>.
+        An expression; also used in Is. 14:13,14; 2 Cor. 12:7.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">when the time’s right</char>…Lit: <char style="it">in season</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">Be level-headed and stay focused</char>…Lit: <char style="it">Be sober and watch</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">is being perpetrated on your fellow comrades</char>…Or: <char style="it">your fellow
+        comrades are being subjected to</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">over the course of a few paragraphs</char>…Lit: <char style="it">through</char> [<char
+        style="it">the</char>] <char style="it">few ones</char>. Similar wording used in Eph. 3:3.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Pastor (i.e. lead; be a shepherd to)…</char>Lit: shepherd. The word <char style="it">pastor</char>
+        only appears in a couple of places in the NT (in this verse and in Eph. 4:11); the word for <char style="it">pastor
+        </char>is the same as <char style="it">shepherd. </char>The word <char style="it">shepherd </char>in
+        the OT refers to a leader (Ez. 37:24 is one example). The implication is that people are difficult to
+        lead like sheep are difficult to lead, so the word <char style="it">pastor </char>is one who faces the
+        difficulties in leading people, who are by nature difficult to lead.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">with a leadership style</char>…Some of the older manuscripts include a variation of
+        this interpolation explicitly in a single Gk. word [<char style="it">episkopountes, </char><char style="w"
+        strong="G01983">ἐπισκοποῦντεσ</char>)]<char style="it"> </char>rendered <char style="it">exercising oversight;
+        </char>the word <char style="it">bishop </char>[<char style="it">episkopos</char>, <char style="w" strong="G01985">ἐπίσκοπος</char>)]
+        is obviously the noun form of this verb. As the two principal Alexandrian manuscripts omit the word <char
+        style="it">episkopountes</char>, it is my opinion that this word is a spurious addition—although it fits
+        nicely in the context. As Christianity evolved into the late first and early second centuries, churches
+        governed by elder bodies were replaced by churches governed by a single person—a bishop. They sought
+        to stamp out any suggestion in the NT that churches can or should be governed by elder boards and not
+        by bishops; hence, the addition of the word <char style="it">episkopountes </char>to some of the manuscripts.
+        This controversy persists to the present day.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">stand in and stick to the grace!</char>…Lit: <char style="it">stand to it</char> [<char
+        style="it">“it” referring to “the grace”</char>]<char style="it">!</char>…Or: <char style="it">stand
+        in it </char>[<char style="it">“the grace”</char>]<char style="it">!</char>. The words <char style="it">the
+        grace </char>are a clarification for the reader, and this interpolation is justified by matching a pronoun
+        with its antecedents by gender. The GT literally reads <char style="it">stand to it</char>, but scholars
+        argue that Peter actually meant <char style="it">stand in it.</char> Some guesswork was used to come
+        up with “stand in and stick to.”</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">The sister-church in metaphorical Babylon (which is Rome)</char>…Lit: <char style="it">the
+        fellow-called </char>[<char style="it">church</char>]<char style="it"> in Babylon</char>. The word <char
+        style="it">called </char>in <char style="it">fellow-called </char>shares the same root word for <char
+        style="it">church</char>, so <char style="it">fellow-called </char>is <char style="it">fellow-church
+        </char>or <char style="it">sister-church. </char>Some Bible “experts” incorrectly render this verse <char
+        style="it">she who is in Babylon (etc). </char>This is an incorrect understanding of Gk. grammar, as
+        the prepositional phrase <char style="it">in Babylon </char>, inserted between the definite article and
+        the noun, must be moved, leaving the definite article to couple tightly with the noun, rendering it <char
+        style="it">the fellow-church </char>instead of the dangling word <char style="it">she </char>etc<char
+        style="it">. </char>Moving along…many scholars agree that Peter is speaking metaphorically when he speaks
+        of Babylon. In the same verse, he refers to Mark as his son, and as this is metaphorical, it lends credence
+        to assuming that Babylon is metaphorical as well.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">Mark my son</char>…Peter is referring to John-Mark, the same Mark who wrote the Gospel
+        of Mark. Mark was not Peter’s actual son, but was Peter’s close companion and son in the faith. Church
+        tradition tells us that Mark served as Peter’s translator, and that Mark wrote the Gospel of Mark shortly
+        after Peter was executed. This Gospel is essentially a compilation of all the stories which Mark translated
+        for Peter time and time again throughout the years.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">with hearty handshakes and warm hugs of love</char>…Lit: <char style="it">with a kiss
+        of love</char>. Liberties taken. Kisses were normal greetings, and were exchanged irrespective of gender.
+        Judas greeted Jesus with a kiss in the Garden of Gethsemane.</char>
+    </note>
+  <chapter eid="1PE 5" />
+</usx>

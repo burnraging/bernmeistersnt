@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1TI" style="id">The Bernmeister's NT</book>
+  <para style="h">1 Timothy</para>
+  <para style="toc1">The Epistle of 1 Timothy</para>
+  <para style="toc2">1 Timothy</para>
+  <para style="toc3">1 Tim.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 TIMOTHY</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1TI 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 1:1" />Paul, an apostle of Christ Jesus according to the command of God our savior and Christ Jesus our hope:<verse eid="1TI 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1TI 1:2" />To Timothy, a genuine son in the Faith:
+    </para>
+    <para style="p" vid="1TI 1:2">Grace, mercy, peace—from God the Father and from Christ Jesus our Lord.<verse eid="1TI 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1TI 1:3" />Just as I advised you to remain in Ephesus while on my way to Macedonia so that you would impress upon
+        certain individuals not to go about teaching things which are…shall we say…different <verse eid="1TI 1:3" />
+      <verse number="4" style="v" sid="1TI 1:4" />or to take myths or endless genealogies seriously (the very things which generate a lot of stupid questions),
+        more seriously than one takes godly stewardship, a stewardship which is by means of faith. <verse eid="1TI 1:4" />
+      <verse number="5" style="v" sid="1TI 1:5" />But the bottom line of the command that they’re charged with is love from a clean heart and a good conscience,<verse eid="1TI 1:5" />
+      <verse number="6" style="v" sid="1TI 1:6" />of which a few people in particular have veered off into a ditch of senseless discussion, <verse eid="1TI 1:6" />
+      <verse number="7" style="v" sid="1TI 1:7" />wanting to be instructors in the Law of Moses, not understanding what they’re saying or the implications
+        of what they insist is true.<verse eid="1TI 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 1:8" />Now we know that the Law is just fine if someone were to use it legitimately, <verse eid="1TI 1:8" />
+      <verse number="9" style="v" sid="1TI 1:9" />knowing this for certain: law (i.e., the Law of Moses in particular or any code of right and wrong for
+        that matter) was put in place for a reason, not for someone who lives right but for the lawless, for
+        those who refuse to submit to authority, for those who aren’t pious, for those who murder their fathers,
+        their mothers, their brothers, <verse eid="1TI 1:9" />
+      <verse number="10" style="v" sid="1TI 1:10" />for fornicators (i.e., those who indulge in gross sexual immorality), for homosexuals, kidnappers, liars,
+        perjurers, and for anyone who supplants what’s been put into place with something different than healthy
+        doctrine, <verse eid="1TI 1:10" />
+      <verse number="11" style="v" sid="1TI 1:11" />doctrine which is in line with the glorious Gospel of the God Who is blessed, doctrine that I’ve been
+        entrusted with.<verse eid="1TI 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TI 1:12" />I have grace for my empowerment in Christ Jesus our Lord, since he trusted me enough to make me a minister,<verse eid="1TI 1:12" />
+      <verse number="13" style="v" sid="1TI 1:13" />me who used to be a blasphemer, a persecutor, and one who was insolent and violent—but no—He showed mercy
+        since I did these things when I didn’t know better while I was in unbelief, <verse eid="1TI 1:13" />
+      <verse number="14" style="v" sid="1TI 1:14" />and the grace of our Lord proliferated out of bounds with faith and love which is in Christ Jesus.<verse eid="1TI 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1TI 1:15" />This statement is trustworthy and from any point of view is worth being accepted: Christ Jesus came into
+        the world to save sinners, I myself being the foremost. <verse eid="1TI 1:15" />
+      <verse number="16" style="v" sid="1TI 1:16" />In spite of this I was shown mercy, so that in me foremost Christ Jesus would demonstrate every kind
+        of patience imaginable, with a view towards those in the future who will be believing in him resulting
+        in eternal life.<verse eid="1TI 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 1:17" />Now to the King of the eternities—to the Incorruptible, Invisible, Singular God—be honor and glory forever
+        and ever. Amen (i.e., let us pause a moment for that remark to sink in).<verse eid="1TI 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TI 1:18" />These things I’m charging you with, I entrust to you, Timothy my dear son, according to the prophesies
+        over you which were given beforehand to lead you on your way, so that you would “serve in the army” so
+        to speak among them and be a fine soldier, <verse eid="1TI 1:18" />
+      <verse number="19" style="v" sid="1TI 1:19" />having faith and a good conscience, which some, having shoved aside things pertaining to the Faith, are
+        shipwrecked (i.e., their lives have been devastated), <verse eid="1TI 1:19" />
+      <verse number="20" style="v" sid="1TI 1:20" />among whom are Hymenaeus and Alexander, whom I’ve handed over to Satan so that he would train them (train
+        them like one trains a child) not to talk trash or blaspheme.<verse eid="1TI 1:20" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TI 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1TI 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 2:1" />I urge that first above all else you offer supplications (i.e., urgent requests), prayers (i.e., generic
+        prayers), intercessions (i.e., a two-way exchange in prayer), and giving of thanks for all people, <verse eid="1TI 2:1" />
+      <verse number="2" style="v" sid="1TI 2:2" />for kings and for every high-ranking official, so that we may spend our time leading a quiet (i.e., free
+        of disturbances, crises, unrest, etc.) and tranquil life in piety and dignity in every respect. <verse eid="1TI 2:2" />
+      <verse number="3" style="v" sid="1TI 2:3" />This is a good thing to do, is acceptable, pleasing, and welcomed when examined by God our Savior, <verse eid="1TI 2:3" />
+      <verse number="4" style="v" sid="1TI 2:4" />Who wants all people to be saved and to come to the knowledge and understanding of the truth. <verse eid="1TI 2:4" />
+      <verse number="5" style="v" sid="1TI 2:5" />The fact of the matter is that there is one God and there is one mediator between God and mankind, the
+        man Christ Jesus, <verse eid="1TI 2:5" />
+      <verse number="6" style="v" sid="1TI 2:6" />who gave himself to be an atonement—the price of redemption; the price to buy someone back—for everyone,
+        to be that which serves as proof or makes a solemn statement in every individual period of human history—<verse eid="1TI 2:6" />
+      <verse number="7" style="v" sid="1TI 2:7" />For which I was appointed a preacher and an apostle (i.e., a missionary)—I’m telling you the truth—no
+        lie—an instructor of Gentiles in what true faith really is.<verse eid="1TI 2:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 2:8" />After some careful thought, I desire that men in every place pray and pray, lifting up holy hands, keeping
+        a distance from anger and plotting. <verse eid="1TI 2:8" />
+      <verse number="9" style="v" sid="1TI 2:9" />Likewise, I desire that women dress themselves in good taste and choose an attire with modesty and good
+        judgment combined with self-control, not dress themselves in an exotic hairstyle and with ultra-expensive
+        gold jewelry or pearls or expensive clothing, <verse eid="1TI 2:9" />
+      <verse number="10" style="v" sid="1TI 2:10" />but instead I desire that they make themselves beautiful (which is befitting to women sworn to a life
+        of piety to God) by good works.<verse eid="1TI 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 2:11" />Have a woman learn in silence with total submissiveness; <verse eid="1TI 2:11" />
+      <verse number="12" style="v" sid="1TI 2:12" />I don’t permit a woman to give instructions for what a person should or shouldn’t do, dominate, or give
+        orders to a man, but rather it is for her to be in silence. <verse eid="1TI 2:12" />
+      <verse number="13" style="v" sid="1TI 2:13" />The fact of the matter is that Adam was first formed out of clay in the Garden of Eden, then Eve was
+        formed. <verse eid="1TI 2:13" />
+      <verse number="14" style="v" sid="1TI 2:14" />Plus Adam was not deceived by the serpent but the woman was deceived, and once deceived, found herself
+        in transgression. <verse eid="1TI 2:14" />
+      <verse number="15" style="v" sid="1TI 2:15" />But she will be spared calamity through the childbearing years if she were to continue in faith, love,
+        and holiness with good judgment combined with self-control.<verse eid="1TI 2:15" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TI 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1TI 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 3:1" />You can count on this statement being true: if someone aspires to be a bishop (i.e., a head pastor),
+        he desires to do something excellent. <verse eid="1TI 3:1" />
+      <verse number="2" style="v" sid="1TI 3:2" />So a bishop candidate must have no moral character flaws; must be the husband of one woman (i.e., not
+        divorced and remarried); self-controlled and exercise moderation in vices such as drinking; be sensible,
+        serious, and level-headed; be respected, held in high esteem, and honorable; be hospitable, able to reach
+        out to others, and likes and can work with people who are different than himself; be capable of giving
+        instructions to others or teaching them; <verse eid="1TI 3:2" />
+      <verse number="3" style="v" sid="1TI 3:3" />not be a heavy drinker or have a drinking problem; not a bully, a brawler, or someone who gets into fights,
+        but yielding, gentle, courteous, and tolerant instead, and avoids fights; not fondly attached to money;<verse eid="1TI 3:3" />
+      <verse number="4" style="v" sid="1TI 3:4" /><verse eid="1TI 3:4" />
+      <verse number="5" style="v" sid="1TI 3:5" />but if someone can’t preside over his own household, how will he look after God’s household?); <verse eid="1TI 3:5" />
+      <verse number="6" style="v" sid="1TI 3:6" />not a newbie, so that he won’t become full of himself or conceited and fall to the Accuser’s (the Devil’s)
+        true accusations of guilt. <verse eid="1TI 3:6" />
+      <verse number="7" style="v" sid="1TI 3:7" />Outsiders must have a good report to give about him, so that he won’t fall into disgrace: the Accuser’s
+        trap.<verse eid="1TI 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 3:8" />Likewise, deacons (i.e., associate pastors and ministry directors) must be honorable and respectable;
+        not insincere or say one thing one moment and contradict it another; not consumed with drinking; not
+        always trying to make a fast buck through shady business practices; <verse eid="1TI 3:8" />
+      <verse number="9" style="v" sid="1TI 3:9" />possessing the mystery of the Faith in a clean conscience. <verse eid="1TI 3:9" />
+      <verse number="10" style="v" sid="1TI 3:10" />Let these candidates first be examined and approved, then let them serve as deacons after being found
+        to have no moral character flaws.<verse eid="1TI 3:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 3:11" />The ministers’ wives must be honorable and respectable as well; not slanderers; self-controlled and exercising
+        moderation in vices such as drinking; faithful in all respects. <verse eid="1TI 3:11" />
+      <verse number="12" style="v" sid="1TI 3:12" />Make sure deacons are the husbands of one wife (i.e., have not been divorced and remarried); do a good
+        job of presiding over their children and over their household. <verse eid="1TI 3:12" />
+      <verse number="13" style="v" sid="1TI 3:13" />In fact, those who have done a good job serving as a deacon take a big step forward in their own lives
+        and acquire much boldness and confidence in the Faith which is in Christ Jesus.<verse eid="1TI 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TI 3:14" />I’m writing these things to you and hoping to visit you post-haste. <verse eid="1TI 3:14" />
+      <verse number="15" style="v" sid="1TI 3:15" />But in case I’m delayed, I’m writing these things to you now so that you would know for a fact how the
+        house of God, which very thing is the church of the Living God, a pillar and a chief supporting base
+        of the truth, must be run. <verse eid="1TI 3:15" />
+      <verse number="16" style="v" sid="1TI 3:16" />And great, admittedly, is the mystery of piety:
+    </para>
+    <para style="pi" vid="1TI 3:16"></para>
+    <para style="pi" vid="1TI 3:16">He who appeared in the flesh</para>
+    <para style="pi" vid="1TI 3:16">Was declared righteous in spirit</para>
+    <para style="pi" vid="1TI 3:16">Was seen by angels</para>
+    <para style="pi" vid="1TI 3:16">Was preached to the Gentiles</para>
+    <para style="pi" vid="1TI 3:16">Was believed by the world</para>
+    <para style="pi" vid="1TI 3:16">Was taken up in glory<verse eid="1TI 3:16"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TI 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1TI 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 4:1" />The Spirit says explicitly that in later periods of human history some will revolt from the Faith, their
+        attention occupied by deceiving spirits and doctrines or teachings of demons, <verse eid="1TI 4:1" />
+      <verse number="2" style="v" sid="1TI 4:2" />telling lies in hypocrisy, having reached the point where they’ve seared their own conscience, <verse eid="1TI 4:2" />
+      <verse number="3" style="v" sid="1TI 4:3" />hindering or preventing getting married, abstaining from foods that God created to be taken and consumed
+        with thanksgiving by those who believe and have perceived, recognized, and understood the truth. <verse eid="1TI 4:3" />
+      <verse number="4" style="v" sid="1TI 4:4" />And they are free to partake because God’s entire creation is excellent, and nothing which is received
+        with thanksgiving is to be rejected, <verse eid="1TI 4:4" />
+      <verse number="5" style="v" sid="1TI 4:5" />for the food which you eat is designated holy on account of the word of God and on account of a request
+        offered in prayer.<verse eid="1TI 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TI 4:6" />By teaching the comrades these things until they’re built into them, you’ll be a fine minister of Christ
+        Jesus, firming up the words of the Faith and of the quality teaching which you have closely followed.<verse eid="1TI 4:6" />
+      <verse number="7" style="v" sid="1TI 4:7" />Refuse to receive things which are profane and desecrated, things which are old wives’ tales. Put yourself
+        on a training program (like you do at the gym) towards building yourself up in piety. <verse eid="1TI 4:7" />
+      <verse number="8" style="v" sid="1TI 4:8" />Physical training, you see, is beneficial to a small degree, but piety is beneficial in every respect,
+        holding a promise of life (i.e., that special fullness of life) in the present time and in the time to
+        come.<verse eid="1TI 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TI 4:9" />You can count on that statement I just made being true, and it deserves to be accepted any way you look
+        at it. <verse eid="1TI 4:9" />
+      <verse number="10" style="v" sid="1TI 4:10" />In fact we work hard and strive for this, since we have set our hope on the Living God, Who is the Savior
+        of all people, especially those who believe.<verse eid="1TI 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 4:11" />Charge the comrades with these things and instruct them in them. <verse eid="1TI 4:11" />
+      <verse number="12" style="v" sid="1TI 4:12" />Don’t let anyone think less of you or treat you disrespectfully because you’re young, but instead become
+        an example for the believers to follow in speech, in manner, in love, in faith, in purity (and the list
+        goes on).<verse eid="1TI 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TI 4:13" />Stay busy with Scripture reading, with exhortation and encouragement, with teaching (and the list goes
+        on) until I get there. <verse eid="1TI 4:13" />
+      <verse number="14" style="v" sid="1TI 4:14" />Don’t neglect the spiritual gift in you which was given to you through prophecy and accompanied by the
+        laying on of hands by the elders (i.e., the church board). <verse eid="1TI 4:14" />
+      <verse number="15" style="v" sid="1TI 4:15" />Put these things I’m writing to you about into practice; be in them (i.e., be totally into them), so
+        that your progress will be quite noticeable to everyone. <verse eid="1TI 4:15" />
+      <verse number="16" style="v" sid="1TI 4:16" />Pay close attention to yourself—how you are and what you do—and to your doctrine and teaching. Immerse
+        yourself in them. You see, by so doing, you’ll be preserving yourself, protecting yourself, and keeping
+        yourself from harm, you and those who listen to you.<verse eid="1TI 4:16" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TI 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1TI 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 5:1" />Don’t chide an older man, speaking to him condescendingly, but address him as though he goes by “Mr.”,<verse eid="1TI 5:1" />
+      <verse number="2" style="v" sid="1TI 5:2" />an older woman like she’s “Mrs.”, an older teen to twenties male like he’s your comrade, an older teens
+        to twenties female like she’s your woman-comrade but with purity in every respect.<verse eid="1TI 5:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1TI 5:3" />Give financial support to a widow who really is a widow, a woman who is destitute because she has no
+        one to live with to help support her. <verse eid="1TI 5:3" />
+      <verse number="4" style="v" sid="1TI 5:4" />But if a given widow has children or grandchildren, let the children and grandchildren learn that their
+        highest priority duty is to their household (i.e., those in their immediate family, the ones they currently
+        or used to live with) and that they ought to pay those who were their parents and took care of them growing
+        up back with financial compensation; this is pleasing when put to the close scrutiny of God, you see.<verse eid="1TI 5:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1TI 5:5" />Now the widow who’s truly destitute and has reached the point where she’s all alone with no one to take
+        care of her—you’ll find that this sort of woman has set her hope on God, and that she continuously, consistently
+        prays day and night offering up supplications and prayers; <verse eid="1TI 5:5" />
+      <verse number="6" style="v" sid="1TI 5:6" />but the self-indulgent, luxury-seeking, pleasure-loving woman, though living in terms of the medical
+        definition of being alive, has already died.<verse eid="1TI 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1TI 5:7" />Give the order that these rules be followed, so that there’d be no way anyone could point a finger at
+        those who follow them. <verse eid="1TI 5:7" />
+      <verse number="8" style="v" sid="1TI 5:8" />But if someone won’t provide for his own relatives, especially those of his own household, he’s denied
+        the Faith and is worse than an unbeliever.<verse eid="1TI 5:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TI 5:9" />Enroll a widow into the church support program if she’s not less than sixty years old, the wife of one
+        husband (i.e., not married, divorced, then remarried before being a widow); <verse eid="1TI 5:9" />
+      <verse number="10" style="v" sid="1TI 5:10" />enroll her if there are eyewitness accounts and testimonies of her good deeds; enroll her if she raised
+        children; if she shows hospitality; if she washed the saints’ feet (i.e., done demeaning chores for the
+        church and its members); if she helped those in distress; if she’s devoted herself to good works of every
+        sort.<verse eid="1TI 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 5:11" />But deny requests to enroll widows who are young: you see, when they become overpowered with physical,
+        sensual desires contrary to their vow to Christ in their wanting to get married, <verse eid="1TI 5:11" />
+      <verse number="12" style="v" sid="1TI 5:12" />they’ll be “guilty as charged” (so to speak) because they abandoned their previous obligation. <verse eid="1TI 5:12" />
+      <verse number="13" style="v" sid="1TI 5:13" />At the same time they learn to be lazy, making the rounds from house to house—not just lazy but they
+        also run at the mouth and stick their noses where they’re not wanted, saying things that shouldn’t be
+        said.<verse eid="1TI 5:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TI 5:14" />So, after thinking about it, I want young widows to get married, have children, and take responsibility
+        for their house and for those in it, so they won’t give the Opponent any opportunity to verbally abuse
+        them, scolding and insulting them. <verse eid="1TI 5:14" />
+      <verse number="15" style="v" sid="1TI 5:15" />The fact of the matter is that some have already gone in a different direction to become ardent followers
+        of Satan. <verse eid="1TI 5:15" />
+      <verse number="16" style="v" sid="1TI 5:16" />If a particular woman who is a believer has widows in her care, have her help them and not be a burden
+        on the church, so that the ones who really are widows and are destitute as such may be helped.<verse eid="1TI 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 5:17" />Let the elders (i.e., those on the church board) who do a good job of running things be entitled to twice
+        their pay, especially those who work hard at speaking and teaching. <verse eid="1TI 5:17" />
+      <verse number="18" style="v" sid="1TI 5:18" />You see, the Scripture says “do not muzzle the ox while threshing” and “the worker is entitled to his
+        paycheck.”<verse eid="1TI 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TI 5:19" />Don’t accept an accusation of wrongdoing against an elder except if it’s leveled by two or three people
+        who solemnly swear that it’s true.<verse eid="1TI 5:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TI 5:20" />Expose those who are sinners in front of everyone, so that everyone will become afraid of sinning.<verse eid="1TI 5:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1TI 5:21" />I solemnly affirm these things and declare them to be true before God, Christ Jesus, and the special
+        angels, so that you would guard these things without prejudice, doing nothing out of favoritism.<verse eid="1TI 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="1TI 5:22" />Don’t be too eager to lay hands on anyone and thereby make them a minister nor should you participate
+        in others’ sins: keep yourself unsullied.<verse eid="1TI 5:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1TI 5:23" />Don’t just drink water only anymore, but use a little wine as a medicine of a sort because of your stomach
+        and your frequent ailments.<verse eid="1TI 5:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="1TI 5:24" />For some people, their sins are obvious, paraded before them with much fanfare for everyone to see in
+        front of them on their way to judgment; but some come right behind them, quietly, unannounced, and unexpected
+        by everyone. <verse eid="1TI 5:24" />
+      <verse number="25" style="v" sid="1TI 5:25" />Deeds operate the same way that I just described about sin: the deeds which are exemplary are obvious
+        to everyone, but the ones which are otherwise can’t be kept hidden.<verse eid="1TI 5:25" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TI 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="1TI 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 6:1" />Anyone at all who’s forced to be a slave, let him esteem his master worthy of total honor, so that God’s
+        reputation and the things the church believes in not be bad-mouthed. <verse eid="1TI 6:1" />
+      <verse number="2" style="v" sid="1TI 6:2" />They who have masters who are believers mustn’t despise them because they’re fellow-comrades, but should
+        serve them all the more, because they are faithful and beloved, they who are having a surrogate take
+        their place in assisting them in what’s beneficial.</para>
+    <para style="p" vid="1TI 6:2">Give instructions in these matters and exhort and encourage them to follow them. <verse eid="1TI 6:2"/>
+      <verse number="3" style="v" sid="1TI 6:3" />If anyone teaches things which are…shall we say…different, and isn’t headed in the direction of delivering
+        sound messages, namely messages of our Lord Jesus Christ and teaching in line with godliness, <verse eid="1TI 6:3" />
+      <verse number="4" style="v" sid="1TI 6:4" />then he’s become conceited, understanding nothing, but has a sick desire for debates and controversies
+        instead, out of which he becomes envious, engages in quarrelling and strife, he slanders, becomes paranoid,<verse eid="1TI 6:4" />
+      <verse number="5" style="v" sid="1TI 6:5" />constantly arguing with people who are morally depraved whose mind is also deprived of the truth, of
+        the opinion that godliness is a means of gain—<verse eid="1TI 6:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TI 6:6" />—But godliness with contentment alongside it actually is a means of great gain. <verse eid="1TI 6:6" />
+      <verse number="7" style="v" sid="1TI 6:7" />We brought nothing with us into the world when we were born, you see, and we sure can’t take anything
+        out of it. <verse eid="1TI 6:7" />
+      <verse number="8" style="v" sid="1TI 6:8" />Regular meals and adequate clothing—we’ll be satisfied with these things. <verse eid="1TI 6:8" />
+      <verse number="9" style="v" sid="1TI 6:9" />But those who want and plan to get richer and richer fall into temptation, into a trap, and into many
+        strong desires which are unintelligent, dull-witted, and harmful. <verse eid="1TI 6:9" />
+      <verse number="10" style="v" sid="1TI 6:10" />The fact of the matter is that a potential root-cause of every type of the evils you see in the world
+        is the love of money, which some who’ve made it their goal to get rich have veered off from the Faith
+        and have skewered themselves through with a spit (like when roasting meat), skewering themselves all
+        over with a lot of misery, with many mental pains, and with a tremendous amount of undue suffering.<verse eid="1TI 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 6:11" />Now you, oh man of God—run away as fast as you can from these things. Pursue righteousness, piety, faith,
+        love, patience, gentleness, and the list goes on. <verse eid="1TI 6:11" />
+      <verse number="12" style="v" sid="1TI 6:12" />Fight the good fight of the Faith. Grab and hold onto that special fullness of life, eternal life, to
+        which ends you were called and for which you confessed the Good Confession before many witnesses.<verse eid="1TI 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TI 6:13" />I charge you before God the Life-Causer of everything and Christ Jesus who submitted the Good Confession
+        as testimony to Pontius Pilate <verse eid="1TI 6:13" />
+      <verse number="14" style="v" sid="1TI 6:14" />to keep the commandment I just wrote spotless and blameless until the appearance of our Lord Jesus Christ,<verse eid="1TI 6:14" />
+      <verse number="15" style="v" sid="1TI 6:15" />which appearance he will indicate in separate eras of time, he the blessed and singular authority, the
+        King of the kings and Lord of the lords, <verse eid="1TI 6:15" />
+      <verse number="16" style="v" sid="1TI 6:16" />the one having immortality, whose resides in unapproachable light which no one has seen or is able to
+        stare at: to him be honor and might forever. Amen (i.e., let us pause a moment for that remark to sink
+        in).<verse eid="1TI 6:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 6:17" />Charge those who are rich in this present age not to be high-minded or to set their hope on the uncertainty
+        of wealth, but to instead set it on God the One Who richly makes available to us all sorts of things
+        for our enjoyment, <verse eid="1TI 6:17" />
+      <verse number="18" style="v" sid="1TI 6:18" />and makes these things available to us so we can be doing good things to others, so that we can become
+        richer in top-notch works, so that they can be generous, willing to share, <verse eid="1TI 6:18" />
+      <verse number="19" style="v" sid="1TI 6:19" />storing away for themselves a good nest egg for the future, so that they would grab and hold onto what
+        life really is.<verse eid="1TI 6:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TI 6:20" />Oh, Timothy, guard what’s been entrusted to you, avoid the desecrated, profane kind of useless chatter
+        and the contradictions of so-called knowledge and understanding, <verse eid="1TI 6:20" />
+      <verse number="21" style="v" sid="1TI 6:21" />which some, by professing these things, have veered off into a ditch with respect to the Faith.
+    </para>
+    <para style="p" vid="1TI 6:21">The grace of God be with you all.<verse eid="1TI 6:21"/>
+    </para>
+  <chapter eid="1TI 6" />
+</usx>

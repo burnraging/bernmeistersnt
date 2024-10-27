@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1JN" style="id">The Bernmeister's NT</book>
+  <para style="h">1 John</para>
+  <para style="toc1">The Epistle of 1 John</para>
+  <para style="toc2">1 John</para>
+  <para style="toc3">1 John</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 JOHN</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1JN 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1JN 1:1" />That which was from day-one, that which we’ve heard, that which we’ve seen with our eyes, that which
+        we’ve beheld and our hands handled concerning the word of life— <verse eid="1JN 1:1" />
+      <verse number="2" style="v" sid="1JN 1:2" />And the life was manifested, and we have beheld it and give an official report about it: we announce
+        to you the Eternal Life (i.e. that special fullness of life) which was with the Father and was manifested
+        to us. <verse eid="1JN 1:2" />
+      <verse number="3" style="v" sid="1JN 1:3" />That which we’ve beheld and heard, we announce even to you, so that you would have fellowship with us,
+        but also that Our Fellowship would be with the Father and with His Son Jesus Christ. <verse eid="1JN 1:3" />
+      <verse number="4" style="v" sid="1JN 1:4" />We’re writing these things to you so that your joy would attain its greatest extent.<verse eid="1JN 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1JN 1:5" />This is the very announcement which we heard from him and announce to you, that God is light and there
+        is not a single bit of darkness in Him. <verse eid="1JN 1:5" />
+      <verse number="6" style="v" sid="1JN 1:6" />If we were to say that we have fellowship with Him and conduct our lives in the darkness, we would be
+        lying and not practicing the truth. <verse eid="1JN 1:6" />
+      <verse number="7" style="v" sid="1JN 1:7" />But if we were to conduct our lives in the light just as He is in the light, we would have fellowship
+        with one another, and the blood of His son Jesus would cleanse us from all sins. <verse eid="1JN 1:7" />
+      <verse number="8" style="v" sid="1JN 1:8" />If we were to say on a given occasion that we don’t have sin, we would be fooling ourselves and the truth
+        would not be in us. <verse eid="1JN 1:8" />
+      <verse number="9" style="v" sid="1JN 1:9" />If we were to confess our sins, He’s faithful and always does the right thing so that He would forgive
+        us of our sins and would cleanse us from all unrighteousness. <verse eid="1JN 1:9" />
+      <verse number="10" style="v" sid="1JN 1:10" />If we were to say on a given occasion that we’ve reached the point where we haven’t sinned, we’re making
+        Him out to be a liar and His word (His system of thought) is not in us.<verse eid="1JN 1:10" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1JN 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1JN 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1JN 2:1" />My children, I’m writing these things to you so that you wouldn’t sin. But if someone were to sin, we
+        have a Helper with the Father, righteous Jesus Christ. <verse eid="1JN 2:1" />
+      <verse number="2" style="v" sid="1JN 2:2" />And he is, by nature, the means of appeasement where our sin is concerned; not just where our sin is
+        concerned only but also where the sin of the entire world, the established order of humans, is concerned.<verse eid="1JN 2:2" />
+      <verse number="3" style="v" sid="1JN 2:3" />If we were to keep His commandments, by this know that we have come to know and understand Him. <verse eid="1JN 2:3" />
+      <verse number="4" style="v" sid="1JN 2:4" />The one who says, “I’ve come to know and understand Him,” but isn’t keeping His commandments: he’s a
+        liar, and the truth is not in him. <verse eid="1JN 2:4" />
+      <verse number="5" style="v" sid="1JN 2:5" />But on the other hand, if one were to keep His word, His system of thought, by doing this the love of
+        God has truly been brought to perfection. By this we know and understand that we are in Him. <verse eid="1JN 2:5" />
+      <verse number="6" style="v" sid="1JN 2:6" />The one who’s making statements claiming to be dwelling in Him—that person is obligated to go through
+        a tour of conduct accordingly and that very person is obligated to be conducting his life in that manner.<verse eid="1JN 2:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1JN 2:7" />Beloved, I’m not writing to you a new, never-heard-of-before commandment, but rather an old commandment,
+        one which you’ve had continually from day-one. The Old Commandment is the train of thought which you’ve
+        heard. <verse eid="1JN 2:7" />
+      <verse number="8" style="v" sid="1JN 2:8" />But that being said, I’m writing to you a new, never-heard-of-before commandment, one which is true in
+        Him and in you, that the darkness is waning and the True Light is already shining. <verse eid="1JN 2:8" />
+      <verse number="9" style="v" sid="1JN 2:9" />The one who’s making statements claiming to be in the light but hates his comrade has been in the darkness
+        all this time. <verse eid="1JN 2:9" />
+      <verse number="10" style="v" sid="1JN 2:10" />The one who loves his comrade dwells in the light, and there’s no cause for him to do wrong, be it intentional
+        or unintentional. <verse eid="1JN 2:10" />
+      <verse number="11" style="v" sid="1JN 2:11" />The one who hates his comrade is in the darkness, and he conducts his life in the darkness and with it
+        too. He has no direct knowledge of where he’s headed, since the darkness has made him go blind.<verse eid="1JN 2:11" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="12" style="v" sid="1JN 2:12" />I’m writing to you, children,
+    </para>
+    <para style="pi" vid="1JN 2:12">Because your sins have been forgiven</para>
+    <para style="pi" vid="1JN 2:12">On account of His reputation and everything He stands for.<verse eid="1JN 2:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="13" style="v" sid="1JN 2:13" />I’m writing to you, fathers, because, since day-one,
+    </para>
+    <para style="pi" vid="1JN 2:13">You’ve arrived at the point</para>
+    <para style="pi" vid="1JN 2:13">Where you know and understand Him.</para>
+    <para style="pi" vid="1JN 2:13"></para>
+    <para style="pi" vid="1JN 2:13">I’m writing to you, aspiring young adults,</para>
+    <para style="pi" vid="1JN 2:13">Because you’ve defeated the Evil One.<verse eid="1JN 2:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="14" style="v" sid="1JN 2:14" />I wrote to you, you boys who work,
+    </para>
+    <para style="pi" vid="1JN 2:14">Because you’ve come to know the Father.</para>
+    <para style="pi" vid="1JN 2:14"></para>
+    <para style="pi" vid="1JN 2:14">I wrote to you, fathers, because, since day-one,</para>
+    <para style="pi" vid="1JN 2:14">You’ve arrived at the point where</para>
+    <para style="pi" vid="1JN 2:14">You know and understand Him.</para>
+    <para style="pi" vid="1JN 2:14"></para>
+    <para style="pi" vid="1JN 2:14">I wrote to you, aspiring young adults,</para>
+    <para style="pi" vid="1JN 2:14">Because you’re strong,</para>
+    <para style="pi" vid="1JN 2:14">And the word of God dwells in you,</para>
+    <para style="pi" vid="1JN 2:14">And you’ve defeated the Evil One.<verse eid="1JN 2:14"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="15" style="v" sid="1JN 2:15" />Do not love the world, the established order of humans, nor those things in the world. If someone were
+        to love the world, the Father’s love is not in him, <verse eid="1JN 2:15" />
+      <verse number="16" style="v" sid="1JN 2:16" />because everything that is in the world—the desires of the body’s carnal nature, the desires of what
+        one longs for but doesn’t have, and the boastful, ostentatious swagger rooted in the material things
+        of life—isn’t from the Father but instead is from the world. <verse eid="1JN 2:16" />
+      <verse number="17" style="v" sid="1JN 2:17" />And the world-system is waning, but he who’s doing the will of God abides forever.<verse eid="1JN 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1JN 2:18" />You boys who work: it’s the endgame, and just as you heard that one who’s nature is of an antichrist
+        is coming, by now many antichrists have come into being. Coming from that perspective, we know and understand
+        that it’s the endgame. <verse eid="1JN 2:18" />
+      <verse number="19" style="v" sid="1JN 2:19" />They left our crowd, but—no—they weren’t a part of us. You see, if they were a part of us, they would’ve
+        remained with us. But—no—they left us in order that it would be made apparent that not everyone is one
+        of us.<verse eid="1JN 2:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1JN 2:20" />You have a special dispensation bestowed on you from the Holy Spirit, and you know everything directly.<verse eid="1JN 2:20" />
+      <verse number="21" style="v" sid="1JN 2:21" />I didn’t write to you because you don’t have a first-hand knowledge of the truth, but rather because
+        you have a first-hand knowledge of the truth, and because every single lie does not originate from the
+        truth. <verse eid="1JN 2:21" />
+      <verse number="22" style="v" sid="1JN 2:22" />Who is the quintessential liar, except for the denier who denies that Jesus is the Messiah, the Christ?
+        This guy is the Antichrist, the denier who denies the Father and the son. <verse eid="1JN 2:22" />
+      <verse number="23" style="v" sid="1JN 2:23" />All deniers who deny the son don’t have the Father either. <verse eid="1JN 2:23" />
+      <verse number="24" style="v" sid="1JN 2:24" />Let what you’ve heard from day-one dwell in you. If what you’ve heard from day-one were to dwell in you,
+        you too will dwell in the son and in the Father. <verse eid="1JN 2:24" />
+      <verse number="25" style="v" sid="1JN 2:25" />And this very thing is the promise which was promised to us: that special fullness of life, Eternal Life.<verse eid="1JN 2:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="1JN 2:26" />I wrote these things to you about those who are deceiving you and thereby leading you astray. <verse eid="1JN 2:26" />
+      <verse number="27" style="v" sid="1JN 2:27" />And you—the special dispensation that you received from Him dwells in you, and you have no need that
+        someone instruct you—no, as the very same special dispensation instructs you about everything and anything,
+        and is true and—just to be clear—is not a lie, dwell in Him in the same way that it, the special dispensation,
+        has instructed you.<verse eid="1JN 2:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="1JN 2:28" />At this time, children, dwell in him, so that if he were to appear, we would have bold confidence and
+        would not be put to shame at his public appearance. <verse eid="1JN 2:28" />
+      <verse number="29" style="v" sid="1JN 2:29" />If you’ve come to know for a fact that he’s righteous, you know and understand that everyone who practices
+        righteousness also has been begotten from Him and by Him.<verse eid="1JN 2:29" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1JN 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1JN 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1JN 3:1" />Look at the kind of love that the Father has given us, that we would be called God’s children—and we
+        are. Because of this, the world, the established order of humans, doesn’t know and understand us, since
+        it didn’t know and understand Him. <verse eid="1JN 3:1" />
+      <verse number="2" style="v" sid="1JN 3:2" />Beloved, at the present time we are God’s children, and it hasn’t yet been made apparent what we’ll be.
+        We know that if he were to be manifested, we would be just like him, because we would see him the way
+        he is. <verse eid="1JN 3:2" />
+      <verse number="3" style="v" sid="1JN 3:3" />And everyone who has this hope, a hope which is focused on him, purges himself from defilement in the
+        same way that he has no defilement.<verse eid="1JN 3:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1JN 3:4" />Everyone who practices archetypical sin also practices archetypical lawlessness, that is, the refusal
+        to be restrained by the rules of God or of man. and the archetypical sin IS the archetypical lawlessness.<verse eid="1JN 3:4" />
+      <verse number="5" style="v" sid="1JN 3:5" />And we know for a fact that that person appeared in order to take away the archetypical sins, and there
+        is no sin in him. <verse eid="1JN 3:5" />
+      <verse number="6" style="v" sid="1JN 3:6" />Everyone who’s dwelling in him isn’t sinning; everyone who’s sinning has not seen him nor has come to
+        know and understand him. <verse eid="1JN 3:6" />
+      <verse number="7" style="v" sid="1JN 3:7" />Children, let no one deceive you and lead you astray: the one who practices righteousness is righteous,
+        in the same way that That Person is righteous. <verse eid="1JN 3:7" />
+      <verse number="8" style="v" sid="1JN 3:8" />The one who practices sin is from the devil, since he’s been sinning from day-one. The Son of God appeared
+        for this reason, so that he would break up and disperse the works of the devil. <verse eid="1JN 3:8" />
+      <verse number="9" style="v" sid="1JN 3:9" />Everyone who’s begotten from and by God doesn’t practice sin, since His DNA dwells in him, and he can’t
+        sin on an ongoing basis, since he’s begotten from and by God. <verse eid="1JN 3:9" />
+      <verse number="10" style="v" sid="1JN 3:10" />God’s children and the devil’s children are apparent by this: everyone who’s not practicing righteousness
+        is not from God, and so is the one who isn’t loving his comrades, <verse eid="1JN 3:10" />
+      <verse number="11" style="v" sid="1JN 3:11" />because this is the very announcement which you heard from day-one: that you would love one another—<verse eid="1JN 3:11" />
+      <verse number="12" style="v" sid="1JN 3:12" />and not act in in the same manner as Cain, who was from the Evil One, and slew his brother. And what
+        satisfaction and delight did he get by slaying him? He did it because his works were evil whereas his
+        brother’s were righteous. <verse eid="1JN 3:12" />
+      <verse number="13" style="v" sid="1JN 3:13" />Don’t be amazed, comrades, if the world hates you. <verse eid="1JN 3:13" />
+      <verse number="14" style="v" sid="1JN 3:14" />We know for a fact that we have been relocated out of the state of death into the state of life, because
+        we love the comrades. He who doesn’t love dwells in the state of death. <verse eid="1JN 3:14" />
+      <verse number="15" style="v" sid="1JN 3:15" />Everyone who hates his comrade on an ongoing basis is a murderer, and you know for a fact that all murderers
+        don’t have that special fullness of life—eternal life—dwelling in him. <verse eid="1JN 3:15" />
+      <verse number="16" style="v" sid="1JN 3:16" />By this we have come to know and understand the love that comes from God, because that person put his
+        life on the line and, indeed, laid it down, and we are obligated to put our lives on the line on behalf
+        of the comrades. <verse eid="1JN 3:16" />
+      <verse number="17" style="v" sid="1JN 3:17" />But if said person were to be in possession of life-sustaining goods and see his comrade in need and
+        were to close off his inner, heart-felt compassion from him, how does God’s love dwell in him? <verse eid="1JN 3:17" />
+      <verse number="18" style="v" sid="1JN 3:18" />Children, let us not love in concept nor in speech but rather in activity and in truth.<verse eid="1JN 3:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1JN 3:19" />By this we know and understand that we are part of the truth, and reassure our hearts before Him in His
+        very presence, <verse eid="1JN 3:19" />
+      <verse number="20" style="v" sid="1JN 3:20" />that if our heart were to condemn us by the guilt of introspection, since God is greater than our heart
+        and knows and understands everything. <verse eid="1JN 3:20" />
+      <verse number="21" style="v" sid="1JN 3:21" />Beloved, if our heart were to not condemn us by the guilt of introspection, we have confidence towards
+        God, <verse eid="1JN 3:21" />
+      <verse number="22" style="v" sid="1JN 3:22" />and that which we were to ask for we receive from Him, because we keep His commandments and we do those
+        things before Him, in His very presence, which are pleasing to Him. <verse eid="1JN 3:22" />
+      <verse number="23" style="v" sid="1JN 3:23" />And this very thing is His commandment, that we would believe in the reputation and vested authority
+        of His son Jesus Christ and that we would love one another, in the same way He commanded us to do so.<verse eid="1JN 3:23" />
+      <verse number="24" style="v" sid="1JN 3:24" />And the keeper of His commandments dwells in him and he in him. And by this we know and understand that
+        he dwells in us: we know from the Spirit he gave us.<verse eid="1JN 3:24" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1JN 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1JN 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1JN 4:1" />Beloved, don’t believe in every spirit, but instead examine the spirits to see if they are from God and
+        accept or reject them accordingly, because many false prophets have ventured out into the world, the
+        established order of humans. <verse eid="1JN 4:1" />
+      <verse number="2" style="v" sid="1JN 4:2" />You’ll know if you’re dealing with the Spirit of God or not by this: all spirits who confess that Jesus
+        Christ has come to the earth in actual flesh and blood are from God, <verse eid="1JN 4:2" />
+      <verse number="3" style="v" sid="1JN 4:3" />and all spirits not confessing Jesus Christ and his having come in the flesh are not from God. And this
+        is the spirit of the archetypical antichrist, that which you’ve heard is coming to the world, and by
+        this time is already in the world. <verse eid="1JN 4:3" />
+      <verse number="4" style="v" sid="1JN 4:4" />You are from God, children, and have defeated them, since greater is the one in you than the one in the
+        world. <verse eid="1JN 4:4" />
+      <verse number="5" style="v" sid="1JN 4:5" />They are from the world; for this reason they speak as belonging to the world, and the world listens
+        to them. <verse eid="1JN 4:5" />
+      <verse number="6" style="v" sid="1JN 4:6" />You are from God. He who knows and understands God listens to portions of the things we say; said person
+        who is not from God won’t listen to any part of what we have to say. By this we know, understand, and
+        recognize the pervasive aura of truth and the pervasive aura of error.<verse eid="1JN 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1JN 4:7" />Beloved, let us love one another, since the Christian love is from God, and all who love have been begotten
+        by and from God and know and understand God. <verse eid="1JN 4:7" />
+      <verse number="8" style="v" sid="1JN 4:8" />The one who isn’t in the habit of loving didn’t ever know and understand God, since God is love. <verse eid="1JN 4:8" />
+      <verse number="9" style="v" sid="1JN 4:9" />The love of God has been made apparent in us by this, that God has sent his Only Begotten Son into the
+        world in order that we could live through him. <verse eid="1JN 4:9" />
+      <verse number="10" style="v" sid="1JN 4:10" />The Christian love is identified by this: not that we have arrived at the point where we love God, but
+        that He loved us and sent His son as the means of appeasement where our sin is concerned. <verse eid="1JN 4:10" />
+      <verse number="11" style="v" sid="1JN 4:11" />Beloved, if God loved us in this manner, we too are obligated to ever love one another. <verse eid="1JN 4:11" />
+      <verse number="12" style="v" sid="1JN 4:12" />Nobody has reached the point where they’ve seen God entirely. If we were to love one another, God dwells
+        in us and His love is in a state of completion.<verse eid="1JN 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1JN 4:13" />We know and understand that we are abiding in Him and He in us by this: we’ll know it from the Spirit
+        He’s given us. <verse eid="1JN 4:13" />
+      <verse number="14" style="v" sid="1JN 4:14" />We have seen and we go on record that the Father has sent the son, the savior of the world. <verse eid="1JN 4:14" />
+      <verse number="15" style="v" sid="1JN 4:15" />If said person were to confess that Jesus is the Son of God, God dwells in him and He in God. <verse eid="1JN 4:15" />
+      <verse number="16" style="v" sid="1JN 4:16" />And we have come to know, to understand, and to believe the love which God has in us.
+    </para>
+    <para style="p" vid="1JN 4:16">God is love, and the one dwelling in the Christian love dwells in God, and God dwells in him; <verse eid="1JN 4:16"/>
+      <verse number="17" style="v" sid="1JN 4:17" />by this, the love has been brought to perfection among us. This is so that we would have confidence on
+        judgment day, since just as That One is, we too are the same way in this world. <verse eid="1JN 4:17" />
+      <verse number="18" style="v" sid="1JN 4:18" />Fear is not in or by the love of God, but rather the perfected love of God expels fear, since fear involves
+        punishment; and the one who fears has not reached a state of perfection in the love of God. <verse eid="1JN 4:18" />
+      <verse number="19" style="v" sid="1JN 4:19" />We love because He first and foremost loved us. <verse eid="1JN 4:19" />
+      <verse number="20" style="v" sid="1JN 4:20" />If someone were to say on a given occasion “I love God” and were to hate his comrade, he’s a liar; you
+        see, the one who doesn’t love his comrade is a liar. The fact is, the one who doesn’t love his comrade
+        whom he’s seen can’t love the God whom he hasn’t seen. <verse eid="1JN 4:20" />
+      <verse number="21" style="v" sid="1JN 4:21" />And we possess this commandment, that the one who loves God would love his comrade too.<verse eid="1JN 4:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1JN 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1JN 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1JN 5:1" />Everyone who believes that Jesus is the Messiah, the Christ, has been begotten from God, and everyone
+        who loves the One who does the begetting also loves the one who has been begotten from Him. <verse eid="1JN 5:1" />
+      <verse number="2" style="v" sid="1JN 5:2" />By this we know and understand that we love God’s children: it’s when we love God and we practice His
+        commandments. <verse eid="1JN 5:2" />
+      <verse number="3" style="v" sid="1JN 5:3" />You see, God’s love is this very thing, that we would keep His commandments. And His commandments aren’t
+        burdensome, <verse eid="1JN 5:3" />
+      <verse number="4" style="v" sid="1JN 5:4" />since all those who’ve been begotten from God defeat the world-system. And this very thing is the victory
+        which defeated the world: our faith.<verse eid="1JN 5:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1JN 5:5" />So, who is the one who defeats the world, if not the one who believes that Jesus is the Son of God? <verse eid="1JN 5:5" />
+      <verse number="6" style="v" sid="1JN 5:6" />This person—Jesus Christ—is the one who has come through water and blood; not by water alone but by water
+        and by blood. And the Spirit is the one who testifies, because the Spirit is the truth. <verse eid="1JN 5:6" />
+      <verse number="7" style="v" sid="1JN 5:7" />For there are three who testify: <verse eid="1JN 5:7" />
+      <verse number="8" style="v" sid="1JN 5:8" />the Spirit, the water, and the blood, and the three are contained in the One. <verse eid="1JN 5:8" />
+      <verse number="9" style="v" sid="1JN 5:9" />If we receive testimony from mankind, then God’s testimony is superior, because it is God’s very own
+        testimony, because He has gone on record and testified about His son. <verse eid="1JN 5:9" />
+      <verse number="10" style="v" sid="1JN 5:10" />The one who believes in the Son of God has the testimony in himself. The one who won’t believe in God
+        makes Him out to be a liar, because he has not arrived at a point where he has believed in the testimony
+        which God has testified concerning His son. <verse eid="1JN 5:10" />
+      <verse number="11" style="v" sid="1JN 5:11" />And this very thing is the testimony, that God gave us that special fullness of life, eternal life, and
+        the life itself is in His son. <verse eid="1JN 5:11" />
+      <verse number="12" style="v" sid="1JN 5:12" />Whoever has the son has the Father; he who doesn’t have the Son of God doesn’t have the life I’m talking
+        about.<verse eid="1JN 5:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1JN 5:13" />I wrote these things to you so that you’d know for a fact that you have eternal life; by “you” I mean
+        those who believe in all that the Son of God stands for. <verse eid="1JN 5:13" />
+      <verse number="14" style="v" sid="1JN 5:14" />And this very thing is the confidence which we have with Him, that if we were to ask for something in
+        accordance with His will, He listens to us. <verse eid="1JN 5:14" />
+      <verse number="15" style="v" sid="1JN 5:15" />And if we know for sure that He listens to us in regard to the thing we asked for, we know for a fact
+        that we are guaranteed to have the requests that we have asked of Him.<verse eid="1JN 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="1JN 5:16" />If someone were to see in its entirety his comrade while he’s committing a sin, he shall ask on his behalf
+        and He will give him life, with respect to those who are committing sins not resulting in spiritual death.
+        There is a sin leading to spiritual death: I’m not talking about that, that he should ask on his behalf
+        in that case. <verse eid="1JN 5:16" />
+      <verse number="17" style="v" sid="1JN 5:17" />All wrong-doing is sin, but there is sin the nature of which does not result in spiritual death.<verse eid="1JN 5:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1JN 5:18" />We know for a fact that everyone who’s been begotten from God doesn’t sin; rather, the one begotten from
+        God keeps him, and the Evil One won’t touch him. <verse eid="1JN 5:18" />
+      <verse number="19" style="v" sid="1JN 5:19" />We know for a fact that we are from God, and the entire world—the established order of humans—lies in
+        the sphere of the Evil One. <verse eid="1JN 5:19" />
+      <verse number="20" style="v" sid="1JN 5:20" />Now we know for a fact that the Son of God has come and has given to us an intellect so that we could
+        know and understand the truth. And we are in the truth by being in His son Jesus Christ. This person
+        is the true God and he is that special fullness of life, eternal life.<verse eid="1JN 5:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1JN 5:21" />Children, get yourselves as far away as possible from the idols that everyone worships.<verse eid="1JN 5:21" />
+    </para>
+  <chapter eid="1JN 5" />
+</usx>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="COL" style="id">The Bernmeister's NT</book>
+  <para style="h">Colossians</para>
+  <para style="toc1">The Epistle of Colossians</para>
+  <para style="toc2">Colossians</para>
+  <para style="toc3">Col.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">COLOSSIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="COL 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="COL 1:1" />From Paul the apostle of Christ Jesus through the agency of the will of God and from Comrade Timothy,<verse eid="COL 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="COL 1:2" />To the saints (i.e., the believers in Christ)—what faithful comrades!—in Colossae,
+    </para>
+    <para style="p" vid="COL 1:2">Grace and peace to you from our Father-God:<verse eid="COL 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="COL 1:3" />While praying, we’re constantly thanking the Father-God of our Lord Jesus Christ for you, <verse eid="COL 1:3" />
+      <verse number="4" style="v" sid="COL 1:4" />having heard about your faith in Christ Jesus and about the love you have for all the saints <verse eid="COL 1:4" />
+      <verse number="5" style="v" sid="COL 1:5" />on account of the hope which is stashed away for you in the heavens (i.e., in the spiritual domain or
+        in heaven itself), which you previously heard about in the Message of Truth which is from the Gospel
+        (i.e., the glad-tidings message of Christ), <verse eid="COL 1:5" />
+      <verse number="6" style="v" sid="COL 1:6" />which is close by at our disposal, just as it is producing positive results and spreading in every place
+        of the world just as it is also doing the same in us as well from the days you heard about it and came
+        to recognize the grace of God contained in the truth, <verse eid="COL 1:6" />
+      <verse number="7" style="v" sid="COL 1:7" />which is consistent with the way you were taught it by our dear servant Epaphras, who is a faithful deacon
+        (i.e., servant entrusted with significant responsibilities) of Christ for matters pertaining to you,<verse eid="COL 1:7" />
+      <verse number="8" style="v" sid="COL 1:8" />who also told us about your love in the Spirit.<verse eid="COL 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="COL 1:9" />On account of this, since the days when you first heard the Gospel, we haven’t quit asking in prayer
+        that you would be filled with a recognition and an arrived-at knowledge and understanding of His will
+        in every sort of spiritual or Holy Spirit-related wisdom and understanding, <verse eid="COL 1:9" />
+      <verse number="10" style="v" sid="COL 1:10" />equipped to go about your lives in a totally pleasing manner worthy of the Lord, being productive in
+        every good work and growing in a recognition and a more-precise knowledge and understanding of God, <verse eid="COL 1:10" />
+      <verse number="11" style="v" sid="COL 1:11" />being powered with every kind of power imaginable reflective of the strength of His glory which He can
+        bring to bear towards the goal of attaining every degree of steadfastness, perseverance, and patience
+        imaginable, with joy <verse eid="COL 1:11" />
+      <verse number="12" style="v" sid="COL 1:12" />thanking the Father over and over again who caused us to be fit for and adequate to receive the portion
+        of the inheritance of the saints in the light (i.e., the things which God has planned and intended specifically
+        for His people who exist in the light)— <verse eid="COL 1:12" />
+      <verse number="13" style="v" sid="COL 1:13" />He Who rescued us out of the authority of the darkness and transferred us to the kingdom of His beloved
+        son, <verse eid="COL 1:13" />
+      <verse number="14" style="v" sid="COL 1:14" />in whom we have the Redemption (i.e., God’s plan of restoring out lives), which is the forgiveness of
+        sins— <verse eid="COL 1:14" />
+      <verse number="15" style="v" sid="COL 1:15" />He who is a reflection of the Unseen God, the first-born who has the right of primogeniture over all
+        creation, <verse eid="COL 1:15" />
+      <verse number="16" style="v" sid="COL 1:16" />since in him all things were created in the heavens (i.e., the astronomical objects; things in the spiritual
+        world; things in heaven itself) and upon the earth, the seen and the unseen, whether they be thrones,
+        lordships, rulers, or authorities—all things have been created through him, because of him, for him,
+        and to him, <verse eid="COL 1:16" />
+      <verse number="17" style="v" sid="COL 1:17" />and he’s before all things (i.e., takes the lead over, has priority over all things) and everything is
+        banded together in him.<verse eid="COL 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="COL 1:18" />And he’s the head of the body, made up of the church, a person who is a ruler, a firstborn who came up
+        out of the dead so that he himself would become a first born-primogeniture for everything, <verse eid="COL 1:18" />
+      <verse number="19" style="v" sid="COL 1:19" />since it pleased God to have all fullness (i.e., the totality of power, of control, of judgment) take
+        up residence and dwell in him, <verse eid="COL 1:19" />
+      <verse number="20" style="v" sid="COL 1:20" />and through him to reconcile all things to Himself, having made peace through the blood of his cross,
+        whether those things are on the Earth or those things are in the heavens.<verse eid="COL 1:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="COL 1:21" />You, back then, were alienated and hostile in your thoughts and opinions when you lived in the Evil Deeds,<verse eid="COL 1:21" />
+      <verse number="22" style="v" sid="COL 1:22" />but now he has reconciled you in his body of plain, ordinary flesh through the death he underwent to
+        present us holy, blameless, and irreproachable before Him (i.e., when scrutinized by Him), <verse eid="COL 1:22" />
+      <verse number="23" style="v" sid="COL 1:23" />if you truly remain in the Faith grounded, stable, and unperturbed from the hope of the good message
+        (the Gospel) you heard, which was preached to any warm body to be found anywhere, a message for which
+        I Paul became a minister.<verse eid="COL 1:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="COL 1:24" />At the present time I rejoice in the sufferings I must endure for your sakes, and contribute my fair
+        share of Christ’s ordeal of hardship in my flesh for the sake of his body, which is the Church, <verse eid="COL 1:24" />
+      <verse number="25" style="v" sid="COL 1:25" />which I became a servant of, entrusted with responsibilities reflective of the stewardship of God that
+        was given to me, a stewardship given with the goal of you becoming fully developed in the word of God,<verse eid="COL 1:25" />
+      <verse number="26" style="v" sid="COL 1:26" />the word of God being the mystery which has been hidden from the ages (i.e., the different eras of history)
+        and from the generations (i.e., the coming and going of a multitude of prevailing Zeitgeists), but now
+        has been made manifest to His saints (i.e., His people), <verse eid="COL 1:26" />
+      <verse number="27" style="v" sid="COL 1:27" />the people to whom God desired to make known and understood what the riches of the glory of this mystery
+        among the Gentiles is—which is Christ in you, the hope of glory— <verse eid="COL 1:27" />
+      <verse number="28" style="v" sid="COL 1:28" />a mystery which we proclaim, warning, admonishing, and advising everyone to take heed and instructing
+        everyone with every sort of wisdom (and a bit of craftiness) imaginable, so that we could make everyone
+        into a final product of a person who’s fully developed in Christ. <verse eid="COL 1:28" />
+      <verse number="29" style="v" sid="COL 1:29" />I’m also doing hard work towards that end, striving according to His working, a working which works in
+        me in a powerful way.<verse eid="COL 1:29" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="COL 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="COL 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="COL 2:1" />The fact of the matter is that I want you to know how great a conflict I have on your behalf and on the
+        behalf of those in Laodicea and whoever hasn’t met me face-to-face, <verse eid="COL 2:1" />
+      <verse number="2" style="v" sid="COL 2:2" />so that their hearts would be encouraged and comforted, having been united by love and with the goal
+        of acquiring all the riches that come from a maturity of understanding, with the goal of having a recognition
+        and a more precise understanding of God’s mystery Christ, <verse eid="COL 2:2" />
+      <verse number="3" style="v" sid="COL 2:3" />in whom all the repositories and treasures of wisdom and understanding are hidden away. <verse eid="COL 2:3" />
+      <verse number="4" style="v" sid="COL 2:4" />This I say so that no one would reason otherwise and beguile you using clever arguments. <verse eid="COL 2:4" />
+      <verse number="5" style="v" sid="COL 2:5" />Though I’m physically absent, I’m with you by means of the Spirit, rejoicing and seeing the discipline
+        and steadfastness of your faith in Christ.<verse eid="COL 2:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="COL 2:6" />So as you received (i.e., whole-heartedly embraced and drawn into your heart) Christ Jesus the Lord,
+        go about your daily lives in him (i.e., melded with him), <verse eid="COL 2:6" />
+      <verse number="7" style="v" sid="COL 2:7" />rooted and built up in him and established in the Faith consistent with the way you were taught, all
+        the while brimming with thankfulness. <verse eid="COL 2:7" />
+      <verse number="8" style="v" sid="COL 2:8" />See to it that not a one of you gets captivated through the use of the philosophy and worthlessness of
+        cunning deception, delusion, and deceit in line with human tradition, in line with elementary principles
+        of the world (i.e., the prevalent idea of God accepting you based on how well you follow the list of
+        do’s and don’ts) and not in line with Christ<verse eid="COL 2:8" />
+      <verse number="9" style="v" sid="COL 2:9" />—Because in him dwells all the fullness of the Being Who is God in a bodily form, <verse eid="COL 2:9" />
+      <verse number="10" style="v" sid="COL 2:10" />and you’ve been brought to your fullness in him, the one who is the head of every person or being who
+        is a ruler or who has a position of delegated power, <verse eid="COL 2:10" />
+      <verse number="11" style="v" sid="COL 2:11" />the one in whom you have been circumcised (i.e., inaugurated into a covenant) into a circumcision (i.e.,
+        a covenant) that wasn’t performed by a human hand (i.e., in a ritual that wasn’t performed by a human
+        being like actual circumcision is) by the removal of that flesh-infested body (i.e., the removal of that
+        carnal, I-can-do-it-myself-without-God human nature locked up in the body) by the circumcision of Christ
+        (i.e., by analogy removing the carnality and do-it-yourself nature like removing the foreskin in circumcision),<verse eid="COL 2:11" />
+      <verse number="12" style="v" sid="COL 2:12" />having been buried with him in the Christian baptism, a baptism in which you were also co-resurrected
+        through the Belief which believes in the work that God does, Who raised him from the dead. <verse eid="COL 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="COL 2:13" />And while you were in a state of being dead in the trespasses and the uncircumcision (i.e., the absence
+        of a covenant with God) of your flesh, He made you alive together with him, forgiving you all the trespasses
+        you were dead in, <verse eid="COL 2:13" />
+      <verse number="14" style="v" sid="COL 2:14" />after he completely erased the promissory note which had written on it the decrees which were against
+        us, he personally took it out of the picture and nailed it to the cross. <verse eid="COL 2:14" />
+      <verse number="15" style="v" sid="COL 2:15" />Having publicly stripped rulers and authorities clean of any weapons or clothing—especially clothing
+        indicating status, he made an example out of them and made them a public spectacle.<verse eid="COL 2:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="COL 2:16" />So let no one decide for you what you should or shouldn’t eat or drink, or decide what’s right or wrong
+        on the topic of religious festivals, start of a new month celebrations, or holidays, <verse eid="COL 2:16" />
+      <verse number="17" style="v" sid="COL 2:17" />that which is a shadow of what’s to come but the body which casts that shadow is Christ’s. <verse eid="COL 2:17" />
+      <verse number="18" style="v" sid="COL 2:18" />Let no one rob you of what’s rightfully yours by pushing an unassuming, self-abasing demeanor and a cult-like
+        worship of the angelic beings, getting off into tangents about what he’s seen with his own eyes, exaggerated
+        for no reason by his carnality-riddled mind, <verse eid="COL 2:18" />
+      <verse number="19" style="v" sid="COL 2:19" />and not staying attached to the head, from which every part of the body, replenished and joined together
+        by means of the joints and ligaments, grows in a way that’s God’s kind of growth.<verse eid="COL 2:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="COL 2:20" />If you died with Christ to the elementary principles of the world, why is it—as though you’re still living
+        in the world and abiding by its elementary principles—that you subject yourselves to codified rules…<verse eid="COL 2:20" />
+      <verse number="21" style="v" sid="COL 2:21" />”Don’t touch with intent of use, don’t eat, don’t have any physical contact with whatsoever <verse eid="COL 2:21" />
+      <verse number="22" style="v" sid="COL 2:22" />(regarding everything that wears out with use, that is)”…reflective of human commandments and teachings?<verse eid="COL 2:22" />
+      <verse number="23" style="v" sid="COL 2:23" />These things are in a category of things which—yes—contain wisdom in regard to do-it-yourself cult-worship
+        and in maintaining an unassuming, self-abasing demeanor and in treating the body harshly, but are of
+        no value in the effort to conciliate the flesh. <verse eid="COL 2:23" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="COL 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="COL 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="COL 3:1" />So if you were raised together with Christ, continually seek the things above where Christ is seated
+        (i.e., occupying a position of authority), being at the right hand of God (i.e., God’s chief executive).<verse eid="COL 3:1" />
+      <verse number="2" style="v" sid="COL 3:2" />Think on the things above, not on the things on Earth (i.e., think about things which have spiritual
+        virtue and not things which are carnal). <verse eid="COL 3:2" />
+      <verse number="3" style="v" sid="COL 3:3" />The fact of the matter is that you died and your life has been hidden together with Christ in God. <verse eid="COL 3:3" />
+      <verse number="4" style="v" sid="COL 3:4" />When Christ—our life—is manifested, at that time we too will be manifested together with him in glory.<verse eid="COL 3:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="COL 3:5" />So put to death the on-Earth members (i.e., the parts of you which are prone to carnality)…fornication
+        (i.e., sexual immorality of any sort); uncleanness (i.e., filthy, nasty, disgusting behavior of any sort;
+        lewd, crude, crass, foul-mouthed, disgusting untidiness, abject neglect of personal hygiene; disgusting
+        references to or treatment of bodily functions); passion (i.e., strong, out-of-control emotion or passionate
+        desire which takes ascendency over logical thinking); bad, wrong, or evil desire; and greed, which is
+        a thing in particular which amounts to idolatry. <verse eid="COL 3:5" />
+      <verse number="6" style="v" sid="COL 3:6" />Because of these things the wrath of God comes upon the sons of disobedience (i.e., those who make it
+        their job to be disobedient). <verse eid="COL 3:6" />
+      <verse number="7" style="v" sid="COL 3:7" />Back then you too went about your daily lives engaging in these things when you were continually seeking
+        after life in the midst of these things. <verse eid="COL 3:7" />
+      <verse number="8" style="v" sid="COL 3:8" />But lay aside every one of these things right now…vindictiveness (i.e., heightened anger in regard to
+        punishment; a focus on retribution; a strong desire to make someone pay for what they did or to get even);
+        wrath (i.e., a hot, out-of-control temper; unwarranted outburst of anger); malice (ill-will; desire to
+        injure; being just plain bad); blasphemy (i.e., swearing at someone, trash-talking someone, smearing
+        or slandering the reputation of someone); potty-mouth (i.e., speaking obscenities; cursing; swearing);<verse eid="COL 3:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="COL 3:9" />Don’t lie to each other, now that you’ve renounced the old-self along with its practices <verse eid="COL 3:9" />
+      <verse number="10" style="v" sid="COL 3:10" />and have put on the new-self, which is constantly being renewed to a recognition and a more precise knowledge
+        and understanding reflective of the image of the One who created this new-self, <verse eid="COL 3:10" />
+      <verse number="11" style="v" sid="COL 3:11" />where there’s not Greek (i.e., one who’s view of life was shaped by the philosophies and lifestyles of
+        the ancient western civilizations) and Jew, circumcised (i.e., those who follow the Law of Moses and
+        expect to have a relationship with God because of this) and uncircumcised (i.e., those who have no relationship
+        with God), barbarian (i.e., the foreign, uncivilized, uneducated, uncultured), Scythian (i.e., the wild,
+        savage, ferocious), slave (i.e., who are also the menial servants, the lowest of the low, the bottommost
+        caste), freeman (i.e., working or middle-class)—uh-uh, every little bit of everything is Christ.<verse eid="COL 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="COL 3:12" />So as the chosen of God, saints and beloved, put on (and get a move on with it!) deep-down pity, kindness,
+        humility, a gentleness which comes from restraint, patience, <verse eid="COL 3:12" />
+      <verse number="13" style="v" sid="COL 3:13" />putting up with one another and forgiving each other if anyone happens to have an issue with somebody.<verse eid="COL 3:13" />
+      <verse number="14" style="v" sid="COL 3:14" />But on top of all these things, walk in the love of God, which ties everything up into a tidy package.<verse eid="COL 3:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="COL 3:15" />Let the peace of Christ rule in your hearts, peace for the purpose of you having been called to be in
+        one body—and get to where you’re thankful also. <verse eid="COL 3:15" />
+      <verse number="16" style="v" sid="COL 3:16" />Let Christ’s message dwell on the inside of you richly, with all the wisdom you can muster instructing
+        and admonishing yourselves in the use of psalms, hymns, and spiritual songs (i.e., popular songs accompanied
+        by instruments, songs of praise, and songs which consist of prophetic manifestations of the Holy Spirit,
+        including singing in tongues), singing to God with joy in your hearts. <verse eid="COL 3:16" />
+      <verse number="17" style="v" sid="COL 3:17" />And every one of the things you so happen to do, whether it’s a thing you do in speech or in action,
+        do everything in the name of the Lord Jesus (i.e., do it as though Jesus told you to do it; do it as
+        though it’s part of your Christian duty; do it knowing you have blessing of Jesus to do it), giving thanks
+        to the Father-God through him.<verse eid="COL 3:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="COL 3:18" />Wives, submit to your husbands as is proper in the Lord.<verse eid="COL 3:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="COL 3:19" />Husbands, love your wives and don’t be cruel, harsh, hateful, or severe with them.<verse eid="COL 3:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="COL 3:20" />Children, obey your parents in all respects; this is pleasing to the Lord, you see.<verse eid="COL 3:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="COL 3:21" />Fathers, do not exasperate your children, so that they not grow despondent.<verse eid="COL 3:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="COL 3:22" />Slaves, obey those who are your bosses, physically-speaking, in all respects, not just making the boss
+        think you’re doing a good job when he’s looking and acting up when he’s not, but rather in a simplicity
+        of heart (i.e., a heart which doesn’t rely on convoluted justifications; has no ulterior motives; attaches
+        no strings; isn’t driven by fear, guilt, remorse, etc.), having a deep reverence of the Lord. <verse eid="COL 3:22" />
+      <verse number="23" style="v" sid="COL 3:23" />That which you happen to be doing, work it from the soul as to the Lord and not to humans, <verse eid="COL 3:23" />
+      <verse number="24" style="v" sid="COL 3:24" />knowing for a fact that you will receive from the Lord the reward of the inheritance (i.e., of what God
+        has intended specifically for you)—You serve by means of the Lord Christ. <verse eid="COL 3:24" />
+      <verse number="25" style="v" sid="COL 3:25" />Furthermore, as far as the wrong-doer is concerned: what he did wrong will come back to haunt him, irrespective
+        of who the wrong-doer is.<verse eid="COL 3:25" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="COL 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="COL 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="COL 4:1" />Bosses, maintain a level of treatment for your slaves and menial servants which is fair, consistent,
+        and impartial, knowing full-well that you have a boss too, a boss in heaven.<verse eid="COL 4:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="COL 4:2" />Give constant attention to prayer, staying focused in it with thanksgiving, <verse eid="COL 4:2" />
+      <verse number="3" style="v" sid="COL 4:3" />while at the same time praying for us, so that God would create an opportunity for us for the word, that
+        is to speak the mystery of Christ (and also on account of which I’ve been bound) <verse eid="COL 4:3" />
+      <verse number="4" style="v" sid="COL 4:4" />so that I’d put out there the same as what I have to say.<verse eid="COL 4:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="COL 4:5" />Go about your day to day lives with wisdom towards those on the outside, squeezing every drop out of
+        the limited time you have. <verse eid="COL 4:5" />
+      <verse number="6" style="v" sid="COL 4:6" />Let your statements always be stated in grace which is flavored with salt (i.e., given in an air of mercy,
+        generosity, and forgiveness but not without getting your point across), being acutely aware just how
+        much you must answer for each and every statement.<verse eid="COL 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="COL 4:7" />My dear comrade, faithful deacon (i.e., assistant trusted with significant responsibilities), and fellow-worker
+        in the Lord Tychicus will fill you in on everything that’s going on with me, <verse eid="COL 4:7" />
+      <verse number="8" style="v" sid="COL 4:8" />whom I sent to you for that reason, so that you would know what we’re up to and that he could encourage,
+        advise, and comfort your hearts, <verse eid="COL 4:8" />
+      <verse number="9" style="v" sid="COL 4:9" />together with the faithful and dear comrade Onesimus, who’s one of your people. They’ll fill you in on
+        everything that’s going on here.<verse eid="COL 4:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="COL 4:10" />Aristarchus extends his greetings, as does Barnabas’s cousin Mark, whom you’ve received instructions
+        about: if he happens to come your way, welcome him and take him in wholeheartedly. <verse eid="COL 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="COL 4:11" />Jesus, who goes by “Justus,” also says hello. These alone are the only ones who are from the circumcision
+        (i.e., who are from the group who are Jews and are committed to live by their rules) who are my coworkers
+        in the kingdom of God—people in particular who’ve consoled me.<verse eid="COL 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="COL 4:12" />Epaphras says hello, who’s one of your people, a servant of Christ Jesus, always vying for you in his
+        prayers so that you would stand mature and absolutely convinced of the will of God in all aspects. <verse eid="COL 4:12" />
+      <verse number="13" style="v" sid="COL 4:13" />Take my word when I tell you he has undergone much toil and drudgery for you, for those in Laodicea,
+        and for those in Hierapolis.<verse eid="COL 4:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="COL 4:14" />Luke the Dear Physician and Demas extend their greetings. <verse eid="COL 4:14" />
+      <verse number="15" style="v" sid="COL 4:15" />Say hello to the comrades in Laodicea and to Nympha and the church which is at her house. <verse eid="COL 4:15" />
+      <verse number="16" style="v" sid="COL 4:16" />And when you’re all gathered and the letter’s read aloud to you, do what’s necessary so that it’s also
+        read in the church in Laodicea; and when you visit Laodicea, get the letter from Laodicea so that you
+        read it in your church as well.<verse eid="COL 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="COL 4:17" />Tell Archippus, “Keep your eye on the ministry which you received in the Lord, so that it’ll be carried
+        out to completion.”<verse eid="COL 4:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="COL 4:18" />I’m writing the greeting-section of this letter in my own handwriting, the handwriting of Paul.
+    </para>
+    <para style="p" vid="COL 4:18">Remember my bonds.</para>
+    <para style="p" vid="COL 4:18">May the grace of God be with you.<verse eid="COL 4:18"/>
+    </para>
+  <chapter eid="COL 4" />
+</usx>

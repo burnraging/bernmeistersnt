@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2TH" style="id">The Bernmeister's NT</book>
+  <para style="h">2 Thessalonians</para>
+  <para style="toc1">The Epistle of 2 Thessalonians</para>
+  <para style="toc2">2 Thessalonians</para>
+  <para style="toc3">2 Thess.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 THESSALONIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2TH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 1:1" />From Paul, Silas, and Timothy:
+    </para>
+    <para style="p" vid="2TH 1:1">To the church in Thessalonica in God our Father and the Lord Jesus Christ:<verse eid="2TH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2TH 1:2" />Grace to you and peace from God our Father and from the Lord Jesus Christ.<verse eid="2TH 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2TH 1:3" />We ought to thank God for you all the time, comrades—as it’s worth doing—because your faith is growing
+        off the charts, and the love which every one of you has towards each other is proliferating, <verse eid="2TH 1:3" />
+      <verse number="4" style="v" sid="2TH 1:4" />so much so that we personally are speaking with pride about you in the churches of God because of your
+        perseverance and faith during all the persecutions and extreme difficulties which you endure, <verse eid="2TH 1:4" />
+      <verse number="5" style="v" sid="2TH 1:5" />evidence of the just and fair deliberation of God in deeming you worthy of the kingdom of God, which—incidentally—you
+        suffer for. <verse eid="2TH 1:5" />
+      <verse number="6" style="v" sid="2TH 1:6" />At the end of the day, it’s right in God’s view to pay back those who’re causing you extreme difficulties<verse eid="2TH 1:6" />
+      <verse number="7" style="v" sid="2TH 1:7" />and for you who are on the receiving end of these extreme difficulties they’re causing to get a payback
+        from God in the form of relief (a relief shared with us) in the revelation of the Lord Jesus from heaven
+        with his almighty angels <verse eid="2TH 1:7" />
+      <verse number="8" style="v" sid="2TH 1:8" />with a scorching flame of fire meting out vengeance on those who don’t know God and to those who don’t
+        obey the Gospel (i.e., the message) of our Lord Jesus; <verse eid="2TH 1:8" />
+      <verse number="9" style="v" sid="2TH 1:9" />and—indeed—those very people will pay for it in a punishment of doom and destruction issued forth from
+        the face (i.e., scrutinized closely and as a result of that scrutiny issued forth) of the Lord and from
+        the glory of his might (i.e., issued forth by his power manifested in all its magnificent splendor),<verse eid="2TH 1:9" />
+      <verse number="10" style="v" sid="2TH 1:10" />when he happens to come to be vested in glory among his saints (i.e., his people) and to be beheld, marveled,
+        and admired among all those who have believed—since what we told you to be true in a dead-serious manner
+        was believed—on that day.<verse eid="2TH 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2TH 1:11" />We also pray all the time for you with this goal in mind: so that our God would deem you worthy of the
+        calling you have to be one of His people and would cause all sorts of goodness’s good-will and all sorts
+        of deeds of faith in power to proliferate, <verse eid="2TH 1:11" />
+      <verse number="12" style="v" sid="2TH 1:12" />so that the name (i.e., the reputation) of the our Lord Jesus would be glorified among you, and you in
+        him, according to the grace of our God and of our Lord Jesus Christ.<verse eid="2TH 1:12" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2TH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2TH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 2:1" />Now we’re asking you, comrades, on behalf of the coming of our Lord Jesus Christ and our being rallied
+        to him, <verse eid="2TH 2:1" />
+      <verse number="2" style="v" sid="2TH 2:2" />for you not to be jarred from the frame of mind one maintains as a Christian nor be inwardly disturbed
+        or troubled either because of a strong, prevailing attitude, a concept, a piece of information, or a
+        letter you received like one you would receive from us, claiming that the day of the Lord has arrived
+        already. <verse eid="2TH 2:2" />
+      <verse number="3" style="v" sid="2TH 2:3" />Don’t let anyone delude you in any way, because it won’t come unless the “apostasy” (i.e., the great
+        falling away from the faith) comes first and the Man of Lawlessness (i.e., the man who’s completely unconstrained
+        by any law, any moral principle, or any godly code defining right and wrong), the Son of Destruction-Causing
+        (i.e., the one who takes it as his personal mission to destroy), is revealed, <verse eid="2TH 2:3" />
+      <verse number="4" style="v" sid="2TH 2:4" />the adversary to and the one who raises himself above everything which is said to be God-related or is
+        an object of worship or devotion, so much so that he takes a seat (i.e., he sets up his court, his courtroom,
+        his office) in the temple of God, advertising himself to everyone that he is a god.<verse eid="2TH 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2TH 2:5" />Don’t you remember that when I was still staying with you I kept telling you these things? <verse eid="2TH 2:5" />
+      <verse number="6" style="v" sid="2TH 2:6" />And now you know for a fact the thing that restrains him from being revealed in his own time. <verse eid="2TH 2:6" />
+      <verse number="7" style="v" sid="2TH 2:7" />In fact the mystery of this lawlessness is already in action, it’s just that he who restrains him from
+        being revealed at the moment will continue to do so until he happens to disappear from the middle of
+        it all; <verse eid="2TH 2:7" />
+      <verse number="8" style="v" sid="2TH 2:8" />and then the Lawless-One will be revealed, whom the Lord Jesus will put to death by blowing on him and
+        will annihilate him by the outward show of the brilliant splendor of his coming, <verse eid="2TH 2:8" />
+      <verse number="9" style="v" sid="2TH 2:9" />he whose coming is a reflection of Satan in action with all sorts of phony power, signs, and wonders
+        (i.e., miracles; miracles for the purpose of proving one’s legitimacy; awe-inspiring miracles) <verse eid="2TH 2:9" />
+      <verse number="10" style="v" sid="2TH 2:10" />and with every kind of self-delusion which has unrighteousness as its source by those following a trajectory
+        of perdition, because they didn’t receive the love of the truth resulting in their being saved (i.e.,
+        spared damnation). <verse eid="2TH 2:10" />
+      <verse number="11" style="v" sid="2TH 2:11" />And because of this God will send them an activity of deception with the goal of and resulting in their
+        believing in the lie, <verse eid="2TH 2:11" />
+      <verse number="12" style="v" sid="2TH 2:12" />so that he would be given the opportunity to judge every person who hasn’t believed in the truth but
+        has preferred to believe in the unrighteousness of the lie instead.<verse eid="2TH 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TH 2:13" />But we ought to thank God for you all the time, comrades, you who are loved by the Lord, because God
+        chose you, His crème de la crème, to salvation (i.e., being spared spiritual and physical destruction)
+        in the Holy Spirit and in the true faith. <verse eid="2TH 2:13" />
+      <verse number="14" style="v" sid="2TH 2:14" />With this ends in mind, he called you through our Gospel (i.e. our message) to the acquisition of the
+        same type of glory as our Lord Jesus Christ has. <verse eid="2TH 2:14" />
+      <verse number="15" style="v" sid="2TH 2:15" />So then, comrades, stand and keep standing in and get ahold of and keep holding onto the bylaws, code
+        of conduct, and best-practices established in perpetuity, which you received whether by a message spoken
+        to you in person or through one of our letters. <verse eid="2TH 2:15" />
+      <verse number="16" style="v" sid="2TH 2:16" />But our Lord Jesus Christ himself and God our Father, Who loved us and gave us everlasting comfort, consolation,
+        and good hope by means of grace, <verse eid="2TH 2:16" />
+      <verse number="17" style="v" sid="2TH 2:17" />will comfort and console your hearts and cause you to stand in every action and in every good affair.<verse eid="2TH 2:17" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2TH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2TH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 3:1" />In conclusion, pray for us, comrades, so that the word of the Lord would spread rapidly and would be
+        glorified just as it did with you <verse eid="2TH 3:1" />
+      <verse number="2" style="v" sid="2TH 3:2" />and that we would be rescued from the perverse and wicked people who resist us: not everyone follows
+        the Faith, you see. <verse eid="2TH 3:2" />
+      <verse number="3" style="v" sid="2TH 3:3" />But the Lord is faithful, who will cause us to stand and will guard us from the Evil One. <verse eid="2TH 3:3" />
+      <verse number="4" style="v" sid="2TH 3:4" />I’ve reached the point where I’m convinced in the Lord of good things where you’re concerned, because
+        you are doing and will do what we charged you with. <verse eid="2TH 3:4" />
+      <verse number="5" style="v" sid="2TH 3:5" />May the Lord direct your hearts to the love of God and to the steadfastness and endurance of Christ.<verse eid="2TH 3:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2TH 3:6" />Now we charge you, comrades, in the name of our Lord Jesus Christ (i.e., by the authority given to us
+        by Jesus Christ) to stay away from all comrades who conduct themselves with a blatant disregard for the
+        rules which have been set in place and not according to the bylaws, code of conduct, and best-practices
+        established in perpetuity which you received from us. <verse eid="2TH 3:6" />
+      <verse number="7" style="v" sid="2TH 3:7" />In this regard you know in yourselves from first-hand experience how necessary it is for you to follow
+        our example, since we didn’t disregard the rules when we were among you, <verse eid="2TH 3:7" />
+      <verse number="8" style="v" sid="2TH 3:8" />nor did we mooch any meals from anyone—uh-uh—we were toiling day and night doing back-breaking labor
+        so we wouldn’t be a burden on any of you— <verse eid="2TH 3:8" />
+      <verse number="9" style="v" sid="2TH 3:9" />Not that we don’t have the right to make you provide boarding for us, but we choose to do what we did
+        instead so that we could offer ourselves to you as an example for you to imitate.<verse eid="2TH 3:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2TH 3:10" />And in fact, when we were with you, we kept telling you to obey this rule: If a given person doesn’t
+        want to work then don’t let him have a meal at mealtime. <verse eid="2TH 3:10" />
+      <verse number="11" style="v" sid="2TH 3:11" />In fact we hear that there are some people among you going about not following the rules, not doing any
+        work but goofing off instead. <verse eid="2TH 3:11" />
+      <verse number="12" style="v" sid="2TH 3:12" />To such people we charge and advise in the Lord Jesus Christ certain admonishments so that by keeping
+        quiet while working they would eat their own meal (i.e., would be entitled to receive a meal).<verse eid="2TH 3:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TH 3:13" />But you, comrades—don’t get tired of doing good. <verse eid="2TH 3:13" />
+      <verse number="14" style="v" sid="2TH 3:14" />But if someone won’t obey the message we’re giving you by this letter were sending, take note of this
+        guy: don’t associate with or get mixed up with him, so that he’ll be put to shame. <verse eid="2TH 3:14" />
+      <verse number="15" style="v" sid="2TH 3:15" />And don’t think of him as an enemy, but warn and admonish him as a comrade instead.<verse eid="2TH 3:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2TH 3:16" />May the Lord of Peace himself grant you the peace throughout every circumstance in every place.
+    </para>
+    <para style="p" vid="2TH 3:16">May the Lord be with you all.<verse eid="2TH 3:16"/>
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2TH 3:17" />The greeting written here is in Paul’s handwriting, which is a distinguishing feature of every letter
+        I write:</para>
+    <para style="p" vid="2TH 3:17"><char style="sc">THIS IS THE WAY I WRITE</char>.<verse eid="2TH 3:17"/>
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2TH 3:18" />The grace of our Lord Jesus Christ be with you all.<verse eid="2TH 3:18" />
+    </para>
+  <chapter eid="2TH 3" />
+</usx>

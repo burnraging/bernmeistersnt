@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="EPH" style="id">The Bernmeister's NT</book>
+  <para style="h">Ephesians</para>
+  <para style="toc1">The Epistle of Ephesians</para>
+  <para style="toc2">Ephesians</para>
+  <para style="toc3">Eph.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">EPHESIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="EPH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—
+    </para>
+    <para style="p" vid="EPH 1:1">To the saints (i.e., God’s people) who are in Ephesus and to those who are faithful in Christ Jesus:<verse eid="EPH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="EPH 1:2" />Grace and peace to you from God our Father and from the Lord Jesus Christ.<verse eid="EPH 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="EPH 1:3" />Blessed is the God and Father of our Lord Jesus Christ, He Who blessed us with every spiritual blessing
+        imaginable in the spiritual domain in Christ, <verse eid="EPH 1:3" />
+      <verse number="4" style="v" sid="EPH 1:4" />just as in love He chose us in him before the foundation of the world to be holy and unblemished when
+        subjected to His scrutiny, <verse eid="EPH 1:4" />
+      <verse number="5" style="v" sid="EPH 1:5" />having determined beforehand that He would adopt us, making us His sons through Jesus Christ, according
+        to the benevolent thought-process of His will, <verse eid="EPH 1:5" />
+      <verse number="6" style="v" sid="EPH 1:6" />resulting in praising the glory of His grace, which in an act of mercy and kindness He gave us by means
+        of the Beloved-One, <verse eid="EPH 1:6" />
+      <verse number="7" style="v" sid="EPH 1:7" />in whom we have the Redemption (i.e., the master-plan to put our lives back to the way they were supposed
+        to be) through his blood, the forgiveness of the trespasses which caused us to need redemption in the
+        first place, according to the riches of His grace, <verse eid="EPH 1:7" />
+      <verse number="8" style="v" sid="EPH 1:8" />which He copiously showered on us with every kind of wisdom and thought-process imaginable, <verse eid="EPH 1:8" />
+      <verse number="9" style="v" sid="EPH 1:9" />having made known and understood to us the mystery of His will, according to His benevolent thoughts
+        which He purposed and put forth openly in him <verse eid="EPH 1:9" />
+      <verse number="10" style="v" sid="EPH 1:10" />for the management of when the eras of history come to a head, resulting in the redefinition of every
+        last thing in the Messiah, the Christ, every last thing that resides in the spiritual domain and on the
+        Earth—all things in him, <verse eid="EPH 1:10" />
+      <verse number="11" style="v" sid="EPH 1:11" />in whom we also received an inheritance (i.e., things which have been parceled out and reserved specifically
+        for us, and for us only, to receive or walk, spiritual or otherwise. The plan for us to have such things
+        is immutable. ) which has been predestined (i.e., decided upon ahead of time) according to the plan and
+        purpose of the One who works every last thing according to the deliberation of His will, <verse eid="EPH 1:11" />
+      <verse number="12" style="v" sid="EPH 1:12" />resulting in us being disposed to praise His glory, we who have set our hope in Christ beforehand, <verse eid="EPH 1:12" />
+      <verse number="13" style="v" sid="EPH 1:13" />and in whom we also, having heard the ultimate message of truth, the Gospel of our salvation (i.e., the
+        good news that there is a program in place to rescue us and protect us from calamity), in which, now
+        that we have believed this message, we were sealed (i.e., identified as belonging to someone or intended
+        for some purpose and labeled and marked as genuine as such) by the guaranteed-by-promise Holy Spirit,<verse eid="EPH 1:13" />
+      <verse number="14" style="v" sid="EPH 1:14" />who is the down payment of our inheritance up until we take delivery of what was purchased, resulting
+        in praising His glory.<verse eid="EPH 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="EPH 1:15" />On account of this, having heard about your expression of the Faith, a faith which is in the Lord Jesus,
+        and the love which you show to all the saints, <verse eid="EPH 1:15" />
+      <verse number="16" style="v" sid="EPH 1:16" />I also haven’t stopped offering thanksgiving for you, bringing you up in my prayers, <verse eid="EPH 1:16" />
+      <verse number="17" style="v" sid="EPH 1:17" />so that the God of our Lord Jesus Christ, the Father of Glory, will give you a spirit (i.e., a prevailing
+        attitude; an all-encompassing mindset that reaches down deep into the heart, into your own human spirit)
+        of wisdom and revelation in a recognition and an arrived-at, more precise knowledge and understanding
+        of Him, <verse eid="EPH 1:17" />
+      <verse number="18" style="v" sid="EPH 1:18" />which is the eyes of your heart having reached the point where they’re enlightened resulting in us knowing
+        for a fact what is the hope of our calling (i.e., what the full potential and ramifications are of us
+        being chosen and accepted by God), what is the wealth of the glory of His inheritance that’s been distributed
+        among the saints, <verse eid="EPH 1:18" />
+      <verse number="19" style="v" sid="EPH 1:19" />and what is the over-the-top greatness of His power made available to us, we who believe in accordance
+        with the actuation of the might of His strength (i.e., the sheer amount of force He’s able to bring to
+        bear when He unleashes his power), <verse eid="EPH 1:19" />
+      <verse number="20" style="v" sid="EPH 1:20" />which he actuated in the Messiah, the Christ, having raised him from the dead and having seated him at
+        his right hand (i.e., having taken his position of God’s chief executive officer) in the spiritual domain,<verse eid="EPH 1:20" />
+      <verse number="21" style="v" sid="EPH 1:21" />superseding by far all rule and authority and power and dominion and every name which has been named
+        (i.e., every authority which has ever been established; every person or being who’s ever been given or
+        has otherwise assumed a position of authority) not just in this age—no—in the Age to Come as well. <verse eid="EPH 1:21" />
+      <verse number="22" style="v" sid="EPH 1:22" />And He subjected all things under his feet (i.e. God made all things absolutely subservient to Christ,
+        to be forcefully dominated by him), and gave him—the one who’s the head over all things—to the church,<verse eid="EPH 1:22" />
+      <verse number="23" style="v" sid="EPH 1:23" />which is his body, the maximum amount which every little bit of everything is filled to.<verse eid="EPH 1:23" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="EPH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="EPH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 2:1" />And while you were dead (i.e., dead spiritually: in a stagnation of waste, joylessness, futility, and
+        destruction) in your trespasses and sins, <verse eid="EPH 2:1" />
+      <verse number="2" style="v" sid="EPH 2:2" />in which you went about day in, day out back then according to the age (era) of this world (i.e., according
+        to the philosophies, attitudes, and beliefs that are in vogue in this particular era of human history),
+        according to the ruler of the authority of the air (i.e., according to the being who determines the underlying
+        unseen power that influences and guides human society), the spirit who now works in those who take it
+        upon themselves to be disobedient, <verse eid="EPH 2:2" />
+      <verse number="3" style="v" sid="EPH 2:3" />you also conducted your lives this way among them back then, living by the desires of your flesh (i.e.,
+        your carnal nature), acting out the wants of the flesh and of the thoughts which randomly enter your
+        mind, and you were by nature characterized by indulgence in violent emotions just like everyone else.<verse eid="EPH 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="EPH 2:4" />But God, rich in mercy because of the great amount of love which He has, loved us, <verse eid="EPH 2:4" />
+      <verse number="5" style="v" sid="EPH 2:5" />and we, dead in the trespasses I mentioned earlier, were made alive in Christ—by grace you have been
+        saved— <verse eid="EPH 2:5" />
+      <verse number="6" style="v" sid="EPH 2:6" />and were raised in conjunction with him and seated jointly with him (i.e., given joint authority with
+        him) in the spiritual domain in Christ Jesus, <verse eid="EPH 2:6" />
+      <verse number="7" style="v" sid="EPH 2:7" />so that the over-the-top riches of His grace in goodness in Christ Jesus would be showcased by being
+        lavished upon us in the coming ages. <verse eid="EPH 2:7" />
+      <verse number="8" style="v" sid="EPH 2:8" />You see, by grace you have been saved through faith, and this grace—the gift of God—does not originate
+        from yourselves, <verse eid="EPH 2:8" />
+      <verse number="9" style="v" sid="EPH 2:9" />it does not originate from works, so that no one would have bragging-rights. <verse eid="EPH 2:9" />
+      <verse number="10" style="v" sid="EPH 2:10" />You see, we are His handiwork, created in Christ Jesus in a position to handle the good works which God
+        has waiting in the wings for us to occupy our day-to-day lives with.<verse eid="EPH 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="EPH 2:11" />In light of this, recall that in flesh (i.e., according to your physical bodies which indicate the method
+        and means by which you approach God) you were “the Gentile Nations” back then, those called uncircumcised
+        (i.e., not God’s people) by those called circumcised in flesh by hand (i.e., God’s people according to
+        a ritual performed by humans), <verse eid="EPH 2:11" />
+      <verse number="12" style="v" sid="EPH 2:12" />because in that phase of your life you were apart from Christ, excluded from the political and social
+        community of Israel and strangers to the covenants of promise, hopeless and godless in the world. <verse eid="EPH 2:12" />
+      <verse number="13" style="v" sid="EPH 2:13" />But now you are melded with Christ Jesus; you being far away back then became close by the blood of Christ.<verse eid="EPH 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="EPH 2:14" />The fact is, He personally is our peace, who made both peoples into one and by means of his flesh tore
+        down the dividing wall—the animus—<verse eid="EPH 2:14" />
+      <verse number="15" style="v" sid="EPH 2:15" />having abolished the wall, namely the Law of Moses which consists of the commandments of God enumerated
+        in decrees, so that by means of him He would merge the two entities into one new entity, making peace
+        by doing so, <verse eid="EPH 2:15" />
+      <verse number="16" style="v" sid="EPH 2:16" />and by means of one body would reconcile both to God through the cross, having killed the animus by means
+        of him. <verse eid="EPH 2:16" />
+      <verse number="17" style="v" sid="EPH 2:17" />And he went and proclaimed the glad-tidings message of peace to us who are afar and peace to those who
+        are near, <verse eid="EPH 2:17" />
+      <verse number="18" style="v" sid="EPH 2:18" />the message that through him both entities have the access I’ve been talking about in one Spirit to the
+        Father.<verse eid="EPH 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="EPH 2:19" />So I’ll state this emphatically: you’re no longer strangers and foreign-residents, but fellow-citizens
+        of the saints and households of God (i.e., God’s people, historically speaking) instead, <verse eid="EPH 2:19" />
+      <verse number="20" style="v" sid="EPH 2:20" />built on top of the foundation of the apostles and the prophets, Christ Jesus being the foundation’s
+        main anchor point, <verse eid="EPH 2:20" />
+      <verse number="21" style="v" sid="EPH 2:21" />in whom you too are being custom-built into a dwelling place of God in the Spirit.<verse eid="EPH 2:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="EPH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="EPH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 3:1" />Now about grace of this sort: I Paul the prisoner of Christ Jesus on behalf of you who are the Gentiles<verse eid="EPH 3:1" />
+      <verse number="2" style="v" sid="EPH 3:2" />(assuming you’ve actually heard about the responsibility assigned to me to manage the grace of God, grace
+        which was conveyed by me to you), <verse eid="EPH 3:2" />
+      <verse number="3" style="v" sid="EPH 3:3" />am telling you that through the agency of revelation the mystery of this grace was made known to me just
+        as I briefly wrote about before <verse eid="EPH 3:3" />
+      <verse number="4" style="v" sid="EPH 3:4" />for the purpose of you being able to think through my understanding of the mystery of Christ by reading
+        what I wrote, <verse eid="EPH 3:4" />
+      <verse number="5" style="v" sid="EPH 3:5" />a mystery which in other decades and centuries wasn’t made known to the average person like it’s now
+        been revealed to his holy apostles and prophets by means of the Spirit, <verse eid="EPH 3:5" />
+      <verse number="6" style="v" sid="EPH 3:6" />namely that the Gentiles are to be joint-heirs, to share the same body with, and to be joint-partakers
+        of the promise by means of Christ Jesus through the Gospel, <verse eid="EPH 3:6" />
+      <verse number="7" style="v" sid="EPH 3:7" />which I became a minister of according to the gift of the grace of God which was given to me reflective
+        of the actuation of His power.<verse eid="EPH 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="EPH 3:8" />This very grace was given to me, the least worthy of any of the saints (i.e., those who believe in Christ)
+        to evangelize to the Gentiles the unfathomable riches of Christ—riches which cannot be tracked like a
+        predator tracks its prey— <verse eid="EPH 3:8" />
+      <verse number="9" style="v" sid="EPH 3:9" />and to make visible and apparent to anyone and everyone what is the program by which the mystery of what
+        has been hidden away in God Who created all things from those who lived in the various ages, <verse eid="EPH 3:9" />
+      <verse number="10" style="v" sid="EPH 3:10" />so that at the present time the multi-faceted wisdom of God would be made known and understood to the
+        demonic rulers and the demonic authorities in the spiritual domain through the church, <verse eid="EPH 3:10" />
+      <verse number="11" style="v" sid="EPH 3:11" />according to the plan and purpose of the ages, which He executed by means of Christ Jesus our Lord, <verse eid="EPH 3:11" />
+      <verse number="12" style="v" sid="EPH 3:12" />in whom we have the open, bold, and confident means of access in our having reached the point where we’re
+        fully convinced through the faith we have in him. <verse eid="EPH 3:12" />
+      <verse number="13" style="v" sid="EPH 3:13" />In light of this I ask that you not lose heart in the deluge of the severe difficulties I face for your
+        sake, a thing in particular which focuses on you.<verse eid="EPH 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="EPH 3:14" />Now back to talking about grace of this sort: I genuflect before the Father, <verse eid="EPH 3:14" />
+      <verse number="15" style="v" sid="EPH 3:15" />out of Whom every lineage, be it race, tribe, clan, family, or whatever, in the heavens (i.e., the sky
+        above, heaven, and the spiritual domain) and on the earth are named (i.e. are assigned their role and
+        authorities), <verse eid="EPH 3:15" />
+      <verse number="16" style="v" sid="EPH 3:16" />that, according to the riches of His glory, He would grant you to be strengthened with power in the inner-self
+        through His Spirit, <verse eid="EPH 3:16" />
+      <verse number="17" style="v" sid="EPH 3:17" />for Christ to take up residence through the faith in your hearts, while being rooted and anchored in
+        love, <verse eid="EPH 3:17" />
+      <verse number="18" style="v" sid="EPH 3:18" />so that you, joined by all the saints, would be equal to the task of grasping the sheer magnitude of
+        the width, length, height, and depth of this grace, <verse eid="EPH 3:18" />
+      <verse number="19" style="v" sid="EPH 3:19" />and to comprehend what’s beyond comprehension—the love of Christ—so that you would be filled with the
+        goal of reaching all the fullness of God.<verse eid="EPH 3:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="EPH 3:20" />Now to the One Who’s able to do far above and beyond all that we ask or think, doing it in lockstep with
+        the power which works in us— <verse eid="EPH 3:20" />
+      <verse number="21" style="v" sid="EPH 3:21" />to Him be the glory in the church and in Christ Jesus extending out to all the generations that will
+        forevermore come. And let us pause a moment for that to sink in.<verse eid="EPH 3:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="EPH 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="EPH 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 4:1" />I ask you with all sincerity—I the prisoner in the Lord—to go about your day-to-day lives in a worthy
+        manner, <verse eid="EPH 4:1" />
+      <verse number="2" style="v" sid="EPH 4:2" />with every kind of and the utmost extent of humility, gentleness, and self-restraint there is, with patience,
+        putting up with one another in love, <verse eid="EPH 4:2" />
+      <verse number="3" style="v" sid="EPH 4:3" />while being eager to maintain the unity of the Spirit by means of the bond of peace— <verse eid="EPH 4:3" />
+      <verse number="4" style="v" sid="EPH 4:4" />There is one body of believers and one Spirit of God, just like the fact that you were called in one
+        hope of your calling (i.e., you were summoned by God to be believers in a summoning that has one and
+        only one hope in mind)— <verse eid="EPH 4:4" />
+      <verse number="5" style="v" sid="EPH 4:5" />One Lord, one faith, one baptism (i.e. there is only one way to become a Christian, and it is done once
+        only)— <verse eid="EPH 4:5" />
+      <verse number="6" style="v" sid="EPH 4:6" />One God who occupies the role of Father of all things: namely the One Who’s on the top of the heap; Who
+        all things exist on account of Him, by means of Him, and through Him; and Who is in, with, and among
+        all things.<verse eid="EPH 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="EPH 4:7" />Now the unearned gift which God gives out of His kindness was given to each individual according to the
+        specific amount and peculiar characteristics of the gift of Christ. <verse eid="EPH 4:7" />
+      <verse number="8" style="v" sid="EPH 4:8" />In light of this the Book of Psalms says,
+    </para>
+    <para style="pi" vid="EPH 4:8"></para>
+    <para style="pi" vid="EPH 4:8">Once he ascended to a high place,</para>
+    <para style="pi" vid="EPH 4:8">He bedazzled the captives—</para>
+    <para style="pi" vid="EPH 4:8">He gave gifts to the people on Earth<verse eid="EPH 4:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="9" style="v" sid="EPH 4:9" />Now as a side note, how can he who ascended (i.e., the person referred to by this quotation from Psalms)
+        possibly be anyone other than the person who descended into the lower part of the Earth (i.e., the world
+        beneath the Earth, the underworld, the place where the dead go and where hell is)? <verse eid="EPH 4:9" />
+      <verse number="10" style="v" sid="EPH 4:10" />The person who descended is the same person referred to in Psalms here who ascended far above all the
+        heavens (i.e., to a position which completely supersedes and has complete dominion over the entire spiritual
+        domain, including all spiritual creatures and all activity in the spiritual world) in order to fully
+        take ownership of all the things that were promised to him.<verse eid="EPH 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="EPH 4:11" />And as far as the gifts that were given, this same person—the one who both descended and ascended—granted
+        that, some here and some there, there be the apostles, the prophets, the evangelists, and the overlapping
+        roles of pastor and instructor (i.e., those who do one or more of the following: leading the congregation;
+        instructing the congregation as to what the rules are; laying down rules when needed; explaining the
+        Scriptures and the Christian faith)— <verse eid="EPH 4:11" />
+      <verse number="12" style="v" sid="EPH 4:12" />for the equipping of the saints (i.e., the believers) towards the goal of the work of the ministry, towards
+        the goal of the building up of the body of Christ, <verse eid="EPH 4:12" />
+      <verse number="13" style="v" sid="EPH 4:13" />until—should the time ever come—we all attain the unity of the Faith and the recognition and the arrived-at
+        knowledge and understanding of the Son of God, with the goal of becoming a full-grown man (i.e., getting
+        our act together) to the point where we reach Christ’s height and body-weight, <verse eid="EPH 4:13" />
+      <verse number="14" style="v" sid="EPH 4:14" />so that we’d no longer be young children, jostled and carried about by every wind of teaching among the
+        cheap hustles that pool sharks dream up to con people; <verse eid="EPH 4:14" />
+      <verse number="15" style="v" sid="EPH 4:15" />but, while being straight-up about the truth in a spirit of love, we would grow to the same stature as
+        him in all respects, who is the head, <verse eid="EPH 4:15" />
+      <verse number="16" style="v" sid="EPH 4:16" />from whom the entire body is being assembled into a single, cohesive unit by examining each part, seeing
+        how it logically fits into the big picture, then putting the entire unit together—a body which is connected
+        through every supporting ligament according to a pattern of operation where each one of the members does
+        its share to cause the growth of the body towards the goal of the building up of itself in love.<verse eid="EPH 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="EPH 4:17" />What I’m telling you—and I swear by it in the Lord—is this: No longer go about your day-to-day lives
+        as the Gentiles (i.e., the random people out yonder who have no relationship with God; the nations which
+        populate the earth) do in the futile, foolish, senseless, and worthless state of their minds, <verse eid="EPH 4:17" />
+      <verse number="18" style="v" sid="EPH 4:18" />being darkened in their end-to-end thought process, estranged from the life of God on account of the
+        ignorance which exists in them and furthermore on account of the state of hardness, dullness, and insensitivity
+        of their hearts, <verse eid="EPH 4:18" />
+      <verse number="19" style="v" sid="EPH 4:19" />people in particular who, having reached the point where they’re so callous that they’re not bothered
+        by the implications of what they do, have relinquished control of themselves in their giving of themselves
+        over to an unrestrained indulgence in lewd and immoral physical pleasures towards the end-result of practicing
+        all sorts of filthy, disgusting things in a yearning for more and more of the same.<verse eid="EPH 4:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="EPH 4:20" />But you did not learn (i.e., successively come to appreciate and build an understanding of) Christ this
+        way, <verse eid="EPH 4:20" />
+      <verse number="21" style="v" sid="EPH 4:21" />if you really heard him and were taught by him (according to the premise that truth is in Jesus) <verse eid="EPH 4:21" />
+      <verse number="22" style="v" sid="EPH 4:22" />to repeatedly put aside the old-self in regard to the former lifestyle you used to live, the old-self
+        who’s degenerating as a consequence of the carnal desires of “the delusion” we’re all-too familiar with—<verse eid="EPH 4:22" />
+      <verse number="23" style="v" sid="EPH 4:23" />but doing this while being renewed in the prevailing attitude and disposition of your mind— <verse eid="EPH 4:23" />
+      <verse number="24" style="v" sid="EPH 4:24" />and to put on once and for all the new-self, who, as directed by God, was created in righteousness and
+        holiness—without fault both from a human and from a divine perspective—derived from the truth.<verse eid="EPH 4:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="EPH 4:25" />In light of this, now that you’ve put aside the mendacity that used to be a part of your conversation,
+        as Zechariah says, “Each person ought to speak truthfully when he’s with his neighbor,” since you belong
+        to one another. Psalms says, <verse eid="EPH 4:25" />
+      <verse number="26" style="v" sid="EPH 4:26" />“Be angry and don’t sin when you are”—don’t let the sun set on your wrath (i.e., be angry but don’t be
+        consumed by the emotion, not putting the anger away when you should), <verse eid="EPH 4:26" />
+      <verse number="27" style="v" sid="EPH 4:27" />nor give place to the devil (i.e., close off any opportunities for the devil; don’t allow him to gain
+        a foothold anywhere). <verse eid="EPH 4:27" />
+      <verse number="28" style="v" sid="EPH 4:28" />Let the person who steals no longer steal, but rather have him toil, working for the common good using
+        his own hands, so that he would have the wherewithal to give to the one in need. <verse eid="EPH 4:28" />
+      <verse number="29" style="v" sid="EPH 4:29" />Don’t let any rotten word (including ideas and topics of conversation) come out of your mouth, but rather
+        let something come out of your mouth that contributes positively to the problem at hand, so that it would
+        give grace (i.e., it would be a gift of kindness, graciousness, and goodwill to those who don’t deserve
+        the same) to those who hear. <verse eid="EPH 4:29" />
+      <verse number="30" style="v" sid="EPH 4:30" />And do not grieve the Holy Spirit of God or cause him pain, in whom you were sealed (i.e., certified
+        and labeled as genuine or as belonging to someone) for a day of redemption (i.e. to a point in time where
+        things are made to be what they’re supposed to be or restored to what they used to be). <verse eid="EPH 4:30" />
+      <verse number="31" style="v" sid="EPH 4:31" />Let any sort of bitterness, rage, anger, shouting, or blasphemy (i.e., swearing at someone, trash-talking
+        about someone, smearing or slandering the reputation of someone) be removed from you together with any
+        sort of malice. <verse eid="EPH 4:31" />
+      <verse number="32" style="v" sid="EPH 4:32" />In the same situations, become kind to one another, tender-hearted and compassionate, and gracious, forgiving,
+        and extending goodwill just as God in Christ was gracious, forgiving, and extended goodwill to you as
+        well.<verse eid="EPH 4:32" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="EPH 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="EPH 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 5:1" />Become imitators of God as children who are loved, <verse eid="EPH 5:1" />
+      <verse number="2" style="v" sid="EPH 5:2" />and go about your day-to-day lives in love, just as Christ loved you and handed himself over to be crucified
+        for your sakes as a sacrificial offering with the goal of giving off an aromatic aroma when incinerated
+        as a burnt offering. <verse eid="EPH 5:2" />
+      <verse number="3" style="v" sid="EPH 5:3" />But fornication (i.e., sexual immorality) and uncleanness (i.e., any immoral practice which is filthy
+        and disgusting) of any sort or greed—don’t even mention it among yourselves, as not mentioning these
+        things is what’s appropriate for the saints (i.e., those who believe in Christ). <verse eid="EPH 5:3" />
+      <verse number="4" style="v" sid="EPH 5:4" />And things you ought to be ashamed of saying because they’re morally unacceptable or they’re obscene;
+        and stupid, foolish babbling or sexual innuendos—that which ought not be spoken—don’t say these things,
+        but rather speak words of gratitude all the more. <verse eid="EPH 5:4" />
+      <verse number="5" style="v" sid="EPH 5:5" />In fact, wrap your head around this: All fornicators, those who practice uncleanness, or those who are
+        greedy (which is idolatry) don’t have an inheritance (i.e., don’t have a piece carved out for them) in
+        the kingdom of Christ and God.<verse eid="EPH 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="EPH 5:6" />Let no one deceive you with empty words: the wrath of God comes upon the sons of disobedience (i.e.,
+        those who take it upon themselves to be disobedient) because of these things, <verse eid="EPH 5:6" />
+      <verse number="7" style="v" sid="EPH 5:7" />so don’t partner up with them. <verse eid="EPH 5:7" />
+      <verse number="8" style="v" sid="EPH 5:8" />You see, you were darkness back then, but now you are light in the Lord: go about your day-to-day lives
+        as children of light <verse eid="EPH 5:8" />
+      <verse number="9" style="v" sid="EPH 5:9" />(As a side-note, the fruit (i.e., the byproduct) of light can be found in any kind of and all sorts of
+        goodness, righteousness, and truth), <verse eid="EPH 5:9" />
+      <verse number="10" style="v" sid="EPH 5:10" />giving your approval to what is pleasing to the Lord. <verse eid="EPH 5:10" />
+      <verse number="11" style="v" sid="EPH 5:11" />And don’t take part in the fruitless (i.e., no long-term benefit) works of darkness, but expose them
+        instead; <verse eid="EPH 5:11" />
+      <verse number="12" style="v" sid="EPH 5:12" />for the things which take place in secret which are done by them are embarrassing to even talk about.<verse eid="EPH 5:12" />
+      <verse number="13" style="v" sid="EPH 5:13" />Now everything which is exposed by the light gets brought out in the open, plain for all to see. <verse eid="EPH 5:13" />
+      <verse number="14" style="v" sid="EPH 5:14" />In fact, anything which itself brings things out in the open and makes them plain to see is light. Therefore
+        it says,</para>
+    <para style="pi" vid="EPH 5:14"></para>
+    <para style="pi" vid="EPH 5:14">You there who’s sleeping: get up</para>
+    <para style="pi" vid="EPH 5:14">And arise from the dead</para>
+    <para style="pi" vid="EPH 5:14">And Christ will shine on you (i.e., he’ll appear to you)<verse eid="EPH 5:14"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="15" style="v" sid="EPH 5:15" />So see to it that you go about your day-to-day lives monitoring whether your lives are up to standard
+        in every aspect, not living as an unwise person but as a shrewd and wise one, <verse eid="EPH 5:15" />
+      <verse number="16" style="v" sid="EPH 5:16" />making the most of the time and taking advantage of every opportunity, because it’s bad out there. <verse eid="EPH 5:16" />
+      <verse number="17" style="v" sid="EPH 5:17" />Because of this, don’t get to where you’re careless, reckless, thoughtless, or stupid, but rather constantly
+        understand what the will of the Lord is. <verse eid="EPH 5:17" />
+      <verse number="18" style="v" sid="EPH 5:18" />And don’t get drunk on wine—in which is a reckless disregard for your own self-preservation—but be continuously
+        filled with the Spirit while in the Spirit instead, <verse eid="EPH 5:18" />
+      <verse number="19" style="v" sid="EPH 5:19" />speaking among yourselves or to yourselves in popular songs accompanied by instruments, songs of praise,
+        and spiritual songs (i.e., prophetic manifestations of the Holy Spirit put to song, including singing
+        in tongues), singing in general and singing popular tunes—tunes which may be accompanied by musical instruments—with
+        the heart to the Lord, <verse eid="EPH 5:19" />
+      <verse number="20" style="v" sid="EPH 5:20" />always offering thanksgiving for everything in the name of our Lord Jesus Christ to God the Father, <verse eid="EPH 5:20" />
+      <verse number="21" style="v" sid="EPH 5:21" />submitting to one another in a reverence of Christ bordering on fear.<verse eid="EPH 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="EPH 5:22" />Wives are to submit to their husbands as though submitting to the Lord, <verse eid="EPH 5:22" />
+      <verse number="23" style="v" sid="EPH 5:23" />since the husband is the head of the wife as Christ is the head of the church, he personally being the
+        savior of the body. <verse eid="EPH 5:23" />
+      <verse number="24" style="v" sid="EPH 5:24" />Anyways, as the church submits to Christ, this is the same way that wives are to submit to their husbands
+        in all aspects.<verse eid="EPH 5:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="EPH 5:25" />Husbands, love your wives just as Christ loved the church and surrendered himself and was taken into
+        custody for her sake, <verse eid="EPH 5:25" />
+      <verse number="26" style="v" sid="EPH 5:26" />so that he would set her apart and make her holy after cleaning her up in the bathtub with the word of
+        God, <verse eid="EPH 5:26" />
+      <verse number="27" style="v" sid="EPH 5:27" />so that he personally could present to himself the church imbued with glory, having no spot, wrinkle,
+        or anything of that sort, but instead that she would be holy and blameless when presented. <verse eid="EPH 5:27" />
+      <verse number="28" style="v" sid="EPH 5:28" />The way that husbands ought to love their wives is as if they were their own bodies. He who loves his
+        wife loves himself; <verse eid="EPH 5:28" />
+      <verse number="29" style="v" sid="EPH 5:29" />the fact of the matter is that no one ever hated his own flesh, rather cherishes and nourishes it, just
+        as Christ cherishes and nourishes the church, <verse eid="EPH 5:29" />
+      <verse number="30" style="v" sid="EPH 5:30" />because we are a part of his body. <verse eid="EPH 5:30" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="31" style="v" sid="EPH 5:31" />Because of this
+    </para>
+    <para style="pi" vid="EPH 5:31">A man shall leave his father and mother</para>
+    <para style="pi" vid="EPH 5:31">And adhere to his wife,</para>
+    <para style="pi" vid="EPH 5:31">And the two will be molded into a single flesh<verse eid="EPH 5:31"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="32" style="v" sid="EPH 5:32" />This mystery—and I’m referring to Christ and to the church—is deep. <verse eid="EPH 5:32" />
+      <verse number="33" style="v" sid="EPH 5:33" />But in any case, make sure every one of you down to the last man love his wife as he loves himself, but
+        make sure wives have a deep reverence and respect for their husbands, one which borders on fear.<verse eid="EPH 5:33" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="EPH 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="EPH 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 6:1" />Children, obey your parents as part of your walk with the Lord; this is the right thing to do, you see.<verse eid="EPH 6:1" />
+      <verse number="2" style="v" sid="EPH 6:2" />”Honor your father and mother,” which is the foremost commandment found in the Law of Moses with a promise
+        appended to it: <verse eid="EPH 6:2" />
+      <verse number="3" style="v" sid="EPH 6:3" />”…So that it would go well with you and you would be blessed during your stay on the planet.” <verse eid="EPH 6:3" />
+      <verse number="4" style="v" sid="EPH 6:4" />And, parents, don’t exasperate your children but raise them in the discipline, coaching, mentoring, and
+        instruction of the Lord instead.<verse eid="EPH 6:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="EPH 6:5" />Slaves and menial servants, obey those who are your masters or bosses in the natural with the utmost
+        reverence and respect in the simplicity of your heart (i.e., without making something bigger out of it)
+        as if being reverent to Christ, <verse eid="EPH 6:5" />
+      <verse number="6" style="v" sid="EPH 6:6" />not just making the boss think you’re doing a good job when he’s looking and acting up when he’s not
+        but obeying as though you’re Christ’s slave instead, doing the will of God from the soul, <verse eid="EPH 6:6" />
+      <verse number="7" style="v" sid="EPH 6:7" />serving with a good attitude as if your service is to the Lord and not to humans, <verse eid="EPH 6:7" />
+      <verse number="8" style="v" sid="EPH 6:8" />knowing for a fact that each person, if he were to do something in particular which is good, he’ll get
+        this same thing back from the Lord, whether slave or free. <verse eid="EPH 6:8" />
+      <verse number="9" style="v" sid="EPH 6:9" />And masters and bosses, treat them the same way, giving up the constant threat of punishment as your
+        primary means of motivating your slaves, knowing for a fact that in the spiritual domain the Lord is
+        master and boss of both them and you, and there is no favoritism based on position in society or such
+        with him.<verse eid="EPH 6:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="EPH 6:10" />In conclusion, be strong in the Lord and reach into the vastness of his power. <verse eid="EPH 6:10" />
+      <verse number="11" style="v" sid="EPH 6:11" />Put on all the components of God’s complete suit of armor so you’ll have the ability to stand against
+        the schemes of the devil, <verse eid="EPH 6:11" />
+      <verse number="12" style="v" sid="EPH 6:12" />because the fight we’re in isn’t against flesh and blood, but against the rulers (i.e., the evil spirits
+        who have dominion at the top of a hierarchy, presumably over other evil spirits), against the authorities
+        (i.e., the evil spirits with power over a specific area), against the world-dominators of this darkness
+        (i.e., the evil spirits who dominate the ungodly human system and society that is the darkness we’re
+        surrounded by), against the spirit-forces of wickedness in the spiritual domain.<verse eid="EPH 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="EPH 6:13" />On account of this, take up God’s complete suit of armor, so that you’ll be able to withstand the spiritual
+        forces of the devil in the day of evil and—after you’ve accomplished everything on that day—to stand.<verse eid="EPH 6:13" />
+      <verse number="14" style="v" sid="EPH 6:14" />So stand, after having fastened the belt of truth around your waist, and having put on the breastplate
+        of righteousness, <verse eid="EPH 6:14" />
+      <verse number="15" style="v" sid="EPH 6:15" />and having put on your feet the preparation of the good-news message of the Gospel of peace, <verse eid="EPH 6:15" />
+      <verse number="16" style="v" sid="EPH 6:16" />in all situations having taken up the shield of faith, by which you’ll be able to extinguish and knock
+        out all the Evil One’s flaming projectiles, <verse eid="EPH 6:16" />
+      <verse number="17" style="v" sid="EPH 6:17" />and having received the helmet of salvation and the sword of the Spirit (which is the word of God), <verse eid="EPH 6:17" />
+      <verse number="18" style="v" sid="EPH 6:18" />with every sort of prayer and supplication (i.e., an urgent request put into prayer) praying in every
+        season of life in the Spirit, and while at it with maximum perseverance and prayer be on the lookout
+        looking around to see how all the saints (i.e., believers) are doing, <verse eid="EPH 6:18" />
+      <verse number="19" style="v" sid="EPH 6:19" />and for me, so that a message may be given to me when I open my mouth to boldly make known the mystery
+        of the Gospel <verse eid="EPH 6:19" />
+      <verse number="20" style="v" sid="EPH 6:20" />(for which I’m an ambassador kept on a short leash) so that with the same I will speak out freely, boldly,
+        and confidently as it is incumbent on me to speak.<verse eid="EPH 6:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="EPH 6:21" />Now, so that you too would know what’s going on with me and how I’m doing, Tychicus, a dear brother and
+        a faithful assistant in the Lord, will fill you in on everything, <verse eid="EPH 6:21" />
+      <verse number="22" style="v" sid="EPH 6:22" />whom I sent to you with that very goal in mind, so you’d know what I’m up to and that he’d give your
+        hearts encouragement and comfort.<verse eid="EPH 6:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="EPH 6:23" />Extend a greeting of peace to the brothers and love with faith from God the Father and the Lord Jesus
+        Christ. <verse eid="EPH 6:23" />
+      <verse number="24" style="v" sid="EPH 6:24" />Grace be with them who love our Lord Jesus Christ with sincerity.<verse eid="EPH 6:24" />
+    </para>
+  <chapter eid="EPH 6" />
+</usx>

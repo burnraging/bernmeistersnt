@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="GAL" style="id">The Bernmeister's NT</book>
+  <para style="h">Galatians</para>
+  <para style="toc1">The Epistle of Galatians</para>
+  <para style="toc2">Galatians</para>
+  <para style="toc3">Gal.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">GALATIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="GAL 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 1:1" />From the Apostle (i.e., missionary; pioneer of new churches; worker of miracles) Paul, who’s not an apostle
+        created from human agency nor an apostle who exists through human agency but through Jesus Christ and
+        God, the Father Who raised him from the dead, <verse eid="GAL 1:1" />
+      <verse number="2" style="v" sid="GAL 1:2" />and from those who are together with me—not just physically but are joint participants in my endeavors—namely
+        all of the comrades:</para>
+    <para style="p" vid="GAL 1:2">To the churches of Galatia:<verse eid="GAL 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="GAL 1:3" />Grace to you and peace from God our Father and the Lord Jesus Christ, <verse eid="GAL 1:3" />
+      <verse number="4" style="v" sid="GAL 1:4" />who gave his own self for our sins, and gave himself so he could yank us out of this evil day-and-age
+        we live in, according to the will of our God and Father: <verse eid="GAL 1:4" />
+      <verse number="5" style="v" sid="GAL 1:5" />to Him be the glory forever and ever (and let us pause a moment for that to sink in):<verse eid="GAL 1:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="GAL 1:6" />I’m astounded that you’re setting aside and replacing the Gospel (i.e., the good-news message we preach)
+        which came from the One Who called us (i.e., summoned us to believe) by the grace of Christ in exchange
+        for another so-called gospel— <verse eid="GAL 1:6" />
+      <verse number="7" style="v" sid="GAL 1:7" />not that there’s another gospel to be had—but I’m astounded at how this could possibly happen except
+        for the fact that there are certain individuals among you who are trouble-makers, wanting to distort
+        the Gospel, the message of what Christ did. <verse eid="GAL 1:7" />
+      <verse number="8" style="v" sid="GAL 1:8" />Never mind that for a moment: if even we or an angel who came down from heaven were to evangelize to
+        you something different than what we evangelized to you, let him be accursed. <verse eid="GAL 1:8" />
+      <verse number="9" style="v" sid="GAL 1:9" />I said it before and I’ll say it again: if someone evangelizes you with something different than what
+        you received and took to heart already, let him be accursed.<verse eid="GAL 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="GAL 1:10" />Furthermore, am I trying to win people or God over to my side now? Or am I just trying to please people?
+        If I was still going about pleasing people, I wouldn’t be a slave of Christ.<verse eid="GAL 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 1:11" />Just to let you know, comrades, the Gospel which was evangelized by me: it’s not a man-made contrivance,<verse eid="GAL 1:11" />
+      <verse number="12" style="v" sid="GAL 1:12" />nor were we taught it by anyone, but rather we were taught it through a Jesus Christ-revelation.<verse eid="GAL 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="GAL 1:13" />In fact, you heard about the way I used to live back then when I lived as a strict Jew, that I was caught
+        up in persecuting God’s church to an inordinate degree and in wreaking havoc on it, <verse eid="GAL 1:13" />
+      <verse number="14" style="v" sid="GAL 1:14" />and I was getting deeper and deeper into the stricter practices of Judaism, well beyond many of my peers,
+        as I had become even more fanatical about all the man-made rules and regulations that were passed down
+        to me from my ancestors. <verse eid="GAL 1:14" />
+      <verse number="15" style="v" sid="GAL 1:15" />But when God, Who set me apart from the time I was in my mother’s womb and called me through His grace,
+        was pleased <verse eid="GAL 1:15" />
+      <verse number="16" style="v" sid="GAL 1:16" />to reveal His son in me so I’d evangelize him to the Gentiles, I didn’t drop everything I was doing and
+        see what the experts had to say about it, <verse eid="GAL 1:16" />
+      <verse number="17" style="v" sid="GAL 1:17" />nor did I go down to Jerusalem to secure the approval of the founding apostles, who are my superiors
+        by default, but went over to Arabia instead and returned to Damascus.<verse eid="GAL 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 1:18" />Then after three years I went down to Jerusalem to visit Peter and stayed with him for fifteen days.<verse eid="GAL 1:18" />
+      <verse number="19" style="v" sid="GAL 1:19" />But I didn’t see the other apostles except for the Lord’s brother James. <verse eid="GAL 1:19" />
+      <verse number="20" style="v" sid="GAL 1:20" />(What I’m writing here for you—look—I swear to God I’m not lying.) <verse eid="GAL 1:20" />
+      <verse number="21" style="v" sid="GAL 1:21" />Then I went to the districts of Syria and Cilicia. <verse eid="GAL 1:21" />
+      <verse number="22" style="v" sid="GAL 1:22" />But I had no direct interaction or encounter with the special assemblies of Judea who are in Christ,<verse eid="GAL 1:22" />
+      <verse number="23" style="v" sid="GAL 1:23" />and the only information they had about me was that they kept hearing that the guy who was persecuting
+        them before is now evangelizing the Faith which he was wreaking havoc on, <verse eid="GAL 1:23" />
+      <verse number="24" style="v" sid="GAL 1:24" />and they glorified the God who is with me.<verse eid="GAL 1:24" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="GAL 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="GAL 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 2:1" />Then after spending fourteen years away, I went back down to Jerusalem with Barnabas, taking Titus along
+        as well. <verse eid="GAL 2:1" />
+      <verse number="2" style="v" sid="GAL 2:2" />I went down there to discuss my conformance to a revelation, and laid out in front of them the glad-tidings
+        message—the Gospel—which I preach among the Gentiles. But I submitted this in private to those who’re
+        considered to be the leading figures of the movement, lest somehow all of this be a huge waste of time
+        on my part—and has been all along. <verse eid="GAL 2:2" />
+      <verse number="3" style="v" sid="GAL 2:3" />No, uh-uh—not even my companion Titus was required to be circumcised (the act of circumcision being the
+        initiation rite whereby one adopts Judaism as his own religion and begins following its myriad rules
+        and traditions), seeing that he’s Greek (i.e., a Westerner, far from being Jewish).<verse eid="GAL 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="GAL 2:4" />But because of the bogus comrades who infiltrated our movement, those in particular who slipped in under
+        the radar to gain intelligence about the freedom which we possess in Christ Jesus, those whose aim is
+        to enslave us— <verse eid="GAL 2:4" />
+      <verse number="5" style="v" sid="GAL 2:5" />We didn’t knuckle under to them for even a moment, so that the truth of the Gospel remain in effect with
+        us. <verse eid="GAL 2:5" />
+      <verse number="6" style="v" sid="GAL 2:6" />But the decision from those who are considered to be of some importance—just how important they were
+        makes no difference to me: God doesn’t give a hoot about a person’s status, outward appearance, or public
+        persona—in fact, the important people don’t score any points with me simply because they’re “important”…<verse eid="GAL 2:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 2:7" />—Enough of that.
+    </para>
+    <para style="p" vid="GAL 2:7">On the contrary seeing that I had been entrusted with the Gospel of uncircumcision (i.e., the glad-tidings
+        message that one can come to God through Christ as a Gentile without converting to Judaism and without
+        following the Jewish rules and traditions) just as Peter was entrusted with the Gospel of circumcision
+        (i.e., the glad-tidings message to the Jews that the Messiah promised by the Old Testament has come in
+        the person of Jesus Christ), <verse eid="GAL 2:7"/>
+      <verse number="8" style="v" sid="GAL 2:8" />and in this regard he who’s been active in Peter for him to be an apostle of the circumcised is also
+        active for me to be the same to the Gentiles. <verse eid="GAL 2:8" />
+      <verse number="9" style="v" sid="GAL 2:9" />Recognizing and understanding the grace (i.e., the special gift and calling given to me, and not earned
+        by me) that was given to me, James, Peter, and John (those considered to be the key players and head
+        honchos) were in total agreement with us giving their unequivocal endorsement and full support to me
+        and Barnabas, so that we would continue as apostles to the Gentile and they to the circumcised (i.e.,
+        the Jews). <verse eid="GAL 2:9" />
+      <verse number="10" style="v" sid="GAL 2:10" />They only asked that we remember the poor, the very same thing I too had been eager to get done.<verse eid="GAL 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 2:11" />Now when Peter came to Antioch, I confronted him point-blank because he was in the wrong. <verse eid="GAL 2:11" />
+      <verse number="12" style="v" sid="GAL 2:12" />You see, prior to when select individuals from the churches under James’s authority arrived, he partook
+        of meals with the Gentiles, but when they arrived, he withdrew from the Gentiles and kept himself at
+        a distance from them, fearing those from the circumcision (i.e., those who believe that one must obey
+        the Law of Moses and adopt Jewish rules and restrictions in order to be accepted by God; those who say
+        that believing in Christ but not following the Law is not acceptable to God). <verse eid="GAL 2:12" />
+      <verse number="13" style="v" sid="GAL 2:13" />The other Jews joined him in his hypocrisy, so that even Barnabas was caught up in the hypocrisy…<verse eid="GAL 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="GAL 2:14" />—Not a chance.
+    </para>
+    <para style="p" vid="GAL 2:14">When I saw that he was disingenuous about the truth of the Gospel, I told Peter in front of everybody,
+        “If you being a Jew live as a Gentile and not as a Jew, how can you get away with requiring that the
+        Gentiles be Jewish?”<verse eid="GAL 2:14"/>
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="GAL 2:15" />”We ourselves are Jews by nature and not sinners from far-away, Gentile nations, <verse eid="GAL 2:15" />
+      <verse number="16" style="v" sid="GAL 2:16" />having reached the point where we know for certain that a person isn’t justified (i.e., God examining
+        a person’s righteousness like a judge would and declaring them to be righteous) as a result of works
+        of law (i.e., obeying the commandments of the Law of Moses, or following the do’s and don’ts of any godly
+        list of rules for that matter) if it happens to not be through Christ Jesus-faith. We believed in Christ
+        Jesus so that we would be justified as a result of Christ-faith and not as a result of works of law,
+        since all flesh (i.e., any human endeavor and all human effort apart from God) won’t be justified as
+        a result of works of law. <verse eid="GAL 2:16" />
+      <verse number="17" style="v" sid="GAL 2:17" />But if in the process of seeking justification in Christ, it’s been determined that even we are sinners,
+        you can’t seriously believe that Christ has been delegated the responsibility of caring for and promoting
+        sin?—No way.<verse eid="GAL 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 2:18" />”Furthermore, if I rebuild the things that I demolished, I demonstrate conclusively that I’m a transgressor.<verse eid="GAL 2:18" />
+      <verse number="19" style="v" sid="GAL 2:19" />You see, because of law I died to law (i.e., because of the failure in trying to live up to the requirements
+        of the Law of Moses—which can be said of any set of rules and not just the Law of Moses—and thereby earning
+        righteousness, I ceased all attempts and completely severed myself from earning righteousness through
+        the Law), so that I would live to God. I’ve been crucified in unison, in joint participation, with Christ;<verse eid="GAL 2:19" />
+      <verse number="20" style="v" sid="GAL 2:20" />I no longer live, but Christ lives in me. What I now live in flesh (i.e., in my physical body, with my
+        human ability, and in contention with my carnal nature), I live by faith for the son of God who loved
+        me and gave himself for me. <verse eid="GAL 2:20" />
+      <verse number="21" style="v" sid="GAL 2:21" />I’m not nullifying the grace of God: if one is justified through law, Christ really did die for nothing.“<verse eid="GAL 2:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="GAL 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="GAL 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 3:1" />Oh, brainless, short-sighted Galatians, who cast an evil spell over you, you whom eye-witness accounts
+        of Jesus Christ were previously written for, accounts describing his being crucified? <verse eid="GAL 3:1" />
+      <verse number="2" style="v" sid="GAL 3:2" />The only thing I want to ascertain from you is this: Did you receive the Spirit from the works of law
+        (i.e., following the do’s and don’ts of the Law of Moses, or any other list of rules for that matter)
+        or from hearing a particular message from the vantage point of faith?<verse eid="GAL 3:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="GAL 3:3" />You’re brainless this way. Having begun in spirit (i.e., living a spiritual life; a life where your regenerate,
+        human spirit, one filled with fruit, dominates your carnal nature), are you now continuously improving
+        yourselves in flesh (i.e., by your own ability apart from God; not living a spiritual life; trying to
+        please God by adhering to the Law of Moses, Jewish tradition, or other rules)? <verse eid="GAL 3:3" />
+      <verse number="4" style="v" sid="GAL 3:4" />And are you so far off course that you suffered living this way for nothing?—If you really was for nothing.<verse eid="GAL 3:4" />
+      <verse number="5" style="v" sid="GAL 3:5" />So does he who supplies you with the Spirit and makes power (including supernatural power and the miraculous)
+        happen in you do so from works of law or from a particular message you heard from the vantage point of
+        faith? <verse eid="GAL 3:5" />
+      <verse number="6" style="v" sid="GAL 3:6" />It’s just like the Old Testament verse says, “Abraham had faith in God, and it was credited to him as
+        righteousness.”<verse eid="GAL 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 3:7" />You really need to understand that they who live from the vantage point of faith—those are the ones who
+        are sons of Abraham (i.e., imitate and duplicate Abraham; carry on Abraham’s legacy). <verse eid="GAL 3:7" />
+      <verse number="8" style="v" sid="GAL 3:8" />Now the Scriptures anticipated the justification (i.e. clearing of one’s record so he’s considered to
+        be righteous) of the Gentiles who live from the vantage point of faith—Before it was made widely known,
+        God announced the good news to Abraham, telling him that, “In you a blessing will be imparted to all
+        the Gentiles,” <verse eid="GAL 3:8" />
+      <verse number="9" style="v" sid="GAL 3:9" />so that they who live from the vantage point of faith are jointly blessed with Abraham by means of faith.<verse eid="GAL 3:9" />
+      <verse number="10" style="v" sid="GAL 3:10" />You see, every last person without exception who seeks justification from works of law is subject to
+        a curse because of what is written in the Law Moses: </para>
+    <para style="pi" vid="GAL 3:10"></para>
+    <para style="pi" vid="GAL 3:10">Cursed is everyone who doesn’t carry through</para>
+    <para style="pi" vid="GAL 3:10">With accomplishing the doing of everything</para>
+    <para style="pi" vid="GAL 3:10">Which has been written in the official, authoritative</para>
+    <para style="pi" vid="GAL 3:10">Version of the Law of Moses<verse eid="GAL 3:10"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 3:11" />That no one is justified with God (i.e., has had God officially clear their record of wrong-doing and
+        declared them to be righteous) by law (i.e., by an attempt to strictly follow the Law of Moses or by
+        any list or rules, code of ethics, etc. for that matter) is obvious, since the Law of Moses says, “The
+        righteous individual will live from the vantage point of faith.” <verse eid="GAL 3:11" />
+      <verse number="12" style="v" sid="GAL 3:12" />But the Law of Moses isn’t from the vantage point of faith, but instead, “He who does the very things
+        commanded here shall live in them (i.e., shall live with the consequences one way or another).” <verse eid="GAL 3:12" />
+      <verse number="13" style="v" sid="GAL 3:13" />Christ redeemed us from (i.e., got us out from under) the curse of the Law of Moses, having become a
+        curse for us (because it’s written, “Everyone who’s hung on a tree is accursed”) <verse eid="GAL 3:13" />
+      <verse number="14" style="v" sid="GAL 3:14" />so that the blessing of Abraham would appear to the Gentiles in Christ Jesus, so that we’d receive the
+        promise of the Spirit through the faith we’re talking about.<verse eid="GAL 3:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="GAL 3:15" />Comrades, let me state this in terms of human contractual law. If a person has gone ahead and had a will
+        drawn up and has had it signed, witnessed, and notarized, if he were to die, no one can void it, disregard
+        it, or amend it by tacking an addendum onto it. <verse eid="GAL 3:15" />
+      <verse number="16" style="v" sid="GAL 3:16" />Now the promises were given to Abraham and to his father-to-son direct descendant. The Old Testament
+        doesn’t say “and to his direct descendants” (in the plural) but “to his direct descendant” (in the singular)
+        instead.<verse eid="GAL 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 3:17" />What I’m getting at is this: A will was drafted, signed, witnessed, and notarized by God, one that can’t
+        be invalidated by a law-code which came into being 430 years after the will was notarized resulting in
+        cancelling the promise. <verse eid="GAL 3:17" />
+      <verse number="18" style="v" sid="GAL 3:18" />Along these same lines, if the beneficiaries‘ inheritance were to be based on a law-code, then it would
+        no longer be based on a promise. But God, in an act of mercy and kindness, has granted the inheritance
+        to Abraham by staking it on a promise.<verse eid="GAL 3:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="GAL 3:19" />So where does the Law of Moses fit in to all of this? It was added as an agency of grace and mercy which
+        overlooks the transgressions which would inevitably occur, until the time when the father-to-son direct
+        descendant happens to arrive, the one whom the promise was given to. The Law was ordained, established,
+        and set in order through angels and physically carried out by the hand of a priest acting in the role
+        of intermediary between man and God. <verse eid="GAL 3:19" />
+      <verse number="20" style="v" sid="GAL 3:20" />But the intermediary is not one, but God is One (i.e., the intermediary isn’t an incomparable, all-wise,
+        all-encompassing, single-minded being, one who is the end-all of everything, but God is just that).<verse eid="GAL 3:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="GAL 3:21" />So is the Law of Moses compatible with the promises?—Don’t even think such a thought. You see, if a law-code
+        which has the power to make a person alive was given, the righteousness we live in would actually be
+        from a law-code. <verse eid="GAL 3:21" />
+      <verse number="22" style="v" sid="GAL 3:22" />Not a chance—the Scripture locked every last thing down tight under sin so that the promise would be
+        given from the vantage point of faith to those who believe in Jesus Christ.<verse eid="GAL 3:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="GAL 3:23" />Before the Faith came, we were kept under guard, locked down with the end-goal in mind of the revealing
+        of faith which was on its way, <verse eid="GAL 3:23" />
+      <verse number="24" style="v" sid="GAL 3:24" />done in a way that the Law of Moses has become our tutor with the end-goal of Christ in mind, so that
+        we would be justified from the vantage point of faith. <verse eid="GAL 3:24" />
+      <verse number="25" style="v" sid="GAL 3:25" />Now that the Faith has come, we are no longer sitting under a tutor.<verse eid="GAL 3:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="GAL 3:26" />The fact is that all of you are sons of God through the Faith which is in Christ Jesus. <verse eid="GAL 3:26" />
+      <verse number="27" style="v" sid="GAL 3:27" />In fact, without exception every last one of you who’s been baptized into Christ (i.e., has fully accepted
+        and been initiated into Christ and the Christian faith) has put on Christ like they’ve put on a piece
+        of clothing. <verse eid="GAL 3:27" />
+      <verse number="28" style="v" sid="GAL 3:28" />There is neither Jew nor Westerner, there is neither slave nor person freed from slavery, there is neither
+        male nor female, for all of you are in Christ Jesus (i.e., are melded with Christ). <verse eid="GAL 3:28" />
+    </para>
+    <para style="p">
+      <verse number="29" style="v" sid="GAL 3:29" />Now if you are derived from Christ, you certainly are father-to-son direct descendants of Abraham, heirs
+        according to the guarantee that a promise provides.<verse eid="GAL 3:29" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="GAL 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="GAL 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 4:1" />This is what I have to say: The heir of a great estate is a minor for a long but fixed time interval,
+        and during that time he’s treated no differently than a household slave, while at the same time being
+        an owner of the estate. <verse eid="GAL 4:1" />
+      <verse number="2" style="v" sid="GAL 4:2" />Anyways, he’s kept under the supervision of a governess and a butler until the predetermined-date set
+        by the minor’s father. <verse eid="GAL 4:2" />
+      <verse number="3" style="v" sid="GAL 4:3" />The same thing applies to us: When we were minors, we were subject to the elementary principles of the
+        world (i.e., subject to the premise of God accepting you based on how well you follow the list of do’s
+        and don’ts), having reached the point where we were enslaved. <verse eid="GAL 4:3" />
+      <verse number="4" style="v" sid="GAL 4:4" />But when the interval was up, God sent His son forth and from out of a woman he appeared into this world,
+        and once he appeared he was subjected to a set of dictates in the form of the Law of Moses, <verse eid="GAL 4:4" />
+      <verse number="5" style="v" sid="GAL 4:5" />so that he would redeem those (i.e., get them out from under) who are subjected to the Law, so that he
+        would assume the authority and privileges entailed upon a son when he reaches adulthood. <verse eid="GAL 4:5" />
+      <verse number="6" style="v" sid="GAL 4:6" />Since you’re sons, God sent forth the Spirit of his son into our hearts crying, “Papa, Father!”, <verse eid="GAL 4:6" />
+      <verse number="7" style="v" sid="GAL 4:7" />so that one is no longer a slave but a son; and if such person is a son, then he too is an heir through
+        God.<verse eid="GAL 4:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="GAL 4:8" />Anyways, having not reached the point back then where you had a first-hand knowledge of God, as slaves
+        you served things that don’t have God-like characteristics by nature. <verse eid="GAL 4:8" />
+      <verse number="9" style="v" sid="GAL 4:9" />But knowing God now (or more accurately, being known by God) how is that you’re once again directing
+        your main focus to the weak and poor elementary principles which you want to serve again from the top
+        down? <verse eid="GAL 4:9" />
+      <verse number="10" style="v" sid="GAL 4:10" />You observe special religious days, seasons, and years that the Law of Moses says are mandatory. <verse eid="GAL 4:10" />
+      <verse number="11" style="v" sid="GAL 4:11" />I’m worried that all the hard work I invested in you was somehow for nothing.<verse eid="GAL 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="GAL 4:12" />Put yourselves in my shoes, since I’m putting myself in your shoes, comrades; I’m asking you to do this.
+        You didn’t do me any wrong or cause me any harm. <verse eid="GAL 4:12" />
+      <verse number="13" style="v" sid="GAL 4:13" />But you know for a fact that I evangelized the Gospel to you a while back through the weakness of the
+        flesh (i.e., engulfed in the limitations inherent in all humans), <verse eid="GAL 4:13" />
+      <verse number="14" style="v" sid="GAL 4:14" />and you didn’t despise nor disdain your testing in my flesh (i.e., it wasn’t beneath you to see if I
+        would break under pressure while being pushed to the limits of my human abilities). That aside, you received
+        me as though I were an angel of God, as though I were Christ Jesus. <verse eid="GAL 4:14" />
+      <verse number="15" style="v" sid="GAL 4:15" />So where is your blessing (i.e., why aren’t you wishing us well anymore)? In fact, I swear I’m telling
+        you the truth, because, if possible, you plucked out your eyes and gave them to me (i.e., because, had
+        it been possible, you would’ve forced me to agree with your point of view). <verse eid="GAL 4:15" />
+      <verse number="16" style="v" sid="GAL 4:16" />So this means that I’ve become your enemy by telling you the truth?<verse eid="GAL 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 4:17" />Those who are spreading heresy among you are eager to convert you, but they’re up to no good. Forget
+        that—they wish to prevent you from believing in the truth, so that you would be their devotees, their
+        fan-boys. <verse eid="GAL 4:17" />
+      <verse number="18" style="v" sid="GAL 4:18" />But it’s always good to be eagerly sought after to be converted in a positive way, and not just when
+        I’m with you in person, <verse eid="GAL 4:18" />
+      <verse number="19" style="v" sid="GAL 4:19" />my children, concerning whom I suffer labor pains again until such time that Christ be formed in you.<verse eid="GAL 4:19" />
+      <verse number="20" style="v" sid="GAL 4:20" />I kept wanting just now to be with you in person and discover something about you which would cause me
+        to change my tone of voice when addressing you, since I don’t know what to make of you.<verse eid="GAL 4:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="GAL 4:21" />Tell me, you who are wanting to follow the dictates of the Law of Moses: haven’t you heard what the Law
+        teaches? <verse eid="GAL 4:21" />
+      <verse number="22" style="v" sid="GAL 4:22" />You see, it’s recorded in the Law that Abraham had two sons, one from the female-slave and one from the
+        free woman. <verse eid="GAL 4:22" />
+      <verse number="23" style="v" sid="GAL 4:23" />Anyways, on the one hand he who was birthed from the female-slave was according to flesh (i.e., was brought
+        into the world through Abraham’s human ability apart from God), but on the other hand he who was birthed
+        from the free woman was brought into the world through the guarantee that a promise provides.<verse eid="GAL 4:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="GAL 4:24" />These women are allegories: these women are two covenants. One originated from Mt. Sinai was born into
+        slavery and is personified by Hagar. <verse eid="GAL 4:24" />
+      <verse number="25" style="v" sid="GAL 4:25" />But Hagar/Mt. Sinai is in Arabia and corresponds to the present-day Jerusalem; she—Jerusalem—is serving
+        as a slave along with the carbon-copies of herself which she’s spawned.<verse eid="GAL 4:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="GAL 4:26" />Now the Jerusalem above, who’s our mother, the one who’s spawned us, is free. <verse eid="GAL 4:26" />
+      <verse number="27" style="v" sid="GAL 4:27" />In this regard, it’s written,
+    </para>
+    <para style="pi" vid="GAL 4:27"></para>
+    <para style="pi" vid="GAL 4:27">Rejoice, barren woman, who isn’t birthing children—</para>
+    <para style="pi" vid="GAL 4:27">Let loose and cry out,</para>
+    <para style="pi" vid="GAL 4:27">You woman who isn’t suffering labor pains,</para>
+    <para style="pi" vid="GAL 4:27">Since the children of the free woman</para>
+    <para style="pi" vid="GAL 4:27">Are more numerous</para>
+    <para style="pi" vid="GAL 4:27">Than the one who has</para>
+    <para style="pi" vid="GAL 4:27">Garnered the attention of the husband<verse eid="GAL 4:27"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="28" style="v" sid="GAL 4:28" />But you, comrades, are children derived from promise according to the precedent set with Isaac. <verse eid="GAL 4:28" />
+      <verse number="29" style="v" sid="GAL 4:29" />That aside, just as it was back then, that he who was born into this world according to flesh (i.e.,
+        according to a human attempt to accomplish something apart from God) persecuted he who was born into
+        this world according to the Spirit, it’s the same way now. <verse eid="GAL 4:29" />
+      <verse number="30" style="v" sid="GAL 4:30" />Anyways, what does the Bible have to say about this?
+    </para>
+    <para style="pi" vid="GAL 4:30"></para>
+    <para style="pi" vid="GAL 4:30">Kick the female-servant and her son to the curb.</para>
+    <para style="pi" vid="GAL 4:30">Fact is, there’s not a chance at all</para>
+    <para style="pi" vid="GAL 4:30">That the son of the female-servant</para>
+    <para style="pi" vid="GAL 4:30">Will split the inheritance</para>
+    <para style="pi" vid="GAL 4:30">With the son of the free woman.<verse eid="GAL 4:30"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="31" style="v" sid="GAL 4:31" />In light of this, comrades, we are not the female-servant’s children but the free woman’s children instead.<verse eid="GAL 4:31" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="GAL 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="GAL 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 5:1" />Christ set us free by means of the freedom of the Spirit, so make your stand and don’t be subject to
+        a yoke of bondage again. <verse eid="GAL 5:1" />
+      <verse number="2" style="v" sid="GAL 5:2" />See here: I—Paul—tell you, if you were to be circumcised (i.e., if you were to commit yourselves to following
+        the Law of Moses and seek righteousness from God based on your adherence to it), Christ won’t benefit
+        you in any way. <verse eid="GAL 5:2" />
+      <verse number="3" style="v" sid="GAL 5:3" />Again, I swear I’m telling the truth as I solemnly declare to every circumcised person (i.e., every person
+        who’s attempting to earn righteousness by following the Law) that there’s an obligation to put into practice
+        every aspect, every mandate, every requirement, and every last proscription of the Law. <verse eid="GAL 5:3" />
+      <verse number="4" style="v" sid="GAL 5:4" />You’ve been split off from Christ and have had all ties with him severed, you the very people who expect
+        justification by following a code of law; you fell out of grace. <verse eid="GAL 5:4" />
+      <verse number="5" style="v" sid="GAL 5:5" />You see, we in spirit (i.e., our human spirit in communion with the Holy Spirit) from a perspective of
+        faith eagerly await a hope of righteousness. <verse eid="GAL 5:5" />
+      <verse number="6" style="v" sid="GAL 5:6" />You see, in Christ Jesus circumcision (i.e., committed to following the Law) isn’t a factor that carries
+        any weight nor is uncircumcision (i.e., not committed to following the Law), but rather faith in action
+        through love.<verse eid="GAL 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 5:7" />You were on the right track—who derailed you to where you became unconvinced of and disobedient to the
+        truth? <verse eid="GAL 5:7" />
+      <verse number="8" style="v" sid="GAL 5:8" />Whatever form of persuasion this manifested itself as is not from Him Who called you (i.e., from God
+        who summoned you to believe in Him). <verse eid="GAL 5:8" />
+      <verse number="9" style="v" sid="GAL 5:9" />Just a tiny amount of yeast will spread to the entire batch of dough, converting all the dough to yeast.<verse eid="GAL 5:9" />
+      <verse number="10" style="v" sid="GAL 5:10" />I’m satisfied in the Lord that you won’t arrive at any other conclusion than the truth, but the troublemaker
+        who’s causing you problems will suffer the consequences, whoever he happens to be. <verse eid="GAL 5:10" />
+      <verse number="11" style="v" sid="GAL 5:11" />But in my case, comrades—if I happened to still be preaching circumcision (i.e., preaching that one must
+        obey the Law of Moses and seek righteousness by following it), why would I continue to be persecuted?
+        Has the point of contention and the offensiveness of the cross really been abolished? <verse eid="GAL 5:11" />
+      <verse number="12" style="v" sid="GAL 5:12" />Would that those who are agitating you go on to be castrated!<verse eid="GAL 5:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="GAL 5:13" />The fact of the matter is that you were called (i.e., became believers) to be at a place of freedom,
+        comrades: just don’t turn the freedom in Christ into a pretext for flesh (i.e., a pretext to act apart
+        from God or to indulge your carnal nature), but serve one another as slaves through the love God has
+        put in us instead. <verse eid="GAL 5:13" />
+      <verse number="14" style="v" sid="GAL 5:14" />You see, the entirety of what the Law teaches is summarized in one sentence: “You shall love your neighbor
+        as yourself”; <verse eid="GAL 5:14" />
+      <verse number="15" style="v" sid="GAL 5:15" />but if you’re vicious towards one another, aggressive, and take advantage of each other or have total
+        disregard for each other, be careful that you don’t rip each other to shreds.<verse eid="GAL 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="GAL 5:16" />I’ll say this: conduct your lives in a spiritual manner (i.e., by your spirit in communion with the Holy
+        Spirit) and you won’t carry out the desires of the flesh (i.e., the carnal nature)—not a chance. <verse eid="GAL 5:16" />
+      <verse number="17" style="v" sid="GAL 5:17" />The flesh, you see, has intense, sexual-like desires contrary to the Spirit, and the Spirit is contrary
+        to the flesh: in fact these two are pitted against each other, so that that which you happen to be wanting,
+        those are the things you won’t be doing. <verse eid="GAL 5:17" />
+      <verse number="18" style="v" sid="GAL 5:18" />But if you are led in a spiritual manner, you are not under law (i.e., you’re not subordinated to a set
+        of rules to how to run your life, in particular to the Law).<verse eid="GAL 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="GAL 5:19" />Now the works of the flesh are obvious as they’re out in the open and plain for everyone to see: in particular
+        there is fornication (i.e., sexual immorality of any sort); uncleanness (i.e., filthy, nasty, disgusting
+        behavior of any sort; lewd, crude, crass, foul-mouthed, disgusting untidiness, abject neglect of personal
+        hygiene; disgusting references to or treatment of bodily functions); licentiousness (i.e., strong, out-of-control
+        desire which drives you to do that which is immoral); <verse eid="GAL 5:19" />
+      <verse number="20" style="v" sid="GAL 5:20" />idolatry (i.e., replacing God with something else; looking for something else to do what God promised
+        He’d do for you; taking what God did for you and attributing it to something else); recreational drug
+        use, drug abuse, drug dealing, dabbling in the occult, or extreme types of manipulation and control;
+        enmity (i.e., animosity; mutual hatred; continual hostility); quarrelling and strife; emulation (i.e.,
+        rivalry driven by jealousy; envy; competing in an unhealthy way to outdo someone else); wrath (i.e.,
+        a hot, out-of-control temper; unwarranted outbursts of anger); selfish ambition, playing politics, or
+        manipulating those around you for your own selfish ends; seditions (i.e., dissensions, unresolved disputes);
+        factions (i.e., the formation and perpetuation of groups hostile to each other); <verse eid="GAL 5:20" />
+      <verse number="21" style="v" sid="GAL 5:21" />jealousy (i.e., envious of someone else who does well; hatred of someone simply because they’re doing
+        well or are good at doing something); drunkenness and out-of-control drinking; carousing (i.e., loud
+        partying; hell-raising for the fun of it); etc., etc.—I told you before and I’ll tell you again: those
+        who do such things will not inherit the kingdom of God (i.e., they will have no interaction with God;
+        God will not be involved in their lives).<verse eid="GAL 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="GAL 5:22" />But the fruit of the Spirit is love, joy, peace, patience, kindness and mercy and forgiveness, inner-goodness,
+        faithfulness, <verse eid="GAL 5:22" />
+      <verse number="23" style="v" sid="GAL 5:23" />meekness (i.e., a gentleness which comes from restraint); no law (i.e., no list of do’s and don’ts) is
+        against such things. <verse eid="GAL 5:23" />
+      <verse number="24" style="v" sid="GAL 5:24" />But those who are a part of Christ Jesus crucified the flesh (i.e., the carnal nature) together with
+        its passions and desires. <verse eid="GAL 5:24" />
+      <verse number="25" style="v" sid="GAL 5:25" />If we aspire to live in a spiritual manner, let us also adhere to standards of a human spirit in communion
+        with the Holy Spirit. <verse eid="GAL 5:25" />
+      <verse number="26" style="v" sid="GAL 5:26" />Let us not acquire an overrated opinion of ourselves, become conceited, or become filled with hubris,
+        provoking one another, envying one another.<verse eid="GAL 5:26" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="GAL 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="GAL 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 6:1" />Comrades, if a person happens to inadvertently be caught in some transgression, you the spiritual ones
+        put such a person back on his feet in a prevailing attitude of gentleness, taking a good, hard look at
+        yourself lest you too be tempted. <verse eid="GAL 6:1" />
+      <verse number="2" style="v" sid="GAL 6:2" />Bear each other’s burdens; this is the way you meet the requirements of the Law of Christ. <verse eid="GAL 6:2" />
+      <verse number="3" style="v" sid="GAL 6:3" />Furthermore, if someone thinks he’s something when he’s nothing, he’s full of baloney. <verse eid="GAL 6:3" />
+      <verse number="4" style="v" sid="GAL 6:4" />But let each person decide if his own personal conduct is up to a satisfactory level, and then he’ll
+        be entitled to speak proudly, but only to himself and not to somebody else. <verse eid="GAL 6:4" />
+      <verse number="5" style="v" sid="GAL 6:5" />In this regard, each person will bear his own load.<verse eid="GAL 6:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="GAL 6:6" />Now have the person who’s having the Word taught to him in a classroom environment share all sorts of
+        good things (materially speaking) with the teacher. <verse eid="GAL 6:6" />
+      <verse number="7" style="v" sid="GAL 6:7" />Don’t kid yourselves, God won’t let anyone get away with turning his nose up at Him or sneering at Him;
+        in this context, what a person sows, this he also reaps, <verse eid="GAL 6:7" />
+      <verse number="8" style="v" sid="GAL 6:8" />since the one who sows into his flesh will reap corruption from the flesh he sowed into, but he who sows
+        into the Spirit will reap eternal life (i.e., that special fullness of life) from the Spirit he sowed
+        into. <verse eid="GAL 6:8" />
+      <verse number="9" style="v" sid="GAL 6:9" />But on the other hand, the one who continues to do good mustn’t lose heart, for when the time’s right
+        we will reap from the good we’ve sown if we don’t grow weary and quit. <verse eid="GAL 6:9" />
+      <verse number="10" style="v" sid="GAL 6:10" />So then, while we still have a chance, let us continue to do good things for everyone, but most of all
+        continue to do good things for the households of those who are of the Faith.<verse eid="GAL 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 6:11" />Pay attention to the capital letters I’m using here as I write this in my own handwriting:<verse eid="GAL 6:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="GAL 6:12" />THE VERY PEOPLE WHO WANT TO MAKE THEMSELVES APPEAR ON THE OUTSIDE AS THOUGH THEY’RE GOOD—THEY’RE THE
+        ONES WHO REQUIRE YOU TO BE CIRCUMCISED (i.e., to formally adopt the Law of Moses in the rite of circumcision,
+        thereby committing to following it) FOR THE SOLE REASON THAT THEY WON’T BE PERSECUTED FOR THE CROSS OF
+        CHRIST. <verse eid="GAL 6:12" />
+      <verse number="13" style="v" sid="GAL 6:13" />IN FACT, THOSE WHO PROMOTE CIRCUMCISION DON’T EVEN KEEP LAW (i.e., keep the Law of Moses or any code
+        of conduct for that matter) THEMSELVES. ON THE CONTRARY, THEY WANT YOU TO BE CIRCUMCISED SO THEY CAN
+        BRAG IN YOUR FLESH (i.e., can brag about the amount of personal effort you’re putting into following
+        the Law).<verse eid="GAL 6:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="GAL 6:14" />But far be it for me to brag or beam with pride except in the cross of our Lord Jesus Christ, through
+        whom the world is crucified to me and I to the world (i.e., the ungodly established order of mankind
+        has completely disavowed and shunned me, wanting nothing to do with me, and I have done the same to it).<verse eid="GAL 6:14" />
+      <verse number="15" style="v" sid="GAL 6:15" />Neither circumcision nor uncircumcision is of any significance, but a new creation is the only thing
+        which is significant. <verse eid="GAL 6:15" />
+      <verse number="16" style="v" sid="GAL 6:16" />And whosever conforms to this standard: peace be upon him and mercy, and may it also be upon God’s people
+        Israel.<verse eid="GAL 6:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 6:17" />Henceforth, let no one try to hassle me, for I bear the marks of Jesus in my body as though I’m trudging
+        about carrying a weight.<verse eid="GAL 6:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 6:18" />The grace of our Lord Jesus Christ be with your spirit, comrades.
+    </para>
+    <para style="p" vid="GAL 6:18">Amen (so be it).<verse eid="GAL 6:18"/>
+    </para>
+  <chapter eid="GAL 6" />
+</usx>

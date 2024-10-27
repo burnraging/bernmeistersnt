@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2TI" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">2 Timothy</para>
+  <para style="toc1">The Epistle of 2 Timothy</para>
+  <para style="toc2">2 Timothy</para>
+  <para style="toc3">2 Tim.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 TIMOTHY</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">The strong emotions which Paul had while in prison are put in this second letter to Timothy, Paul’s final
+    letter. One can feel the intensity when reading it, feeling something in the air, feeling that things
+    are getting serious, that events have taken a turn for the worse, that the end is near. He breaks out
+    into poem in the second chapter an prayer in the fourth.</para>
+  <para style="ipi">Paul’s attachment to his son in the Faith Timothy is one of the few things which gives him the inner
+    strength to persevere; except for Luke he is alone.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2TI 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TI 1:1" />Paul, <char style="it">an </char>apostle of Christ Jesus because of God’s will according to <char style="it">the
+        </char>promise of life which is in Christ Jesus:<verse eid="2TI 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2TI 1:2" />To Timothy, a dear son<char style="sup">[a]</char>:
+    </para>
+    <para style="p" vid="2TI 1:2">Grace, Mercy, Peace, <char style="it">and so much more </char>from God the Father and our Lord Christ
+        Jesus.<verse eid="2TI 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2TI 1:3" />I thank God and have gracious <char style="it">thoughts</char> for Him, Whom I serve with a clean conscience
+        in a worship <char style="it">which originated </char>from my ancestors, as I constantly rehash memories
+        of you all day and all night while I’m chained up in prison, <verse eid="2TI 1:3" />
+      <verse number="4" style="v" sid="2TI 1:4" />yearning so much to see you (now that I’ve remembered <char style="it">something </char>of your tears)
+        so that I could be filled with joy, <verse eid="2TI 1:4" />
+      <verse number="5" style="v" sid="2TI 1:5" />now that I’ve taken in a memory of the sincere faith in you: the very <char style="it">faith </char>which
+        first resided in your grandmother Lois and your mother Eunice—and I am convinced is in you too. <verse eid="2TI 1:5" />
+      <verse number="6" style="v" sid="2TI 1:6" />It’s for this reason that I’m reminding you to stir up the gift of God, a gift which is in you through
+        my laying on of hands. <verse eid="2TI 1:6" />
+      <verse number="7" style="v" sid="2TI 1:7" />You see, God didn’t give us a deep, intense, overriding attitude<char style="sup">[b]</char> of cowardliness,
+        but of power, love, and a self-control which results in us being sensible and sound-minded.<verse eid="2TI 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2TI 1:8" />So don’t be ashamed of us telling others in a serious manner what the truth is about<char style="sup">[c]</char>
+        our Lord nor <char style="it">be ashamed about </char>me his prisoner, but rather participate in the
+        evil-generated sufferings <char style="it">inherent</char> to the Gospel (God’s message of love and forgiveness)
+        in lockstep with <char style="it">the </char>power of God, <verse eid="2TI 1:8" />
+      <verse number="9" style="v" sid="2TI 1:9" />Who saved us and called us (i.e., summoned us to be believers) by a holy calling, not according to our
+        works but rather according to the intention which He decided beforehand and according to His grace instead,
+        which was given to us in Christ Jesus before time immemorial<char style="sup">[d]</char>, <verse eid="2TI 1:9" />
+      <verse number="10" style="v" sid="2TI 1:10" />but has been made visible for everyone to see through the manifestation of our savior Christ Jesus, now
+        that he on the one hand abolished the death <char style="it">mankind was beset with </char>while he shined
+        <char style="it">here on Earth</char>, but on the other hand <char style="it">gave us </char>life and
+        immortality through the Gospel. <verse eid="2TI 1:10" />
+      <verse number="11" style="v" sid="2TI 1:11" />Towards that goal I have been given the positions of preacher, apostle (i.e., missionary), and teacher.<verse eid="2TI 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2TI 1:12" />That’s also the reason I suffer the things I suffer, but—no—I’m not ashamed <char style="it">of it</char>,
+        for I know whom I have believed in and am convinced that he’s capable of guarding what I’ve been entrusted
+        with until that day <char style="it">arrives</char>.<verse eid="2TI 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TI 1:13" />Keep a <char style="it">mental</char> picture<char style="sup">[e]</char> of wholesome words which you
+        heard from me in <char style="it">the </char>faith and love which is in Christ Jesus. <verse eid="2TI 1:13" />
+      <verse number="14" style="v" sid="2TI 1:14" />Guard the <char style="it">good</char> thing which has been entrusted <char style="it">to you</char>
+        through <char style="it">the </char>Holy Spirit who resides in us.<verse eid="2TI 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2TI 1:15" />Know this to be a fact: everyone in <char style="it">the Roman province of </char>Asia (included among
+        them are Phygelus and Hermogenes) have rejected me. <verse eid="2TI 1:15" />
+      <verse number="16" style="v" sid="2TI 1:16" />May the Lord shower his mercy and goodness on Onesiphorus and his entire family<char style="sup">[A]</char>,
+        because he rejuvenated me many a time and wasn’t ashamed of me being chained up in prison— <verse eid="2TI 1:16" />
+      <verse number="17" style="v" sid="2TI 1:17" />uh-uh—he quickly showed up in Rome, went looking for me, and found me. <verse eid="2TI 1:17" />
+      <verse number="18" style="v" sid="2TI 1:18" />May the Lord grant that he find mercy from the Lord on that day—And he helped out in so many ways in
+        Ephesus, as you are keenly aware of.<verse eid="2TI 1:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">son</char>…Or: <char style="it">child</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">a deep, intense, overriding attitude</char>…Lit: <char style="it">a spirit</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">us telling others in a serious manner what the truth is about</char>…Lit: <char style="it">the
+        testimony of</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">time immemorial</char>…Lit<char style="it">: eternal times</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">Keep a mental picture</char>…Lit: <char style="it">Have</char> [or <char style="it">keep</char>]
+        <char style="it">a sketch</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Onesiphorus and his entire family</char>…Lit: <char style="it">the household of Onesiphorus</char>.
+        This is everyone who lives in his home: wife, children, domestic servants (maybe even slaves), and perhaps
+        relatives who live with him out of necessity.</char>
+    </note>
+  <chapter eid="2TI 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2TI 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TI 2:1" />So you, my son, empower yourself by the grace which is in Christ Jesus, <verse eid="2TI 2:1" />
+      <verse number="2" style="v" sid="2TI 2:2" />and what you heard from me throughout the many<char style="it"> times</char> I solemnly declared <char
+        style="it">them to you</char>, entrust these things to people who are faithful, ones in particular who
+        will become competent to teach others too.<verse eid="2TI 2:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2TI 2:3" />Participate in the evil-generated sufferings as a fine soldier of Christ Jesus’s <char style="it">army.
+        </char><verse eid="2TI 2:3" />
+      <verse number="4" style="v" sid="2TI 2:4" />No one who serves in the military is bogged down<char style="sup">[a]</char> in the everyday affairs
+        of life, <char style="it">and he does this </char>so that he pleases the one who enlisted him. <verse eid="2TI 2:4" />
+      <verse number="5" style="v" sid="2TI 2:5" />But if a given person were to compete <char style="it">in a sporting event</char>, he won’t take first
+        place<char style="sup">[b]</char> unless he follows the rules when competing. <verse eid="2TI 2:5" />
+      <verse number="6" style="v" sid="2TI 2:6" />The hard-working farmer must be the first one to partake of what’s raised on the farm.<char style="sup">[A]</char><verse eid="2TI 2:6" />
+      <verse number="7" style="v" sid="2TI 2:7" />Think about what I’m saying; you see, the Lord will give you understanding in every respect.<verse eid="2TI 2:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2TI 2:8" />Remember—Jesus Christ was raised from the dead, was a direct-descendant of David, according to the message
+        of love and forgiveness I’m personally spreading<char style="sup">[c]</char>, <verse eid="2TI 2:8" />
+      <verse number="9" style="v" sid="2TI 2:9" />for which I suffer bad things to the point of being put in chains like a criminal—but no—the word of
+        God has not been bound <char style="it">in chains</char>. <verse eid="2TI 2:9" />
+      <verse number="10" style="v" sid="2TI 2:10" />Because of this I endure all these things for the sake of the chosen-ones (i.e., Christians), so that
+        these very same people would also obtain salvation of <char style="it">the type</char> which is in Christ
+        Jesus along with eternal glory.<verse eid="2TI 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2TI 2:11" />You can count on this passage<char style="sup">[d]</char> being true:
+    </para>
+    <para style="pi" vid="2TI 2:11"></para>
+    <para style="pi" vid="2TI 2:11">For if we died together, we shall also live together.<verse eid="2TI 2:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="2TI 2:12" />If we endure, we shall also reign together.
+    </para>
+    <para style="pi" vid="2TI 2:12">If we’re going to deny <char style="it">him</char>,</para>
+    <para style="pi" vid="2TI 2:12">That’s <char style="it">the</char> <char style="it">same person</char> who’ll deny us.<verse eid="2TI 2:12"/>
+    </para>
+    <para style="pi">
+      <verse number="13" style="v" sid="2TI 2:13" />If we refuse to believe <char style="it">in him,</char>
+    </para>
+    <para style="pi" vid="2TI 2:13">That’s <char style="it">the</char> <char style="it">same person</char> who’ll remain true to his word;</para>
+    <para style="pi" vid="2TI 2:13">He can’t deny himself, you see.<verse eid="2TI 2:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="14" style="v" sid="2TI 2:14" />Remind <char style="it">them of </char>these things while solemnly declaring <char style="it">them </char>before
+        God as the sworn truth; <char style="it">remind them</char> to not fight over words that serve no useful
+        purpose and at their core cause disarray to the listeners.<verse eid="2TI 2:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2TI 2:15" />Be fanatical about having God examine you and giving you His approval<char style="sup">[e]</char>, a
+        laborer who has nothing to be ashamed of, competently handling<char style="sup">[B]</char> the truth
+        of the word <char style="it">of God</char><char style="sup">[f]</char>. <verse eid="2TI 2:15" />
+      <verse number="16" style="v" sid="2TI 2:16" />But avoid the desecrated, profane kind of chattering; you see, when <char style="it">that sort of chatter</char>
+        proliferates, irreverence and ungodliness will make progress— <verse eid="2TI 2:16" />
+      <verse number="17" style="v" sid="2TI 2:17" />and their message will eat through you like gangrene, among whom are Hymenaeus and Philetus, <verse eid="2TI 2:17" />
+      <verse number="18" style="v" sid="2TI 2:18" />particular individuals who’ve veered off into a ditch with respect to the truth, saying that we’re already
+        living in the afterlife<char style="sup">[g]</char> and <char style="it">by saying this </char>subvert
+        some people’s faith. <verse eid="2TI 2:18" />
+      <verse number="19" style="v" sid="2TI 2:19" />Nevertheless, God’s firm foundation <char style="it">is left </char>standing <char style="it">intact</char>,
+        having this distinguishing identification mark: “The Lord knows those who are His,” and, “Let everyone
+        who names the name of the Lord (i.e., who acknowledges the greatness that the Lord is known to be) depart
+        from unrighteousness.”<verse eid="2TI 2:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="2TI 2:20" />Now in a large estate’s manor there are not just jars, pots, and vases <char style="it">made out </char>of
+        gold and silver but also <char style="it">jars, pots, and vases made out </char>of wood and clay, and
+        some made for honorable <char style="it">use</char> (i.e., decorative pieces, serving dishes, etc.) and
+        some for dishonorable <char style="it">use</char> (i.e., wash basins, chamber pots, etc.). <verse eid="2TI 2:20" />
+      <verse number="21" style="v" sid="2TI 2:21" />Now if someone were to purge these things<char style="it"> I’m writing about</char> from himself, he
+        will be a jar, pot, or vessel for honorable <char style="it">use</char>, reserved <char style="it">for
+        special use only</char>, quite useful for the master <char style="it">of the estate</char>, ready to
+        be used for something good on any special occasion<char style="sup">[C]</char>.<verse eid="2TI 2:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="2TI 2:22" />Now run away as fast as you can from strong desires (including sexual) characteristic of teenagers and
+        young adults; pursue righteousness, faith, love, peace, <char style="it">and the list goes on</char>
+        with those who call upon the Lord (i.e., invite the Lord into their lives) from a clean heart. <verse eid="2TI 2:22" />
+      <verse number="23" style="v" sid="2TI 2:23" />But avoid the stupid, foolish, uninformed, uneducated questions <char style="it">that circulate</char>,
+        knowing from firsthand experience that they generate strife. <verse eid="2TI 2:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="2TI 2:24" />Now the Lord’s servant mustn’t quarrel but instead <char style="it">should be</char> kind, teachable,
+        endure injuries, <verse eid="2TI 2:24" />
+      <verse number="25" style="v" sid="2TI 2:25" />schooling <char style="it">your</char> opponents in a gentleness rooted in self-restraint, if perchance
+        God grant them <char style="it">the grace </char>to change their minds resulting in <char style="it">them</char>
+        recognizing the truth, <verse eid="2TI 2:25" />
+      <verse number="26" style="v" sid="2TI 2:26" />and they come to their senses<char style="sup">[h]</char> <char style="it">and free</char> <char style="it">themselves
+        </char>from the devil’s trap, having had been captured alive and taken prisoner by him for the purpose
+        of <char style="it">doing </char>that<char style="it"> rascal’s</char> will.<verse eid="2TI 2:26" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">bogged down</char>…Lit: <char style="it">entangled</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">take first place</char>…Lit: <char style="it">be crowned</char>. Some liberties taken.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">the message of love and forgiveness I’m personally spreading</char>…Lit: <char style="it">my
+        Gospel</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">passage</char>…Lit: <char style="it">word</char>. <char style="it">Word</char> might
+        simply be a short for <char style="it">word of the Lord</char>, meaning that what follows is a message
+        of prophecy which was given to Paul.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">Be fanatical about having God examine you and giving you His approval</char>…Lit: <char
+        style="it">Be eager to present yourself approved by God</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">the truth of the word of God</char>…Lit: <char style="it">the word of the truth</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">we’re already living in the afterlife</char>…Lit: <char style="it">the resurrection
+        has already happened</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">come to their senses</char>…Lit: <char style="it">sober up</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">The hard-working farmer must be the first one to partake of what’s raised on the farm</char>…What
+        this means is that a person who teaches others what to do must be the foremost practitioner of what he
+        teaches.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">competently handling</char>…Lit: <char style="it">cutting a path or a road in a straight
+        direction</char>. Refers to the skill of a laborer. This together with the word <char style="it">laborer
+        </char>is a metaphor, comparing how skilled a laborer is with his tools to how skilled a teacher should
+        be with the word of God.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">ready to be used for something good on any special occasion</char>…Lit: <char style="it">prepared
+        unto all good work</char>. The Gk. word for <char style="it">good </char>is not the word <char style="it">kalos
+        </char>(καλῶς /Strong’s 2773)which Paul uses frequently in such cases, and, based on that, one expects
+        to use here, but the word <char style="it">agathos </char><char style="w" strong="G00018">ἀγαθός</char>)instead.
+        Agathos means that the nature of the function the pot is to be used for is good itself; hence, it refers
+        to a special occasion or the like.</char>
+    </note>
+  <chapter eid="2TI 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2TI 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TI 3:1" />Now understand this: in <char style="it">the </char>last days, difficult periods of time will come with
+        their difficult conditions. <verse eid="2TI 3:1" />
+      <verse number="2" style="v" sid="2TI 3:2" />In connection to this, the people <char style="it">during those periods</char> will be selfish; money-loving;
+        they’ll be braggarts; arrogant; they’ll be slanderous, blasphemous, bad-mouthing people; they’ll be disobedient
+        to <char style="it">their </char>parents; unforgiving, unkind, and ungrateful; they’ll have no piety
+        or religious devotion; <verse eid="2TI 3:2" />
+      <verse number="3" style="v" sid="2TI 3:3" />they won’t have the love one naturally has for family, for kin, for nation, etc.; they’ll be irreconcilable
+        and incapable of negotiating solutions to problems; <verse eid="2TI 3:3" />
+      <verse number="4" style="v" sid="2TI 3:4" />they’ll be traitors and will betray others; they’ll be rash, impulsive, and reckless; puffed up and conceited;
+        they’ll be pleasure-loving more than God-loving; <verse eid="2TI 3:4" />
+      <verse number="5" style="v" sid="2TI 3:5" />they’ll have an outward appearance of godliness but will have rejected <char style="it">godliness’s </char>power.
+        Go out of your way to avoid those <char style="it">sort of people</char>.<verse eid="2TI 3:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2TI 3:6" />Furthermore, included with these <char style="it">sort of people </char>are those who sneak into the
+        houses<char style="sup">[A]</char> <char style="it">of certain women</char> and utterly captivate<char
+        style="sup">[a]</char> silly women<char style="sup">[B]</char> who have a pile of sins <char style="it">a
+        mile high</char>, <char style="it">silly women who are</char> led<char style="sup">[b]</char> by various
+        intense and impulsive desires (including sexual desire), <verse eid="2TI 3:6" />
+      <verse number="7" style="v" sid="2TI 3:7" />always learning but never arriving at the recognition and precise understanding of the truth. <verse eid="2TI 3:7" />
+      <verse number="8" style="v" sid="2TI 3:8" />Now the manner in which Jannes and Jambres opposed Moses is the same way that these <char style="it">people
+        </char>oppose the truth, people of depraved minds, failing to make the grade where the Faith is concerned.<verse eid="2TI 3:8" />
+      <verse number="9" style="v" sid="2TI 3:9" />But never mind that—they won’t get very far; the fact is, their folly will be perfectly clear to everyone,
+        as <char style="it">the folly </char>of those guys <char style="it">Jannes and Jambres </char>also became
+        <char style="it">perfectly clear to everyone</char>.<verse eid="2TI 3:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2TI 3:10" />But you now—stick close to my doctrine, my way of life, my plan, my love, my perseverance, <verse eid="2TI 3:10" />
+      <verse number="11" style="v" sid="2TI 3:11" />to <char style="it">my</char> persecutions, <char style="it">my </char>sufferings, such as what happened
+        to me in Antioch, in Iconium, in Lystra—<char style="it">oh, </char>what persecutions I endured—and the
+        Lord rescued me from all of them. <verse eid="2TI 3:11" />
+      <verse number="12" style="v" sid="2TI 3:12" />Everyone who wants to live a life of godliness in Christ Jesus will be persecuted.<verse eid="2TI 3:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TI 3:13" />Evil people and charlatans will make progress for the worse, leading <char style="it">others </char>astray
+        and being led astray <char style="it">themselves</char>. <verse eid="2TI 3:13" />
+      <verse number="14" style="v" sid="2TI 3:14" />You, though, dwell in the things which you learned and came to trust, knowing whom you learned them from,<verse eid="2TI 3:14" />
+      <verse number="15" style="v" sid="2TI 3:15" />and that you have known<char style="sup">[c]</char> the sacred Scriptures from the time you were a wee
+        child, the things that have the power to make you wise in the ways of<char style="sup">[d]</char> salvation
+        (i.e., ways of preventing being overtaken by calamity) through <char style="it">the </char>faith which
+        is in Christ Jesus. <verse eid="2TI 3:15" />
+      <verse number="16" style="v" sid="2TI 3:16" />All <char style="it">of</char> Scripture has the breath of God (i.e., is inspired by God) and is useful
+        for teaching, for reproof or cross-examination, for improvement, for training in righteousness, <char
+        style="it">and the list goes on, </char><verse eid="2TI 3:16" />
+      <verse number="17" style="v" sid="2TI 3:17" />so that God’s man <char style="it">or woman</char> would be capable, proficient, and properly equipped
+        for the purpose <char style="it">of doing </char>any kind of good work imaginable.<verse eid="2TI 3:17" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">utterly captivate</char>…Lit: <char style="it">take captive as a prisoner of war</char>.
+        A metaphor.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">silly women who are led</char>…The noun for <char style="it">silly women </char>is neuter,
+        the participle <char style="it">led</char> is also neuter, like the participle for <char style="it">have
+        a pile of sins</char>; therefore the antecedent of <char style="it">led </char>is <char style="it">silly
+        women.</char> For that matter <char style="it">learning </char>in v. 7 is also neuter.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">have known</char>…Lit: <char style="it">know</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">in the ways of</char>…Lit: <char style="it">unto</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">sneak into the houses</char>…If one thinks about this more closely, the men described
+        here who sneak into these women’s homes must do so with the cooperation and consent of the women. In
+        other words, they cannot be burglars breaking into a house, as the door would be kept locked at night,
+        the woman would scream (Deut. 22:24, though these are Gentiles), the man of the house (and there certainly
+        would have been) would rescue her, etc. But the woman could find a time when nobody else was home, a
+        time for the man to enter the house for a romantic rendezvous, adulterous or just consensual. Naturally,
+        the man would have to be careful not to be seen entering the house, hence Paul’s use of the word <char
+        style="it">sneak</char>.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">silly women</char>…Lit: <char style="it">little women; </char>more precisely <char style="it">women-ettes</char>
+        [the diminutive form of the word <char style="it">women</char>]. This word only appears once in the NT,
+        and the lexicons provide little information about it, except to say that it’s pejorative. The fact that
+        it’s a diminutive leads one to speculate that it’s slang of a sort. The closest equivalent might be the
+        word <char style="it">bimbo, </char>though that might be too strong a word. We can only guess what the
+        exact meaning is.</char>
+    </note>
+  <chapter eid="2TI 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="2TI 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TI 4:1" />I’m telling you the truth—I solemnly charge you before God and before Christ Jesus, who’s going to judge
+        the living and the dead at his appearance, and is going to reign as king: <verse eid="2TI 4:1" />
+      <verse number="2" style="v" sid="2TI 4:2" />preach the word <char style="it">of God</char>: stay on top of it when the conditions are favorable and
+        when they’re not<char style="sup">[a]</char>; correct <char style="it">false doctrine and sinful behavior</char>;
+        chide, admonish, and rebuke; exhort, encourage, and entreat; <char style="it">do these things</char>
+        with the utmost perseverance and with every possible explanation.<verse eid="2TI 4:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2TI 4:3" />In fact a time will come when the conditions are such that they won’t tolerate sound doctrine, but will
+        accumulate teachers who’ll tickle<char style="sup">[b]</char> their ears in line with their own strong
+        desires instead. <verse eid="2TI 4:3" />
+      <verse number="4" style="v" sid="2TI 4:4" /><char style="it">Those teachers</char> will turn the listeners from the truth and turn them to fables
+        in their place. <verse eid="2TI 4:4" />
+      <verse number="5" style="v" sid="2TI 4:5" />But keep a clear head<char style="sup">[c]</char> in every way, endure infliction perpetrated against
+        you, do the job of an evangelist, get the maximum amount out of<char style="sup">[d]</char> your ministry.<verse eid="2TI 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2TI 4:6" />The fact of the matter is that I’m already being poured out <char style="it">like a libation poured out
+        on the ground; </char>and the time for me to be set free in death is bearing down on me. <verse eid="2TI 4:6" />
+      <verse number="7" style="v" sid="2TI 4:7" />I have fought the good fight, I have finished my race, I have kept the Faith. <verse eid="2TI 4:7" />
+      <verse number="8" style="v" sid="2TI 4:8" />What remains <char style="it">for me </char>is that the trophy<char style="sup">[e]</char> of righteousness
+        has been placed before me, which the Lord will give me when that day arrives<char style="sup">[f]</char>,
+        the just judge—not only <char style="it">will he give this crown </char>to me but also to everyone who
+        has come to love his making an appearance.<verse eid="2TI 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="2TI 4:9" />Try as hard as you can to visit me as soon as possible. <verse eid="2TI 4:9" />
+      <verse number="10" style="v" sid="2TI 4:10" />Demas, you see, has deserted me, <char style="it">since he</char> loved the present age (i.e., loved
+        how life can be lived in the world as it exists in the times we live in) <char style="it">more</char>,
+        and went to Thessalonica; Crescans <char style="it">went </char>to Galatia, Titus to Dalmatia. <verse eid="2TI 4:10" />
+      <verse number="11" style="v" sid="2TI 4:11" />Only Luke is still here with me.<char style="sup">[A]</char>
+    </para>
+    <para style="p" vid="2TI 4:11">Pick up Mark and take him with you, since he’s useful for being an assistant to <char style="it">me</char>.<verse eid="2TI 4:11"/>
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2TI 4:12" />I sent Tychicus to Ephesus.<verse eid="2TI 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TI 4:13" />That jacket<char style="sup">[g]</char> I left in Troas—bring it with you when you come—and the scrolls,
+        especially<char style="it"> </char>the ones which are parchments.<verse eid="2TI 4:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2TI 4:14" />Alexander the coppersmith did really bad things to me; the Lord will repay him in line with the things
+        he’s done.<char style="sup">[B]</char> <verse eid="2TI 4:14" />
+      <verse number="15" style="v" sid="2TI 4:15" />And speaking of him, you should be on the lookout and protect yourself from him; he tremendously opposed
+        what we have to say<char style="sup">[h]</char>. <verse eid="2TI 4:15" />
+      <verse number="16" style="v" sid="2TI 4:16" />During the first defense <char style="it">phase of </char>my<char style="it"> trial</char>, no one showed
+        up and stood by me; everyone abandoned me instead. May it not be counted against them. <verse eid="2TI 4:16" />
+      <verse number="17" style="v" sid="2TI 4:17" />But the Lord stood by me and put power in me, so that, because of me, the preaching <char style="it">of
+        the word </char>would reach its maximum extent<char style="sup">[d]</char> and all the Gentiles would
+        hear <char style="it">the Gospel</char> and <char style="it">hear that </char>he snatched me<char style="sup">[i]</char>
+        out of <char style="it">the</char> lion’s mouth. <verse eid="2TI 4:17" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="18" style="v" sid="2TI 4:18" />The Lord will rescue me
+    </para>
+    <para style="pi" vid="2TI 4:18">From all the things the evil one does<char style="sup">[j]</char></para>
+    <para style="pi" vid="2TI 4:18">And <char style="it">keep</char> rescuing me</para>
+    <para style="pi" vid="2TI 4:18">Until <char style="it">I make it to</char> His kingdom in heaven<char style="sup">[k]</char>.</para>
+    <para style="pi" vid="2TI 4:18">To Him be the glory forever and ever.</para>
+    <para style="pi" vid="2TI 4:18">Amen (i.e., let it be so).<verse eid="2TI 4:18"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="19" style="v" sid="2TI 4:19" />Greet Priscilla and Aquila and <char style="it">everyone who lives </char>in Onesiphorus’s house.<verse eid="2TI 4:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="2TI 4:20" />Erastus stayed <char style="it">behind </char>in Corinth, and Trophimus was left behind<char style="it">
+        </char>in Miletus, <char style="it">as he was </char>ill and couldn’t continue<char style="sup">[l]</char>.<verse eid="2TI 4:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="2TI 4:21" />Eubulus says hello to you, and so does Pudens, Linus, Claudia and all the comrades<char style="sup">[m]</char>.<verse eid="2TI 4:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="2TI 4:22" /><char style="it">May </char>the Lord <char style="it">be </char>with your spirit. <char style="it">May
+        the </char>grace <char style="it">of the Lord </char>be with you all.<verse eid="2TI 4:22" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">when the conditions are favorable and when they’re not</char>…Lit: <char style="it">in
+        season and out of season</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">tickle</char>…Or: <char style="it">scratch the itch of</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">keep a clear head</char>…Lit: <char style="it">be sober</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">get the maximum amount out of</char>…<char style="it">reach its maximum extent</char>…Lit:
+        <char style="it">fulfill</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">trophy</char>…Lit: <char style="it">crown</char>. Some liberties taken.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">when that day arrives</char>…Lit: <char style="it">on that day</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">jacket</char>…Lit: <char style="it">cloak</char>. Some liberties taken.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">what we have to say</char>…Lit: <char style="it">our words</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">snatched me</char>…Lit: <char style="it">saved</char> [<char style="it">rescued</char>]
+        <char style="it">me</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">from all the things the evil one does</char>…Lit: <char style="it">from the works of
+        the evil one</char></char>
+      <char style="fp"></char>
+      <char style="ft"><char style="it">save unto his kingdom in heaven</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">keep rescuing me until I make it to His kingdom in heaven</char>…Lit: <char style="it">save
+        unto his kingdom</char>. The literal is poetic and is worded like something from the OT.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">ill and couldn’t continue</char>…Lit: <char style="it">weak</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers and sisters</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Only Luke is still here with me</char>…Speculation entirely, but this supports the theory
+        that Luke was formerly a slave of Theophilus but assigned by him to be Paul’s servant. This is the reason
+        he was still with Paul.</char>
+    </note>
+  <chapter eid="2TI 4" />
+</usx>

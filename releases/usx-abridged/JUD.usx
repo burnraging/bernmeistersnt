@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="JUD" style="id">The Bernmeister's NT</book>
+  <para style="h">Jude</para>
+  <para style="toc1">The Epistle of Jude</para>
+  <para style="toc2">Jude</para>
+  <para style="toc3">Jude</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">JUDE</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="JUD 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="JUD 1:1" />Jude, the servant of Jesus Christ and the brother of James:
+    </para>
+    <para style="p" vid="JUD 1:1">To the beloved in the Father-God and in Jesus Christ, those who have been preserved as God’s elect:<verse eid="JUD 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="JUD 1:2" />Mercy, peace, and love to you many times over.<verse eid="JUD 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="JUD 1:3" />Beloved, I’ve got to write to you—and I’m writing as quickly as possible—about our mutual salvation,
+        to plead with you to contend this once for the holy faith that was delivered to you. <verse eid="JUD 1:3" />
+      <verse number="4" style="v" sid="JUD 1:4" />You see, certain people have infiltrated our community, all of whom have already been described in Scripture
+        as having the consequence of their actions result in judgment; ungodly men, transforming our God’s grace
+        into debauchery and denying the one master, our Lord Jesus Christ.<verse eid="JUD 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JUD 1:5" />Now I wish to remind you…A long time ago, as you’re well-aware, the Lord rescued a people from Egypt—the
+        second time they fell into a crisis, He wiped out those who refused to have faith and believe; <verse eid="JUD 1:5" />
+      <verse number="6" style="v" sid="JUD 1:6" />not only that but He’s imprisoned angels who didn’t stick to the domain which was their right to exercise
+        authority over but instead abandoned their habitat, which resulted in a verdict being delivered against
+        them when the scores were settled, leading to everlasting bonds and being oppressed by gloom. <verse eid="JUD 1:6" />
+      <verse number="7" style="v" sid="JUD 1:7" />Like Sodom and Gomorrah and those in the surrounding cities, they were put on exhibit as an example of
+        undergoing the punishment of eternal fire for having committed gross acts of sexual immorality in having
+        pursued having sex with a different kind of physical body than their own the same way those other guys
+        (those angels) did. <verse eid="JUD 1:7" />
+      <verse number="8" style="v" sid="JUD 1:8" />Nevertheless—sure—those people who also dream about having sex with different kinds of physical bodies
+        defile themselves, but on top of that they also reject things pertaining to authority structures, and
+        yet on top of that bad-mouth the sacrosanct.<verse eid="JUD 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="JUD 1:9" />Now when the archangel Michael was in the middle of an argument with the devil over Moses’s body, he
+        didn’t dare rain an invective judgment down on him, but instead said, “May you be rebuked by the Lord!”<verse eid="JUD 1:9" />
+      <verse number="10" style="v" sid="JUD 1:10" />Now those people indeed bad-mouth things which they have no direct knowledge of, those whose understanding
+        has a nature like ridiculous creatures; they’re being destroyed in these matters by their decadence.<verse eid="JUD 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JUD 1:11" />Woe to them because they’ve followed the same trajectory as Cain; and by following in the deception of
+        Balaam, Balaam’s reward has been poured out on them; and by analogy in the ridiculousness of Korah’s
+        rebellion, they were destroyed.<verse eid="JUD 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JUD 1:12" />These are the ones who are stains in your love-feasts, irreverently joining you in festive merry-making—self-guided,
+        self-directed; moisture-less clouds that get driven past by the wind; trees which yield nothing at harvest-season,
+        absolutely and completely dead and uprooted; <verse eid="JUD 1:12" />
+      <verse number="13" style="v" sid="JUD 1:13" />savage ocean waves, their shame causing the foam that waves naturally generate; wandering stars for whom
+        the gloom of darkness has been forevermore reserved.<verse eid="JUD 1:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="JUD 1:14" />Now Enoch, the seventh generation from Adam, prophesied about them, saying:
+    </para>
+    <para style="p" vid="JUD 1:14">“Look at this now—the Lord came with his holy myriads <verse eid="JUD 1:14"/>
+      <verse number="15" style="v" sid="JUD 1:15" />to enact judgment against everyone and convict every living being in regard to all their ungodly works
+        which they did in an ungodly way and about all the harsh things which ungodly sinners spoke against Him.”<verse eid="JUD 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JUD 1:16" />Those guys are grumblers, fault-finders, going here and there following their intense, personal desires,
+        and their mouths speak condescendingly, flattering others in order to gain favors.<verse eid="JUD 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="JUD 1:17" />Now you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ, <verse eid="JUD 1:17" />
+      <verse number="18" style="v" sid="JUD 1:18" />that they kept on telling us, “At a critical juncture in time, from among the ungodly there will be mockers
+        going around following their intense, personal desires.” <verse eid="JUD 1:18" />
+      <verse number="19" style="v" sid="JUD 1:19" />These are the ones who cause division; they are naturally-minded and dominated by the mental facilities,
+        not possessing the Spirit.<verse eid="JUD 1:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="JUD 1:20" />But you, beloved, edifying yourselves—building yourselves up—in your most holy faith, praying in the
+        Holy Spirit, <verse eid="JUD 1:20" />
+      <verse number="21" style="v" sid="JUD 1:21" />keep yourself in the love of God while awaiting the mercy of our Lord Jesus Christ resulting in that
+        special fullness of life, eternal life.<verse eid="JUD 1:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="JUD 1:22" />On the one hand, have mercy on some, namely those who are in doubt, <verse eid="JUD 1:22" />
+      <verse number="23" style="v" sid="JUD 1:23" />but on the other hand, grab some others and jerk them out of the fire. Now have mercy on these people
+        reverently and with trepidation, hating even the shirt dirtied by the flesh.<verse eid="JUD 1:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="JUD 1:24" />Now to the One who’s able to guard over you keeping you from falling prey to temptation or making a mistake
+        and to present you before His glory without blemish with exultation, <verse eid="JUD 1:24" />
+      <verse number="25" style="v" sid="JUD 1:25" />to our One Savior-God who saves through Jesus Christ our Lord be glory, majesty, power, and authority
+        in the forefront of the entire age, in the present moment, and extending to all the ages to come. Amen
+        (i.e., and with that I rest my case).<verse eid="JUD 1:25" />
+    </para>
+  <chapter eid="JUD 1" />
+</usx>

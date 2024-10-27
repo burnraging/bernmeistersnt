@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="PHM" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Philemon</para>
+  <para style="toc1">The Epistle of Philemon</para>
+  <para style="toc2">Philemon</para>
+  <para style="toc3">Philem.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">PHILEMON</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">When Paul sat down to write this letter to Philemon, he was not conscious of the fact that he was adding
+    another book to the Bible; he simply sat down to write a letter—a spontaneous one, not a thought-out
+    treatise like some of his other letters—on behalf of a runaway slave of Philemon’s named Onesimus, whom
+    Paul wants the help of in his ministry. Though unintentional, this letter captures the message of the
+    Gospel in a true story.</para>
+  <para style="ipi">If one views the Bible from a literary perspective, this short story is one of the best fragments of
+    literature found in the Bible, one that should be read and enjoyed like any other great work of literature.</para>
+  <para style="ipi">This story flows fluidly from Greek into English, guided by the feelings it carries.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="PHM 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHM 1:1" />Paul, a slave of Christ Jesus, and Comrade<char style="sup">[a]</char> Timothy:
+    </para>
+    <para style="p" vid="PHM 1:1">To Philemon, our dear fellow worker, <verse eid="PHM 1:1"/>
+      <verse number="2" style="v" sid="PHM 1:2" />to Apphia our female comrade, to Archippus our fellow soldier, and to the church that meets in your house<char
+        style="sup">[A]</char>.<verse eid="PHM 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="PHM 1:3" />Grace <char style="it">be </char>to you and peace from our Father God and <char style="it">the </char>Lord
+        Jesus Christ.<verse eid="PHM 1:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="PHM 1:4" />I’m always thanking my God <char style="it">as I </char>bring you up in prayer<char style="sup">[b]</char>,<verse eid="PHM 1:4" />
+      <verse number="5" style="v" sid="PHM 1:5" />hearing about your love and faith which you have towards the Lord Jesus and for all the saints (i.e.,
+        those who are believers), <verse eid="PHM 1:5" />
+      <verse number="6" style="v" sid="PHM 1:6" />to the ends that the sharing and participation of your faith—a sharing and participation which is in
+        operation—should manifest itself in a recognition and better understanding of all <char style="it">the
+        </char>good which is in you<char style="sup">[c]</char> with Christ as the goal. <verse eid="PHM 1:6" />
+      <verse number="7" style="v" sid="PHM 1:7" />In fact, I got a lot of joy and encouragement out of<char style="sup">[d]</char> your love, because the
+        saints have been refreshed deep down on the inside because of you, comrade.<verse eid="PHM 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="PHM 1:8" />With this in mind, I have the audacity<char style="sup">[e]</char> in Christ to order you to do your
+        duty by doing what’s right— <verse eid="PHM 1:8" />
+      <verse number="9" style="v" sid="PHM 1:9" />Through the love <char style="it">of God </char>I appeal to you all the more<char style="it"> </char>in
+        such a personage as <char style="it">an </char>old man <char style="it">named</char> Paul <char style="it">who
+        </char>is<char style="it"> </char>also now but a slave of Christ Jesus— <verse eid="PHM 1:9" />
+      <verse number="10" style="v" sid="PHM 1:10" />I appeal to you concerning my son<char style="sup">[f]</char>, who was born into slavery as Onesimus,<verse eid="PHM 1:10" />
+      <verse number="11" style="v" sid="PHM 1:11" />who used to be of no use to you but is quite useful to me at this time, <verse eid="PHM 1:11" />
+      <verse number="12" style="v" sid="PHM 1:12" />who is the same person I sent back to you (in other words<char style="sup">[g]</char>, <char style="it">I’m
+        talking about </char>those things which are nearest and dearest to my heart), <verse eid="PHM 1:12" />
+      <verse number="13" style="v" sid="PHM 1:13" />whom I was planning on retaining for myself so that he could serve me under your sponsorship<char style="sup">[h]</char>
+        while I’m imprisoned because of the Gospel<char style="sup">[i]</char>.<verse eid="PHM 1:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="PHM 1:14" />I didn’t want to do anything without your consent, so that your <char style="it">act of</char> goodness
+        <char style="it">will not have been granted</char> as though you had no choice<char style="sup">[j]</char>
+        but because you authorized it. <verse eid="PHM 1:14" />
+      <verse number="15" style="v" sid="PHM 1:15" />Because of this, in fact, without delay he was sent away <char style="it">from me</char> for a short
+        period of time so that you would send him away from you forever, <verse eid="PHM 1:15" />
+      <verse number="16" style="v" sid="PHM 1:16" /><char style="it">sending him away </char>as <char style="it">someone who’s </char>no longer a slave but
+        <char style="it">sending him away </char>for the benefit of <char style="it">someone who is</char> a
+        slave, dear comrade, especially for my <char style="it">benefit, </char>but how much more <char style="it">for
+        your benefit </char>both in the flesh (i.e., from a natural perspective) and in <char style="it">the</char>
+        Lord?<verse eid="PHM 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="PHM 1:17" />So if you’re all in with me<char style="sup">[k]</char>, welcome him <char style="it">and treat him </char>as
+        you would me. <verse eid="PHM 1:17" />
+      <verse number="18" style="v" sid="PHM 1:18" />If he did something wrong to you or owes <char style="it">you any money</char>, put it on my tab. <verse eid="PHM 1:18" />
+      <verse number="19" style="v" sid="PHM 1:19" />I Paul personally wrote this in my own handwriting <char style="it">so you’ll be assured that this letter
+        is genuinely from me</char><char style="sup">[B]</char>: I’ll pay <char style="it">you </char>back whatever
+        he owes—But don’t get me going about how<char style="sup">[l]</char> you owe me your very life<char style="sup">[m]</char>.<verse eid="PHM 1:19" />
+      <verse number="20" style="v" sid="PHM 1:20" />Yes, comrade, do me this favor<char style="sup">[n]</char> in <char style="it">the </char>Lord: In Christ
+        bring to rest what is churning deep inside my heart.<verse eid="PHM 1:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="PHM 1:21" />I wrote <char style="it">to you </char>convinced of your obedience, having come to know firsthand that
+        you will even do for me what I tell you. <verse eid="PHM 1:21" />
+      <verse number="22" style="v" sid="PHM 1:22" />But at the same time, prepare a guest room for me; you see, I’m also hoping that I’ll be the beneficiary
+        of your generosity <char style="it">in you allowing me to stay with you </char>on account of your <char
+        style="it">many </char>requests <char style="it">to have me over</char><char style="sup">[o]</char>.<verse eid="PHM 1:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="PHM 1:23" />Epaphras, my fellow prisoner in Christ Jesus, says hello, <verse eid="PHM 1:23" />
+      <verse number="24" style="v" sid="PHM 1:24" />along with my coworkers Mark, Aristarchus, Demas, and Luke.<verse eid="PHM 1:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="PHM 1:25" />The grace of the Lord Jesus Christ <char style="it">be </char>with you all’s spirit.<verse eid="PHM 1:25" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">bring you up in prayer</char>…Lit: <char style="it">make a remembrance of you at my
+        prayers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">you</char>…Or: <char style="it">us</char>. The manuscripts disagree as to which is correct.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">out of</char>…Lit: <char style="it">at</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">the audacity</char>…Also: <char style="it">much confidence</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">son</char>…Also: <char style="it">child</char>. Has a dual meaning. First, it’s the
+        closeness Paul had to him, as he used the same word with Timothy. But based on the context, it’s similar
+        to the word <char style="it">boys </char>used in John 21:5 (ref. note there).</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">in other words</char>…Lit: <char style="it">which is to say</char>. This phrase also
+        appears in Matt. 26:46; Mark 7:2; Acts 1:19; Heb. 9:11,10:20.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">under your sponsorship</char>…Lit: <char style="it">on your behalf</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">while I’m imprisoned because of the Gospel</char>…Lit<char style="it">: in the bonds
+        of the Gospel</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">as though you had no choice</char>…Lit: <char style="it">as according to necessity</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">if you’re all in with me</char>…Lit<char style="it">: if you have commonality with me</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">But don’t get me going about how</char>…Also: <char style="it">not to mention that</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">your very life</char>…Lit: <char style="it">yourself</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">do me this favor</char>…Lit: <char style="it">let me have the pleasure of you</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">requests to have me over</char>…Or: <char style="it">prayers </char>[<char style="it">to
+        God</char>]<char style="it">. </char>I’m uncertain about this.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the church that meets in your house</char>…Embedded in this quotation is the Gk. phrase
+        <char style="it">kat’ oikon </char>[κατ&apos; οἶκόν, (κατ&apos;/Strong’s 2596), (οἶκόν/Strong’s3624)],
+        which means <char style="it">according to house</char>. This same phrase is found in Acts 2:46, where’s
+        it’s used to describe the disciples meeting from house to house. Here in v. 2 it may imply that Archipus’s
+        church was one of many that met from house to house.</char>
+    </note>
+  <chapter eid="PHM 1" />
+</usx>

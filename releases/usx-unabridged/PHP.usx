@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="PHP" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Philippians</para>
+  <para style="toc1">The Epistle of Philippians</para>
+  <para style="toc2">Philippians</para>
+  <para style="toc3">Phil.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">PHILIPPIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">The church at Philippi is introduced in Acts 16, where Paul is diverted to Macedonia, where Philippi
+    is, by an angel which told him, “Cut across the Aegean Sea to Macedonia and help us out.” Shortly after,
+    he meets women in Philippi who gathered outside the city by the river, and these women were the basis
+    for the church at Philippi. In fact, of the names mentioned in this letter to the Philippians, only women
+    are found. Scholars speculate whether this church consisted entirely of women at the time Paul wrote
+    this epistle.</para>
+  <para style="ipi">By the tone and content of the letter, the church in Philippi is one of the stronger, more spiritual
+    churches that Paul founded. Because of this, it’s fitting that they be all women, since the low-profile
+    dedication of women such as these has carried Christianity—even before that, going back to Jesus’s ministry—since
+    the beginning, an oft overlooked and seldom noted cause for the strength, vigor, and propagation of Christianity
+    through the millennia.</para>
+  <para style="ipi">The letter to this spiritual church contains few rebukes, few corrections concerning doctrine, and is
+    salted with Paul’s tender affections. The lack of quotations from the OT indicates that those whom the
+    letter was addressed to had no affiliation with Judaism, no knowledge of the OT. They were Gentiles through
+    and through.</para>
+  <para style="ipi">The GT is smooth, easily converted into another language, but draws on a deep vocabulary.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="PHP 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 1:1" /><char style="it">From </char>Paul and Timothy, slaves of Christ Jesus,
+    </para>
+    <para style="p" vid="PHP 1:1">To all the saints (i.e., believers) in Christ Jesus who live in Philippi together with <char style="it">the
+        </char>bishops (i.e., head pastors; overseers) and deacons (i.e., assistant pastors; assistants entrusted
+        with significant responsibilities; heads of ministry departments):<verse eid="PHP 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 1:2" />Grace to you and peace from God our Father and <char style="it">the </char>Lord Jesus Christ.<verse eid="PHP 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="PHP 1:3" />I give thanks to my God every time I think about you while reminiscing, <verse eid="PHP 1:3" />
+      <verse number="4" style="v" sid="PHP 1:4" />always making every one of my requests put into prayer for you all with joy, <verse eid="PHP 1:4" />
+      <verse number="5" style="v" sid="PHP 1:5" /><char style="it">and I give thanks </char>for your working closely <char style="it">with me</char> in
+        <char style="it">the</char> <char style="it">spreading of </char>the Gospel (i.e., the good-news message
+        of Christ) from the first day until the present. <verse eid="PHP 1:5" />
+      <verse number="6" style="v" sid="PHP 1:6" />I’ve reached the point where I’m convinced of this very thing, that He who began a good work in you will
+        complete it, <char style="it">working towards that ends</char> until <char style="it">the </char>day
+        of Christ Jesus, <verse eid="PHP 1:6" />
+      <verse number="7" style="v" sid="PHP 1:7" />just as it’s right for me to be thinking about all of you this way, on account of me having you both
+        in my heart and in my chains and in the verbal defense and confirmation of the certainty of the Gospel—you
+        all being my fellow-workers of <char style="it">this </char>grace.<verse eid="PHP 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="PHP 1:8" />In this regard, God is my witness to the fact that I long for all you with the deep, inner affections
+        of Christ Jesus. <verse eid="PHP 1:8" />
+      <verse number="9" style="v" sid="PHP 1:9" />And I pray this, that your love would proliferate even more and more in recognition, in more precise
+        knowledge, and in every <char style="it">sort of</char> insight gained from perception, <verse eid="PHP 1:9" />
+      <verse number="10" style="v" sid="PHP 1:10" />resulting in your continual testing and approving of those things which excel, so that you would be sincere
+        and won’t get tripped up <char style="it">and would maintain this </char>to <char style="it">the </char>day
+        of Christ, <verse eid="PHP 1:10" />
+      <verse number="11" style="v" sid="PHP 1:11" />having reached the point where you’ve been filled from the byproduct<char style="sup">[a]</char> of righteousness
+        which <char style="it">is </char>through Jesus Christ to <char style="it">the</char> glory and praise
+        of God.<verse eid="PHP 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 1:12" />I want you to know, comrades<char style="sup">[b]</char>, that the situation I find myself in has further
+        advanced the Gospel, <verse eid="PHP 1:12" />
+      <verse number="13" style="v" sid="PHP 1:13" />in that an awareness and understanding of my bonds in Christ has been made known among the entire palace
+        guard detachment and among everyone else, <verse eid="PHP 1:13" />
+      <verse number="14" style="v" sid="PHP 1:14" />and many of the comrades in <char style="it">the </char>Lord, urged on by my bonds, are much more daring
+        about <char style="it">going around </char>speaking the word <char style="it">of God </char>without fear.<verse eid="PHP 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="PHP 1:15" />While <char style="it">it’s true that</char> some preach Christ because <char style="it">they’re motivated
+        by</char> jealousy and strife, on the other hand some <char style="it">are motivated </char>by good intentions.<verse eid="PHP 1:15" />
+      <verse number="16" style="v" sid="PHP 1:16" />While they who <char style="it">spread the Gospel </char>out of love know for a fact that I’ve been appointed
+        to give a verbal defense of the Gospel, <verse eid="PHP 1:16" />
+      <verse number="17" style="v" sid="PHP 1:17" />on the other hand they who proclaim Christ<char style="it"> </char>out of ambition and not with sincerity
+        expect to stir up vexation <char style="it">for me </char>while I’m in jail<char style="sup">[c]</char>.<verse eid="PHP 1:17" />
+      <verse number="18" style="v" sid="PHP 1:18" />So what?—except <char style="it">for this</char>: that Christ is proclaimed in all respects, whether
+        with ulterior motives or with no hidden agenda<char style="sup">[d]</char>, and in this I rejoice—and
+        <char style="it">indeed </char>I will rejoice, <verse eid="PHP 1:18" />
+      <verse number="19" style="v" sid="PHP 1:19" />for I know for a fact that this will result in deliverance for me through your prayer and the support
+        of the Spirit of Christ Jesus, <verse eid="PHP 1:19" />
+      <verse number="20" style="v" sid="PHP 1:20" />in line with my eager expectation and hope that I won’t be embarrassed or humiliated in any way, but
+        rather with every <char style="it">sort of</char> frankness, forthrightness, and openness <char style="it">imaginable</char>
+        Christ will be magnified now—as always—in my body, whether through life or through death.<verse eid="PHP 1:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="PHP 1:21" />You see, the way I see it<char style="sup">[e]</char>, to live <char style="it">is </char>Christ and
+        to die is gain (i.e., is advantageous; is a desirable option). <verse eid="PHP 1:21" />
+      <verse number="22" style="v" sid="PHP 1:22" />If I live on in <char style="it">the</char> flesh, this <char style="it">will yield </char>tangible results
+        from <char style="it">my </char>work<char style="sup">[f]</char>. And what will I choose?—I can’t tell;<verse eid="PHP 1:22" />
+      <verse number="23" style="v" sid="PHP 1:23" />I’m caught between the two, having the desire to be set free again<char style="it"> </char>and to be
+        together with Christ, for <char style="it">this is </char>much, much better<char style="sup">[g]</char>.<verse eid="PHP 1:23" />
+      <verse number="24" style="v" sid="PHP 1:24" />But to remain in the flesh is more necessary for your sakes. <verse eid="PHP 1:24" />
+      <verse number="25" style="v" sid="PHP 1:25" />And convinced of this I know that I will remain <char style="it">here on Earth</char> and stay by your
+        side—with all of you—for your progress and for <char style="it">the </char>joy <char style="it">which
+        comes </char>from faith, <verse eid="PHP 1:25" />
+      <verse number="26" style="v" sid="PHP 1:26" />so that your grounds for speaking proudly would proliferate in Christ Jesus by my doing, on account of
+        me visiting you again.<verse eid="PHP 1:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="PHP 1:27" />Only let your life in society be worthy of the Gospel of Christ, so that, whether I come and see you
+        or am away, I hear what you’re up to, that you stand <char style="it">together</char> in one spirit<char
+        style="sup">[h]</char>, one soul, joined together by the Faith of the Gospel <verse eid="PHP 1:27" />
+      <verse number="28" style="v" sid="PHP 1:28" />and are not frightened and intimidated by anything <char style="it">done </char>by <char style="it">your</char>
+        adversaries, which in particular is indicative of their ruin, but of your salvation (i.e., your being
+        kept from ruin); and this <char style="it">intimidation-ruin-salvation pattern is</char> from God, <verse eid="PHP 1:28" />
+      <verse number="29" style="v" sid="PHP 1:29" />since the thing given—undeservedly so<char style="sup">[i]</char>—to you on Christ’s behalf is to not
+        only to believe in him but to suffer on his behalf, <verse eid="PHP 1:29" />
+      <verse number="30" style="v" sid="PHP 1:30" />having the same anguish and conflict <char style="it">as he did</char>, the very thing you saw <char
+        style="it">happening </char>to and in me and now hear reports <char style="it">are happening </char>to
+        and in me.<verse eid="PHP 1:30" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">byproduct</char>…Lit: <char style="it">fruit</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">stir up vexation for me while I’m in jail</char>…Lit: <char style="it">raise distress
+        in my bonds</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">with no hidden agenda</char>…Lit: <char style="it">in</char> [<char style="it">the</char>]
+        <char style="it">truth</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">the way I see it</char>…Lit: <char style="it">to me</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">this will yield tangible results from my work</char>…Lit<char style="it">: this in</char>
+        [or <char style="it">by</char>] <char style="it">me fruit of work</char>. Paul didn’t word this clearly.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">much, much better</char>…Lit: <char style="it">much more better</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">spirit</char>…Or: [<char style="it">Holy</char>] <char style="it">Spirit</char>. The
+        GT is ambiguous. One should not exclude the possibility that it means both.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">given—undeservedly so</char>…The Gk. word used for <char style="it">given </char>[<char
+        style="it">charidzomai,</char><char style="w" strong="G05483">χαρίζομαι</char>)] here is not what one
+        would expect. <char style="it">Charidzomai </char>also means <char style="it">to give</char>, but has
+        emphasizes the magnanimousness of the person doing the giving, and/or insinuating that the person receiving
+        the gift didn’t earn it.</char>
+    </note>
+  <chapter eid="PHP 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="PHP 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 2:1" />So now, if <char style="it">there’s</char> any comfort or exhortation in Christ, if any consolation offered
+        by love, if any commonality and fellowship of spirit<char style="sup">[a]</char>, if any deep, inner
+        affection— <verse eid="PHP 2:1" />
+      <verse number="2" style="v" sid="PHP 2:2" />you’ll make me overjoyed if you would adopt that way of thinking<char style="sup">[b]</char>, having
+        the same love, being harmonious and on the same page<char style="sup">[c]</char>, <verse eid="PHP 2:2" />
+      <verse number="3" style="v" sid="PHP 2:3" /><char style="it">with </char>no one motivated by ambition or by conceit but by humility instead, considering
+        each other to be better than yourselves, <verse eid="PHP 2:3" />
+      <verse number="4" style="v" sid="PHP 2:4" />not paying careful attention to your own affairs <char style="it">exclusively </char>but instead <char
+        style="it">paying careful attention </char>to each other’s affairs as well.<verse eid="PHP 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="PHP 2:5" />Maintain in you the way of thinking that was also in Christ Jesus, <verse eid="PHP 2:5" />
+      <verse number="6" style="v" sid="PHP 2:6" />who, while existing in <char style="it">the</char> form of God, didn’t think being equal to God was <char
+        style="it">a thing</char> <char style="it">that had to be </char>to be held onto with everything you’ve
+        got<char style="sup">[d]</char>, <verse eid="PHP 2:6" />
+      <verse number="7" style="v" sid="PHP 2:7" />but instead depleted himself and assumed the form of a slave, having turned into something similar to
+        humans, and, unveiled to the public<char style="sup">[e]</char> having the appearance of that of a human
+        being, <verse eid="PHP 2:7" />
+      <verse number="8" style="v" sid="PHP 2:8" />he humbled himself and became obedient until <char style="it">it reached a point where the obedience
+        required his </char>death, <char style="it">not just any-old death </char>but <char style="it">the </char>death
+        of <char style="it">crucifixion on</char> a cross. <verse eid="PHP 2:8" />
+      <verse number="9" style="v" sid="PHP 2:9" />And in light of this, God<char style="sup">[A]</char> exalted him (i.e., promoted him to a high position)
+        and <char style="it">out of His generosity </char>gave<char style="sup">[B]</char> him the name which
+        is above all names (i.e., gave him the ultimate top rank, outranking every other rank), <verse eid="PHP 2:9" />
+      <verse number="10" style="v" sid="PHP 2:10" />so that in the name of Jesus (i.e. when Jesus’s authority is invoked) every knee would bow of <char style="it">the
+        things in the</char> heavens (i.e., in heaven; in the spiritual domain) and of <char style="it">the things</char>
+        on the Earth and of <char style="it">the things</char> under the earth (i.e., the world of the dead,
+        including hell) <verse eid="PHP 2:10" />
+      <verse number="11" style="v" sid="PHP 2:11" />and every tongue <char style="it">would </char>confess out loud that Jesus Christ is Lord to <char style="it">the
+        </char>glory of God <char style="it">the </char>Father.<verse eid="PHP 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 2:12" />So now, my dear <char style="it">comrades</char>, just as you have always obeyed, not just when I was
+        there in person but even more in my absence, work at the salvation where your own selves are concerned
+        with the utmost reverence and respect<char style="sup">[f]</char>; <verse eid="PHP 2:12" />
+      <verse number="13" style="v" sid="PHP 2:13" />you see, God is the One Who’s working in you both the wanting and the working-on of what pleases Him<char
+        style="sup">[g]</char>.<verse eid="PHP 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="PHP 2:14" />Do all things while distancing yourselves from grumbling and scheming or plotting, <verse eid="PHP 2:14" />
+      <verse number="15" style="v" sid="PHP 2:15" />so that you would become blameless and innocent, children of God in the midst of a crooked and perverted
+        Zeitgeist<char style="sup">[h]</char>, in which you shine as lights in <char style="it">the </char>world,<verse eid="PHP 2:15" />
+      <verse number="16" style="v" sid="PHP 2:16" />holding fast to a message of life, resulting in me having proud words to tell others <char style="it">up</char>
+        to the day of Christ, since you haven’t run <char style="it">life’s race </char>or toiled for nothing.<verse eid="PHP 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="PHP 2:17" />Anyways, if I’m being poured out <char style="it">like a libation</char> upon the altar and <char style="it">during
+        the</char> liturgy of your faith, I will rejoice and will rejoice together<char style="sup">[i]</char>
+        with you all— <verse eid="PHP 2:17" />
+      <verse number="18" style="v" sid="PHP 2:18" />And the same <char style="it">for you</char>: you will rejoice and will rejoice together with me.<verse eid="PHP 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="PHP 2:19" />Now I hope in <char style="it">the </char>Lord Jesus to send Timothy to you posthaste, so that once I
+        know what you’re up to, it’ll put me at ease. <verse eid="PHP 2:19" />
+      <verse number="20" style="v" sid="PHP 2:20" />I have no one, you see, who sees things the way I do, a certain someone who’ll truly care for you. <verse eid="PHP 2:20" />
+      <verse number="21" style="v" sid="PHP 2:21" />In fact, everyone <char style="it">I’ve tried to find to work with me </char>is pursuing their own self-interests,
+        not the interests of Jesus Christ. <verse eid="PHP 2:21" />
+      <verse number="22" style="v" sid="PHP 2:22" />But you’re familiar with how he qualified <char style="it">to receive my trust</char>, that he served
+        me in the Gospel like a son serves a father. <verse eid="PHP 2:22" />
+      <verse number="23" style="v" sid="PHP 2:23" />So I certainly hope to send this <char style="it">fellow</char> as I could immediately turn my attention
+        to my affairs <char style="it">were he to be sent</char>. <verse eid="PHP 2:23" />
+      <verse number="24" style="v" sid="PHP 2:24" />I’m convinced in <char style="it">the </char>Lord of the same, that I too will come posthaste.<verse eid="PHP 2:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="PHP 2:25" />I deemed it necessary that I send you Epaphroditus, my comrade<char style="sup">[j]</char>, coworker,
+        and fellow soldier-in-arms—your missionary<char style="sup">[k]</char> and my personal attendant— <verse eid="PHP 2:25" />
+      <verse number="26" style="v" sid="PHP 2:26" />since he was longing <char style="it">to see </char>all of you and was quite distressed because you heard
+        that he was rundown with some sort of sickness<char style="sup">[l]</char>. <verse eid="PHP 2:26" />
+      <verse number="27" style="v" sid="PHP 2:27" />You see, he was weakened by sickness to the point of death, but instead <char style="it">of him dying
+        </char>God had mercy on him, and not just on him but on me too so that I wouldn’t be wrenched with pain
+        upon pain. <verse eid="PHP 2:27" />
+      <verse number="28" style="v" sid="PHP 2:28" />So with even more urgency I sent him <char style="it">on his way </char>so that after seeing him again
+        you would rejoice and I would be relieved of my pain. <verse eid="PHP 2:28" />
+      <verse number="29" style="v" sid="PHP 2:29" />So receive him in <char style="it">the </char>Lord with all <char style="it">the</char> joy <char style="it">you
+        can muster,</char> and honor<char style="sup">[m]</char> individuals like him, <verse eid="PHP 2:29" />
+      <verse number="30" style="v" sid="PHP 2:30" />since he came close to death on account of Christ’s work, risking <char style="it">his </char>very life
+        so that he would fill in the gap caused by your drop-off in serving me.<verse eid="PHP 2:30" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">of spirit</char>…Or: <char style="it">of</char> [<char style="it">the</char>]<char style="it">
+        Holy Spirit</char>. Ref. note of 1:27.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">you’ll make me overjoyed if you would adopt that way of thinking</char>…Lit: <char style="it">fulfill
+        my joy so that you would think the same</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">on the same page</char>…Lit: <char style="it">of one thinking</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">held onto with everything you’ve got</char>…Lit: <char style="it">snatched by force
+        and held onto</char>. Here’s a mental picture: a football player (American football) who has a fumbled
+        football and is holding onto it, with a pile of other players on top of him trying to pull it out of
+        his hands, before the referee comes over.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">unveiled to the public</char>…Lit: <char style="it">found</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">utmost reverence and respect</char>…Lit: <char style="it">fear and trembling</char>.
+        Ref. note of Eph. 6:5.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">of what pleases Him</char>…Lit: <char style="it">on behalf of the pleasing</char> [<char
+        style="it">of him</char>]. The definite article before <char style="it">pleasing </char>is put there
+        as a short way to imply <char style="it">of him</char>.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">Zeitgeist</char>…Lit: <char style="it">generation</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">will rejoice and will rejoice together</char>…Or: <char style="it">rejoice and rejoice
+        together</char>. The GT is ambiguous, as the present and future forms in this case are identical. Since
+        this is the apodosis of a conditional sentence, it doesn’t matter so much.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">missionary</char>…Lit: <char style="it">apostle</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">rundown with some sort of sickness</char>…Lit: <char style="it">weak</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">honor</char>…Also insinuates that they should pay his room and board when he’s there</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">And in light of this, God</char>…Lit: <char style="it">wherefore and God</char>. The
+        word <char style="it">and </char>is associated to <char style="it">wherefore</char>. In NT Gk., It’s
+        common to have <char style="it">and </char>come after a word such as <char style="it">wherefore. </char>This
+        means that <char style="it">and </char>is not associated to <char style="it">God</char>; some translations
+        err in this manner and render these words “Wherefore God also” or “Therefore God, even God” (<char style="it">and
+        </char>appearing as <char style="it">even </char>in this case).</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">out of His generosity gave</char>…Same word <char style="it">to give </char>as is used
+        in 1:29; see note there. It was generous for God to hand over the keys to His kingdom to Jesus, but on
+        the other hand, Jesus earned this by his obedience. Though the word <char style="it">gave </char>as used
+        here points to God’s generosity, it does not negate the fact that Jesus earned a name above every name.
+        God’s generosity was in the fact that He is willing to bestow an enormous amount of power on another
+        person of the Trinity, not holding it for Himself. This is a reason why the three persons in the Trinity
+        are one instead of three. Islam denies the Trinity because it says that the three persons in the Trinity
+        would compete for power, but the insinuation in the word <char style="it">give </char>here is that God
+        the Father out of His generosity won’t vie for power but instead hands it over to the Son.</char>
+    </note>
+  <chapter eid="PHP 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="PHP 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 3:1" />In conclusion<char style="it">, </char>my <char style="it">dear </char>comrades<char style="sup">[a]</char>,
+        rejoice in <char style="it">the </char>Lord. It’s no problem at all for me to write this over and over,
+        and it’ll keep you from careening into a ditch.<verse eid="PHP 3:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 3:2" />Look at the dogs (i.e., those who are worthless, contemptuous people who live like animals; those who
+        are excluded from having a covenant with God) <char style="it">and don’t stop looking at them</char>,
+        look at those who do evil, look at the anti-circumcision (i.e., those who think they have a covenant
+        with God but the opposite is true). <verse eid="PHP 3:2" />
+      <verse number="3" style="v" sid="PHP 3:3" />The fact of the matter is that we are the circumcision<char style="sup">[A]</char> (i.e., you’re the
+        ones who actually have a covenant with God), the ones who have a service of worship in <char style="it">the
+        </char>Spirit of God and make audacious remarks in Christ Jesus and have no confidence in <char style="it">the
+        </char>flesh (i.e., in your own selves; in your abilities apart from God to please God; in your ability
+        to gain God’s favor by simply following a list of rules; in your human credentials), <verse eid="PHP 3:3" />
+      <verse number="4" style="v" sid="PHP 3:4" />although I have confidence in <char style="it">the</char> flesh. If some other person has confidence
+        in <char style="it">the </char>flesh, I have more. <verse eid="PHP 3:4" />
+      <verse number="5" style="v" sid="PHP 3:5" />Circumcised on the eighth day; an Israeli by race, of the tribe of Benjamin, a Hebrew <char style="it">who
+        stands </char>out <char style="it">among the</char> Hebrews; a Pharisee who <char style="it">was</char>
+        <char style="it">totally committed to doing everything</char> according to <char style="it">the </char>Law
+        <char style="it">of Moses</char>; <verse eid="PHP 3:5" />
+      <verse number="6" style="v" sid="PHP 3:6" />as far as the intensity of his zeal<char style="sup">[b]</char>, <char style="it">a person who was</char>
+        persecuting the church; as far as his pursuit of a righteousness (i.e., a means of standing before God
+        and telling Him why He should approve of your life) which is generated by means of <char style="it">following
+        the </char>Law, faultless.<verse eid="PHP 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="PHP 3:7" />Never mind all that—whatever gain (i.e., advantages) I had, I consider it to be lost (i.e., to have been
+        forfeited) on account of Christ. <verse eid="PHP 3:7" />
+      <verse number="8" style="v" sid="PHP 3:8" />Oh, no, no—even I consider everything forfeited on account of the surpassing greatness and excellence
+        of the knowledge of Christ Jesus my Lord, on account of whom everything has been forfeited, and I consider
+        <char style="it">everything </char>to be garbage and crap so that I may gain Christ <verse eid="PHP 3:8" />
+      <verse number="9" style="v" sid="PHP 3:9" />and that I would be found in him not having my own righteousness, one which is derived<char style="it">
+        </char>from <char style="it">following the </char>Law but instead one which is through <char style="it">the
+        </char>faith of Christ, which is a righteousness from God on the basis of the Faith— <verse eid="PHP 3:9" />
+      <verse number="10" style="v" sid="PHP 3:10" />to come to know him and the power of his resurrection and the sharing of and participation in his sufferings,
+        while being conformed to his death, <verse eid="PHP 3:10" />
+      <verse number="11" style="v" sid="PHP 3:11" />if somehow I might attain the breaking free from and rising from the dead.<verse eid="PHP 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="PHP 3:12" />Not that I’ve already attained <char style="it">these things I’m writing about</char> or have reached
+        the point of perfection, but I’m chasing after <char style="it">these things </char>in the hope that
+        I just might put <char style="it">them </char>under my thumb, on the basis of me having been put under
+        the thumb by Christ Jesus. <verse eid="PHP 3:12" />
+      <verse number="13" style="v" sid="PHP 3:13" />Comrades, I don’t figure that I’ve reached the point where I’ve put these things under my thumb, but
+        <char style="it">I do this</char> one <char style="it">thing</char>: I forget about what’s behind me
+        and press on to what lies ahead of me. <verse eid="PHP 3:13" />
+      <verse number="14" style="v" sid="PHP 3:14" />I keep my eye on the ball<char style="sup">[c]</char> and chase after the prize of God’s high calling
+        in Christ Jesus. <verse eid="PHP 3:14" />
+      <verse number="15" style="v" sid="PHP 3:15" />So any person at all who’s mature<char style="sup">[d]</char>, may we be of this opinion; and if you
+        are of a different opinion, God will reveal this to you. <verse eid="PHP 3:15" />
+      <verse number="16" style="v" sid="PHP 3:16" />In any event, <char style="it">let’s </char>be diligent about maintaining what we’ve <char style="it">already</char>
+        attained.<verse eid="PHP 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="PHP 3:17" />Become people who imitate me, comrades, and pay careful attention to those who live their day to day
+        lives using us as role-models. <verse eid="PHP 3:17" />
+      <verse number="18" style="v" sid="PHP 3:18" />You see, many live their day to day lives <char style="it">in the opposite manner</char>, people whom
+        I was constantly writing to you about, but now—even while crying—I’m telling you are the enemies of the
+        cross of Christ, <verse eid="PHP 3:18" />
+      <verse number="19" style="v" sid="PHP 3:19" />people whose destination <char style="it">is </char>destruction, whose god is their belly and who take
+        delightful pride<char style="sup">[e]</char> in their shame, who <char style="it">are consumed with</char>
+        thinking about earthly things. <verse eid="PHP 3:19" />
+      <verse number="20" style="v" sid="PHP 3:20" />As far as we’re concerned, though, the country that we’re citizens of exists in <char style="it">the
+        </char>heavens (i.e., in the spiritual domain and in heaven itself), from which we also eagerly await
+        a savior, <char style="it">namely the </char>Lord Jesus Christ, to come out of, <verse eid="PHP 3:20" />
+      <verse number="21" style="v" sid="PHP 3:21" />who will transform our humble, lowly, abased bodies into <char style="it">a</char><char style="sup">[f]</char>
+        body of his glory done in a way which is consistent with him operating in what he’s capable of and with
+        him making all things subject to himself.<verse eid="PHP 3:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">as far the intensity of his zeal</char>…Lit: <char style="it">according to zeal</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">keep my eye on the ball</char>…Lit: <char style="it">according to</char> [<char style="it">the</char>]
+        <char style="it">goal</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">mature</char>…Or: <char style="it">perfect</char>. Max &amp; Mary say this means <char
+        style="it">perfect </char>based on the occurrence of the same word in v. 12; Meyers says it means morally
+        mature. This is due to Paul including himself in saying <char style="it">may we be</char> a couple words
+        later, when he said he’s not perfect in v. 12.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">take delightful pride</char>…Lit: <char style="it">the glory</char> [<char style="it">they
+        have is</char>]</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">a</char>…Or: <char style="it">the</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the circumcision</char>…Many biblical scholars believe that the Philippian church consisted
+        of all women. If this is the case, then Paul is calling women “the circumcision,” which, physically speaking,
+        only applies to men. This supports the notion that there are words in the Bible which, on the surface
+        only apply to men, but in fact apply to both men and women.</char>
+    </note>
+  <chapter eid="PHP 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="PHP 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="PHP 4:1" />…So<char style="sup">[a]</char> my dear<char style="it"> </char>comrades<char style="sup">[b]</char>
+        whom I miss very much, my joy and my crowning achievement<char style="sup">[c]</char>, make your stand
+        in <char style="it">the </char>Lord this way, my beloved.<verse eid="PHP 4:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="PHP 4:2" />I ask that Euodia and Syntyche compromise and live harmoniously<char style="sup">[d]</char> in the Lord.<verse eid="PHP 4:2" />
+      <verse number="3" style="v" sid="PHP 4:3" />Yes, and I ask you too, <char style="it">my </char>honest-to-goodness business partners<char style="sup">[e]</char>,
+        help them, they who are the very ones who came and joined me in <char style="it">helping spread </char>the
+        Gospel (i.e., the message I’m spreading), which includes Clement and the rest of my other fellow workers
+        whose names are in <char style="it">the</char> Book of Life.<verse eid="PHP 4:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="PHP 4:4" />Always rejoice in <char style="it">the </char>Lord. I’ll say it again: rejoice. <verse eid="PHP 4:4" />
+      <verse number="5" style="v" sid="PHP 4:5" />Let your courteous, generous, mild, gentle, kind, tolerant demeanor be made known to all people: the
+        Lord is nearby.<verse eid="PHP 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="PHP 4:6" />Don’t worry, be anxious, or have angst about anything, but instead in every situation and concerning
+        everything <char style="it">you need</char> make your requests known to God by means of prayer and supplication
+        with thanksgiving<char style="sup">[f]</char>, <verse eid="PHP 4:6" />
+      <verse number="7" style="v" sid="PHP 4:7" />and the peace of God which transcends everything <char style="it">in your </char>mind and transcends
+        all mental activity<char style="sup">[g]</char> will guard your hearts and your minds in Christ Jesus.<verse eid="PHP 4:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="PHP 4:8" />In conclusion, comrades, whatsoever is true, whatsoever is honorable, whatsoever is right, whatsoever
+        is pure, whatsoever is admirable, whatsoever is laudable—let <char style="it">these things</char> turn
+        over in your head—let your mind crunch these thoughts—figure these things out—meditate on them. <verse eid="PHP 4:8" />
+      <verse number="9" style="v" sid="PHP 4:9" />And what you learned, embraced<char style="sup">[h]</char>, heard, and saw in me, put these things into
+        practice, and the God of peace will be with you.<verse eid="PHP 4:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="PHP 4:10" />I was just thrilled in <char style="it">the </char>Lord that your consideration for <char style="it">how
+        well-off </char>I am has finally improved<char style="sup">[i]</char>, in the respect that you considered<char
+        style="it"> my financial state of affairs</char> over and over again but time and again lacked the opportunity
+        <char style="it">to help me out financially</char>. <verse eid="PHP 4:10" />
+      <verse number="11" style="v" sid="PHP 4:11" />Not that I’m forced to speak this way out of lack, seeing that I’ve learned to be self-sufficient regardless
+        of the situation I’m in. <verse eid="PHP 4:11" />
+      <verse number="12" style="v" sid="PHP 4:12" />I know from firsthand experience both how it is to be humbled (i.e., live in a financially bankrupted
+        or impoverished condition) and how it is to be prosperous: in each and every circumstance I’ve learned
+        the secret of<char style="sup">[j]</char> every one of these: <char style="it">getting</char> <char style="it">my
+        belly</char> filled, going hungry, prospering, and having a lack <char style="it">of provision</char>:<verse eid="PHP 4:12" />
+      <verse number="13" style="v" sid="PHP 4:13" />I can do anything by him who gives me the power. <verse eid="PHP 4:13" />
+      <verse number="14" style="v" sid="PHP 4:14" />Nevertheless it was a good thing that you did in commiserating with, sharing in, and partaking of my
+        difficulties.<verse eid="PHP 4:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="PHP 4:15" />Now also, you know for a fact, Philippians, that in <char style="it">the </char>early days of the Gospel
+        when I left Macedonia, no church participated in regard to this matter of giving and receiving except
+        for you only, <verse eid="PHP 4:15" />
+      <verse number="16" style="v" sid="PHP 4:16" />that once and again a second time <char style="it">while I was </char>in Thessalonica you sent me <char
+        style="it">a</char> <char style="it">contribution to help with </char>my needs. <verse eid="PHP 4:16" />
+      <verse number="17" style="v" sid="PHP 4:17" />Not that I’m fishing for handouts<char style="sup">[k]</char>—no—I’m seeking the Fruit which is being
+        multiplied <char style="it">and credited </char>to your account<char style="sup">[A]</char>. <verse eid="PHP 4:17" />
+      <verse number="18" style="v" sid="PHP 4:18" />But I have everything I need and then some, having been resupplied by Epaphroditus by those things <char
+        style="it">sent </char>from you, a pleasant odor, an acceptable sacrifice, pleasing to God <char style="it">like
+        the sacrifices offered to God in the Old Testament that He said pleased Him</char><char style="sup">[B]</char><char
+        style="it">.</char> <verse eid="PHP 4:18" />
+      <verse number="19" style="v" sid="PHP 4:19" />My God shall supply all your needs reflective of His riches in glory in Christ Jesus. <verse eid="PHP 4:19" />
+      <verse number="20" style="v" sid="PHP 4:20" />But the glory <char style="it">be given </char>to our God and Father forever and ever. Amen (i.e., let
+        us pause a moment for that finishing remark to sink in).<verse eid="PHP 4:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="PHP 4:21" />Say hello to all the saints in Christ Jesus (i.e., those who believe in Christ) for me. The comrades
+        with me extend their greetings to you <char style="it">as well</char>. <verse eid="PHP 4:21" />
+      <verse number="22" style="v" sid="PHP 4:22" />All the saints say hello, especially those who belong to Caesar’s household.<verse eid="PHP 4:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="PHP 4:23" />The grace of <char style="it">the </char>Lord Jesus Christ be with your spirit.<verse eid="PHP 4:23" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">So</char>…Thought continued from previous chapter</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">crowning achievement</char>…Lit: <char style="it">crown</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">compromise and live harmoniously</char>…Lit: <char style="it">be having the same mind
+        or opinion</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">my honest-to-goodness business partners</char>…Lit: <char style="it">real yoke-fellow</char>.
+        Some scholars believe that <char style="it">yoke-fellow </char>is actually someone’s name (perhaps nickname?).
+        Of note is that the word in the GT is singular and not plural as expected.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">prayer and supplication with thanksgiving</char>…ref. note of 1 Tim. 2:1</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">transcends everything in your mind and transcends all mental activity</char>…Lit: <char
+        style="it">surpasses all mind</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">embraced</char>…Lit: <char style="it">received</char>. Emphasis is on taking it into
+        you.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">improved</char>…Lit: <char style="it">blossomed</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">learned the secret of</char>…Lit: <char style="it">have been initiated into the mystery
+        of</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">Not that I’m fishing for handouts</char>…Lit: <char style="it">not that I seek after
+        the gift</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">seeking the Fruit which is being multiplied and credited to your account</char>…This
+        refers to the Scriptures (Prov. 11:24; Luke 6:38; 2 Cor. 9:8) which say that God gives material things
+        back to those who are generous in giving material things.</char>
+    </note>
+  <chapter eid="PHP 4" />
+</usx>

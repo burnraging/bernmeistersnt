@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1TH" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">1 Thessalonians</para>
+  <para style="toc1">The Epistle of 1 Thessalonians</para>
+  <para style="toc2">1 Thessalonians</para>
+  <para style="toc3">1 Thess.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 THESSALONIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">Scholars believe that this epistle here is the first of Paul’s. There are both praises and admonishments,
+    but not as severe as what the Corinthians received.</para>
+  <para style="ipi">The longing Paul has to see those “dear to us” (2:8), his “pride and joy” (2:20), the steps he took so
+    that he “wouldn’t a burden on any of you” (2:9) permeate this letter. The longing is reiterated this
+    way: “How can we possibly thank God enough for you for all the joy we’ve been elated with in the presence
+    of God because of you” (3:9).</para>
+  <para style="ipi">This longing of one Christian to see another Christian has withered and died in the church in America,
+    another indication of her decline.</para>
+  <para style="ipi">But towards the end of the book, a couple of things which seem out of place leap out at the reader. The
+    first is Paul having to address a problem of sexual immorality—and it appears to have been adultery—in
+    the church. Though a spiritual church, it was not without its glaring, peculiar faults. Second is an
+    answer to one of their questions, namely how will they known when the end will come. Perhaps the mystery
+    is not why this church asked this question but why few if any of Paul’s other churches didn’t. </para>
+  <para style="ipi">The underlying text is consistent with what he sent to the Colossians, as the two churches are similar,
+    and Paul’s writing style is likewise similar.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1TH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:
+    </para>
+    <para style="p" vid="1TH 1:1">To the church of Thessalonica in the Father-God and <char style="it">the </char>Lord Jesus Christ:</para>
+    <para style="p" vid="1TH 1:1">Grace to you and peace.<verse eid="1TH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1TH 1:2" />We’re always thanking God for all of you, bringing you up in prayer<char style="sup">[a]</char>, continuously<verse eid="1TH 1:2" />
+      <verse number="3" style="v" sid="1TH 1:3" />remembering your work of the Faith, your toil of the Love <char style="it">of God</char>, and your steadfastness
+        of the hope of our Lord Jesus Christ in the sight of<char style="sup">[b]</char> our God and Father,<verse eid="1TH 1:3" />
+      <verse number="4" style="v" sid="1TH 1:4" />knowing full-well, comrades loved by God, your selection (i.e., God’s selection of you to be His), <verse eid="1TH 1:4" />
+      <verse number="5" style="v" sid="1TH 1:5" />that our Gospel, the glad-tidings message <char style="it">which drew us together</char>, did not present
+        itself to us in word only but also in <char style="it">supernatural </char>power and in the Holy Spirit
+        and with much conviction, just as you know full-well what sort of men we turned out to be <char style="it">while
+        </char>among you throughout <char style="it">our stay with</char> you.<verse eid="1TH 1:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 1:6" />And you became <char style="it">people</char> who imitate us and the Lord, having received (i.e., having
+        fully embraced) the word in <char style="it">the midst of </char>a good deal of tribulation <char style="it">but
+        </char>with <char style="it">the </char>joy of the Holy Spirit, <verse eid="1TH 1:6" />
+      <verse number="7" style="v" sid="1TH 1:7" />so much so that you turned out to be a role-model for all the believers in Macedonia and in <char style="it">the
+        Roman province of </char>Asia.<verse eid="1TH 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TH 1:8" />In fact the word of the Lord sounded forth from you (i.e., you loudly and thoroughly announced, advertised,
+        and disseminated the word of the Lord) not just in Macedonia and in Asia but in every place your faith
+        in<char style="sup">[c]</char> God went out, so much so that there’s no need for us to be doing any more
+        talking. <verse eid="1TH 1:8" />
+      <verse number="9" style="v" sid="1TH 1:9" />Furthermore, <char style="it">the Macedonians and Asians </char>personally are letting everyone know
+        what an impact we’ve had on you<char style="sup">[d]</char>, and how you turned to God, <char style="it">having
+        turned </char>from the idols <char style="it">you were serving</char> to serve <char style="it">a </char>living
+        and true God <verse eid="1TH 1:9" />
+      <verse number="10" style="v" sid="1TH 1:10" />and to wait for His son <char style="it">to come </char>out of heaven<char style="sup">[e]</char>, whom
+        He raised from the dead, Jesus who’s rescuing us from the coming wrath.<verse eid="1TH 1:10" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">bringing you up in prayer</char>…Lit: <char style="it">making a remembrance at our prayers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">in the sight of</char>…Lit: <char style="it">before</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">your faith in</char>…Lit: <char style="it">your faith which is with</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">what an impact we’ve had on you</char>…Lit: <char style="it">just what an entrance we
+        had towards you</char>. A bit of a stretch for the definition.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">heaven</char>…Lit: <char style="it">the heavens</char></char>
+    </note>
+  <chapter eid="1TH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1TH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 2:1" />In fact you yourselves know full-well, comrades<char style="sup">[a]</char>, that the impact we had on
+        you wasn’t a waste of time, <verse eid="1TH 2:1" />
+      <verse number="2" style="v" sid="1TH 2:2" />rather, having suffered before and having been treated with insolence (as you’re well aware), in Philippi
+        we were emboldened in our God to tell you God’s good-news message, the Gospel, while in <char style="it">the
+        face of</char> a lot of opposition. <verse eid="1TH 2:2" />
+      <verse number="3" style="v" sid="1TH 2:3" />In fact, our encouragement was not from <char style="it">us being in </char>error or from an uncleanness
+        (i.e., something dirty, impure, or something one should stay away from), nor did it exist in deceit or
+        guile, <verse eid="1TH 2:3" />
+      <verse number="4" style="v" sid="1TH 2:4" />but instead it’s in line with the way we’ve been granted by God to be entrusted with the Gospel—that’s
+        the way we speak, not like we’re speaking to people in a way where we’re trying to make them happy but
+        like we’re speaking to God <char style="it">in a way to make Him happy</char> instead, Who approves or
+        disapproves <char style="it">of what’s in</char> our hearts. <verse eid="1TH 2:4" />
+      <verse number="5" style="v" sid="1TH 2:5" />For there was never a time when we showed up with a flattering message (as you’re well aware), nor <char
+        style="it">did we show up having</char> a pretext for covetousness—so help me God<char style="sup">[b]</char>—<verse eid="1TH 2:5" />
+      <verse number="6" style="v" sid="1TH 2:6" />nor <char style="it">did we show up </char>seeking prestige or fame<char style="sup">[c]</char>, not
+        from you or from anyone else, <verse eid="1TH 2:6" />
+      <verse number="7" style="v" sid="1TH 2:7" /><char style="it">though</char>, as Christ’s apostles,<char style="it"> </char>we’re capable of throwing
+        our weight around<char style="sup">[d]</char>. Instead, we became infants <char style="it">while </char>in
+        your midst. The way a nursing mother cherishes her own children <verse eid="1TH 2:7" />
+      <verse number="8" style="v" sid="1TH 2:8" />is the same way that we, having a strong yearning for you, thought it well to share not only the Gospel
+        of God but also the things that make <char style="it">us</char> live and breathe<char style="sup">[A]</char>
+        themselves. Therefore, you became dear to us.<verse eid="1TH 2:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TH 2:9" />Furthermore, recollect, comrades, our back-breaking labor and toil: we worked day and night<char style="sup">[e]</char>
+        so that we wouldn’t be a burden on any of you. <char style="it">Under these circumstances</char> we preached
+        the Gospel of God to you. <verse eid="1TH 2:9" />
+      <verse number="10" style="v" sid="1TH 2:10" />You—and God—can attest to just how pious, correct, and faultless the demeanor was that we presented to
+        you who are believers. <verse eid="1TH 2:10" />
+      <verse number="11" style="v" sid="1TH 2:11" />Just as you know from experience that <char style="it">we treated </char>each one of you like a father
+        <char style="it">treats</char> his own children, <verse eid="1TH 2:11" />
+      <verse number="12" style="v" sid="1TH 2:12" /><char style="it">we were </char>comforting, exhorting, advising, consoling, cheering, and issuing statements<char
+        style="sup">[f]</char> for you to conduct your day to day lives in a manner worthy of God, Who calls
+        us to His Own kingdom and glory.<verse eid="1TH 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TH 2:13" />And we thank God continuously because of this as well, since, having received (i.e., wholeheartedly embraced)
+        God’s message (His systematic reasoning; His word) verbally communicated<char style="sup">[g]</char>
+        from us <char style="it">to you</char>, you didn’t receive a man-made message but instead <char style="it">you
+        received it </char>just as <char style="it">it actually is</char>: God’s true message, <char style="it">a
+        message </char>which is<char style="sup">[h]</char> also at work in you who believe.<verse eid="1TH 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TH 2:14" />You see comrades, you followed the pattern set by the churches of God in Christ Jesus which are in Judea,
+        in that you too suffered the same things <char style="it">done to you </char>by your own countrymen like
+        <char style="it">what was done to them </char>by <char style="it">their fellow </char>Judeans, <verse eid="1TH 2:14" />
+      <verse number="15" style="v" sid="1TH 2:15" />who also killed the Lord Jesus and the <char style="it">Old Testament </char>prophets and persecuted
+        us. <char style="it">These</char> <char style="it">countrymen live lives which </char>are not pleasing
+        to God; they are against all of humanity<char style="sup">[i]</char>, <verse eid="1TH 2:15" />
+      <verse number="16" style="v" sid="1TH 2:16" />hindering us from getting to speak to the Gentiles so that they could be saved (i.e., receive Christ
+        as savior), the end-result being that every time they commit sin, they do it to the maximum extent<char
+        style="sup">[j]</char>; the wrath <char style="it">of God </char>came upon them to the utmost.<verse eid="1TH 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TH 2:17" />But we, comrades, bereft of you for a short while<char style="sup">[k]</char>—bereft from being there
+        in person with you and not bereft of heart—with tremendous desire we all the more hastened to see your
+        faces. <verse eid="1TH 2:17" />
+      <verse number="18" style="v" sid="1TH 2:18" />Therefore we wanted to visit you—certainly <char style="it">I did</char>, Paul—<char style="it">I started
+        making arrangements</char> once or twice but Satan thwarted us.<verse eid="1TH 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TH 2:19" />The fact of the matter is this: Who is our hope, our joy, or trophy<char style="sup">[l]</char> which
+        we beam with pride over—if not you—yes you—<char style="it">joy of you being </char>in the presence of<char
+        style="sup">[m]</char> our Lord with his coming? <verse eid="1TH 2:19" />
+      <verse number="20" style="v" sid="1TH 2:20" />You are our pride and joy<char style="sup">[n]</char>, you see.<verse eid="1TH 2:20" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">so help me God</char>…Lit: <char style="it">God a witness</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">prestige or fame</char>…Lit: <char style="it">glory out of men</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">throwing our weight around</char>…Lit: <char style="it">being a burden</char>. Max &amp;
+        Mary claim the former.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">day and night</char>…Lit: <char style="it">night and day</char>. Jewish reckoning inverts
+        the ordering.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">issuing statements</char>…Also: <char style="it">affirming; declaring</char>…Lit: <char
+        style="it">witnessing</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">verbally communicated</char>…Or: <char style="it">a verbal command</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">a message </char>which is…Or possibly: <char style="it">God Who is</char>. There’s some
+        ambiguity whether the antecedent of <char style="it">who </char>or <char style="it">which </char>is <char
+        style="it">message </char>or <char style="it">God. </char>Ambiguity is resolved by proximity.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">all of humanity</char>…Lit: <char style="it">all men</char> [<char style="it">people</char>]</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">every time they commit sin, they do it to the maximum extent</char>…Lit: <char style="it">always
+        fill their sins to the top</char>. This is an idiom, also appearing in Gen. 15:16; Dan. 8:23; Matt. 23:32.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">a short while</char>…Lit: <char style="it">a season of hours</char>. The GT is more
+        poetic.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">trophy</char>…Lit: <char style="it">crown</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">in the presence of</char>…Lit: <char style="it">before</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">pride and joy</char>…Lit: <char style="it">glory and joy</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">things that make us live and breathe</char>…Also: <char style="it">the hearts and souls
+        of</char> <char style="it">ourselves</char>…Lit: <char style="it">the souls of</char> <char style="it">ourselves</char>
+        [Gk. <char style="it">psuchā</char>, <char style="w" strong="G05590">ψυχή</char>)]. This verse sheds
+        light on the meaning of <char style="it">psuchā, </char>from which the English words <char style="it">psychology,
+        psyche, </char>etc. are derived. <char style="it">Psuchā </char>means “mind, soul, and emotions”. It
+        is also is surrogate used to refer to a person. This carries over into English if, for example, a ship
+        sank, we might say, “there were 25 souls that perished.” Using <char style="it">soul </char>instead of
+        <char style="it">person </char>emphasizes the fact that the people mentioned had a life-essence to them.
+        They had families, friends; they had interesting aspects to their personality; they had a will; they
+        had a thirst for life which manifested itself in various way; they were real people. Also, ref. not of
+        1 Cor. 2:14.</char>
+    </note>
+  <chapter eid="1TH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1TH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 3:1" />In light of this, as we could no longer stand it, we thought it best to stay behind in Athens by ourselves,<verse eid="1TH 3:1" />
+      <verse number="2" style="v" sid="1TH 3:2" />and <char style="it">so we </char>sent Timothy, our comrade<char style="sup">[a]</char> and fellow-worker
+        of God in the Gospel (i.e. the good-news message) of Christ, for the purpose of getting you to stand
+        on your own two feet and encouraging, advising, and comforting you in regard to your faith <verse eid="1TH 3:2" />
+      <verse number="3" style="v" sid="1TH 3:3" />so as to not be agitated or emotionally upset in these times of distress; in fact, you yourselves know
+        full-well that this is our fate in life. <verse eid="1TH 3:3" />
+      <verse number="4" style="v" sid="1TH 3:4" />Furthermore, when we were with you, we kept telling you ahead of the fact that hard times are coming,
+        just as it both happened and you know for a fact <char style="it">that it did</char>. <verse eid="1TH 3:4" />
+      <verse number="5" style="v" sid="1TH 3:5" />Because of this and because I couldn’t stand it any longer, I made inquiries to ascertain<char style="sup">[b]</char>
+        your faith, lest somehow the Temptor tempted you and our labor turned out to be for nothing.<verse eid="1TH 3:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 3:6" />Just now Timothy arrived here at our place coming from your place and gave us good news <char style="it">in
+        regard to</char> your faith and your love and <char style="it">gave us the good news</char> that you
+        always remember us in a good way, longing to see us just we <char style="it">long </char>to see you.<verse eid="1TH 3:6" />
+      <verse number="7" style="v" sid="1TH 3:7" />Because of this we were encouraged and comforted, comrades, in <char style="it">what we hear about</char>
+        you on account of your faith <char style="it">while staring point-blank</char> at<char style="sup">[c]</char>
+        all our needs and afflictions, <verse eid="1TH 3:7" />
+      <verse number="8" style="v" sid="1TH 3:8" />because we’re infused with life and vitality now<char style="sup">[d]</char> if it is the case that you
+        stand in <char style="it">the </char>Lord. <verse eid="1TH 3:8" />
+      <verse number="9" style="v" sid="1TH 3:9" />In fact, how can we possibly thank God enough<char style="sup">[e]</char> for you for all the joy we’ve
+        been elated with in the presence of<char style="sup">[f]</char> God because of you, <verse eid="1TH 3:9" />
+      <verse number="10" style="v" sid="1TH 3:10" />day and night begging <char style="it">in prayer</char> over and beyond the point of excess to see your
+        face and repair the deficiencies of your faith?<verse eid="1TH 3:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TH 3:11" /><char style="it">May </char>our God and our Father and our Lord Jesus set us on a straight course to
+        <char style="it">see</char> you.<verse eid="1TH 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TH 3:12" />May the Lord <char style="it">cause you </char>to abound and increase in the love <char style="it">which
+        you show </char>to one another and to all people, just as we also <char style="it">show</char> to you,<verse eid="1TH 3:12" />
+      <verse number="13" style="v" sid="1TH 3:13" />with the end-goal of establishing your hearts blameless in holiness under the scrutiny of<char style="sup">[f]</char>
+        our God and Father in the coming of our Lord Jesus with all his saints (i.e., his followers).<verse eid="1TH 3:13" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">made inquiries to ascertain</char>…Lit: <char style="it">sent to know</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">staring point blank at</char>…Lit: <char style="it">at</char>; <char style="it">on top
+        of</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">we’re infused with life and vitality now</char>…Lit: <char style="it">we live now</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">how can we possibly thank God enough</char>…Lit: <char style="it">what thanks can we
+        give back to God</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">in the presence of</char>…<char style="it">under the scrutiny of</char>…Lit: <char style="it">before</char></char>
+    </note>
+  <chapter eid="1TH 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1TH 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 4:1" />In conclusion, comrades<char style="sup">[a]</char>, we ask you in <char style="it">the </char>Lord—plead
+        with you—that you go to higher and higher levels<char style="sup">[b]</char> in your being pleasing to
+        God in your day to day lives in a way which is consistent with <char style="it">the instructions </char>you
+        received from us (which is consistent with the way you are <char style="it">currently </char>living your
+        lives). <verse eid="1TH 4:1" />
+      <verse number="2" style="v" sid="1TH 4:2" />The fact of the matter is that you know some <char style="it">of the </char>instructions we gave you
+        through the Lord Jesus. <verse eid="1TH 4:2" />
+      <verse number="3" style="v" sid="1TH 4:3" />In fact, this is <char style="it">the </char>will of God (your holiness <char style="it">is the will
+        of God</char>!): <char style="it">it is </char>for you to abstain from the fornication <char style="it">you’re
+        surrounded by </char>(i.e., by the loose sexual morals we all know about);<char style="it"> </char><verse eid="1TH 4:3" />
+      <verse number="4" style="v" sid="1TH 4:4" />for each of you to know how to gain possession and keep possession of his own personal container<char
+        style="sup">[c]</char> (i.e., his body, the container for his soul and spirit) in holiness and dignity<char
+        style="sup">[d]</char>, <verse eid="1TH 4:4" />
+      <verse number="5" style="v" sid="1TH 4:5" />not in an intense, all-consuming feeling of lust<char style="sup">[A]</char> (just like the Gentiles
+        who don’t know God) <verse eid="1TH 4:5" />
+      <verse number="6" style="v" sid="1TH 4:6" /><char style="it">but </char>in not stepping out of line<char style="sup">[e]</char> and taking advantage
+        of or defrauding his <char style="it">fellow-</char>comrade in the matter<char style="sup">[B]</char>
+        <char style="it">of sexual morality</char>. Because of this the Lord <char style="it">takes </char>vengeance
+        <char style="it">in issues </char>pertaining to these <char style="it">transgressions</char>, consistent
+        with the way we told you previously, telling it in a dead-serious manner. <verse eid="1TH 4:6" />
+      <verse number="7" style="v" sid="1TH 4:7" />The fact of the matter is that God has not called you to uncleanness (i.e., God’s intention for your
+        life in His kingdom was not to commit filthy, disgusting deeds) but rather <char style="it">to live </char>in
+        holiness. <verse eid="1TH 4:7" />
+      <verse number="8" style="v" sid="1TH 4:8" />Consequently, he who disregards <char style="it">this command</char> isn’t disregarding a human being
+        but <char style="it">is disregarding </char>God instead, Who gives His Holy Spirit to you.<verse eid="1TH 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TH 4:9" />Now about brotherly-love (i.e., having strong likings for other comrades<char style="sup">[C]</char>):
+        you don’t need to have <char style="it">any instruction or advice </char>written to you <char style="it">on
+        this subject</char>, seeing that you yourselves are God-instructed in the love one <char style="it">should
+        have for </char>another. <verse eid="1TH 4:9" />
+      <verse number="10" style="v" sid="1TH 4:10" />In fact, you also <char style="it">extend</char> the same practices to all the comrades all over Macedonia.
+        We beg you, comrades, to do even more <verse eid="1TH 4:10" />
+      <verse number="11" style="v" sid="1TH 4:11" />and make it a goal to be still (i.e., not be stirred by loud, negative emotions), to do your own things
+        (i.e., concentrate on your own lives), and to work with your own hands (i.e., don’t rely on others to
+        do your work), <char style="it">and do these things</char> in line with the way we recommended, <verse eid="1TH 4:11" />
+      <verse number="12" style="v" sid="1TH 4:12" />so that the way you conduct your lives would leave a good impression on those on the outside and so that
+        you won’t need anything.<verse eid="1TH 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TH 4:13" />We don’t want you to be kept in the dark, comrades, about those who sleep (i.e., the believers who are
+        already dead), so that you won’t grieve like the others, the ones who have no hope. <verse eid="1TH 4:13" />
+      <verse number="14" style="v" sid="1TH 4:14" />To this point, if we believe that Jesus died and rose <char style="it">from the dead</char>, <char style="it">then
+        we are </char>also<char style="it"> entitled to believe that </char>God will take those who sleep through
+        Jesus (i.e., those who died trusting in Jesus) along together with him the same way. <verse eid="1TH 4:14" />
+      <verse number="15" style="v" sid="1TH 4:15" />In fact, we’re telling you this in <char style="it">a </char>word of <char style="it">the </char>Lord
+        (i.e., in a prophetic message from the Lord): you the living who remain <char style="it">on the Earth</char>
+        until<char style="sup">[f]</char> the coming of the Lord will absolutely not arrive <char style="it">at
+        the destination </char>before those who sleep, <verse eid="1TH 4:15" />
+      <verse number="16" style="v" sid="1TH 4:16" />because the Lord himself—with the shout of a command<char style="sup">[g]</char> by the voice of an archangel
+        and by God’s bugle call—will come down from heaven, and first the dead in Christ will be resurrected
+        (i.e., brought back to life), <verse eid="1TH 4:16" />
+      <verse number="17" style="v" sid="1TH 4:17" />then you who are alive who remain <char style="it">on the Earth </char>will be taken together with them
+        <char style="it">as a single unit</char> into <char style="it">the </char>clouds to a meeting with the
+        Lord in the air—And that’s the way we’ll always be with <char style="it">the </char>Lord.<verse eid="1TH 4:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TH 4:18" />The bottom line is that we should comfort and exhort each other with these words.<verse eid="1TH 4:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">go to higher and higher levels</char>…Lit: <char style="it">abound more</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">container</char>…Also: <char style="it">vessel</char>. Like the way it’s used in 2 Cor.
+        4:7, this refers to our body.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">dignity</char>…Also: <char style="it">honor</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">stepping out of line</char>…Lit: <char style="it">throwing beyond</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">until</char>…Lit: <char style="it">to</char>. As though heading towards a destination.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">shout of a command</char>…Lit: <char style="it">a call</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">intense, all-consuming feeling of lust</char>…Lit: <char style="it">passion of desire</char>
+        [<char style="it">lust</char>]. It’s normal for a person to have sexual desire, even a strong desire,
+        but Paul’s talking about a desire that’s been amplified beyond normal amounts of sexual desire (strong
+        as that may be). The Gk. word <char style="it">passion </char>is also used to describe the passion of
+        the pain and suffering of death, like the passion of Christ when he was crucified—this is how strong
+        of a word it is. Sexual predators and sex offenders reach this point, the point where their passion of
+        desire takes control of them and they commit criminal acts. A couple notches down, it will also cause
+        the ordinary person to conduct immoral acts.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">not stepping out of line and taking advantage of or defrauding his fellow-comrade in
+        the matter</char>…Applying logic to this statement here from v. 6 in relationship to the passage as a
+        whole, Paul is telling those in the church not to “defraud” their fellow brother in Christ, and this
+        in relationship to sexual morals. There are two possibilities: first, Paul could be talking about a man
+        having an affair with another man’s wife. Second, Paul could be talking about a man sleeping with the
+        young, unmarried daughter of another man. I believe it’s more likely that Paul is talking about the former
+        than the latter. Therefore, the definition of <char style="it">the fornication </char>(v. 3) is adulterous
+        liaisons. This added with the additional evidence from 1 Cor. 5:1 suggest that the word <char style="it">fornication
+        </char>as used in the NT is talking about grossly immoral sexual acts. Or, put another way, when Paul
+        addresses the issue here and in 1 Cor. 5:1, he’s talking about something which is grossly immoral. The
+        church, however, makes no distinction between sexual acts which are grossly immoral and those which are
+        mildly immoral when applying the word <char style="it">fornication. </char>They should.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">having strong likings for other comrades</char>…Lit: <char style="it">brotherly-love</char>.
+        This Gk. word is a compound where the second word <char style="it">love </char>is the Gk. word <char
+        style="it">philos</char> (φίλος /Strong’s 5384) and not <char style="it">agapā </char><char style="w"
+        strong="G00026">ἀγάπη</char>). Philos differs from agapā in that philos is a love for a person because
+        of how likeable they are, whereas agapā sees value in a person sometimes in spite of how unlikeable they
+        are. Note that the word for <char style="it">love </char>at the end of v. 10 is agapā, not philos.</char>
+    </note>
+  <chapter eid="1TH 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1TH 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 5:1" />Concerning the times (i.e., the year, day, or month significant events will occur) and the seasons (i.e.,
+        the atmosphere that defines the era events occur in; the climate the events occur in), comrades<char
+        style="sup">[a]</char>, you don’t need <char style="it">for me </char>to write to you <char style="it">anything</char>;<verse eid="1TH 5:1" />
+      <verse number="2" style="v" sid="1TH 5:2" />the fact is that you know full well in yourselves and to a tee that <char style="it">the nature of the</char>
+        day of the Lord is that it comes in the same way as a thief in <char style="it">the </char>night <char
+        style="it">hits and runs</char>. <verse eid="1TH 5:2" />
+      <verse number="3" style="v" sid="1TH 5:3" />When they (i.e., everybody out there) are saying, “Peace and security,” then suddenly and unexpectedly
+        destruction and ruin are perched on top of them <char style="it">staring down on them</char> just like
+        labor pains <char style="it">suddenly come upon </char>a pregnant woman and there’s no way she can run
+        away <char style="it">at that point </char>and escape <char style="it">them</char>. <verse eid="1TH 5:3" />
+      <verse number="4" style="v" sid="1TH 5:4" />But you, comrades, aren’t in darkness (i.e., you aren’t being kept in the dark about this) so that <char
+        style="it">that</char> day would overwhelm you<char style="sup">[b]</char> like a thief <char style="it">would</char>;<verse eid="1TH 5:4" />
+      <verse number="5" style="v" sid="1TH 5:5" />for you all <char style="it">are</char> sons of (i.e., you adopt the characteristics of) light and sons
+        of day—We aren’t <char style="it">sons </char>of night or <char style="it">sons </char>of darkness.<verse eid="1TH 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 5:6" />So then don’t sleep (i.e., becoming spiritually dormant) like everyone else, but be watchful (i.e., stay
+        focused) and sober (i.e., don’t let anything degrade your heightened state of alertness) instead. <verse eid="1TH 5:6" />
+      <verse number="7" style="v" sid="1TH 5:7" />You see, those who sleep do their sleeping at night, and those who are drunkards do their drinking at
+        night. <verse eid="1TH 5:7" />
+      <verse number="8" style="v" sid="1TH 5:8" />But you’re in a state where you’re sober during the day, now that you’ve put on a breast-plate of faith
+        and love and a helmet <char style="it">that is the </char>hope of salvation (i.e., of escaping destruction,
+        in this context the wrath of God), <verse eid="1TH 5:8" />
+      <verse number="9" style="v" sid="1TH 5:9" />because God didn’t put us in a position that’s towards wrath<char style="sup">[c]</char> but <char style="it">He
+        put us in a position that’s headed towards</char> acquiring salvation (i.e., acquiring a means of escape,
+        in this context from the wrath of God) through our Lord Jesus Christ, <verse eid="1TH 5:9" />
+      <verse number="10" style="v" sid="1TH 5:10" />who died for us so that whether we happen to watch (i.e., remain alive and stay focused) or whether we
+        happen to sleep (i.e., die) we would live together <char style="it">in the same time and place</char>
+        with him. <verse eid="1TH 5:10" />
+      <verse number="11" style="v" sid="1TH 5:11" />In light of this, comfort one another and edify each other one-on-one just like you’re already doing.<verse eid="1TH 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TH 5:12" />We ask you, comrades, to know from first-hand observation those among you who do hard work and who have
+        stepped forward to stand in leadership positions<char style="sup">[d]</char><char style="it"> </char>in
+        <char style="it">the</char> Lord and who advise, warn, admonish, and instruct you, <verse eid="1TH 5:12" />
+      <verse number="13" style="v" sid="1TH 5:13" />and to have a superabundant<char style="sup">[e]</char> high regard for them in love on account of their
+        work.</para>
+    <para style="p" vid="1TH 5:13">Keep the peace among yourselves.<verse eid="1TH 5:13"/>
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.
+    </para>
+    <para style="p" vid="1TH 5:14">Cheer up those who are discouraged.</para>
+    <para style="p" vid="1TH 5:14">Take a strong interest in and help those who are weak (i.e., those who are unwell; worn out with a sickness;
+        too physically weak to take care of themselves; powerless to do anything about their circumstances).
+    </para>
+    <para style="p" vid="1TH 5:14">Exercise patience with everyone.<verse eid="1TH 5:14"/>
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1TH 5:15" />See that no one, when somebody does something bad to them, retaliates by doing something bad back to
+        them<char style="sup">[f]</char>, but instead pursues the common good and the general good<char style="sup">[g]</char>
+        at all times.<verse eid="1TH 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="1TH 5:16" />Rejoice all the time.<verse eid="1TH 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TH 5:17" />Pray incessantly.<verse eid="1TH 5:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TH 5:18" />Give thanks in <char style="it">the midst of </char>all <char style="it">circumstances</char><char style="sup">[h]</char>;
+        you see, this is the will of God for you in Christ Jesus.<verse eid="1TH 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TH 5:19" />Do not extinguish or put out the Holy Spirit <char style="it">when he’s burning</char>. Do not quench,
+        stifle, or suppress the <char style="it">Holy </char>Spirit.<verse eid="1TH 5:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TH 5:20" />Do not despise, treat with contempt, or have utter disdain for prophesy, <verse eid="1TH 5:20" />
+      <verse number="21" style="v" sid="1TH 5:21" />but examine all things <char style="it">including prophesies</char> instead <char style="it">and accept
+        the good and reject the bad</char> and hold onto the good.<verse eid="1TH 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="1TH 5:22" />Stay away from any appearance of evil or wrong-doing.<verse eid="1TH 5:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1TH 5:23" />Now <char style="it">may</char> the God of peace Himself set you apart <char style="it">so that you’re</char>
+        complete in all respects and <char style="it">so that you </char>meet all expectations; <char style="it">may</char>
+        your spirit, soul, and body<char style="sup">[A]</char> <char style="it">be </char>blameless at the coming
+        of our Lord Jesus Christ.<verse eid="1TH 5:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="1TH 5:24" />Faithful is He Who calls us; He will do <char style="it">it</char>.<verse eid="1TH 5:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="1TH 5:25" />Comrades, pray for us too.<verse eid="1TH 5:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="1TH 5:26" />Greet all the comrades with a holy hug<char style="sup">[i]</char>.<verse eid="1TH 5:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="1TH 5:27" />Make a promise to the Lord to have <char style="it">this</char> letter read aloud to all the comrades,
+        <char style="it">so everyone gets the chance to hear it</char>.<verse eid="1TH 5:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="1TH 5:28" />The grace of our Lord Jesus Christ <char style="it">be </char>with you.<verse eid="1TH 5:28" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">overwhelm you</char>…Also: <char style="it">overpower you and take you down</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">put us in a position that’s headed towards wrath</char>…Lit: <char style="it">place
+        us to wrath</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">who have stepped forward to stand in leadership positions</char>…The Gk. word <char
+        style="it">proistāmi </char><char style="w" strong="G04291">προΐστημι</char>). This is defined in note
+        of 1 Cor. 15:24.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">superabundant</char>…Also: <char style="it">beyond the point of excess</char>…Lit: <char
+        style="it">of a beyond-from-abundance</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">no one, when somebody does something bad to them, retaliates by doing something bad
+        back to them</char>…Lit: <char style="it">no one would repay some evil in place of some evil</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the common good and the general good</char>…Lit: <char style="it">the good to each other
+        and to all</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">in the midst of all circumstances</char>…Also: <char style="it">among all circumstances</char>…Lit:
+        <char style="it">in</char> [or <char style="it">among</char>] <char style="it">all. All </char>can refer
+        to things, events, circumstances, etc.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">holy hug</char>…Lit: <char style="it">holy kiss</char>. Liberties taken.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">spirit, soul, and body</char>…This verse is key in specifying the three components of
+        every human being. The listing is ordered from most important to least important.</char>
+      <char style="fp"></char>
+      <char style="ft">Spirit—man is a spiritual being, and as such has commonality with all spiritual beings: God, angels,
+        and demons. Sin causes the spirit to die; receiving Christ causes the spirit to be born again. The Holy
+        Spirit dwells in a believer’s human spirit. Man’s spirit guides him through the course of life.</char>
+      <char style="fp"></char>
+      <char style="ft">Soul—the soul is the mind, will, emotions. It’s the peculiar things that give a person personality and
+        vitality.</char>
+    </note>
+  <chapter eid="1TH 5" />
+</usx>

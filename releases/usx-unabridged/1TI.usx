@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1TI" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">1 Timothy</para>
+  <para style="toc1">The Epistle of 1 Timothy</para>
+  <para style="toc2">1 Timothy</para>
+  <para style="toc3">1 Tim.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 TIMOTHY</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">Paul’s instructions to one of his closest assistants, his “dear son” Timothy, has been broadened into
+    guidelines which all Christian churches should follow. Paul doesn’t just give sterile rules to do this,
+    that, and the other, but gets into the details of what’s going on inside the hearts and minds of various
+    people—especially the nefarious ones, adding a lot of color to the epistles he sent to Timothy.</para>
+  <para style="ipi">The text is typical of Paul: mastery of Greek, an extensive vocabulary, Western thought, ambiguous in
+    parts due to its brevity or to knowledge privy to the writer and the reader.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1TI 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 1:1" />Paul, an apostle of Christ Jesus according to the command of God our savior and Christ Jesus our hope:<verse eid="1TI 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1TI 1:2" />To Timothy, a genuine son<char style="sup">[a]</char> in <char style="it">the </char>Faith:
+    </para>
+    <para style="p" vid="1TI 1:2">Grace, mercy, peace—from God <char style="it">the </char>Father and from Christ Jesus our Lord.<verse eid="1TI 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1TI 1:3" />Just as I advised you to remain in Ephesus while on <char style="it">my</char> way to Macedonia so that
+        you would impress upon certain individuals not to go about teaching things which are…shall we say…different<char
+        style="sup">[b]</char> <verse eid="1TI 1:3" />
+      <verse number="4" style="v" sid="1TI 1:4" />or to take myths or endless genealogies seriously (the very things which generate a lot of <char style="it">stupid
+        </char>questions), more <char style="it">seriously</char> than <char style="it">one takes </char>godly
+        stewardship, a stewardship which is by means of<char style="it"> </char>faith<char style="sup">[c]</char>.<verse eid="1TI 1:4" />
+      <verse number="5" style="v" sid="1TI 1:5" />But the bottom line of the command <char style="it">that they’re charged with</char> is love from a clean
+        heart and a good conscience, <verse eid="1TI 1:5" />
+      <verse number="6" style="v" sid="1TI 1:6" />of which a few people in particular have veered off into a ditch of senseless discussion, <verse eid="1TI 1:6" />
+      <verse number="7" style="v" sid="1TI 1:7" />wanting to be instructors in the Law <char style="it">of Moses</char>, not understanding what they’re
+        saying or the implications of what they insist is true.<verse eid="1TI 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 1:8" />Now we know that the Law is just fine if someone were to use it legitimately, <verse eid="1TI 1:8" />
+      <verse number="9" style="v" sid="1TI 1:9" />knowing this for certain: law (i.e., the Law of Moses in particular or any code of right and wrong for
+        that matter) was put in place for a reason, not for someone who lives right but for the lawless, for
+        those who refuse to submit to authority, for those who aren’t pious, for those who murder their fathers,
+        their mothers, their brothers, <verse eid="1TI 1:9" />
+      <verse number="10" style="v" sid="1TI 1:10" />for fornicators (i.e., those who indulge in gross sexual immorality), for homosexuals, kidnappers, liars,
+        perjurers, and <char style="it">for </char>anyone who supplants what’s been put into place with something
+        different than healthy doctrine, <verse eid="1TI 1:10" />
+      <verse number="11" style="v" sid="1TI 1:11" /><char style="it">doctrine </char>which is in line with the glorious Gospel of the God Who is blessed,
+        <char style="it">doctrine </char>that I’ve been entrusted with.<verse eid="1TI 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TI 1:12" />I have grace for my empowerment in Christ Jesus our Lord, since he trusted me enough to make me a minister<char
+        style="sup">[d]</char>, <verse eid="1TI 1:12" />
+      <verse number="13" style="v" sid="1TI 1:13" /><char style="it">me</char> who used to be a blasphemer, a persecutor, and one who was insolent and violent—but
+        no—He showed mercy since I did these things when I didn’t know better <char style="it">while I was </char>in
+        unbelief, <verse eid="1TI 1:13" />
+      <verse number="14" style="v" sid="1TI 1:14" />and the grace of our Lord proliferated out of bounds with faith and love which is in Christ Jesus.<verse eid="1TI 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1TI 1:15" />This statement is trustworthy and from any point of view is worth being accepted: Christ Jesus came into
+        the world to save sinners, I myself being the foremost. <verse eid="1TI 1:15" />
+      <verse number="16" style="v" sid="1TI 1:16" />In spite of this I was shown mercy, so that in me foremost Christ Jesus would demonstrate every kind
+        of patience imaginable, with a view towards those in the future who will be believing in<char style="sup">[e]</char>
+        him resulting in eternal life.<verse eid="1TI 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 1:17" />Now to the King of the eternities—to the Incorruptible, Invisible, Singular God—<char style="it">be </char>honor
+        and glory forever and ever. Amen (i.e., let us pause a moment for that remark to sink in).<verse eid="1TI 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TI 1:18" />These things I’m charging you with, I entrust to you, Timothy <char style="it">my dear </char>son, according
+        to the prophesies over you which were given beforehand to lead you on your way, so that you would “serve
+        in the army” <char style="it">so to speak</char> among them and be a fine soldier, <verse eid="1TI 1:18" />
+      <verse number="19" style="v" sid="1TI 1:19" />having faith and a good conscience, which some, having shoved aside things pertaining to the Faith, are
+        shipwrecked (i.e., their lives have been devastated), <verse eid="1TI 1:19" />
+      <verse number="20" style="v" sid="1TI 1:20" />among whom are Hymenaeus and Alexander, whom I’ve handed over to Satan so that he would train them (train
+        them like one trains a child) not to talk trash or blaspheme.<verse eid="1TI 1:20" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">son</char>…Or: <char style="it">child</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">shall we say</char>…<char style="it">different</char>…Same word used in 6:3; ref. note
+        there</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">by means of faith</char>…Or: <char style="it">in the Faith</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">minister</char>…Lit: <char style="it">deacon</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">in</char>…Lit: <char style="it">upon</char></char>
+    </note>
+  <chapter eid="1TI 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1TI 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 2:1" />I urge <char style="it">that </char>first above all <char style="it">else</char> <char style="it">you</char>
+        offer supplications (i.e., urgent requests), prayers (i.e., generic prayers), intercessions (i.e., a
+        two-way exchange in prayer), and giving of thanks<char style="sup">[A]</char>for all people, <verse eid="1TI 2:1" />
+      <verse number="2" style="v" sid="1TI 2:2" />for kings and for every high-ranking official, so that we may spend our time leading a quiet (i.e., free
+        of disturbances, crises, unrest, etc.) and tranquil life in piety and dignity in every respect. <verse eid="1TI 2:2" />
+      <verse number="3" style="v" sid="1TI 2:3" />This is a good thing to do, is acceptable, pleasing, and welcomed when examined by<char style="sup">[a]</char>
+        God our Savior, <verse eid="1TI 2:3" />
+      <verse number="4" style="v" sid="1TI 2:4" />Who wants all people to be saved and to come to the knowledge and understanding of the truth. <verse eid="1TI 2:4" />
+      <verse number="5" style="v" sid="1TI 2:5" />The fact of the matter is that there is one God <char style="it">and there is </char>one mediator between
+        God and mankind, <char style="it">the</char> man Christ Jesus, <verse eid="1TI 2:5" />
+      <verse number="6" style="v" sid="1TI 2:6" />who gave himself <char style="it">to be</char> an atonement<char style="sup">[b]</char>—the price of
+        redemption; the price to buy someone back—for everyone, <char style="it">to be </char>that which serves
+        as proof or makes a solemn statement in every individual period of human history<char style="sup">[c]</char>—<verse eid="1TI 2:6" />
+      <verse number="7" style="v" sid="1TI 2:7" />For which I was appointed a preacher and an apostle (i.e., a missionary)—I’m telling you the truth—no
+        lie—an instructor of Gentiles in what true faith really is<char style="sup">[d]</char>.<verse eid="1TI 2:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 2:8" />After some careful thought, I desire that men in every place pray and pray, lifting up holy hands, keeping
+        a distance from anger and plotting. <verse eid="1TI 2:8" />
+      <verse number="9" style="v" sid="1TI 2:9" />Likewise, <char style="it">I desire that</char> women dress themselves in good taste<char style="sup">[e]</char>
+        <char style="it">and choose an attire </char>with modesty and good judgment combined with self-control,
+        not <char style="it">dress themselves </char>in an <char style="it">exotic</char> hairstyle<char style="sup">[f]</char>
+        and with <char style="it">ultra-expensive </char>gold <char style="it">jewelry</char> or pearls or expensive
+        clothing<char style="sup">[B]</char>, <verse eid="1TI 2:9" />
+      <verse number="10" style="v" sid="1TI 2:10" />but instead <char style="it">I desire that they make themselves beautiful </char>(which is befitting
+        to women sworn to a life of piety to God) by good works.<verse eid="1TI 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 2:11" />Have a woman<char style="sup">[C]</char> learn in silence with total submissiveness<char style="sup">[D]</char>;<verse eid="1TI 2:11" />
+      <verse number="12" style="v" sid="1TI 2:12" />I don’t permit a woman to give instructions <char style="it">for what a person should or shouldn’t do</char><char
+        style="sup">[E]</char>, dominate, or give orders to a man, but rather <char style="it">it is for her
+        </char>to be in silence. <verse eid="1TI 2:12" />
+      <verse number="13" style="v" sid="1TI 2:13" />The fact of the matter is that Adam was first formed <char style="it">out of clay in the Garden of Eden</char>,
+        then Eve <char style="it">was formed</char>. <verse eid="1TI 2:13" />
+      <verse number="14" style="v" sid="1TI 2:14" />Plus Adam was not deceived <char style="it">by the serpent </char>but the woman <char style="it">was
+        deceived</char>, <char style="it">and </char>once deceived, found herself<char style="sup">[g]</char>
+        in transgression<char style="sup">[F]</char>. <verse eid="1TI 2:14" />
+      <verse number="15" style="v" sid="1TI 2:15" />But she will be spared calamity<char style="sup">[G]</char> through the childbearing <char style="it">years
+        </char>if she were to continue in faith, love, and holiness with good judgment combined with self-control<char
+        style="sup">[h]</char>.<verse eid="1TI 2:15" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">when examined by</char>…Lit: <char style="it">before</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">atonement</char>…Also: <char style="it">ransom</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">that which serves as proof or makes a solemn statement in every individual period of
+        human history</char>…Lit<char style="it">: the testimony in their own seasons</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">in what true faith really is</char>…Lit: <char style="it">in faith and truth</char>.
+        A hendiadys. Ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">in good taste</char>…Lit: <char style="it">in an orderly fashion</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">exotic hairstyle</char>…Lit: <char style="it">braided hair</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">found herself</char>…Lit<char style="it">: came to be</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">with good judgment combined with self-control</char>…Same phrase used in v. 9.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">supplications (i.e., urgent requests), prayers (i.e., generic prayers), intercessions
+        (i.e., a two-way exchange in prayer), and giving of thanks</char> …Gk. words <char style="it">deāsis,
+        proseuchā, enteuksis, eucharistia</char>.</char>
+      <char style="fp"></char>
+      <char style="ft">Deāsis <char style="w" strong="G01162">δέησις</char>)—a prayer which asks for wants or needs; urgent
+        requests</char>
+      <char style="fp"></char>
+      <char style="ft">Proseuchā <char style="w" strong="G04335">προσευχή</char>)—lit: <char style="it">speaking out to</char>.
+        This is the general word for prayer. Since a secondary meaning is a place of prayer, it insinuates prayers
+        done in that setting, hence: formal prayers; structured prayers; prayers done at a set time.</char>
+      <char style="fp"></char>
+      <char style="ft">Enteuksis <char style="w" strong="G01783">ἔντευξις</char>)—lit: <char style="it">a falling in with; a
+        meeting with; a coming together; a conference or conversation</char>. The word is rendered <char style="it">intercession.
+        </char>This kind of prayer insinuates a back-and-forth exchange between two parties; some sort of negotiation.
+        The negotiations can be to suspend a judgment incurred because of a violation of the rules or other just
+        circumstances, such as when Abraham negotiated with God to spare Sodom and Gomorrah. In Abraham’s case,
+        the intercession was done on behalf of another party, but intercession can be done for one’s own self.</char>
+      <char style="fp"></char>
+      <char style="ft">Eucharistia <char style="w" strong="G02169">εὐχαριστία</char>)—The giving of thanks to God, which is
+        a kind of prayer.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">in an exotic hairstyle and with ultra-expensive gold jewelry or pearls or expensive
+        clothing</char>…Lit: <char style="it">braided hair and gold or pearls or expensive clothing</char>. As
+        what Paul writes here is identical to what Peter writes in 1 Pet. 3:3, this implies that this was a problem
+        in the early church. Since Paul precedes this by saying that women should dress in good taste, modestly,
+        and exercise good judgment and self-control, it stands to reason that these hairstyling, jewelry, and
+        expensive clothes were not considered to be good taste, modest, or indicative of one exercising good
+        judgment. Since we in modern times don’t consider the use of hairstyling, jewelry, etc. to be bad taste
+        or indicative of a lack of judgment (except for a few very conservative denominations, most of which
+        have reversed their position), this warrants closer examination. </char>
+      <char style="fp"></char>
+      <char style="ft">Let’s assume that the amount of gold in piece a jewelry is equivalent to the gold in a Roman Aureus (8g
+        of gold), which was valued at 25 Denarii, and let’s assume each Denarius represented a day’s labor. If
+        there are 312 working days in a years, this represents around 8% of a laborer’s annual income. So from
+        the perspective of us in modern times, if a person earns $50,000 a year, an 8g piece of gold jewelry
+        would cost around $5000 in today’s money (and the same 8g of gold goes for around $500 nowadays). This
+        means that gold jewelry was more expensive for them back then that it is for us, as this hypothetical
+        example shows an 8-to-1 difference then to now.</char>
+      <char style="fp"></char>
+      <char style="ft">So it was more expensive, in terms of purchasing power, for the average woman to dress in the way that
+        Peter and Paul admonish them not to than it is for a woman to dress herself today in the same way. It
+        may be that these women were spending outrageous amounts of money on their dress, and from the remarks
+        Peter and Paul made, were investing their self-image in their ability to dress lavishly and were trying
+        to imitate the world, including the lasciviousness of worldly women.</char>
+      <char style="fp"></char>
+      <char style="ft">The lesson that modern-day Christian women should learn is to recognize the root-problems here and not
+        be so concerned about the letter of the law. Women shouldn’t be obsessed with dressing in clothing that
+        they can’t afford, trying to imitate those in the world who live an ungodly life, or base their self-image
+        on the way they look. Being beautiful on the inside is more important than trying to make oneself beautiful
+        on the outside.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">woman</char>…The Gk. words rendered <char style="it">man</char> and <char style="it">woman</char>
+        are <char style="it">anār</char> <char style="w" strong="G00435">ἀνήρ</char>) and <char style="it">gunaika
+        </char><char style="w" strong="G01135">γυνή</char>), which are also the same words rendered <char style="it">husband</char>
+        and <char style="it">wife</char>. The ambiguity (ambiguity…I thought Gk. was this ultra-specific language?)
+        is resolved by context. When Paul leaves instructions for the anār and the gunaika in Ephesians and Colossians,
+        the context is obvious: the rendering is husband and wife. Here also the rendering is context-dependent.
+        Is Paul talking about husbands and wives or men and women? Most translations choose men and women. To
+        justify it being husbands and wives, there must be something in the context that indicates that this
+        is the case. The evidence in that favor is that vv. 11,12 are similar to 1 Cor. 14:33–36, which we know
+        was addressed to wives. Also, v. 15 talks about bearing children, which means that it’s addressed to
+        wives. The subject is omitted from the sentence of v. 15, relying on the verb conjugation in conjunction
+        with the context to insinuate that the subject is <char style="it">she. </char>It Gk., it’s not common
+        to have the subject omitted entirely. In lieu of its total omission, a definite article is used as a
+        pronoun, as a definite article is short, perhaps is even a proclitic. But by omitting the subject entirely,
+        the writer assumes that the reader knows beyond any doubt that the subject to be used is easily insinuated
+        by the context. Such is the case. Through this insinuation, v. 15 is tightly bound to the context. Therefore,
+        since v. 15 addresses wives, not women, coupled with the similarity between this passage and 1 Cor. 14:33–36,
+        one may put forth a weighty argument that the entire context of vv. 11–15 is of wives specifically, not
+        of women in general.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">total submissiveness</char>…Lit: <char style="it">all submission</char>. Ref. notes
+        of Eph. 5:22; 1 Pet. 2:18 which explain the difference between <char style="it">submit </char>and <char
+        style="it">obey.</char></char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">give instructions for what a person should or shouldn’t do</char>…Also: <char style="it">teach</char>.
+        The Gk. word <char style="it">didaskō</char> (διδάσκω/Strong’s ). The meaning of this word extends beyond
+        mere definition of the English word <char style="it">to teach</char>, and includes giving instruction
+        as to what rules a person must follow. It’s used this way in Acts 15:1 (ref. note there). Since what
+        follows the word didaskō here in v. 12 is “dominate” and “give orders,” it stands to reason that didaskō
+        is used in this context to refer to giving instructions on what rules one should follow more so than
+        meaning teaching (explaining).</char>
+      <char style="fp"></char>
+      <char style="ft">Now, in vv. 13, 14, Paul gives the reasons why a woman shouldn’t be giving instruction. First is the
+        fact that Adam was created before Eve and is therefore receives the leadership position. Second, women
+        are more easily deceived, more so than men (cults usually have more women than men, for example), and
+        for this reason are less qualified to be instructors. In spite of this, Titus 1:3 allows women to be
+        teachers.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">Plus Adam was not deceived by the serpent but the woman, once deceived, found herself
+        in transgression</char>…We must keep in mind that Paul credits Adam—not Eve—with the original sin (Rom.
+        5:14), in spite of centuries of Christian teaching to the contrary. Though both Adam and Eve sinned in
+        the garden, Adam was not deceived when he partook of the forbidden fruit, and this makes his sin more
+        heinous than Eve’s, as—according to this verse here—he knew exactly what he was doing when he bit the
+        fruit. It was bold-faced disobedience in light of the full understanding and recollection of God’s commandment.</char>
+    </note>
+    <note caller="[G]" style="f">
+      <char style="fk">[G]</char>
+      <char style="ft"><char style="it">spared calamity through the childbearing</char> <char style="it">years</char> …Lit:
+        <char style="it">saved the childbearing</char>. The Gk. word <char style="it">saved </char>rendered <char
+        style="it">spared calamity </char>here is not in reference to her receiving Christ. Some that this is
+        a promise for a woman escape death or harm when giving birth, which up until modern times was a serious
+        threat to a woman’s well-being.</char>
+    </note>
+  <chapter eid="1TI 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1TI 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 3:1" />You can count on this statement being true: if someone aspires to be a bishop<char style="sup">[a]</char>
+        (i.e., a head pastor), he desires to do something excellent<char style="sup">[b]</char>. <verse eid="1TI 3:1" />
+      <verse number="2" style="v" sid="1TI 3:2" />So a bishop candidate must have no moral character flaws<char style="sup">[c]</char>; must be the husband
+        of one woman<char style="sup">[A]</char> (i.e., not divorced and remarried); self-controlled and exercise
+        moderation in vices such as drinking; be sensible, serious, and level-headed; be respected, held in high
+        esteem, and honorable; be hospitable, able to reach out to others, and likes and can work with people
+        who are different than himself; be capable of giving instructions to others or teaching them; <verse eid="1TI 3:2" />
+      <verse number="3" style="v" sid="1TI 3:3" />not be a heavy drinker or have a drinking problem; not a bully, a brawler, or someone who gets into fights,
+        but yielding, gentle, courteous, and tolerant instead, and avoids fights; not fondly attached to money;<verse eid="1TI 3:3" />
+      <verse number="4" style="v" sid="1TI 3:4" /><verse eid="1TI 3:4" />
+      <verse number="5" style="v" sid="1TI 3:5" />but if someone can’t preside over his own household, how will he look after God’s household?); <verse eid="1TI 3:5" />
+      <verse number="6" style="v" sid="1TI 3:6" />not a newbie, so that he won’t become full of himself or conceited and fall to <char style="it">the </char>Accuser’s
+        (the Devil’s) true accusations of guilt. <verse eid="1TI 3:6" />
+      <verse number="7" style="v" sid="1TI 3:7" />Outsiders must have a good report to give about him, so that he won’t fall into disgrace: the Accuser’s
+        trap<char style="sup">[d]</char>.<verse eid="1TI 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TI 3:8" />Likewise, deacons<char style="sup">[a]</char> (i.e., associate pastors and ministry directors) <char
+        style="it">must be</char> honorable and respectable; not insincere or say one thing one moment and contradict
+        it another; not consumed with drinking<char style="sup">[e]</char>; not always trying to make a fast
+        buck through shady business practices; <verse eid="1TI 3:8" />
+      <verse number="9" style="v" sid="1TI 3:9" />possessing the mystery of the Faith in a clean conscience. <verse eid="1TI 3:9" />
+      <verse number="10" style="v" sid="1TI 3:10" />Let these <char style="it">candidates </char>first be examined and approved, then let them serve as deacons
+        <char style="it">after </char>being <char style="it">found </char>to have no moral character flaws.<verse eid="1TI 3:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 3:11" /><char style="it">The ministers’</char> wives must be honorable and respectable as well; not slanderers;
+        self-controlled and exercising moderation in vices such as drinking; faithful in all respects. <verse eid="1TI 3:11" />
+      <verse number="12" style="v" sid="1TI 3:12" />Make sure<char style="sup">[f]</char> deacons are the husbands of one wife (i.e., have not been divorced
+        and remarried); do a good job of presiding over their children and over their household. <verse eid="1TI 3:12" />
+      <verse number="13" style="v" sid="1TI 3:13" />In fact, those who have done a good job serving as a deacon take a big step forward in their own lives<char
+        style="sup">[g]</char> and acquire much boldness and confidence in <char style="it">the </char>Faith
+        which is in Christ Jesus.<verse eid="1TI 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TI 3:14" />I’m writing these things to you and hoping to visit you post-haste. <verse eid="1TI 3:14" />
+      <verse number="15" style="v" sid="1TI 3:15" />But in case I’m delayed, <char style="it">I’m writing these things to you now </char>so that you would
+        know for a fact how <char style="it">the </char>house of God, which very thing is the church of the Living
+        God, a pillar and a chief supporting base of the truth, must be run<char style="sup">[h]</char>. <verse eid="1TI 3:15" />
+      <verse number="16" style="v" sid="1TI 3:16" />And great, admittedly, is the mystery<char style="sup">[B]</char> of piety:
+    </para>
+    <para style="pi" vid="1TI 3:16"></para>
+    <para style="pi" vid="1TI 3:16"><char style="it">He</char> who appeared in <char style="it">the </char>flesh</para>
+    <para style="pi" vid="1TI 3:16">Was declared righteous in spirit<char style="sup">[i]</char></para>
+    <para style="pi" vid="1TI 3:16">Was seen by angels</para>
+    <para style="pi" vid="1TI 3:16">Was preached to the Gentiles</para>
+    <para style="pi" vid="1TI 3:16">Was believed by the world</para>
+    <para style="pi" vid="1TI 3:16">Was taken up in glory<verse eid="1TI 3:16"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">bishops</char>…<char style="it">deacons</char>…Ref. note of 1 Cor. 15:24</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">he desires to do something excellent</char>…Lit: <char style="it">he desires of a good
+        work</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">moral character flaws</char>…Or: <char style="it">unimpeachable</char>. The NASB renders
+        this “beyond reproach.”</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">disgrace: the Accuser’s trap</char>…Lit: <char style="it">disgrace and a snare of the
+        Devil</char>. A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">not consumed with drinking</char>…Lit: <char style="it">not occupied with </char>[<char
+        style="it">drinking</char>] <char style="it">a lot of wine</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">make sure</char>…Lit: <char style="it">let</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">take a big step forward in their own lives</char>…Lit: <char style="it">acquire an excellent
+        step in themselves</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">run</char>…Also: <char style="it">conducted</char>; <char style="it">have as a lifestyle</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">in spirit</char>…Or: <char style="it">in</char> [<char style="it">the</char>] <char
+        style="it">Spirit</char>. Though the GT is ambiguous, the preceding stanza’s “in the flesh” skews the
+        resolution to <char style="it">in spirit </char>rather than <char style="it">in the Spirit.</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the husband of one woman</char>…This covers both polygamy (incidentally) and marriage,
+        divorce, then remarriage (primarily). Many interpret this proscription as applying to polygamy, but polygamy
+        wasn’t practiced in the parts of the Roman Empire where Paul’s churches were. Furthermore, in 5:9 when
+        Paul is talking about widows, he says that she should be “the wife of one man.” This is the same wording
+        in GT as “husband of one woman,” except in reverse. If “husband of one woman” were talking about polygamy—in
+        this case, a single man having multiple wives at the same time—then “wife of one man” would have to be
+        talking about a single woman having multiple husbands at the same time—something which is unheard of.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">mystery</char>…The “mystery of piety” here and the mystery of “Christ in you, the hope
+        of glory” (Col. 1:27) refines the definition of <char style="it">mystery </char>as used in the NT: a
+        “mystery” is something which is profound.</char>
+    </note>
+  <chapter eid="1TI 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1TI 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 4:1" />The Spirit says explicitly that in later periods of human history<char style="sup">[a]</char> some will
+        revolt<char style="sup">[b]</char> from the Faith, their attention occupied by deceiving spirits and
+        doctrines or teachings of demons, <verse eid="1TI 4:1" />
+      <verse number="2" style="v" sid="1TI 4:2" />telling lies in hypocrisy, having reached the point where they’ve seared their own conscience, <verse eid="1TI 4:2" />
+      <verse number="3" style="v" sid="1TI 4:3" />hindering or preventing getting married, abstaining from foods that God created to be taken <char style="it">and
+        consumed</char> with thanksgiving by those who believe and have perceived, recognized, and understood
+        the truth. <verse eid="1TI 4:3" />
+      <verse number="4" style="v" sid="1TI 4:4" /><char style="it">And they are free to partake </char>because God’s entire creation is excellent, and
+        nothing which is received with thanksgiving is to be rejected, <verse eid="1TI 4:4" />
+      <verse number="5" style="v" sid="1TI 4:5" />for <char style="it">the food which you eat </char>is designated holy on account of <char style="it">the
+        </char>word of God and <char style="it">on account of </char>a request offered in prayer.<verse eid="1TI 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TI 4:6" />By teaching the comrades<char style="sup">[c]</char> these things until they’re built into them, you’ll
+        be a fine minister<char style="sup">[d]</char> of Christ Jesus, firming up the words of the Faith and
+        of the quality teaching which you have closely followed. <verse eid="1TI 4:6" />
+      <verse number="7" style="v" sid="1TI 4:7" />Refuse to receive <char style="it">things which are </char>profane and desecrated, <char style="it">things
+        which are </char>old wives’ tales. Put yourself on a training program (like you do at the gym) towards
+        <char style="it">building yourself up in </char>piety. <verse eid="1TI 4:7" />
+      <verse number="8" style="v" sid="1TI 4:8" />Physical training, you see, is beneficial to a small degree, but piety is beneficial in every respect,
+        holding a promise of life (i.e., that special fullness of life) in the present time and in the time to
+        come.<verse eid="1TI 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TI 4:9" />You can count on <char style="it">that</char> statement <char style="it">I just made </char>being true,
+        and it deserves to be accepted any way you look at it. <verse eid="1TI 4:9" />
+      <verse number="10" style="v" sid="1TI 4:10" />In fact we work hard and strive for this, since we have set our hope on <char style="it">the </char>Living
+        God, Who is <char style="it">the </char>Savior of all people, especially those who believe.<verse eid="1TI 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 4:11" />Charge <char style="it">the comrades with</char> these things and instruct <char style="it">them in them</char>.<verse eid="1TI 4:11" />
+      <verse number="12" style="v" sid="1TI 4:12" />Don’t let anyone think less of you or treat you disrespectfully because you’re young, but instead become
+        an example for the believers <char style="it">to follow</char> in speech, in manner, in love, in faith,
+        in purity (<char style="it">and the list goes on</char>).<verse eid="1TI 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TI 4:13" />Stay busy with <char style="it">Scripture </char>reading, with exhortation and encouragement, with teaching
+        (<char style="it">and the list goes on</char>) until I get there. <verse eid="1TI 4:13" />
+      <verse number="14" style="v" sid="1TI 4:14" />Don’t neglect the <char style="it">spiritual </char>gift<char style="sup">[e]</char> in you which was
+        given to you through prophecy and accompanied by the laying on of hands by the elders (i.e., the church
+        board). <verse eid="1TI 4:14" />
+      <verse number="15" style="v" sid="1TI 4:15" />Put these things <char style="it">I’m writing to you about </char>into practice; be in them (i.e., be
+        totally into them), so that your progress will be quite noticeable to everyone. <verse eid="1TI 4:15" />
+      <verse number="16" style="v" sid="1TI 4:16" />Pay close attention to yourself—how you are and what you do—and to your doctrine and teaching. Immerse
+        yourself in them. You see, by so doing, you’ll be preserving yourself, protecting yourself, and keeping
+        yourself from harm, you and those who listen to you.<verse eid="1TI 4:16" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">periods of human history</char>…Lit: <char style="it">seasons</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">revolt</char>…Lit: [<char style="it">go</char>] <char style="it">stand away from</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">minister</char>…Lit: <char style="it">deacon</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">spiritual gift</char>…same wording as what’s found in 1 Cor. 12; refers to the same</char>
+    </note>
+  <chapter eid="1TI 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1TI 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 5:1" />Don’t chide an older man, speaking to him condescendingly, but address him as though he goes by “Mr.”<char
+        style="sup">[a]</char>, <verse eid="1TI 5:1" />
+      <verse number="2" style="v" sid="1TI 5:2" />an older woman like she’s “Mrs.”, an older teen to twenties male like he’s your comrade<char style="sup">[b]</char>,
+        an older teens to twenties female like she’s your woman-comrade <char style="it">but </char>with purity
+        in every respect.<verse eid="1TI 5:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1TI 5:3" />Give financial support to a widow<char style="sup">[c]</char> who really<char style="it"> </char>is a
+        widow, <char style="it">a woman who is destitute because she has no one to live with to help support
+        her</char>. <verse eid="1TI 5:3" />
+      <verse number="4" style="v" sid="1TI 5:4" />But if a given widow has children or grandchildren, let <char style="it">the children and grandchildren</char>
+        learn that their highest priority duty is to their household (i.e., those in their immediate family,
+        the ones they currently or used to live with) and <char style="it">that they ought to </char>pay those
+        who were their parents <char style="it">and took care of them growing up</char> back with financial compensation;
+        this is pleasing when put to the close scrutiny of<char style="sup">[d]</char> God, you see.<verse eid="1TI 5:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1TI 5:5" />Now the widow who’s truly destitute and has reached the point where she’s all alone <char style="it">with
+        no one to take care of her</char>—<char style="it">you’ll find that this sort of woman </char>has set
+        her hope on God, and that she continuously, consistently prays day and night offering up supplications
+        and prayers<char style="sup">[e]</char>; <verse eid="1TI 5:5" />
+      <verse number="6" style="v" sid="1TI 5:6" />but the self-indulgent, luxury-seeking, pleasure-loving woman, <char style="it">though</char> living
+        <char style="it">in terms of the medical definition of being alive, </char>has <char style="it">already</char>
+        died.<verse eid="1TI 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1TI 5:7" />Give the order that these<char style="it"> rules be followed</char>, so that there’d be no way anyone
+        could point a finger at <char style="it">those who follow them</char>. <verse eid="1TI 5:7" />
+      <verse number="8" style="v" sid="1TI 5:8" />But if someone won’t provide for his own <char style="it">relatives</char>, especially those of his own
+        household, he’s denied the Faith and is worse than an unbeliever.<verse eid="1TI 5:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TI 5:9" />Enroll a widow <char style="it">into the church support program</char> if she’s not less than sixty years
+        old, the wife of one husband (i.e., not married, divorced, then remarried before being a widow); <verse eid="1TI 5:9" />
+      <verse number="10" style="v" sid="1TI 5:10" /><char style="it">enroll her</char> <char style="it">if</char> there are eyewitness accounts and testimonies
+        of her good deeds; <char style="it">enroll her</char> if she raised children; if she shows hospitality;
+        if she washed the saints’ feet (i.e., done demeaning chores for the church and its members); if she helped
+        those in distress; if she’s devoted herself to good works of every sort.<verse eid="1TI 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 5:11" />But deny <char style="it">requests to enroll </char>widows who are young: you see, when they become overpowered
+        with physical, sensual desires contrary to <char style="it">their vow to</char> Christ<char style="sup">[A]</char>
+        in their wanting to get married, <verse eid="1TI 5:11" />
+      <verse number="12" style="v" sid="1TI 5:12" />they’ll be “guilty as charged” (so to speak) because they abandoned their previous obligation. <verse eid="1TI 5:12" />
+      <verse number="13" style="v" sid="1TI 5:13" />At the same time they learn to be lazy, making the rounds from house to house—not just lazy but they
+        also run at the mouth and stick their noses where they’re not wanted, saying things that shouldn’t be
+        said.<verse eid="1TI 5:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TI 5:14" />So, after thinking about it, I want young <char style="it">widows</char> to get married, have children,
+        and take responsibility for their house and for those in it, so they won’t give the Opponent any opportunity
+        to verbally abuse them, scolding and insulting them. <verse eid="1TI 5:14" />
+      <verse number="15" style="v" sid="1TI 5:15" />The fact of the matter is that some have already gone in a different direction to become ardent followers
+        of Satan<char style="sup">[f]</char>. <verse eid="1TI 5:15" />
+      <verse number="16" style="v" sid="1TI 5:16" />If a particular woman who is a believer has widows <char style="it">in her care</char><char style="sup">[g]</char>,
+        have her help them and not be a burden on the church, so that the ones who really are widows <char style="it">and
+        are destitute as such</char> may be helped.<verse eid="1TI 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 5:17" />Let the elders (i.e., those on the church board) who do a good job of running things be entitled to twice
+        their pay<char style="sup">[h]</char>, especially those who work hard at speaking and teaching. <verse eid="1TI 5:17" />
+      <verse number="18" style="v" sid="1TI 5:18" />You see, the Scripture says “do not muzzle the ox while threshing” and “the worker is entitled to his
+        paycheck.”<verse eid="1TI 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TI 5:19" />Don’t accept an accusation of wrongdoing against an elder except if <char style="it">it’s leveled </char>by
+        two or three people who solemnly swear that it’s true.<verse eid="1TI 5:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TI 5:20" />Expose those who are sinners in front of everyone, so that everyone will become afraid <char style="it">of
+        sinning</char>.<verse eid="1TI 5:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1TI 5:21" />I solemnly affirm these things and declare them to be true before God, Christ Jesus, and the special
+        angels<char style="sup">[j]</char>, so that you would guard these things without prejudice, doing nothing
+        out of favoritism.<verse eid="1TI 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="1TI 5:22" />Don’t be too eager to lay hands on anyone <char style="it">and thereby make them a minister</char> nor
+        <char style="it">should you</char> participate in others’ sins: keep yourself unsullied.<verse eid="1TI 5:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1TI 5:23" />Don’t <char style="it">just</char> drink water <char style="it">only anymore</char>, but use a little
+        wine <char style="it">as a medicine of a sort </char>because of <char style="it">your</char> stomach
+        and your frequent ailments<char style="sup">[k]</char>.<verse eid="1TI 5:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="1TI 5:24" />For some people, their sins are obvious, paraded before them with much fanfare for everyone to see in
+        front of them on their way to judgment; but some come right behind them, quietly, unannounced, and unexpected
+        by everyone<char style="sup">[B]</char>. <verse eid="1TI 5:24" />
+      <verse number="25" style="v" sid="1TI 5:25" />Deeds <char style="it">operate</char> the same way <char style="it">that I just described about sin</char>:
+        the deeds which are exemplary are obvious <char style="it">to everyone</char>, but the ones which are
+        otherwise can’t be kept hidden.<verse eid="1TI 5:25" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">address him as though he goes by “Mr.”</char>…Lit: <char style="it">entreat as father</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">give financial support to a widow</char>…Lit: <char style="it">honor</char> [<char style="it">give
+        honorariums to</char>] <char style="it">a widow</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">when put to the close scrutiny of</char>…Lit: <char style="it">before</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">supplications and prayers</char>…Ref. note of 2:1</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">become ardent followers of Satan</char>…Or: <char style="it">become disciples of Satan</char>…Lit:
+        <char style="it">behind Satan</char>. A NT expression; ref. note of Matt. 4:19.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">If a particular woman who is a believer has widows</char> <char style="it">in her care</char>…I’m
+        unsure whether this is correct</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">twice their pay</char>…Lit: <char style="it">double honor</char> [<char style="it">honorarium</char>]</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">chosen</char>…Or: <char style="it">special</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">special angels</char>…Lit: <char style="it">chosen angels</char>. This might be a reference
+        to the seraphim and cherubim.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">ailments</char>…Lit: <char style="it">weaknesses</char>. Ref. note of John 5:3.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">overpowered with physical, sensual desires contrary to their vow to Christ</char>…The
+        single Gk. word rendered <char style="it">overpowered with physical, sensual desires</char> is a word
+        Paul coins here, not found anywhere else. Paul may be referring to sexual desire, or he may be referring
+        to the desire of a woman to become more affluent through marriage, which would bring those extra creature-comforts
+        she misses in her poverty (or both perhaps.) To this second point, the root for this Gk. word appears
+        in Rev. 18:7,9, and is rendered <char style="it">luxury </char>there.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">paraded before them with much fanfare for everyone to see in front of them on their
+        way to judgment; but some come right behind them, quietly, unannounced, and unexpected by everyone</char>…Lit:
+        <char style="it">going before to judgment; but some follow right behind</char>. A metaphor of the victory
+        parade of a general who’s won a great victory and wishes to flaunt his victory when he marches into the
+        city. The procession is orchestrated so that, when arriving in the city, the spoils of war, the glitz,
+        the glamor go first. This is done to attract attention and applause and to drum up awe and excitement.
+        Then comes the general. After him comes the slaves he’s captured, etc. They get little attention. In
+        the metaphor, the sins of some people are well-known, everyone has talked and talked about them, dissecting
+        every bit of the evil deed. But the sins of some people are a well-kept secret, but they will make their
+        way to judgment.</char>
+    </note>
+  <chapter eid="1TI 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="1TI 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TI 6:1" />Anyone at all who’s forced to be a slave<char style="sup">[a]</char>, let him esteem his master worthy
+        of total honor, so that God’s reputation and the things <char style="it">the church</char> believes in
+        not be bad-mouthed. <verse eid="1TI 6:1" />
+      <verse number="2" style="v" sid="1TI 6:2" />They who have masters who are believers mustn’t despise them because they’re fellow-comrades<char style="sup">[b]</char>,
+        but should serve them all the more, because they are faithful and beloved, they who are having a surrogate
+        take their place in assisting them in what’s beneficial.</para>
+    <para style="p" vid="1TI 6:2">Give instructions in these <char style="it">matters</char> and exhort and encourage <char style="it">them
+        to follow them. </char><verse eid="1TI 6:2"/>
+      <verse number="3" style="v" sid="1TI 6:3" />If anyone teaches things which are…shall we say…different<char style="sup">[A]</char>, and isn’t headed
+        in the direction <char style="it">of delivering</char> sound messages, <char style="it">namely </char>messages
+        of our Lord Jesus Christ and teaching in line with godliness, <verse eid="1TI 6:3" />
+      <verse number="4" style="v" sid="1TI 6:4" />then he’s become conceited, understanding nothing, but has a sick desire for debates and controversies
+        instead, out of which he becomes envious, engages in quarrelling and strife, he slanders, becomes paranoid,<verse eid="1TI 6:4" />
+      <verse number="5" style="v" sid="1TI 6:5" />constantly arguing with people who are morally depraved whose mind is also deprived of the truth, of
+        the opinion that godliness is a means of gain—<verse eid="1TI 6:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TI 6:6" />—But godliness with contentment alongside it <char style="it">actually </char>is a means of great gain.<verse eid="1TI 6:6" />
+      <verse number="7" style="v" sid="1TI 6:7" />We brought nothing <char style="it">with us</char> into the world <char style="it">when we were born</char>,
+        you see, and we sure can’t<char style="sup">[c]</char> take anything out <char style="it">of it</char>.<verse eid="1TI 6:7" />
+      <verse number="8" style="v" sid="1TI 6:8" />Regular meals and <char style="it">adequate</char> clothing—we’ll be satisfied with these things. <verse eid="1TI 6:8" />
+      <verse number="9" style="v" sid="1TI 6:9" />But those who want and plan to get richer and richer<char style="sup">[B]</char> fall into temptation,
+        into a trap, and into many strong desires which are unintelligent, dull-witted, and harmful. <verse eid="1TI 6:9" />
+      <verse number="10" style="v" sid="1TI 6:10" />The fact of the matter is that a <char style="it">potential </char>root-<char style="it">cause</char>
+        of every type of the evils <char style="it">you see in the world </char>is the love of money, which some
+        who’ve made it their goal <char style="it">to get rich </char>have veered off from the Faith and have
+        skewered themselves through with a spit (like when roasting meat), skewering themselves all over with
+        a lot of misery, with many mental pains, and with a tremendous amount of <char style="it">undue </char>suffering.<verse eid="1TI 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TI 6:11" />Now you, oh man of God—run away as fast as you can from these things. Pursue righteousness, piety, faith,
+        love, patience, gentleness, <char style="it">and the list goes on. </char><verse eid="1TI 6:11" />
+      <verse number="12" style="v" sid="1TI 6:12" />Fight the good fight of the Faith. Grab and hold onto that special fullness of life, eternal life, to
+        which ends you were called and for which you confessed the Good Confession before many witnesses.<verse eid="1TI 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TI 6:13" />I charge you before God the Life-Causer of everything and Christ Jesus who submitted the Good Confession
+        as testimony to Pontius Pilate <verse eid="1TI 6:13" />
+      <verse number="14" style="v" sid="1TI 6:14" />to keep the<char style="it"> </char>commandment <char style="it">I just wrote </char>spotless and blameless
+        until the appearance of our Lord Jesus Christ, <verse eid="1TI 6:14" />
+      <verse number="15" style="v" sid="1TI 6:15" />which <char style="it">appearance </char>he will indicate in separate eras of time, he the blessed and
+        singular authority, the King of the kings and Lord of the lords, <verse eid="1TI 6:15" />
+      <verse number="16" style="v" sid="1TI 6:16" />the one having immortality, whose resides <char style="it">in</char> unapproachable light which no one
+        has seen or is able to stare at: to him <char style="it">be </char>honor and might forever. Amen (i.e.,
+        let us pause a moment for that remark to sink in).<verse eid="1TI 6:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TI 6:17" />Charge those who are rich in <char style="it">this</char> present age not to be high-minded or to set
+        their hope on the uncertainty of wealth, but to instead <char style="it">set it </char>on God the One
+        Who richly makes available to us all <char style="it">sorts of </char>things for <char style="it">our
+        </char>enjoyment, <verse eid="1TI 6:17" />
+      <verse number="18" style="v" sid="1TI 6:18" /><char style="it">and makes these things available to us so we can</char> be doing good things to others,
+        <char style="it">so that we can </char>become richer in top-notch works, <char style="it">so that they
+        can </char>be generous, willing to share, <verse eid="1TI 6:18" />
+      <verse number="19" style="v" sid="1TI 6:19" />storing away for themselves a good nest egg<char style="sup">[d]</char> for the future, so that they
+        would grab and hold onto what life really is.<verse eid="1TI 6:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TI 6:20" />Oh, Timothy, guard what’s been entrusted to you, avoid the desecrated, profane kind of useless chatter
+        and the contradictions of so-called knowledge and understanding, <verse eid="1TI 6:20" />
+      <verse number="21" style="v" sid="1TI 6:21" />which some, <char style="it">by </char>professing <char style="it">these things</char>, have veered off
+        into a ditch with respect to the Faith.</para>
+    <para style="p" vid="1TI 6:21">The grace <char style="it">of God be </char>with you all.<verse eid="1TI 6:21"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">forced to be a slave</char>…Lit: <char style="it">servants under the yoke</char>. The
+        Gk. word <char style="it">doulos </char><char style="w" strong="G01401">δοῦλος</char>)<char style="it">,
+        </char>which is either servant or slave, is narrowed in scope to mean <char style="it">slave </char>and
+        not <char style="it">servant </char>by the phrase <char style="it">under the yoke. </char>Also, plural
+        words in this verse changed to singular for readability.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">fellow-comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">and we sure can’t</char>…Lit: <char style="it">since we can’t</char>. Various manuscripts
+        differ here, and probably because what’s in several of the better manuscripts makes little sense.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">nest egg</char>…Lit: <char style="it">foundation</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">teaches things which are…shall we say…different</char>…All these are the single Gk.
+        verb <char style="it">heterdidsakō </char><char style="w" strong="G02085">ἑτεροδιδασκαλέω</char>), “to
+        different-teach.” This word only appears twice in the NT; Paul appears to have coined it. From the sound
+        of it, he’s describing those who teach things which are perhaps novel, appealing, and sound good on the
+        surface. Paul isn’t saying they are necessarily false teachings, they’re just different and warrant keeping
+        a close eye on, because there may be a false doctrine lurking under the guise of a new, welcoming message.</char>
+    </note>
+  <chapter eid="1TI 6" />
+</usx>

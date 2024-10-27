@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="JUD" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Jude</para>
+  <para style="toc1">The Epistle of Jude</para>
+  <para style="toc2">Jude</para>
+  <para style="toc3">Jude</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">JUDE</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">This epistle written in an unambiguous, fluid, textbook-like style not only demonstrates the writer’s
+    command of Greek but also shows his clarity of mind and ability to express himself throughout a long
+    warning about “certain people who have infiltrated our community.” But at the bottom of the epistle,
+    there is some meat for Christians to feed on, and most gravitate towards this.</para>
+  <para style="ipi">The author of this epistle writes in a style which is similar to that of 2 Peter, and the subject-matter
+    of both epistles is the same. In fact, some uncommon words—and even phrases—are common to both 2 Peter
+    and Jude. For example: <char style="it">gloom </char>(v. 6); <char style="it">glories </char>(v. 8 &amp;
+    2 Pet. 2:10); the specific usage of <char style="it">blasphemy </char>(v. 9); <char style="it">ridiculous
+    creature in nature </char>(v. 10 &amp; 2 Pet. 2:12); plus several more. Is it plausible that the same
+    author wrote both epistles? The commonality of words and phrases means that, at a minimum, both authors
+    were members of the same tight circle of associates.</para>
+  <para style="ipi">Verses 6 and 7 build on a theory about fallen angels which scholars believe comes from the Book of Enoch,
+    which the epistle quotes in vv. 14,15, treating the source material as though it’s canonical. And in
+    v. 9 he draws from an account about Moses which comes from a writing other than the OT, but at the same
+    time assumes the reader is familiar with the story.</para>
+  <para style="ipi">It’s no surprise, then, that when the church fathers gathered to settle the NT canon, these two books
+    were heavily contested.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="JUD 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="JUD 1:1" />Jude, the servant of Jesus Christ <char style="it">and the </char>brother of James:
+    </para>
+    <para style="p" vid="JUD 1:1">To the beloved in the Father-God and in Jesus Christ, those who have been preserved as God’s elect:<verse eid="JUD 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="JUD 1:2" />Mercy, peace, and love to you many times over.<verse eid="JUD 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="JUD 1:3" />Beloved, I’ve got to write to you—and I’m writing as quickly as possible—about our mutual salvation,
+        to plead with you to contend this once for the holy faith that was delivered to you. <verse eid="JUD 1:3" />
+      <verse number="4" style="v" sid="JUD 1:4" />You see, certain<char style="sup">[a]</char> people have infiltrated <char style="it">our community,
+        </char>all of whom have already been described in Scripture as <char style="it">having</char> <char style="it">the
+        consequence of their actions </char>result in judgment; ungodly men, transforming our God’s grace into
+        debauchery and denying the one master, our Lord Jesus Christ.<verse eid="JUD 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JUD 1:5" />Now I wish to remind you…A <char style="it">long time</char> ago, <char style="it">as </char>you’re well-aware,
+        the Lord rescued a people from Egypt—the second <char style="it">time they fell into a crisis, </char>He
+        wiped out those who refused to have faith and believe; <verse eid="JUD 1:5" />
+      <verse number="6" style="v" sid="JUD 1:6" />not only that but He’s imprisoned angels who didn’t stick to the domain which was their right to exercise
+        authority over<char style="it"> </char>but instead abandoned their habitat, which resulted in a verdict
+        being delivered against them when the scores were settled<char style="sup">[b]</char>, <char style="it">leading
+        </char>to everlasting bonds <char style="it">and being </char>oppressed by gloom. <verse eid="JUD 1:6" />
+      <verse number="7" style="v" sid="JUD 1:7" />Like Sodom and Gomorrah and those in the surrounding cities, they were put on exhibit as an example of
+        undergoing the punishment of eternal fire for having committed gross acts of sexual immorality in having
+        pursued <char style="it">having sex with </char>a different kind of physical body <char style="it">than
+        their own</char><char style="sup">[c]</char> the same way those other guys (<char style="it">those angels</char>)
+        did. <verse eid="JUD 1:7" />
+      <verse number="8" style="v" sid="JUD 1:8" />Nevertheless—sure—those <char style="it">people</char> who also dream about <char style="it">having sex
+        with different kinds of </char>physical bodies defile <char style="it">themselves</char>, but <char style="it">on
+        top of that </char>they <char style="it">also</char> reject things pertaining to authority structures,
+        and <char style="it">yet on top of that </char>bad-mouth the sacrosanct<char style="sup">[d]</char>.<verse eid="JUD 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="JUD 1:9" />Now when the archangel Michael was in the middle of an argument with the devil over Moses’s body<char
+        style="sup">[A]</char>, he didn’t dare rain an invective judgment down on him, but instead said, “May
+        you be rebuked by the Lord!” <verse eid="JUD 1:9" />
+      <verse number="10" style="v" sid="JUD 1:10" />Now those people indeed bad-mouth things which they have no direct knowledge of, those whose understanding
+        has a nature like ridiculous creatures; they’re being destroyed in these matters by their decadence.<verse eid="JUD 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JUD 1:11" />Woe to them because they’ve followed the same trajectory as Cain; and <char style="it">by</char> <char
+        style="it">following </char>in<char style="it"> </char>the deception of Balaam, Balaam’s reward has been
+        poured out on them; and <char style="it">by analogy </char>in the ridiculousness of Korah’s <char style="it">rebellion,
+        </char>they were destroyed.<verse eid="JUD 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JUD 1:12" />These are the ones who are stains in your love-feasts, irreverently<char style="sup">[e]</char> joining
+        you in festive merry-making—self-guided, self-directed; moisture-less clouds that get driven past by
+        the wind<char style="sup">[B]</char>; trees which yield nothing at harvest-season<char style="sup">[f]</char>,
+        absolutely and completely dead<char style="sup">[g]</char> and uprooted; <verse eid="JUD 1:12" />
+      <verse number="13" style="v" sid="JUD 1:13" />savage ocean waves, their shame causing the foam <char style="it">that waves naturally generate</char>;
+        wandering stars for whom the gloom of darkness has been forevermore reserved.<verse eid="JUD 1:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="JUD 1:14" />Now Enoch, the seventh <char style="it">generation</char> from Adam, prophesied about them, saying:
+    </para>
+    <para style="p" vid="JUD 1:14">“Look at this now—the Lord came with his holy myriads <verse eid="JUD 1:14"/>
+      <verse number="15" style="v" sid="JUD 1:15" />to enact judgment against everyone and convict every living being in regard to all their ungodly works
+        which they did in an ungodly way and about all the harsh<char style="sup">[h]</char> things which ungodly
+        sinners spoke against Him.”<verse eid="JUD 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JUD 1:16" />Those guys are grumblers, fault-finders, going here and there following their intense, personal desires,
+        and their mouths speak condescendingly, flattering others in order to gain favors.<verse eid="JUD 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="JUD 1:17" />Now you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ, <verse eid="JUD 1:17" />
+      <verse number="18" style="v" sid="JUD 1:18" />that they kept on telling us, “At a critical juncture in time<char style="sup">[i]</char>, from among
+        the ungodly there will be mockers going around following their intense, personal desires.” <verse eid="JUD 1:18" />
+      <verse number="19" style="v" sid="JUD 1:19" />These are the ones who cause division; they are naturally-minded and dominated by the mental facilities,
+        not possessing the Spirit.<verse eid="JUD 1:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="JUD 1:20" />But you, beloved, edifying yourselves—building yourselves up—in your most holy faith, praying in the
+        Holy Spirit, <verse eid="JUD 1:20" />
+      <verse number="21" style="v" sid="JUD 1:21" />keep<char style="sup">[j]</char> yourself in the love of God while awaiting the mercy of our Lord Jesus
+        Christ resulting in that special fullness of life, eternal life.<verse eid="JUD 1:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="JUD 1:22" />On the one hand, have mercy on some, <char style="it">namely </char>those who are in doubt, <verse eid="JUD 1:22" />
+      <verse number="23" style="v" sid="JUD 1:23" />but on the other hand, grab some others and jerk them out of the fire. Now have mercy on <char style="it">these
+        people</char> reverently and with trepidation, hating even the shirt<char style="sup">[k]</char> dirtied
+        by the flesh.<verse eid="JUD 1:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="JUD 1:24" />Now to the One who’s able to guard over you keeping you from falling prey to temptation or making a mistake
+        and to present you before His glory without blemish with exultation, <verse eid="JUD 1:24" />
+      <verse number="25" style="v" sid="JUD 1:25" />to our One Savior-God <char style="it">who saves </char>through Jesus Christ our Lord <char style="it">be
+        </char>glory, majesty, power, and authority in the forefront of the entire age, in the present moment,
+        and extending to all the ages <char style="it">to come</char>. Amen (i.e., and with that I rest my case).<verse eid="JUD 1:25" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">certain</char>…Also: <char style="it">a few</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">when the scores were settled</char>…Lit: <char style="it">a great day</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">physical body than their own</char>…Lit: <char style="it">flesh</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">the sacrosanct</char>…Lit: <char style="it">glories</char>. Ref. 2 Pet. 2:10.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">irreverently</char>…Also: <char style="it">fearlessly</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">harvest-season</char>…Lit: <char style="it">late autumn</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">absolutely and completely dead</char>…Lit: <char style="it">doubly-dead</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">harsh</char>…Lit: <char style="it">hard</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">a critical juncture in time</char>…Lit: <char style="it">a last time</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">keep</char>…The verb form insinuates a stronger command than a simple imperative</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">shirt</char>…Lit: <char style="it">tunic</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">archangel Michael was in the middle of an argument with the devil over Moses’s body</char>…Scholars
+        say that this refers to a story in the <char style="it">Assumption of Moses</char>, a 1<char style="sup">st</char>-century
+        Jewish work. The Assumption of Moses is not part of the Bible.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">moisture-less clouds that get driven past by the wind</char>…Generally speaking, a farmer
+        hopes that any cloud which pass overhead will sprinkle some rain on his crops. These pass by but deliver
+        no rain.</char>
+      <char style="fp"></char>
+    </note>
+  <chapter eid="JUD 1" />
+</usx>

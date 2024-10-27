@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="JAS" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">James</para>
+  <para style="toc1">The Epistle of James</para>
+  <para style="toc2">James</para>
+  <para style="toc3">James</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">JAMES</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">James addresses his epistle to Jewish believers, as he was the leader of the Jewish faction of the church.
+    His wisdom is in the Semitic style that his brother Jesus used rather than the Greek style that Paul
+    uses, giving it an unusual flavor which complements the other epistles.</para>
+  <para style="ipi">Church tradition holds that James prayed so much that his knees were calloused. His dedication to prayer
+    comes across in the letter.</para>
+  <para style="ipi">Looking at the Greek text, James’s writing style is straightforward, shying away from some of the exotic
+    verb tenses and particles one finds Luke and Paul using, but he also displays a deep vocabulary, using
+    words which are not found anywhere else in the NT. For example, the words <char style="it">like </char>and
+    <char style="it">driven by, </char>both occurring in 1:6; or the word <char style="it">declarations</char>
+    (<char style="it">boasting</char>) in 3:5; or the word <char style="it">stoker </char>in 3:6. James’s
+    writing is rich in metaphors and other figures of speech and is seasoned with words and concepts which
+    came directly from his brother, such as the “trophy of life” in 1:12. James’s generous use of metaphors
+    (like “bridle his tongue” in 1:26) and other figures of speech makes this a rich piece of literature
+    and should be high on the list of books in the Bible that should be read purely for literary content,
+    such as English class readings.</para>
+  <para style="ipi">But it’s more important to get the gist of what James says rather than parse with a fine-toothed comb
+    his writing looking for logical fallacies, as his writing is similar to John’s, not written like a science
+    textbook. A fair amount of interpolations are necessary to prevent the book from being lost on the reader.
+    An example of this is 4:5, where he cites the Old Testament and Bible scholars can’t find the exact verse
+    he’s quoting from.</para>
+  <para style="ipi">But after granting this allowance and understanding who James is, one begins to see things from his point
+    of view. He talks about the “perfect code” and “freedom’s code” being the Law of Moses on the surface,
+    but underneath focuses on the more important aspects of the Law that Jesus emphasized, such as loving
+    your neighbor and helping the poor. Unlike many of the strict Jews of the day, James isn’t caught up
+    in the rituals of the Law; a keeper of the Law will act in love towards others—not like the rich, whom
+    he disdains since they are oppressive.</para>
+  <para style="ipi">Speaking of the rich, James defines the Judeo-Christian perspective of oppressor vs. oppressed, telling
+    the oppressive-rich to stop oppressing the poor, excoriating them morally. This is unlike the Marxist
+    perspective which seeks to eliminate the rich and change the entire economic system.</para>
+  <para style="ipi">James pulls in concepts from the Old Testament and gives us continuity, taking the cue from Jesus, as
+    both James and Jesus teach that these concepts have not changed but have been better defined. The Law
+    of Moses is the most prominent example, but there are other concepts such as “God is One” (2:19; 4:12)
+    and what the nature of faith is.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="JAS 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of <char style="it">the</char> Lord Jesus Christ:
+    </para>
+    <para style="p" vid="JAS 1:1">To <char style="it">the</char> <char style="it">blood-descendants of </char>the<char style="it"> </char>twelve
+        tribes <char style="it">of Israel</char><char style="sup">[A]</char> who are among the Diaspora (<char
+        style="it">i.e. the scattering of Jews all over the world</char>):
+    </para>
+    <para style="p" vid="JAS 1:1">I’m delighted to write to you<char style="sup">[a]</char>:<verse eid="JAS 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="JAS 1:2" />Consider it a joy, my <char style="it">dear </char>comrades, when you <char style="it">by chance </char>fall
+        into various tests and trials which find out what you’re made of, <verse eid="JAS 1:2" />
+      <verse number="3" style="v" sid="JAS 1:3" />knowing that the process of proving your faith produces perseverance. <verse eid="JAS 1:3" />
+      <verse number="4" style="v" sid="JAS 1:4" />Let perseverance have <char style="it">the opportunity to become </char>a mature, completed work, in
+        order that you would become mature and that every part of you would become complete with nothing left
+        out.<verse eid="JAS 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JAS 1:5" />But<char style="it"> speaking of things which are left out…</char>If someone is lacking in<char style="sup">[b]</char>
+        wisdom, advise him to<char style="sup">[B]</char> simply ask <char style="it">for wisdom </char>from
+        the giving-God <char style="it">who’ll grant the request</char> without chewing the person out or demeaning
+        him, and it will be given to him. <verse eid="JAS 1:5" />
+      <verse number="6" style="v" sid="JAS 1:6" />But admonish him to<char style="sup">[B]</char> ask in faith, nothing about him wavering in doubt: you
+        see, a person who doubts is like the way that ocean waves are moved and tossed about by the wind. <verse eid="JAS 1:6" />
+      <verse number="7" style="v" sid="JAS 1:7" />To this point, you should adjust<char style="sup">[B]</char> that person’s expectations so that he does
+        not expect to receive anything from the Lord, <verse eid="JAS 1:7" />
+      <verse number="8" style="v" sid="JAS 1:8" /><char style="it">since he is a</char> double-minded man, irresolute in all his ways.<verse eid="JAS 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="JAS 1:9" />Get<char style="sup">[B]</char> the Humiliated, Abased Person to glory and take pride in his exaltation,<verse eid="JAS 1:9" />
+      <verse number="10" style="v" sid="JAS 1:10" />and <char style="it">likewise get</char> the rich man <char style="it">to practice</char> humility and
+        self-abasement<char style="sup">[C]</char>, because, like the wild flowers of the field<char style="sup">[D]</char>
+        which reach an apex when they blossom and then fade back into obscurity, he too will <char style="it">have
+        his moment in the sun then </char>pass away <char style="it">and fade back into obscurity</char>. <verse eid="JAS 1:10" />
+      <verse number="11" style="v" sid="JAS 1:11" />You see, the sun rose and dried out the wild flower with its sweltering heat<char style="sup">[c]</char>,
+        its flower-part fell off, and the lovely appearance it projected was destroyed—this is the same way that
+        the rich man will waste away in his journey <char style="it">through life</char>.<verse eid="JAS 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JAS 1:12" />Blessed is <char style="it">the</char> man who perseveres <char style="it">over the course of </char>tests
+        and trials, since, after he’s attained approval <char style="it">because of his perseverance,</char>
+        he’ll receive the trophy<char style="sup">[d]</char> <char style="it">of a deeply satisfying </char>life<char
+        style="sup">[E]</char>, which is promised to those who love Him. <verse eid="JAS 1:12" />
+      <verse number="13" style="v" sid="JAS 1:13" />Teach<char style="sup">[B]</char> the person who’s being tested by some sort of trial or temptation not
+        to say, “I’m being tested by God <char style="it">to see if there’s any evil in me</char>.” You see,
+        God is un-tempt-able by any evil; He tempts no one. <verse eid="JAS 1:13" />
+      <verse number="14" style="v" sid="JAS 1:14" />Each person is tempted when he’s lured and dragged off by the passions which are peculiar to him <char
+        style="it">and not necessarily to the next person</char>. <verse eid="JAS 1:14" />
+      <verse number="15" style="v" sid="JAS 1:15" />Then once passion or desire has conceived<char style="sup">[F]</char>, it gives birth to sin. When it’s
+        finished running its course, sin produces death (<char style="it">i.e., stagnation of waste, joylessness,
+        futility, and destruction</char>).<verse eid="JAS 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JAS 1:16" />Don’t get led down the primrose path, my dear comrades. <verse eid="JAS 1:16" />
+      <verse number="17" style="v" sid="JAS 1:17" />Every good gift and every perfect present is from <char style="it">the sky</char> above, coming down
+        from the Creator of Astronomical Objects (i.e. the sun, the moon, stars, etc.), with whom there is no
+        deviation <char style="it">in the movement of such objects</char> and no hint or suggestion of change
+        <char style="it">to them</char><char style="sup">[G]</char>. <verse eid="JAS 1:17" />
+      <verse number="18" style="v" sid="JAS 1:18" />Having planned and decided <char style="it">to do so</char>, he birthed us in<char style="sup">[e]</char>
+        a conceptualization<char style="sup">[f]</char> of truth with the end-goal of us being the crème de la
+        crème<char style="sup">[g]</char> of His creation.<verse eid="JAS 1:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="JAS 1:19" />Be sure you get this down pat, my dear comrades: Each person should see to it<char style="sup">[B]</char>
+        that he’s quick to listen, slow to speak, slow to anger<char style="sup">[h]</char>. <verse eid="JAS 1:19" />
+      <verse number="20" style="v" sid="JAS 1:20" />You see, a man’s anger won’t live up to God’s standards of right and wrong. <verse eid="JAS 1:20" />
+      <verse number="21" style="v" sid="JAS 1:21" />In light of this, once you’ve rid yourself of any filthy residue<char style="sup">[i]</char> of malice,
+        with a soft-spoken, gentle self-restraint take to heart and fully embrace the implanted word <char style="it">of
+        God</char> which is able to relieve, rescue, and preserve your mind and emotions<char style="sup">[j]</char>.<verse eid="JAS 1:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="JAS 1:22" />But become practitioners of a given subject matter<char style="sup">[k]</char> and not just students
+        who hear it taught, deceiving themselves <char style="it">because they listen but won’t do, </char><verse eid="JAS 1:22" />
+      <verse number="23" style="v" sid="JAS 1:23" />because if somebody hears a subject lectured to him but doesn’t put it into practice, that guy’s like
+        a man <char style="it">who looks</char> at himself<char style="sup">[l]</char> in a mirror and gets an
+        idea of what he looks like— <verse eid="JAS 1:23" />
+      <verse number="24" style="v" sid="JAS 1:24" />you see, he got an idea of what he looks likes, walked away, and immediately forgot what he looks like<char
+        style="sup">[H]</char>. <verse eid="JAS 1:24" />
+      <verse number="25" style="v" sid="JAS 1:25" />But the fellow who crouched down and looked carefully at a perfect code, a freedom code, and stays put
+        <char style="it">looking at it </char>and didn’t become a forgetting-student but became a doing-practitioner,
+        that fellow will be blessed in his doing.<verse eid="JAS 1:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="JAS 1:26" />If anyone thinks that he <char style="it">strictly adheres to</char> <char style="it">the do’s and don’ts
+        of</char> his religion<char style="sup">[I]</char> <char style="it">and</char> isn’t reigning in<char
+        style="sup">[m]</char> his tongue but instead kids himself <char style="it">into believing he follows
+        his religion strictly</char>—this sort of religion is worthless. <verse eid="JAS 1:26" />
+      <verse number="27" style="v" sid="JAS 1:27" />A pure set of religious do’s and don’ts—a set that’s untainted from the Father-God’s<char style="sup">[n]</char>
+        point of view—is to visit orphans and widows in dire need for the purpose of helping them, while keeping
+        oneself unstained from the world, <char style="it">i.e. the established order of humanity which wants
+        nothing to do with God</char>.<verse eid="JAS 1:27" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">I’m delighted to write to you</char>…Lit: <char style="it">joy</char>. A common salutation
+        found in the NT; same one in Matt. 26:49; ref. note there.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">lacking in</char>…Lit: <char style="it">left out</char>. Same verb used in v. 4 <char
+        style="it">nothing left out</char>, and this verb is used in the same voice<char style="it">. </char>James
+        is obviously using this as a transition.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">sweltering heat</char>…Lit: <char style="it">burning wind</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">trophy</char>…Lit: <char style="it">crown</char> [in this context, a <char style="it">victor’s
+        wreath</char>]. Some liberties taken.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">in</char>…Or: <char style="it">by means of</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">conceptualization</char>…Lit: <char style="it">word</char>. Ref. John 1:1.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">crème de la crème</char>…Lit: <char style="it">first-fruits</char>. Ref. note of Rom.
+        8:23.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">quick to listen, slow to speak, slow to anger</char>…James’s use of the Gk. aorist tense
+        here is a bit unexpected. It’s as though he’s picturing a single, hypothetical instance and not speaking
+        in generalities.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">filthy residue</char>…Lit: <char style="it">dirtiness and surplus</char> [or <char style="it">superfluous</char>;
+        <char style="it">remaining</char>]. An hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">relieve, rescue, and preserve your mind and emotions</char>…Lit: <char style="it">save
+        your soul</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">a given subject matter</char>…Lit: <char style="it">a word</char>. James uses the definite
+        article with<char style="it"> word </char>in v. 21 but drops it in vv. 22, 23.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">looks at himself</char>…Lit: <char style="it">notices his face</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">reigning in</char>…Or: <char style="it">bridling</char>. A metaphor which compares taming
+        the tongue to taming a horse.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">with the Father-God</char>…Lit: <char style="it">with the God and Father</char>. A hendiadys.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the blood-descendants of the twelve tribes of Israel</char> …Lit: <char style="it">twelve
+        tribes</char>. The phrase twelve tribes is a metonymy for all Israelites. By specifying the twelve tribes,
+        James makes the distinction between the Jewish believers and the Gentile believers. Since James’s authority
+        is over the church in Jerusalem, and perhaps all of Israel, he extends his pastoral care to all believing
+        Israelites who for one reason or another are located outside of Israel but nevertheless are Jewish like
+        those living in Israel. At the time this epistle was written, there were more Jews outside of Israel
+        than there were in Israel. But the schism in the early church between the Jewish and the non-Jewish believers
+        would naturally cause the Jewish believers living outside of Israel to gravitate towards and affiliate
+        with James.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">advise him to</char>…<char style="it">admonish him to</char>…<char style="it">adjust</char>…<char
+        style="it">get</char>…<char style="it">make sure that</char>…etc…Lit: <char style="it">have</char> [or
+        <char style="it">let</char>] <char style="it">him</char>. James uses this third-person imperative form
+        of the Gk. verb in a parallel fashion as a figure of speech.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">likewise get the rich man to practice humility and self-abasement</char>…Lit: <char
+        style="it">the rich man in his humiliation</char>. (The interpolations are justified by the parallel
+        construction.) Before making generalizations about the wealthy based on this verse, one should first
+        read James 2:6–7; 5:1–6 and understand that the “rich man” of that passage is the same “rich man” in
+        v. 10,11 here. Though there’s a tendency for wealthy people to be abusive, not all of them are. But all
+        of them are reminded to stay humble.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">wild flowers of the field</char>…Lit: <char style="it">grass</char>. Max and Mary claim
+        that in this context this refers to wild flowers and not grass and that this is a picture of fragility
+        from the OT (ref. Is. 40:6; Ps. 103:15</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">trophy of a deeply satisfying </char>life…Lit: <char style="it">crown</char> [<char
+        style="it">victor’s wreath</char>] <char style="it">of life</char>. This is a metaphor where obtaining
+        a deeply satisfying life by persevering through trials is compared to a victor being awarded the victor’s
+        wreath. The word <char style="it">life</char> leans on the definition Jesus put forth in John 6:53, “if
+        you won’t eat the Man’s flesh and drink his blood, you don’t have life within you.” In the next verse
+        Jesus goes on to talk about eternal life, which is that special fullness of life that God gives. By this
+        reasoning, the word <char style="it">life </char>in v. 12 here does not refer to physical existence but
+        rather is the same concept of life and eternal life which Jesus taught. What James is saying is that
+        perseverance through trials and temptations results in a deep richness to one’s life.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">conceived</char>…Same word used in Luke 1:24 when Elizabeth managed to become pregnant,
+        insinuating a bit that this was only achieved after some difficulty. A few words later in this verse,
+        James says <char style="it">gives birth to sin</char>, where the word <char style="it">give birth </char>is
+        just that—a woman giving birth.<char style="it"> </char>This verse is a metaphor where temptation is
+        compared to a man who impregnates a woman (i.e. a person) and she conceives a child sin and gives birth
+        to it.</char>
+    </note>
+    <note caller="[G]" style="f">
+      <char style="fk">[G]</char>
+      <char style="ft"><char style="it">Creator of Astronomical Objects (i.e. the sun, the moon, the stars, etc.), with whom
+        there is no deviation in the movement of such objects and no hint or suggestion of change to them</char>…Lit:
+        <char style="it">Father of Lights, with whom there is no variation or shadow of changing</char>. The
+        same Gk. word for <char style="it">lights </char>used here in v. 17 is the same Gk. word used in Gen.
+        1:16 in the LXX, “And God made the two great lights…”; therefore, the “lights” James refers to are the
+        sun, the moon, and every other celestial object which emits light. The word <char style="it">shadow </char>used
+        in this verse is similar in meaning to the way it’s used in Heb. 10:1; i.e., it’s not a physical shadow
+        but rather an imperfect representation of another object. The Gk. words for<char style="it"> variation
+        </char>and <char style="it">changing </char>are astronomical terms. In addition, it’s been known since
+        ancient times that the movement of the planets, the rotation of the earth, etc. are extremely precise
+        and entirely predictable. Therefore, James is saying that the same God who put into place such precision
+        will apply the same precision to His gift-giving.</char>
+    </note>
+    <note caller="[H]" style="f">
+      <char style="fk">[H]</char>
+      <char style="ft"><char style="it">forgot what he looks like</char>…James is describing what we all experience on a daily
+        basis. While you’re looking in the mirror, you know exactly what you look like, but the moment you step
+        away, you immediately forget what that was no matter how long you were staring into the mirror. Let’s
+        say a woman looks in a mirror to see how her hair looks. She’ll step away, worry that this lock or that
+        braid doesn’t quite match her outfit, then step back up to the mirror and look at herself again. Why
+        did she step back to the mirror a second time?—Because she forgot what she looked like.</char>
+    </note>
+    <note caller="[I]" style="f">
+      <char style="fk">[I]</char>
+      <char style="ft"><char style="it">thinks that he strictly adheres to the do’s and don’ts of his religion</char>…Lit: <char
+        style="it">thinks to be religious</char>. Some liberties taken. The word <char style="it">religious </char>insinuates
+        the rituals performed by the Jews. This insinuation is confirmed by the selection of words James uses
+        in v. 27, namely <char style="it">pure </char>[<char style="it">undefiled</char>] and <char style="it">unstained</char>,
+        which smack of Jewish religious purification rituals.</char>
+    </note>
+  <chapter eid="JAS 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="JAS 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 2:1" />My comrades, don’t have a faith in our Lord of Glory Jesus Christ which shows favoritism. <verse eid="JAS 2:1" />
+      <verse number="2" style="v" sid="JAS 2:2" />If a powerful businessman<char style="sup">[a]</char> wearing an expensive suit<char style="sup">[b]</char>
+        were to join your synagogue<char style="sup">[c]</char>, and a poor man in ragged<char style="sup">[d]</char>
+        clothing were to join, <verse eid="JAS 2:2" />
+      <verse number="3" style="v" sid="JAS 2:3" />you’d be naturally inclined to favor the fellow in the expensive suit and tell him, “Let’s make sure
+        you’re seated up front in the reserved section where all the important people sit<char style="sup">[A]</char>,”
+        and you would tell the poor guy, “Stand against the wall in the back or sit where the usher sits and
+        be ready to fill in for him and run an errand when we call<char style="sup">[A]</char>.” <verse eid="JAS 2:3" />
+      <verse number="4" style="v" sid="JAS 2:4" />Have you not shown bias towards those among you, preferring one person over another, and have you not
+        become decision-makers<char style="sup">[e]</char> whose thought process consists of really bad, downright
+        evil, things?<verse eid="JAS 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JAS 2:5" />Listen, my dear comrades: Hasn’t God chosen the world’s poor to be rich in faith and to get their individual
+        slice of God’s involvement with the human race<char style="sup">[f]</char>, which He promised to those
+        who love Him? <verse eid="JAS 2:5" />
+      <verse number="6" style="v" sid="JAS 2:6" />But you’ve treated the poor with contempt. Don’t the rich oppress you and drag you into court? <verse eid="JAS 2:6" />
+      <verse number="7" style="v" sid="JAS 2:7" />Don’t they cuss at, slander, and revile your excellent, <char style="it">hard-earned</char> reputation<char
+        style="sup">[B]</char>? <verse eid="JAS 2:7" />
+      <verse number="8" style="v" sid="JAS 2:8" />If there really is a perfect regal code <char style="it">which we live by</char> and if the code is based
+        on the Bible verse <char style="it">which says</char>, “Love your neighbor as yourself,” <char style="it">then</char>
+        you’re on the right track<char style="sup">[g]</char>. <verse eid="JAS 2:8" />
+      <verse number="9" style="v" sid="JAS 2:9" />But if you show favoritism, you’re committing a sin and are incriminated by the Law <char style="it">of
+        Moses</char>. <verse eid="JAS 2:9" />
+      <verse number="10" style="v" sid="JAS 2:10" />In fact, that particular individual who’s willingly trying to keep the Law but falls short<char style="sup">[h]</char>
+        in one area is guilty of violating it as a whole.<verse eid="JAS 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JAS 2:11" />Here’s an example: <char style="it">the same Old Testament Law which </char>said “Don’t commit adultery”
+        also said “Don’t commit murder.” Now if you didn’t commit adultery but committed murder, you <char style="it">nevertheless
+        </char>became a Law-violator, <char style="it">violating the Law as a whole even though you violated
+        just one part of it</char>. <verse eid="JAS 2:11" />
+      <verse number="12" style="v" sid="JAS 2:12" />Talk and behave as though as though you’re going to be held to a standard defined by freedom’s code and
+        judged by it. <verse eid="JAS 2:12" />
+      <verse number="13" style="v" sid="JAS 2:13" />You see, the judgment <char style="it">that you will eventually face </char>will be merciless towards
+        those who won’t show mercy. Mercy trumps judgment.<verse eid="JAS 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="JAS 2:14" />What benefit is it, my comrades, if (<char style="it">using</char> <char style="it">some person</char>
+        <char style="it">for the purpose of illustration</char>) this person says he has faith but has no actions
+        <char style="it">which normally accompany it</char>? That <char style="it">sort of so-called</char> faith<char
+        style="sup">[D]</char> won’t pull him out <char style="it">of a bad situation</char><char style="sup">[i]</char>,
+        will it? <verse eid="JAS 2:14" />
+      <verse number="15" style="v" sid="JAS 2:15" />If a comrade were to find himself or herself having no clothing whatsoever to protect his or her body
+        with and lacking minimum-sustenance food, <verse eid="JAS 2:15" />
+      <verse number="16" style="v" sid="JAS 2:16" />and if you were to tell him, “See you later, take care now<char style="sup">[j]</char>. Stay warm and
+        get plenty to eat,” but not provide physical necessities for him, what good is that? <verse eid="JAS 2:16" />
+      <verse number="17" style="v" sid="JAS 2:17" />The <char style="it">sort of </char>faith<char style="it"> we’re talking about here </char>is the same
+        way: if it were to not have actions <char style="it">which normally accompany it</char>, it would be<char
+        style="sup">[k]</char> void of life, being <char style="it">in a state which is</char> consistent with
+        itself.<verse eid="JAS 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="JAS 2:18" />Putting that aside now—someone is bound to say, “You have faith <char style="it">but no actions to go
+        along with it</char> and I have actions <char style="it">but no faith to go along with them</char>.”
+        Show me your <char style="it">kind of </char>faith apart from the actions <char style="it">which normally
+        accompany it</char>, and I’ll show you the <char style="it">genuine kind of </char>faith from out of
+        my actions. <verse eid="JAS 2:18" />
+      <verse number="19" style="v" sid="JAS 2:19" />You believe that there is <char style="it">only</char> one <char style="it">true</char> God <char style="it">and
+        that</char> <char style="it">He is</char> <char style="it">of one mind and has His own will, and there
+        is no other being comparable to Him</char><char style="sup">[E]</char>? Good job. The demons believe
+        it as well and quiver in their boots over it<char style="sup">[l]</char>.<verse eid="JAS 2:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="JAS 2:20" />Oh you nit-wit—were you interested in knowing that the <char style="it">sort of</char> faith <char style="it">which
+        is</char> apart from <char style="it">actions which normally accompany it </char>amounts to nothing<char
+        style="sup">[m]</char>? <verse eid="JAS 2:20" />
+      <verse number="21" style="v" sid="JAS 2:21" />Wasn’t our patriarch Abraham made right in God’s sight<char style="sup">[n]</char> from actions after
+        offering his son Isaac upon the altar? <verse eid="JAS 2:21" />
+      <verse number="22" style="v" sid="JAS 2:22" /><char style="it">In the case of Abraham offering Isaac</char>, one sees that the <char style="it">genuine
+        sort of</char> faith operates together with its <char style="it">accompanying </char>actions and comes
+        to fruition out of the actions. <verse eid="JAS 2:22" />
+      <verse number="23" style="v" sid="JAS 2:23" />The verse of Scripture was fulfilled which says, “Abraham believed in God, and it wound up being credited
+        to him as righteousness,” and he was called a friend and close-companion of God. <verse eid="JAS 2:23" />
+      <verse number="24" style="v" sid="JAS 2:24" />Observe that a person is made right in God’s sight as the result of actions and not by faith on its own.<char
+        style="sup">[F]</char> <verse eid="JAS 2:24" />
+      <verse number="25" style="v" sid="JAS 2:25" />Wasn’t the prostitute Rahab made right in God’s sight the same way—as the result of actions—cooperating
+        with the agents and hurrying them out another way? <verse eid="JAS 2:25" />
+      <verse number="26" style="v" sid="JAS 2:26" />For as the body is dead <char style="it">when it is </char>apart from a spirit, in the same way the <char
+        style="it">genuine sort of </char>faith apart from works is dead too.<verse eid="JAS 2:26" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">a powerful businessman</char>…Lit: <char style="it">a gold-ringed man</char>. <char
+        style="it">Gold-ringed</char> is a synecdoche. The ring on the man’s finger is a signet ring, a ring
+        used for making sizeable purchases or validating transactions.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">wearing an expensive suit</char>…Lit: <char style="it">in bright clothes</char>. Some
+        liberties taken. Only the rich and noblemen wore bright clothing. </char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">join your synagogue</char>…Lit: <char style="it">enter into your synagogue</char>. An
+        idiom; ref. note of Acts 19:8.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">ragged</char>…Lit: <char style="it">filthy-dirty</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">decision-makers</char>…Lit: <char style="it">judges</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">get their own individual slice of God’s involve with the human race</char>…Lit: <char
+        style="it">inheritors of the kingdom</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">then you’re on the right track</char>…Lit: <char style="it">you do well</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">falls short</char>…Lit: <char style="it">stumbles</char>. A less-common word for <char
+        style="it">stumble </char>[<char style="it">patiō</char>,<char style="w" strong="G04417">πταίω</char>)]
+        than the one usually used [<char style="it">skandalon</char>, <char style="w" strong="G04625">σκάνδαλον</char>)],
+        but both are Gk. renderings of the OT word <char style="it">stumble. </char>Ref. note of Matt. 11:6.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">pull him out of a bad situation</char>…Lit: <char style="it">save him</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">See you later, take care now</char>…Lit: <char style="it">Go forth in peace</char>.
+        A common parting remark.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">would be</char>…Lit: is. A grammatical error made by James, presumably.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">quiver in their boots over it</char>…Lit: <char style="it">shudder</char>. Some liberties
+        taken.</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">amounts to nothing</char>…Lit: <char style="it">idle</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">made right in God’s sight</char>…Lit: <char style="it">justified</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Let’s make sure you’re seated up front in the reserved section where all the important
+        people sit</char>…<char style="it">Stand against the wall in the back or sit where the usher sits and
+        be ready to fill in for him and run an errand when we call</char>…Lit: <char style="it">Sit here good</char>…<char
+        style="it">Stand there or sit under my footstool</char>. Liberties taken. Unlike modern times, in ancient
+        times, people at an event were not seated randomly but were seated in seats that were arranged so that
+        one could tell their importance at the function by the location of the seat in proximity to whatever
+        is the center. Also, the phrase <char style="it">sit under my footstool</char> is a NT expression which
+        means that such person is subordinate to whomever he’s seated under.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">cuss at, slander, and revile your excellent, hard-earned reputation</char>…Lit: <char
+        style="it">blaspheme the beautiful name</char> [or<char style="it"> excellent reputation</char>]<char
+        style="it"> that’s been given as a surname to you</char>. Many scholars assume that James is talking
+        about blaspheming God’s name, but a literal interpretation does not support this assumption.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">perfect regal code</char>…Lit: <char style="it">perfect royal law</char>. James 1:25
+        “perfect law” refers to this same concept. The perfect law transcends the legalistic practice of the
+        Law of Moses and lays down a better, perfect, and higher code of conduct, the same one that Jesus talked
+        about in the Sermon on the Mount when he said, “It is written but I say.”</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">That sort of faith</char>…Lit<char style="it">: the faith</char>. In the Gk. James adds
+        the definite article before the word <char style="it">faith </char>to indicate that he’s talking about
+        a specific type of so-called faith. He adds a <char style="it">the </char>before <char style="it">faith
+        </char>in in various places in the passage of v. 14–17.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">there is only one true God. He is of one mind and has His own will, and there is no
+        other being comparable to Him</char>…Lit: <char style="it">God is one</char>. Also appears in 1 Cor.
+        8:4; Rom. 3:29; Gal. 3:20: this is a quotation from Deut. 6:4. The brevity of the statement only enhances
+        its profoundness, as it speaks to so many things about God. This one statement is the foundation for
+        all Abrahamic religions.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">Observe that a person is made right in God’s sight as the result of actions and not
+        by faith on its own</char>…The passage consisting of vv. 14–26 has been misunderstood for years, even
+        to the point where Martin Luther refused to include the book of James in his translation of the Bible,
+        as he thought James is promoting a righteousness based on works. He’s not. The point James makes is that
+        genuine faith is always accompanied by works (actions) which reflect it and are the result of it. Genuine
+        faith cannot exist without these accompanying actions. This does not mean that if a person manufactures
+        the actions they necessarily have the works, but it means that the two must go hand-in-hand.</char>
+    </note>
+  <chapter eid="JAS 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="JAS 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 3:1" />There should not be a lot of you becoming instructors<char style="sup">[A]</char>, my comrades, knowing
+        that we’ll be held to a higher standard<char style="sup">[a]</char>. <verse eid="JAS 3:1" />
+      <verse number="2" style="v" sid="JAS 3:2" />You see, we all mess up or fall short<char style="sup">[b]</char> in many ways. If a given person doesn’t
+        mess up in speech, that fellow has got his act together<char style="sup">[c]</char>, able to reign in
+        his entire body<char style="sup">[B]</char> as well. <verse eid="JAS 3:2" />
+      <verse number="3" style="v" sid="JAS 3:3" />Now we<char style="sup">[d]</char> stick bits in the mouths of horses in order to prevail upon them to
+        do our bidding, and <char style="it">in doing so </char>we guide their entire bodies. <verse eid="JAS 3:3" />
+      <verse number="4" style="v" sid="JAS 3:4" />Ships too, for example, are gigantic and are propelled by stiff breezes, guided by the smallest <char
+        style="it">thing imaginable</char>—a rudder—in whatever heading the helmsman selects. <verse eid="JAS 3:4" />
+      <verse number="5" style="v" sid="JAS 3:5" />Analogous to this, the tongue is a small part <char style="it">of a much larger unit</char> and makes
+        outrageous remarks<char style="sup">[C]</char>.</para>
+    <para style="p" vid="JAS 3:5">I’m telling you what, <char style="it">it’s like they say: </char>“Just a tiny flame can set even an
+        enormous forest on fire<char style="sup">[e]</char>.” <verse eid="JAS 3:5"/>
+      <verse number="6" style="v" sid="JAS 3:6" />And the tongue is a flame <char style="it">indeed</char>, an elaborate mechanism<char style="sup">[f]</char>
+        of wrong-doing—the tongue occupies a position of preeminence<char style="sup">[g]</char> among our body
+        parts—the defiler of the entire body and stoker of the Merry-go-round of Life<char style="sup">[D]</char>—and
+        is itself stoked by hell.<verse eid="JAS 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 3:7" />In fact, human beings by nature tame wild animals. All sorts—land, aquatic, reptilian—are <char style="it">in
+        the process of</char> being tamed and have been tamed, <verse eid="JAS 3:7" />
+      <verse number="8" style="v" sid="JAS 3:8" />but not a single person can tame the restless, unstable tongue, full of deadly poison. <verse eid="JAS 3:8" />
+      <verse number="9" style="v" sid="JAS 3:9" />With it we thank the Father-God<char style="sup">[h]</char> and with it we swear at <char style="it">our
+        fellow</char> man, those who have been created in the image of God. <verse eid="JAS 3:9" />
+      <verse number="10" style="v" sid="JAS 3:10" />Out of the same mouth come thanksgiving and cussing. This is not the way it’s supposed to be, my comrades.<verse eid="JAS 3:10" />
+      <verse number="11" style="v" sid="JAS 3:11" />Non-contaminated and contaminated <char style="it">water</char> doesn’t pour out of the same spring,
+        now does it? <verse eid="JAS 3:11" />
+      <verse number="12" style="v" sid="JAS 3:12" />It’s not possible, my comrades, for a fig tree to yield olives or a grape vine figs, or for <char style="it">a
+        </char>water<char style="it"> source</char> to produce <char style="it">both </char>salt water <char
+        style="it">and</char> fresh water, is it?<verse eid="JAS 3:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 3:13" />Who among you is wise and understanding? Let him display his deeds which come from the good conduct <char
+        style="it">of one who follow’s God’s commandments </char>in wisdom’s gentleness. <verse eid="JAS 3:13" />
+      <verse number="14" style="v" sid="JAS 3:14" />But if you have bitter jealousy and rivalry in your heart, don’t distort the truth by bragging and lying<char
+        style="sup">[i]</char>. <verse eid="JAS 3:14" />
+      <verse number="15" style="v" sid="JAS 3:15" />This is not the same wisdom which comes from the spiritual world where God lives<char style="sup">[j]</char>,
+        but <char style="it">is the cunning-sort of wisdom which</char> is <char style="it">among other things
+        </char>ruthlessly pragmatic, psychopathic, and diabolic<char style="sup">[E]</char>. <verse eid="JAS 3:15" />
+      <verse number="16" style="v" sid="JAS 3:16" />The fact is, where jealousy and rivalry <char style="it">exist</char>, there is turmoil, and every bad
+        thing imaginable is done<char style="sup">[k]</char>. <verse eid="JAS 3:16" />
+      <verse number="17" style="v" sid="JAS 3:17" />But the wisdom from the spiritual world where God lives is pure and innocent, then <char style="it">on
+        top of that is </char>peaceful, considerate, reasonable, full of mercy, and without pretense. <verse eid="JAS 3:17" />
+      <verse number="18" style="v" sid="JAS 3:18" />The end-result where everything turns out right has its origins<char style="sup">[i]</char> in peace
+        by those who put peace into practice.<verse eid="JAS 3:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">we’ll be held to a higher standard</char>…Lit: <char style="it">we will receive a greater
+        judgment</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">mess up or fall short</char>…Lit: <char style="it">stumble</char>. Same word used in
+        James 2:10, see note there.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">that fellow has got his act together</char>…Lit: <char style="it">that man complete</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">Now we</char>…Lit: <char style="it">Now if</char>. Appears to be a mistake in the autograph;
+        some early manuscripts have redacted it out.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft">J<char style="it">ust a tiny flame can even set an enormous forest on fire</char>…Lit: <char style="it">How
+        small a flame how great a forest kindles</char>. In the GT this is: <char style="it">hālikon pur hālikān
+        hulān anaptei </char>(ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει). An obvious alliteration/assonance and presumably
+        a commonly-used expression.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">elaborate mechanism</char>…Lit: <char style="it">a world</char>. Keep in mind that <char
+        style="it">world </char>refers to the established order of mankind more so than the physical planet.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">occupies a position of preeminence</char>…Lit: <char style="it">sits</char>. The meaning
+        of the word <char style="it">sits </char>as used in this verse is the same meaning as it’s used in Ps.
+        110:1.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">Father-God</char>…Lit: <char style="it">God and Father</char>. A commonly-used NT hendiadys.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">distort the truth by bragging and lying</char>…Lit: <char style="it">boast and lie against
+        the truth</char>. Assuming this is an idiom and guessing what the idiom means.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">which comes from the spiritual world where God lives</char>…Lit: <char style="it">coming
+        down from above</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">every bad thing imaginable is done</char>…Lit: <char style="it">all bad deeds</char>.
+        The word <char style="it">all </char>is used as a figure of speech, a hyperbole or metonymy of a sort.
+        Same figure of speech used in 1 Tim. 6:10, “For the love of money is the root of all evil.”</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">the end-result where everything turns out right has its origins</char>…Lit: <char style="it">the
+        fruit of righteousness is sown</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">instructors</char>…Or: <char style="it">teachers</char>. The Gk. word for <char style="it">teacher
+        </char>is both (or either) one who imparts insight and understanding and one who gives moral instruction
+        (ref. note of Acts 15:1), telling the pupil how he should conduct his life. In relation to giving moral
+        instruction, it becomes clear why the instructor must be held to a higher standard.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">reign in his entire body</char>…Lit: <char style="it">able to bridle his entire body</char>.
+        The word <char style="it">bits </char>in v. 3 is derived from the <char style="it">bridle </char>in v.
+        2. This combined with the repetition of the word <char style="it">body </char>in v. 2 and <char style="it">bodies
+        </char>in v. 3 indicates that <char style="it">reign in his entire body </char>is a metaphor which compares
+        controlling one’s body by controlling one’s tongue to controlling a horse’s body by the use of bits.
+        Coincidentally (or perhaps not), the word <char style="it">body </char>in the NT sometimes means <char
+        style="it">carnal nature. </char>Putting this together, like bridling a horse a person who can control
+        his tongue will be able to bring his carnal nature under control.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">makes outrageous remarks</char>…Lit: <char style="it">boasts great things</char>. The
+        word <char style="it">boasts </char>[<char style="it">aucheo</char>, <char style="w" strong="G00850:a">αὐχέω</char>)]
+        is used here instead of the commonly-used NT word <char style="it">kauchaomai </char><char style="w"
+        strong="G02744">καυχάομαι</char>). This verse is the only place in the NT that <char style="it">aucheo
+        </char>is found, and the lexicon says that in a general sense it means <char style="it">to protest, declare</char>.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">the Merry-go-round of Life</char>…Or: <char style="it">the Engine of Life</char>…Lit:
+        <char style="it">the Wheel of Origin</char>. James is using the well-known metaphorical concept of a
+        wheel, where a wheel represents cycles which keep on repeating themselves. This metaphorical use predates
+        James by centuries, having its roots in astrology and mythology. For example, the term “Wheel of Fortune
+        (Rota Fortunae)” is derived from this same concept.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">among other things ruthlessly pragmatic, psychopathic, and diabolic</char>…Lit: <char
+        style="it">earthly, mental, demonic</char>. <char style="it">Earthly </char>refers to a Machiavellian-sort
+        of cunning. Keep in mind that the Gk. word for <char style="it">wisdom </char>means both wisdom and cunning.
+        <char style="it">Mental </char>means a wisdom which is mental and emotional in contradiction to being
+        spiritual; is concerned with this life only. It is mental thought which like an animal has, where, for
+        example, an ape can tear apart another ape or eat another ape’s baby and have no remorse for it. <char
+        style="it">Demonic </char>(<char style="it">diabolic</char>)<char style="it"> </char>patterns itself
+        after an evil imp which goes around harassing people.</char>
+    </note>
+  <chapter eid="JAS 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="JAS 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 4:1" />Where do the long, drawn-out quarrels<char style="sup">[a]</char> and fights among you come from? Is
+        it not from the pleasurable <char style="it">carnal impulses</char><char style="sup">[A]</char> which
+        are a component of your human nature<char style="sup">[B]</char>, enlisted in a war against you? <verse eid="JAS 4:1" />
+      <verse number="2" style="v" sid="JAS 4:2" />You desire but don’t have <char style="it">anything to show for it</char>—murder and covet but don’t
+        attain—fight and have long, drawn-out quarrels—You don’t have on account of you not asking. <verse eid="JAS 4:2" />
+      <verse number="3" style="v" sid="JAS 4:3" />You ask and don’t receive because you ask <char style="it">with</char> bad <char style="it">intentions</char>,
+        <char style="it">asking for something </char>for the purpose of spending it on your carnal impulses<char
+        style="sup">[b]</char>. <verse eid="JAS 4:3" />
+      <verse number="4" style="v" sid="JAS 4:4" /><char style="it">Spiritual</char> adulterers, don’t you know that a close friend of the world (<char
+        style="it">i.e. the ungodly society of mankind</char>) is pitted against God? So now, he who wishes he
+        were the world’s close friend puts himself in a position<char style="sup">[c]</char> where he’s God’s
+        enemy. <verse eid="JAS 4:4" />
+      <verse number="5" style="v" sid="JAS 4:5" />Or do you think that the verse of Scripture which says “The Spirit that has taken up residence in us
+        and among us jealously longs and desires <char style="it">for hearts turned towards Him</char><char style="sup">[C]</char>”
+        is a waste of time?<verse eid="JAS 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="JAS 4:6" />Now the Bible lets us off the hook all the more<char style="sup">[d]</char>; owing to<char style="it">
+        this </char>it says,</para>
+    <para style="pi" vid="JAS 4:6"></para>
+    <para style="pi" vid="JAS 4:6">God takes a stance against the arrogant, proud, and haughty</para>
+    <para style="pi" vid="JAS 4:6">But He lets the humble and abased off the hook<char style="sup">[d]</char><verse eid="JAS 4:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 4:7" />So submit to God.<char style="sup">[D]</char> Take a stand against the devil and he’ll run away from
+        you. <verse eid="JAS 4:7" />
+      <verse number="8" style="v" sid="JAS 4:8" />Draw closer to God, and He’ll draw closer to you. Purge your life from wrong-doing<char style="sup">[e]</char>,
+        sinners, and set your hearts apart <char style="it">from impurity</char> and make them holy, <char style="it">you
+        who are </char>double-minded. <verse eid="JAS 4:8" />
+      <verse number="9" style="v" sid="JAS 4:9" /><char style="it">Recognize your deplorable moral and spiritual condition and </char>become wretched and
+        miserable <char style="it">over it</char>; become deeply sorrowful similar to the way you would mourn
+        the death of a loved one, and weep. Have your laughter turn into deep sorrow and your joy into gloom.<verse eid="JAS 4:9" />
+      <verse number="10" style="v" sid="JAS 4:10" />Humble and abase yourself before the Lord, and he will uplift and exalt you.<verse eid="JAS 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JAS 4:11" />Don’t put others down<char style="sup">[f]</char> while talking, comrades. He who puts a comrade down
+        or draws conclusions about his comrade so as to write him off<char style="sup">[g]</char> trashes the
+        rules that govern us and writes them off by his speech<char style="sup">[E]</char>. Now if you write
+        a set of rules off, you’re not a practitioner of the rule-set but instead are a person who decides if
+        the rules themselves are right or wrong<char style="sup">[h]</char>. <verse eid="JAS 4:11" />
+      <verse number="12" style="v" sid="JAS 4:12" />There’s only One who’s lawgiver and decider<char style="sup">[h]</char>, He who’s able to preserve<char
+        style="sup">[i]</char> and destroy. Who do you think you are, you who writes off those around you regularly?<verse eid="JAS 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 4:13" />Come on now, those <char style="it">of you </char>who say “Today or <char style="it">maybe even </char>tomorrow
+        we’ll go to such-and-such town, spend a year there engaged in business, and turn a profit.” <verse eid="JAS 4:13" />
+      <verse number="14" style="v" sid="JAS 4:14" />You all are the very people who don’t understand how your lives will turn out given the ups and downs
+        that tomorrow brings<char style="sup">[j]</char>. You see, you’re a wisp of steam that appears for a
+        little while then vanishes. <verse eid="JAS 4:14" />
+      <verse number="15" style="v" sid="JAS 4:15" />Instead, the statement you should make is, “If it happens to be the Lord’s will, and if we’re still alive,
+        we’ll do this-or-that.” <verse eid="JAS 4:15" />
+      <verse number="16" style="v" sid="JAS 4:16" />You’re vaunting at the present time by your pretentious, ostentatious swagger. All such vaunting is evil<char
+        style="sup">[k]</char>. <verse eid="JAS 4:16" />
+      <verse number="17" style="v" sid="JAS 4:17" />So it’s a sin for him who knows to do good not to do it.<verse eid="JAS 4:17" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">long, drawn-out quarrels</char>…Lit: <char style="it">wars</char>. A hyperbole.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">carnal impulses</char>…Lit: <char style="it">pleasures</char>. Same word used in v.
+        1.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">puts himself in a position</char>…Lit: <char style="it">sets</char>. Same word is translated
+        <char style="it">occupies the position</char> in James 3:6.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">lets us off the hook all the more</char>…Lit: <char style="it">gives a greater grace</char>
+        [<char style="it">mercy</char>]</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">purge your life from wrong-doing</char>…Lit: <char style="it">clean</char> [<char style="it">the</char>]
+        <char style="it">hands</char>. An expression.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">put others down</char>…Or: <char style="it">speaks down on</char> [<char style="it">against</char>]
+        <char style="it">others; trash talks others</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">draws conclusions about his comrade so as to write him off</char>…Lit: <char style="it">judges
+        his brother</char>. Ref. note of Matt. 7:1.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">a person who decides if the rules themselves are right or wrong</char>…<char style="it">decider</char>…Lit:
+        <char style="it">judge</char> [<char style="it">of law</char>]</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">preserve</char>…Lit: <char style="it">save</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">how your lives will turn out given the ups and downs that tomorrow brings</char>…Lit:
+        <char style="it">he of the tomorrow what sort of your life</char>. This does lend itself to a literal
+        translation.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">evil</char>…Or: <char style="it">absolutely awful</char>. The word <char style="it">evil
+        </char>here is a bit of a hyperbole.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">pleasurable carnal impulses</char>…Lit: <char style="it">pleasures</char>. This is the
+        Gk. word which <char style="it">hedonistic </char>is derived from. James is talking about the pleasure
+        one gets from indulging in one’s carnal nature. For example, the pleasure it gives you to fly off the
+        handle and scream at someone; the pleasure when you stab someone in the back whom you dislike; the pleasure
+        of lusting after a scantily-clad woman.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">component of your human nature</char>…Lit: <char style="it">in your members</char>.
+        The word <char style="it">members </char>is short for <char style="it">members of the body. </char>The
+        theory held by the writers of the NT is that a person’s carnal nature is a part of their body (Rom. 7:18,23).
+        This carnal nature is referred to as the flesh, the body, or simply “members.” This is another reason
+        why a believer receives a new body in the afterlife: the new body has no carnal component.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">The Spirit that has taken up residence in us and among us jealously longs and desires</char>
+        <char style="it">for hearts turned towards Him</char>…Lit: <char style="it">The Spirit that has taken
+        up residence in us and among us jealously longs and desires</char>. The last part <char style="it">for
+        hearts turned towards Him </char>is an interpolation, as it’s my best-guess as to what James meant. All
+        theories on this verse have logical holes in them, but I assume that he’s paraphrasing (there is no exact
+        OT quote) Exod. 20:5, “I the Lord thy God am a jealous God.” The OT says that He’s jealous for the affections
+        of His people. James combines with this the OT concept of God dwelling among Israel. Like the other theories,
+        there are contradictions to this one. Keep in mind that James is not writing a science textbook.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">So submit to God</char>…James uses an out-of-place verb tense (aorist imperative) throughout
+        this paragraph for the purpose of jarring the reader even harder. It also insinuates that he means for
+        the reader to do what he’s telling them to do in the paragraph one time and be done with, as opposed
+        to doing it over and over.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">trashes the rules that govern us and writes them off by his speech</char>…Lit: <char
+        style="it">speaks against law and judges law</char>. Note the missing definite articles before the word
+        <char style="it">law</char> in three places in this verse. Though the word <char style="it">law </char>here
+        might insinuate <char style="it">Law of Moses</char>, the missing articles skew the meaning to a broader,
+        conceptual use of the word <char style="it">law.</char></char>
+    </note>
+  <chapter eid="JAS 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="JAS 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 5:1" />Come on now, <char style="it">you </char>rich people <char style="it">who act like the stereotypical
+        rich</char><char style="sup">[A]</char>, weep and wail<char style="sup">[a]</char> over the miseries
+        that assail you<char style="sup">[b]</char>. <verse eid="JAS 5:1" />
+      <verse number="2" style="v" sid="JAS 5:2" />Your wealth has rotted and your <char style="it">fancy </char>clothes have been eaten by moths. <verse eid="JAS 5:2" />
+      <verse number="3" style="v" sid="JAS 5:3" />Your <char style="it">hoard of</char> gold and silver has corroded, and its corrosion will show you just
+        how guilty you are<char style="sup">[c]</char> and eat you alive<char style="sup">[d]</char> as though
+        being burned <char style="it">at the stake</char>: you’ve stashed valuables away in this era in which
+        God is doing the great things He promised He’d do<char style="sup">[B]</char>. <verse eid="JAS 5:3" />
+      <verse number="4" style="v" sid="JAS 5:4" />Take a look—the wages which you’ve withheld from the workers scything your grain fields cry out, and
+        these outcries have secured the attention of the <char style="it">Great Unseen </char>Army Chief of Staff<char
+        style="sup">[C]</char>, <char style="it">and He is favorably disposed to wage war on the workers’ behalf</char>.<verse eid="JAS 5:4" />
+      <verse number="5" style="v" sid="JAS 5:5" />You have lived the life of luxury in the midst of the going-ons of this life<char style="sup">[e]</char>
+        and have indulged in <char style="it">every</char> pleasure. You fattened your hearts in a day of slaughter
+        (<char style="it">i.e., just like a cow is fed extra grain to fatten it up right before it’s slaughtered,
+        your heart has been fed and has become fat and is well-primed to be slaughtered during this present cattle-slaughter
+        season</char>). <verse eid="JAS 5:5" />
+      <verse number="6" style="v" sid="JAS 5:6" />You condemned—you MURDERED—the righteous. They don’t <char style="it">even try to</char> fight you off<char
+        style="sup">[f]</char>.<verse eid="JAS 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 5:7" />So be patient, comrades, until the Lord appears on the scene. Take a look at how your typical farmer
+        awaits the valuable crop that the soil produces, <char style="it">how he </char>applies patience through
+        the course of it all<char style="sup">[g]</char>, ultimately getting<char style="sup">[h]</char> the
+        Planting Rains and the Harvesting Rains. <verse eid="JAS 5:7" />
+      <verse number="8" style="v" sid="JAS 5:8" />You too be patient, make your hearts resolute, because the Lord is getting closer and closer to coming.<verse eid="JAS 5:8" />
+      <verse number="9" style="v" sid="JAS 5:9" />Don’t groan at each other <char style="it">in exasperation</char>, comrades, so that you not be judged.
+        Take a look—the judge is waiting for someone to give him the nod to take action<char style="sup">[i]</char>.<verse eid="JAS 5:9" />
+      <verse number="10" style="v" sid="JAS 5:10" />For example, comrades, take a look at the suffering of the prophets, who spoke with the mouth of the
+        Lord. <verse eid="JAS 5:10" />
+      <verse number="11" style="v" sid="JAS 5:11" />There you have it: blessed are they who endure. You heard about the endurance of Job and saw how the
+        Lord’s <char style="it">dealings with him </char>turned out, that He was full of pity and was compassionate
+        too.<verse eid="JAS 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JAS 5:12" />Now first and foremost, my <char style="it">dear </char>comrades, don’t swear oaths: don’t pledge any
+        oath by the sky<char style="sup">[D]</char> (including heaven itself) nor by the earth. Let a simple
+        “yes” be your yes-answer, and simple “no” be your no-answer, in order not to incur a tremendous burden
+        of guilt<char style="sup">[j]</char>.<verse eid="JAS 5:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 5:13" />Is anyone among you enduring hardship?—Have him pray. Anyone cheerful?—Have him sing <char style="it">for
+        joy</char>. <verse eid="JAS 5:13" />
+      <verse number="14" style="v" sid="JAS 5:14" />Anyone run-down with a malady of some sort<char style="sup">[k]</char>?—Have him summon the church governing
+        board<char style="sup">[l]</char>, have them pray over him after rubbing oil on him (or coating him in
+        oil) acting under the authority of the Lord<char style="sup">[m]</char>, <verse eid="JAS 5:14" />
+      <verse number="15" style="v" sid="JAS 5:15" />and the prayer of faith will restore the health of the one who’s ill, and the Lord will get him back
+        on his feet and going<char style="sup">[n]</char>. And if he has committed sins, he’ll be forgiven.<verse eid="JAS 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JAS 5:16" />Confess your sins out loud to each other, comrades, and pray for each other, in order to be healed. The
+        prayer of a righteous man is capable of accomplishing a lot. <verse eid="JAS 5:16" />
+      <verse number="17" style="v" sid="JAS 5:17" />Elijah was a person who experienced the same emotions that we do and prayed a<char style="it"> tremendous
+        </char>prayer<char style="sup">[o]</char> that it wouldn’t rain, and it didn’t rain all over the place<char
+        style="sup">[p]</char> for three and a half years. <verse eid="JAS 5:17" />
+      <verse number="18" style="v" sid="JAS 5:18" />He prayed again and the sky issued forth rain, and out of the ground sprouted the plants that the Earth
+        produces.<verse eid="JAS 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="JAS 5:19" />My <char style="it">dear </char>comrades: if any person should wander from the truth and someone were
+        to get him back on track, <verse eid="JAS 5:19" />
+      <verse number="20" style="v" sid="JAS 5:20" />let him know that the person who gets a sinner back on track and away from a path of wandering <char
+        style="it">from the truth </char>will rescue his psychological well-being (and perhaps even his very
+        life) from waste, ruin, destruction, and worthlessness<char style="sup">[q]</char> and covers a multitude
+        of sins.<verse eid="JAS 5:20" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">weep and wail</char>…Lit: <char style="it">weep while wailing</char>. A figure of speech
+        that adds intensity.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">assail you</char>…Lit: <char style="it">come upon you</char>. This is an expression
+        used throughout the Bible that means something which assaults you and likely overcomes you.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">show you just how guilty you are</char>…Or: <char style="it">point out your guilt to
+        you</char>…Lit: be a witness to you</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">eat you alive</char>…Lit: <char style="it">eat your flesh</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">in the midst of the going-ons of this life</char>…Lit: <char style="it">upon the </char>[<char
+        style="it">face of the</char>] <char style="it">earth</char>. A biblical metonymy (ref. Gen 1:2 (<char
+        style="it">face of the water</char>); Gen. 7:23; Gen. 11:8 (<char style="it">whole earth</char>); Gen.
+        11:8; Luke 21:35. The face of the earth stands in for the affairs of those who dwell on it.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">They don’t even try to fight you off</char>…Lit: <char style="it">he does not oppose</char>
+        [or:<char style="it"> resist; </char>lit:<char style="it"> deploy against</char>] <char style="it">you.
+        </char>The change from singular to plural of <char style="it">he </char>to <char style="it">they </char>is
+        a result of <char style="it">the righteous </char>(a figure of speech) being singular in form but plural
+        in meaning.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">applies patience through the course of it all</char>…Lit: <char style="it">patient at
+        it</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">ultimately getting</char>…Lit: <char style="it">until he gets</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">is waiting for someone to give him the nod to take action</char>…Lit: <char style="it">stands
+        before the doors</char>. <char style="it">Stand before the door </char>is an idiom; also used in Acts
+        5:9; Rev. 3:20.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">in order not to incur a tremendous burden of guilt</char>…Lit: <char style="it">in order
+        that you won’t fall under judgment</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">run down with a malady of some sort</char>…Lit: <char style="it">weak</char>. Ref. note
+        of Matt. 4:23.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">governing board</char>…Lit: <char style="it">elders</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">acting under the authority of the Lord</char>…Lit: <char style="it">in the name of the
+        Lord</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">get him back on his feet and going</char>…Lit: <char style="it">raise him up</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">prayed a tremendous prayer</char>…Lit: <char style="it">prayed with a prayer</char>.
+        The repetition is a figure of speech.</char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">all over the place</char>…Lit: <char style="it">on the earth</char>. An idiom used throughout
+        the Bible.</char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">rescue his psychological well-being</char> <char style="it">(and perhaps even his very
+        life) from waste, ruin, destruction, and worthlessness</char>…Lit: <char style="it">saves his soul from
+        death</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">you rich people who act like the stereotypical rich</char>…Lit: <char style="it">the
+        rich</char>. The usage of the definite article <char style="it">the </char>means that James is referring
+        to a stereotype. Not all rich people behave the way James describes, but plenty of them do.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">in this era in which God is doing the great things He promised He’d do</char>…Lit: <char
+        style="it">in the Last Days</char>. The <char style="it">Last Days </char>is an expression used throughout
+        the Bible. In the OT it’s the era in which God’s promises come to pass. This usually is not eschatological.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">have secured the attention of the Great Unseen Army Chief of Staff</char>…Lit: <char
+        style="it">have entered into the ear of</char> [<char style="it">the</char>] <char style="it">Lord of
+        Hosts</char>. The common expression <char style="it">enter into the ear </char>paints a picture of gaining
+        the attention of a person who’s difficult to reach because of his limited accessibility due to his high
+        position—but it implies that this high-ranking person is disposed to deliberate in a favorable manner.
+        The title <char style="it">Lord of Hosts </char>[<char style="it">the army</char>] appears throughout
+        the OT and naturally refers to God heading his army of angels. Angels in this case symbolize the exercise
+        of God’s supreme power in judgment, and this often takes place when the longsuffering patience of God
+        has been exhausted.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">don’t pledge any oath by the sky</char>…Swearing by something was a common practice
+        in Israel at the time, one which Jesus spoke against in Matt. 23:16,17 and other places. This is like
+        the oath Don Corleone made, “I swear on the souls of my grandchildren that I will not be the one to break
+        the peace that we have made here today.”</char>
+    </note>
+  <chapter eid="JAS 5" />
+</usx>
