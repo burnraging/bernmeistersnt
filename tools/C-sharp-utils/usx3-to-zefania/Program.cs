@@ -25,10 +25,8 @@ using common_dll;
 class ConsoleWrapper    // usx3-to-zefania
 {
     private const string USX3_TO_ZEFANIA_VERSION = "1.0";
+    private const string ZEFANIA_OUTPUT_FILE_NAME = @"the-bernmeisters-nt-v1-zefania-2005.xml";
 
-    //DELETEME public static string BASE_DIR = @"E:\Bernie\Ekklesia\the-bernmeisters-nt\C-sharp-utils";
-
-    // todo!!!:
     public static bool TOZ_SUPPRESS_PARA_BREAKS = true;
 
     private static void HelpText()
@@ -142,7 +140,6 @@ class ConsoleWrapper    // usx3-to-zefania
 
         SusxConverter.TOZ_USX_SOURCE_FOLDER = inputFolder;
         SusxConverter.TOZ_OUTPUT_FOLDER = outputFolder;
-        // !!!!! fill in output file name !!!!!!!!!!!
 
         if (!File.Exists(fqInformationFileName))
         {
@@ -159,11 +156,6 @@ class ConsoleWrapper    // usx3-to-zefania
         }
 
         // </INFORMATION> fill-ins
-        //SusxConverter.TOZ_BIBLE_NAME = "my-bible-name";
-        //SusxConverter.TOZ_BIBLE_ABBREV = "ABC";
-        //SusxConverter.TOZ_CREATOR = "creator-name";
-        //SusxConverter.TOZ_PUBLISHER = "my-publisher";
-        //SusxConverter.TOZ_LANGUAGE_ABBREV = "ENG";
         SusxConverter.TOZ_BIBLE_NAME = allInformationLines[0];
         SusxConverter.TOZ_BIBLE_ABBREV = allInformationLines[1];
         SusxConverter.TOZ_CREATOR = allInformationLines[2];
@@ -171,8 +163,7 @@ class ConsoleWrapper    // usx3-to-zefania
         SusxConverter.TOZ_LANGUAGE_ABBREV = allInformationLines[4];
 
 
-        //????? SusxConverter.ReadBible(SusxConverter.TOZ_USX_SOURCE_FOLDER, out SusxConverter.TreeObject[][] allUsxHeaps, out BookEnum[] allBookEnums);
-        SusxConverter.ZConvert("zefania-output.xml");
+        SusxConverter.ZConvert(ZEFANIA_OUTPUT_FILE_NAME);
     }
 
 
