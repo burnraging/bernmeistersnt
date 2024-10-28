@@ -1,0 +1,82 @@
+
+                               verse-numbering
+==============================================================================
+
+Overview
+--------
+"Verse-numbering" is the name of a C# tool. It's purpose is to sanity check the
+verse numbering and footnotes of a MS Word Bible doc. It flags the following:
+
+- Repeated verse numbers
+- Out-of-sequence verse numbers
+- Repeated footnotes in footnote section
+- Out-of-sequence or missing footnotes in footnote section
+
+It is an older, cruder tool.
+
+To Prepare and Run
+-------------------
+Copy your MS Word Bible source file to another file name.
+DO NOT EDIT YOUR MASTER MS WORD BIBLE FILE! 
+
+Make these destructive edits in your Word-copy
+
+   o Make a copy of the .docx source. We'll be making destructive changes, so must be a throw-away
+   o Search & Replace 'Chapter' --> '!@#$%' (minus single quotes) for Heading 2 style only
+        Select 'Match case' when replacing
+   o CAREFUL! There's different settings for 'Find what' and for 'Replace with'
+          Before each search/replace, be sure to clear formatting on both by mashing 'No Formatting'
+          //
+   o Manually add text '!@#$%' (minus single quotes) at end of Heading 2 chapter names for the single-chapter books:
+         Philemon, 2 John, 3 John, Jude
+   o Search & Replace all verse numbers --> verse number + '$$$$$'.
+       For example '0' --> '0$$$$$' (minus single quotes), repeated for '1'-'9' also.
+       You can do this for all digits at once using the following special patterns
+              (from https://www3.ntu.edu.sg/home/ehchua/programming/howto/PowerUser_MSOffice.html)
+          'Find what'    ^#
+          'Replace with' ^&$$$$$
+       Make sure you only do this for superscript digits.
+       First, clear any formatting by mashing 'No Formatting'.
+           Be careful: Find and Replace both have independent formatting! Clear both!
+       Also, make sure all other Search Options are not selected
+       Advanced Find and Replace menu > Replace > Format > Font > Superscript (check mark)
+   o Do a 'Save As' the following way:
+     (This will retain em dashes, en dashes, curly quotes, Greek words, etc.)
+          . 'Save as type' -> 'Plain Text'
+          . 'Text encoding' -> 'Other encoding'. Select 'Unicode (UTF-8)'
+          . Select 'Insert line breaks'. Select 'End lines with' -> 'LF only'
+          . Don't select 'Allow character substitution'
+          . Save or move file to 'E:\Bernie\Ekklesia\the-bernmeisters-nt\C-sharp-utils\'
+   o Change 'fileName' in verse-scanner.cs to match new file name
+   o Run tool and anaylze results (which get saved to 'verses-by-lines.txt'
+
+Notes:
+   Will always get an error on John 8:11
+         JOHN 8: Verse 11 problem
+
+
+Current console output
+----------------------
+
+Using:
+ Input folder =  E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\intermediate-files
+ Input file =    the-bernmeisters-new-testament-220-DESTRUCTIVE-verse-numbering.txt
+ Output folder = E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\intermediate-files
+ Output file =   verses-by-lines.txt
+
+**********
+**************  Missing/problematic verse number
+**********
+JOHN 8: Verse 11 problem
+**********
+**************  Footnotes
+**********
+Temp marker!!!
+ACTS 26: Footnote a out of sequence/missing/suspicious
+ACTS 26: Footnote 26 duplicated chapter text
+COR2 5: Footnote a out of sequence/missing/suspicious
+COR2 5: Footnote 5 duplicated chapter text
+
+E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\C-sharp-utils\verse-numbering\bin\Debug\net8.0\verse-numbering.exe (process 27276) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

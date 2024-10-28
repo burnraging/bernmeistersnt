@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="3JN" style="id">The Bernmeister's NT</book>
+  <para style="h">3 John</para>
+  <para style="toc1">The Epistle of 3 John</para>
+  <para style="toc2">3 John</para>
+  <para style="toc3">3 John</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">3 JOHN</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="3JN 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="3JN 1:1" />From the distinguished, respected gentleman to the beloved Gaius, whom I love in truth.<verse eid="3JN 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="3JN 1:2" />Beloved, I’m praying that you prosper, be successful, and be healthy in the same way that your mind and
+        emotions prosper. <verse eid="3JN 1:2" />
+      <verse number="3" style="v" sid="3JN 1:3" />You see, I rejoiced tremendously with the coming of the comrades and in their giving an account of you,
+        an account which is truthful insofar as you conduct your lives in truth. <verse eid="3JN 1:3" />
+      <verse number="4" style="v" sid="3JN 1:4" />I have no joy greater than hearing that my own spiritual children conduct their lives with the truth.<verse eid="3JN 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="3JN 1:5" />Beloved, you’d be acting in a faithful manner if you were to do something for the comrades—especially
+        since they are strangers— <verse eid="3JN 1:5" />
+      <verse number="6" style="v" sid="3JN 1:6" />the ones who gave an account of your love in front of the churches, which you’ll do well by sending them
+        forth on their journey thoroughly rested, refreshed, and well-provisioned in a way worthy of God. <verse eid="3JN 1:6" />
+      <verse number="7" style="v" sid="3JN 1:7" />You see, for the sake of reputation, they left taking nothing from the Gentiles. <verse eid="3JN 1:7" />
+      <verse number="8" style="v" sid="3JN 1:8" />So we are obligated to receive (i.e., heartily welcome, provide room and board, and attend to their needs
+        while they visit) people such as this in order that we might become fellow-workers in the truth.<verse eid="3JN 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="3JN 1:9" />I wrote something to the church; instead of that being heeded, Diotrephes, who relishes being the number-one
+        among them, didn’t receive (i.e., welcome; embrace) what we had to say in the letter. <verse eid="3JN 1:9" />
+      <verse number="10" style="v" sid="3JN 1:10" />Because of this, if I do come, I’ll remind you of the things he did, shooting his mouth off saying nasty
+        things about us. And if that wasn’t enough, he didn’t receive the comrades either, and he prevented those
+        who were planning to receive them from receiving them and kicked them out of the church.<verse eid="3JN 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="3JN 1:11" />Beloved, don’t imitate the bad that you see going on around you but imitate the good instead. He who
+        does good is from God. He who does bad has not seen God.<verse eid="3JN 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="3JN 1:12" />Demetrius gave a glowing report about everyone and spoke the very truth; we too give a good report, and
+        you know for a fact that our report is right-on.<verse eid="3JN 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="3JN 1:13" />I have lots of things to write to you about, but don’t want to write on account of having to express
+        my thoughts with pen and paper. <verse eid="3JN 1:13" />
+      <verse number="14" style="v" sid="3JN 1:14" />Now I hope to see you soon and speak to you face-to-face.<verse eid="3JN 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="3JN 1:15" />Peace be to you. The close friends greet you. Go down the list of names and greet the close friends.<verse eid="3JN 1:15" />
+    </para>
+  <chapter eid="3JN 1" />
+</usx>

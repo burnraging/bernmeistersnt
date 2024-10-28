@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="EPH" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Ephesians</para>
+  <para style="toc1">The Epistle of Ephesians</para>
+  <para style="toc2">Ephesians</para>
+  <para style="toc3">Eph.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">EPHESIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">This letter Paul wrote to the Ephesians has become a universal favorite of all Christians from all denominations
+    who have a genuine relationship with Christ. Reading the first half of the first chapter, one immediately
+    sees why Bible studies—in fact, entire seminary courses—are set on this Paul’s letter, as, reading it,
+    one is swept away in a whirlwind of the extend of what God did for us in Christ. The structure is simple,
+    the same word is often repeated, but it communicates profound thoughts—one after another.</para>
+  <para style="ipi">Ephesians runs the gamut of spiritual life. The first couple of chapters of the book are about how believers
+    were taken out of sin and given grace beyond their wildest imagination, and will be given even more in
+    the ages to come. The last few chapters are advice on living day by day in our present lives, followed
+    by the war we wage against the devil. All of it is like a sweet pastry which is best consumed a nibble
+    at a time due to its richness.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="EPH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—
+    </para>
+    <para style="p" vid="EPH 1:1">To the saints (i.e., God’s people) who are in Ephesus and to those who are faithful<char style="sup">[A]</char>
+        in Christ Jesus:<verse eid="EPH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="EPH 1:2" />Grace and peace to you from God our Father and from the Lord Jesus Christ.<verse eid="EPH 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="EPH 1:3" />Blessed <char style="it">is </char>the God and Father of our Lord Jesus Christ, He Who blessed us with
+        every spiritual blessing <char style="it">imaginable </char>in the spiritual domain<char style="sup">[a]</char>
+        in Christ, <verse eid="EPH 1:3" />
+      <verse number="4" style="v" sid="EPH 1:4" />just as in love He chose us in him before the foundation of the world to be holy and unblemished when
+        subjected to His scrutiny<char style="sup">[b]</char>, <verse eid="EPH 1:4" />
+      <verse number="5" style="v" sid="EPH 1:5" />having determined beforehand that He would adopt us, making us His sons through Jesus Christ, according
+        to the benevolent thought-process of His will, <verse eid="EPH 1:5" />
+      <verse number="6" style="v" sid="EPH 1:6" />resulting in praising <char style="it">the </char>glory of His grace, which in an act of mercy and kindness
+        He gave us by means of the Beloved-One, <verse eid="EPH 1:6" />
+      <verse number="7" style="v" sid="EPH 1:7" />in whom we have the Redemption (i.e., the master-plan to put our lives back to the way they were supposed
+        to be) through his blood, the forgiveness of the trespasses <char style="it">which caused us to need
+        redemption in the first place</char>, according to the riches of His grace, <verse eid="EPH 1:7" />
+      <verse number="8" style="v" sid="EPH 1:8" />which He copiously showered on us with every <char style="it">kind of</char> wisdom and thought-process
+        <char style="it">imaginable</char>, <verse eid="EPH 1:8" />
+      <verse number="9" style="v" sid="EPH 1:9" />having made known and understood to us the mystery of His will, according to His benevolent thoughts
+        which He purposed and put forth openly in him <verse eid="EPH 1:9" />
+      <verse number="10" style="v" sid="EPH 1:10" />for <char style="it">the</char> management of when the eras <char style="it">of history </char>come to
+        a head<char style="sup">[c]</char>, resulting in the redefinition<char style="sup">[d]</char> of every
+        last thing<char style="sup">[e]</char> in the Messiah, the Christ, every last thing that resides in the
+        spiritual domain and on the Earth—all things in him, <verse eid="EPH 1:10" />
+      <verse number="11" style="v" sid="EPH 1:11" />in whom we also received an inheritance (i.e., things which have been parceled out and reserved specifically
+        for us, and for us only, to receive or walk, spiritual or otherwise. The plan for us to have such things
+        is immutable. ) which has been predestined (i.e., decided upon ahead of time) according to <char style="it">the
+        </char>plan and purpose of the One who works every last thing according to the deliberation of His will,<verse eid="EPH 1:11" />
+      <verse number="12" style="v" sid="EPH 1:12" />resulting in us being <char style="it">disposed </char>to praise His glory, we who have set our hope
+        in Christ beforehand, <verse eid="EPH 1:12" />
+      <verse number="13" style="v" sid="EPH 1:13" /><char style="it">and </char>in whom we also, having heard the <char style="it">ultimate </char>message<char
+        style="sup">[f]</char> of truth, the Gospel of our salvation (i.e., the good news that there is a program
+        in place to rescue us and protect us from calamity), in which, now that we have believed <char style="it">this
+        message,</char> we were sealed (i.e., identified as belonging to someone or intended for some purpose
+        and labeled and marked as genuine as such) by the guaranteed-by-promise Holy Spirit<char style="sup">[g]</char>,<verse eid="EPH 1:13" />
+      <verse number="14" style="v" sid="EPH 1:14" />who is<char style="sup">[B]</char> the down payment of our inheritance up until we take delivery of what
+        was purchased, resulting in praising His glory.<verse eid="EPH 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="EPH 1:15" />On account of this, having heard about your expression of the Faith<char style="sup">[h]</char>, a faith
+        which is in the Lord Jesus, and the love which <char style="it">you show </char>to all the saints, <verse eid="EPH 1:15" />
+      <verse number="16" style="v" sid="EPH 1:16" />I also haven’t stopped offering thanksgiving for you, bringing you up in my prayers<char style="sup">[i]</char>,<verse eid="EPH 1:16" />
+      <verse number="17" style="v" sid="EPH 1:17" />so that the God of our Lord Jesus Christ, the Father of Glory, will give you a spirit (i.e., a prevailing
+        attitude; an all-encompassing mindset that reaches down deep into the heart, into your own human spirit)
+        of wisdom and revelation in a recognition and an arrived-at, more precise knowledge and understanding
+        of Him, <verse eid="EPH 1:17" />
+      <verse number="18" style="v" sid="EPH 1:18" /><char style="it">which is </char>the eyes of your heart having reached the point where they’re enlightened
+        resulting in us knowing for a fact what<char style="sup">[j]</char> is the hope of our calling (i.e.,
+        what the full potential and ramifications are of us being chosen and accepted by God), what is the wealth
+        of the glory of His inheritance <char style="it">that’s been distributed</char> among the saints, <verse eid="EPH 1:18" />
+      <verse number="19" style="v" sid="EPH 1:19" />and what <char style="it">is </char>the over-the-top greatness of His power <char style="it">made available
+        </char>to us, we who believe in accordance with the actuation of the might of His strength (i.e., the
+        sheer amount of force He’s able to bring to bear when He unleashes his power), <verse eid="EPH 1:19" />
+      <verse number="20" style="v" sid="EPH 1:20" />which he actuated in the Messiah, the Christ, having raised him from the dead and having seated him at
+        his right hand (i.e., having taken his position of God’s chief executive officer) in the spiritual domain<char
+        style="sup">[a]</char>, <verse eid="EPH 1:20" />
+      <verse number="21" style="v" sid="EPH 1:21" />superseding by far<char style="sup">[k]</char> all rule and authority and power and dominion<char style="sup">[C]</char>
+        and every name which has been named (i.e., every authority which has ever been established; every person
+        or being who’s ever been given or has otherwise assumed a position of authority) not just in this age—no—in
+        the <char style="it">Age </char>to<char style="it"> </char>Come as well. <verse eid="EPH 1:21" />
+      <verse number="22" style="v" sid="EPH 1:22" />And He subjected all things under his feet (i.e. God made all things absolutely subservient to Christ,
+        to be forcefully dominated by him), and gave him—<char style="it">the one who’s the </char>head over
+        all things—to the church, <verse eid="EPH 1:22" />
+      <verse number="23" style="v" sid="EPH 1:23" />which is his body, the maximum amount which every little bit of everything is filled to<char style="sup">[D]</char>.<verse eid="EPH 1:23" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">the spiritual domain</char>…Lit: <char style="it">the heavens</char>. Ref. note of 2
+        Cor. 12:2.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">when subjected to His scrutiny</char>…Lit: <char style="it">before Him</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">when the eras of history come to a head</char>…Lit: <char style="it">the fullness of
+        the seasons</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">redefinition</char>…Also: <char style="it">summarization</char>; <char style="it">recapitulation</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">every last thing</char>…Lit: <char style="it">the all</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">the ultimate message</char>…Lit: <char style="it">the word</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the guaranteed-by-promise Holy Spirit</char>…Lit: <char style="it">the of promise Holy
+        Spirit</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">your expression of the Faith</char>…Lit: <char style="it">the according-to-you faith</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">bringing you up in my prayers</char>…Lit: <char style="it">making a remembrance at my
+        prayers</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">what</char>…Or: <char style="it">who</char></char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">superseding by far</char>…Lit: <char style="it">far above</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">to the saints who are</char> <char style="it">in Ephesus and to those who are faithful</char>…Or:
+        <char style="it">to the saints who exist and are faithful </char>. Some of the oldest and most important
+        manuscripts omit the words <char style="it">in Ephesus</char>, which changes the translation to what’s
+        noted here. It’s uncertain whether these words were added later or not.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">who</char>…Or: <char style="it">the thing that is</char>. The latter appears in some
+        of the principal manuscripts.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">rule and authority and power and dominion</char>…These are both earthly rulers and spiritual
+        beings. Ref. note of 1 Cor. 15:24.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">the maximum amount which every little bit of everything is filled to</char>…Lit: <char
+        style="it">the full extent of the all things in all things being filled</char>. <char style="it">All
+        things in all things </char>(the preferable rendering being <char style="it">all in all</char>) is an
+        idiom which also appears in 1 Cor. 12:6; 15:28; Col. 3:11. The meaning of this idiom is understood by
+        context.</char>
+    </note>
+  <chapter eid="EPH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="EPH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 2:1" />And while you were dead (i.e., dead spiritually: in a stagnation of waste, joylessness, futility, and
+        destruction) in your trespasses and sins, <verse eid="EPH 2:1" />
+      <verse number="2" style="v" sid="EPH 2:2" />in which you went about day in, day out<char style="sup">[a]</char> back then according to the age (era)
+        of this world (i.e., according to the philosophies, attitudes, and beliefs that are in vogue in this
+        particular era of human history), according to the ruler of the authority of the air<char style="sup">[A]</char>
+        (i.e., according to the being who determines the underlying unseen power that influences and guides human
+        society), the spirit who now works in those who take it upon themselves to be disobedient<char style="sup">[b]</char>,<verse eid="EPH 2:2" />
+      <verse number="3" style="v" sid="EPH 2:3" />you also conducted your lives this way among them back then, living by the desires of your flesh (i.e.,
+        your carnal nature), acting out the wants of the flesh and of the thoughts <char style="it">which randomly
+        enter your mind</char>, and you were by nature characterized by indulgence in<char style="sup">[c]</char>
+        violent emotions just like everyone else.<verse eid="EPH 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="EPH 2:4" />But God, rich in mercy because of the great amount of love <char style="it">which He has</char>, loved
+        us, <verse eid="EPH 2:4" />
+      <verse number="5" style="v" sid="EPH 2:5" />and we, dead in the trespasses <char style="it">I mentioned earlier</char>, were made alive in Christ—by
+        grace you have been saved— <verse eid="EPH 2:5" />
+      <verse number="6" style="v" sid="EPH 2:6" />and were raised in conjunction <char style="it">with him </char>and seated jointly <char style="it">with
+        him</char> (i.e., given joint authority with him) in the spiritual domain<char style="sup">[d]</char>
+        in Christ Jesus, <verse eid="EPH 2:6" />
+      <verse number="7" style="v" sid="EPH 2:7" />so that the over-the-top riches of His grace in goodness in Christ Jesus would be showcased <char style="it">by
+        being lavished </char>upon us in the coming ages. <verse eid="EPH 2:7" />
+      <verse number="8" style="v" sid="EPH 2:8" />You see, by grace you have been saved through faith, and this <char style="it">grace</char>—the gift
+        of God—<char style="it">does not </char>originate from yourselves<char style="sup">[B]</char>, <verse eid="EPH 2:8" />
+      <verse number="9" style="v" sid="EPH 2:9" /><char style="it">it does not </char>originate from works, so that no one would have bragging-rights.<verse eid="EPH 2:9" />
+      <verse number="10" style="v" sid="EPH 2:10" />You see, we are His handiwork, created in Christ Jesus in a position <char style="it">to handle</char>
+        <char style="it">the</char> good works which God has waiting in the wings for us to occupy our day-to-day
+        lives with<char style="sup">[e]</char>.<verse eid="EPH 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="EPH 2:11" />In light of this, recall that in flesh (i.e., according to your physical bodies which indicate the method
+        and means by which you approach God) you were “the Gentile Nations” back then, those called uncircumcised
+        (i.e., not God’s people) by those called circumcised in flesh by hand (i.e., God’s people according to
+        a ritual performed by humans), <verse eid="EPH 2:11" />
+      <verse number="12" style="v" sid="EPH 2:12" />because in that phase of your life<char style="sup">[f]</char> you were apart from Christ, excluded<char
+        style="sup">[g]</char> from the political and social community of Israel and strangers to the covenants
+        of promise, hopeless and godless in the world. <verse eid="EPH 2:12" />
+      <verse number="13" style="v" sid="EPH 2:13" />But now you <char style="it">are </char>melded with<char style="sup">[h]</char> Christ Jesus; you being
+        far away back then became close by the blood of Christ.<verse eid="EPH 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="EPH 2:14" />The fact is, He personally is our peace, who made both <char style="it">peoples</char> into one and by
+        means of his flesh tore down the dividing wall—the animus—<verse eid="EPH 2:14" />
+      <verse number="15" style="v" sid="EPH 2:15" />having abolished <char style="it">the wall, namely </char>the Law <char style="it">of Moses which consists
+        </char>of the commandments <char style="it">of God enumerated</char> in decrees, so that by means of
+        him He would merge<char style="sup">[i]</char> the two <char style="it">entities </char>into one new
+        entity<char style="sup">[j]</char>, making peace <char style="it">by doing so</char>, <verse eid="EPH 2:15" />
+      <verse number="16" style="v" sid="EPH 2:16" />and by means of one body would reconcile both to God through the cross, having killed the animus by means
+        of him. <verse eid="EPH 2:16" />
+      <verse number="17" style="v" sid="EPH 2:17" />And he went and proclaimed the glad-tidings message of peace to us who are afar and peace to those who
+        are near, <verse eid="EPH 2:17" />
+      <verse number="18" style="v" sid="EPH 2:18" /><char style="it">the message</char> that through him both <char style="it">entities</char> have the access
+        <char style="it">I’ve been talking about</char> in one Spirit to the Father.<verse eid="EPH 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="EPH 2:19" />So <char style="it">I’ll state this </char>emphatically:<char style="it"> </char>you’re no longer strangers
+        and foreign-residents, but fellow-citizens of the saints and households of God (i.e., God’s people, historically
+        speaking) instead, <verse eid="EPH 2:19" />
+      <verse number="20" style="v" sid="EPH 2:20" />built on top of the foundation of the apostles and the prophets, Christ Jesus being the foundation’s
+        main anchor point<char style="sup">[k]</char>, <verse eid="EPH 2:20" />
+      <verse number="21" style="v" sid="EPH 2:21" />in whom you too are being custom-built into a dwelling place of God in <char style="it">the </char>Spirit.<verse eid="EPH 2:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">went about day in, day out</char>…Lit: <char style="it">walked</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">those who take it upon themselves to be disobedient</char>…Lit: <char style="it">the
+        sons of disobedience</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">characterized by indulgence in</char>…Lit: <char style="it">children of</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">spiritual domain</char>…Lit: <char style="it">the heavens</char>. Ref. 1:3.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">for us to occupy our day-to-day lives with</char>…Lit: <char style="it">so that we would
+        walk about among them</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">in that phase of your life</char>…Lit: <char style="it">in that season</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">excluded</char>…Or: <char style="it">estranged</char>. The context suggest <char style="it">excluded;
+        </char>the lexicon says <char style="it">estranged. </char>There’s not much information on this word.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">melded with</char>…Lit: <char style="it">in</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">merge</char>…Lit: <char style="it">create</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">entity</char>…Lit: <char style="it">man</char> [<char style="it">person</char>]</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">the foundation’s main anchor point</char>…Lit: <char style="it">the chief cornerstone</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the ruler of the authority of the air</char>…Up until modern times, it was a commonly
+        held belief that the large masses of air which blow from place to place bring with them not only plagues
+        but unseen, spiritual forces which influence and control the minds of the collective.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">and this grace—the gift of God—does not originate from yourselves</char>…Lit: <char
+        style="it">and this not from out of you all the gift of God</char>. The gender of the word <char style="it">this
+        </char>is neuter, agreeing with the gender of <char style="it">gift. </char>The genders of <char style="it">grace
+        </char>and <char style="it">faith </char>are both feminine, which means that in the strictest sense <char
+        style="it">this </char>does not refer to <char style="it">faith </char>because of the gender disagreement.
+        Many assume that it does and use this verse as proof that faith is a gift and that God must give us this
+        gift to “boot us up” so to speak as Christians. Faith is not a gift, nowhere in the Bible does it say
+        that faith is a gift, and neither does this verse.</char>
+    </note>
+  <chapter eid="EPH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="EPH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 3:1" /><char style="it">Now about</char> grace of this <char style="it">sort</char>: I Paul the prisoner of
+        Christ Jesus on behalf of you who are<char style="it"> </char>the Gentiles <verse eid="EPH 3:1" />
+      <verse number="2" style="v" sid="EPH 3:2" />(assuming you’ve actually heard about the responsibility assigned to me to manage the grace of God, grace
+        which was conveyed by me to you), <verse eid="EPH 3:2" />
+      <verse number="3" style="v" sid="EPH 3:3" /><char style="it">am</char> <char style="it">telling you </char>that through the agency of<char style="sup">[a]</char>
+        revelation the mystery <char style="it">of this grace </char>was made known to me just as I briefly wrote
+        about before <verse eid="EPH 3:3" />
+      <verse number="4" style="v" sid="EPH 3:4" />for the purpose of you being able to think through my understanding of<char style="sup">[b]</char> the
+        mystery of Christ by reading <char style="it">what I wrote</char>, <verse eid="EPH 3:4" />
+      <verse number="5" style="v" sid="EPH 3:5" /><char style="it">a mystery </char>which in other decades and centuries<char style="sup">[c]</char> wasn’t
+        made known to the average person<char style="sup">[d]</char> like it’s now been revealed to his holy
+        apostles and prophets by means of <char style="it">the </char>Spirit, <verse eid="EPH 3:5" />
+      <verse number="6" style="v" sid="EPH 3:6" /><char style="it">namely that </char>the Gentiles are to be joint-heirs, to share the same body with,
+        and to be joint-partakers of the promise by means of Christ Jesus through the Gospel, <verse eid="EPH 3:6" />
+      <verse number="7" style="v" sid="EPH 3:7" />which I became a minister of according to the gift of the grace of God which was given to me reflective
+        of the actuation of His power.<verse eid="EPH 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="EPH 3:8" />This very grace was given to me, the least <char style="it">worthy </char>of any of the saints (i.e.,
+        those who believe in Christ) to evangelize to the Gentiles the unfathomable riches of Christ—riches which
+        cannot be tracked like a predator tracks its prey— <verse eid="EPH 3:8" />
+      <verse number="9" style="v" sid="EPH 3:9" />and to make visible and apparent to anyone and everyone <char style="it">what is </char>the program<char
+        style="sup">[e]</char> by which the mystery of what has been hidden away in God Who created all things
+        from <char style="it">those who lived in </char>the <char style="it">various </char>ages, <verse eid="EPH 3:9" />
+      <verse number="10" style="v" sid="EPH 3:10" />so that at the present time the multi-faceted wisdom of God would be made known and understood to the
+        <char style="it">demonic </char>rulers and the <char style="it">demonic </char>authorities in the spiritual
+        domain<char style="sup">[f]</char> through the church, <verse eid="EPH 3:10" />
+      <verse number="11" style="v" sid="EPH 3:11" />according to <char style="it">the </char>plan and purpose<char style="it"> </char>of<char style="it">
+        </char>the ages, which He executed by means of Christ Jesus our Lord, <verse eid="EPH 3:11" />
+      <verse number="12" style="v" sid="EPH 3:12" />in whom we have the open, bold, and confident means of access<char style="sup">[g]</char> in <char style="it">our
+        </char>having reached the point where <char style="it">we’re </char>fully convinced through the faith
+        <char style="it">we have </char>in him. <verse eid="EPH 3:12" />
+      <verse number="13" style="v" sid="EPH 3:13" />In light of this I ask that you not lose heart in the deluge of<char style="sup">[h]</char> the severe
+        difficulties I face for your sake, a thing in particular which focuses on you<char style="sup">[i]</char>.<verse eid="EPH 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="EPH 3:14" /><char style="it">Now back to talking about</char> grace of this <char style="it">sort</char>: I genuflect
+        before the Father, <verse eid="EPH 3:14" />
+      <verse number="15" style="v" sid="EPH 3:15" />out of Whom every lineage, be it race, tribe, clan, family, <char style="it">or whatever,</char> in <char
+        style="it">the </char>heavens (i.e., the sky above, heaven, and the spiritual domain) and on <char style="it">the</char>
+        earth are named (i.e. are assigned their role and authorities), <verse eid="EPH 3:15" />
+      <verse number="16" style="v" sid="EPH 3:16" />that, according to the riches of His glory, He would grant you to be strengthened with power in the inner-self<char
+        style="sup">[j]</char> through His Spirit, <verse eid="EPH 3:16" />
+      <verse number="17" style="v" sid="EPH 3:17" />for Christ to take up residence through the faith in your hearts, while being rooted and anchored<char
+        style="sup">[k]</char> in love, <verse eid="EPH 3:17" />
+      <verse number="18" style="v" sid="EPH 3:18" />so that you, joined by all the saints, would be equal to the task of grasping the sheer magnitude of<char
+        style="sup">[l]</char> the width, length, height, and depth <char style="it">of this grace,</char> <verse eid="EPH 3:18" />
+      <verse number="19" style="v" sid="EPH 3:19" />and to comprehend what’s beyond comprehension—the love of Christ—so that you would be filled with the
+        goal of reaching<char style="sup">[m]</char> all the fullness of God.<verse eid="EPH 3:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="EPH 3:20" />Now to the One Who’s able to do far above and beyond all that we ask or think, <char style="it">doing
+        it </char>in lockstep with the power which works in us— <verse eid="EPH 3:20" />
+      <verse number="21" style="v" sid="EPH 3:21" />to Him <char style="it">be </char>the glory in the church and in Christ Jesus extending out to all the
+        generations that will forevermore come. And let us pause a moment for that to sink in<char style="sup">[n]</char>.<verse eid="EPH 3:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">through the agency of</char>…Also: <char style="it">according to</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">of</char>…Lit: <char style="it">in</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">decades and centuries</char>…Lit: <char style="it">generations</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">to the average person</char>…Lit: <char style="it">to the sons of men. </char>Ref. note
+        of Matt. 8:20.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">program</char>…Or: <char style="it">administration</char>; <char style="it">management</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">spiritual domain</char>…Lit: <char style="it">heavenly places</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the open, bold, and confident means of access</char>…Lit: <char style="it">the boldness
+        and access</char>. An hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">in the deluge of</char>…Lit: <char style="it">among</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">a thing in particular which focuses on you</char>…Lit: <char style="it">a thing in particular
+        is a glory of yours</char>. The form of the word for <char style="it">a thing in particular </char>is
+        feminine singular, whose antecedent is presumed to be <char style="it">severe difficulties</char>. Though
+        the gender matches, it is mismatched in singular vs. plural.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">self</char>…Lit: <char style="it">man</char> [<char style="it">person</char>]</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">anchored</char>…Lit: <char style="it">grounded</char>; <char style="it">having been
+        put on a foundation</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">the sheer magnitude of</char>…Lit: [<char style="it">just</char>] <char style="it">how</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">with the goal of reaching</char>…Lit: <char style="it">to</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">and let us pause a moment for that to sink in</char>…Lit: <char style="it">amen. </char>Ref.
+        note of Rev. 19:4.</char>
+    </note>
+  <chapter eid="EPH 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="EPH 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 4:1" />I ask you with all sincerity—I the prisoner in <char style="it">the </char>Lord—to go about your day-to-day
+        lives in a worthy manner, <verse eid="EPH 4:1" />
+      <verse number="2" style="v" sid="EPH 4:2" />with every kind of and the utmost extent of humility, gentleness, and self-restraint there is<char style="sup">[a]</char>,
+        with patience, putting up with one another in love, <verse eid="EPH 4:2" />
+      <verse number="3" style="v" sid="EPH 4:3" />while being eager to maintain the unity of the Spirit by means of the bond of peace— <verse eid="EPH 4:3" />
+      <verse number="4" style="v" sid="EPH 4:4" /><char style="it">There is </char>one body <char style="it">of believers</char> and one Spirit <char style="it">of
+        God</char>, just like the fact that you were called in one hope of your calling (i.e., you were summoned
+        by God to be believers in a summoning that has one and only one hope in mind)— <verse eid="EPH 4:4" />
+      <verse number="5" style="v" sid="EPH 4:5" />One Lord, one faith, one baptism (i.e. there is only one way to become a Christian, and it is done once
+        only)— <verse eid="EPH 4:5" />
+      <verse number="6" style="v" sid="EPH 4:6" />One God who occupies the role of Father<char style="sup">[A]</char> of all things: <char style="it">namely
+        </char>the One Who’s on the top of the heap<char style="sup">[b]</char>; Who all things exist on account
+        of Him, by means of Him, and through Him; and Who is in, with, and among all things.<verse eid="EPH 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="EPH 4:7" />Now the unearned gift which God gives out of His kindness<char style="sup">[B]</char> was given to each
+        individual according to the specific amount <char style="it">and peculiar characteristics</char><char
+        style="sup">[c]</char><char style="it"> </char>of the gift of Christ. <verse eid="EPH 4:7" />
+      <verse number="8" style="v" sid="EPH 4:8" />In light of this <char style="it">the Book of Psalms</char> says,
+    </para>
+    <para style="pi" vid="EPH 4:8"></para>
+    <para style="pi" vid="EPH 4:8">Once he ascended to a high <char style="it">place</char><char style="sup">[C]</char><char style="it">,</char></para>
+    <para style="pi" vid="EPH 4:8">He bedazzled the captives<char style="sup">[d]</char>—</para>
+    <para style="pi" vid="EPH 4:8">He gave gifts to the people <char style="it">on Earth</char><verse eid="EPH 4:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="9" style="v" sid="EPH 4:9" />Now <char style="it">as a side note, </char>how can he who ascended (i.e., the person referred to by
+        this quotation from Psalms)<char style="it"> possibly</char> be anyone other than the<char style="it">
+        </char>person who descended into the lower part of the Earth (i.e., the world beneath the Earth, the
+        underworld, the place where the dead go and where hell is)? <verse eid="EPH 4:9" />
+      <verse number="10" style="v" sid="EPH 4:10" />The person who descended is the same person <char style="it">referred to in Psalms here </char>who ascended
+        far above all the heavens (i.e., to a position which completely supersedes and has complete dominion
+        over the entire spiritual domain, including all spiritual creatures and all activity in the spiritual
+        world) in order to fully take ownership of<char style="sup">[e]</char> all the things <char style="it">that
+        were promised to him</char>.<verse eid="EPH 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="EPH 4:11" />And <char style="it">as far as the gifts that were given, </char>this same person—<char style="it">the
+        one who both descended and ascended</char>—granted that, <char style="it">some</char> <char style="it">here
+        and some there, </char>there be the apostles, the prophets, the evangelists, and the <char style="it">overlapping
+        roles of</char> pastor<char style="sup">[f]</char> and instructor<char style="sup">[D]</char> (i.e.,
+        those who do one or more of the following: leading the congregation; instructing the congregation as
+        to what the rules are; laying down rules when needed; explaining the Scriptures and the Christian faith)—<verse eid="EPH 4:11" />
+      <verse number="12" style="v" sid="EPH 4:12" />for the equipping of the saints (i.e., the believers) towards the goal of <char style="it">the</char>
+        work of <char style="it">the </char>ministry, towards the goal of the building up of the body of Christ,<verse eid="EPH 4:12" />
+      <verse number="13" style="v" sid="EPH 4:13" />until—should the time ever come<char style="sup">[E]</char>—we all attain the unity of the Faith and
+        the recognition and the arrived-at knowledge and understanding of the Son of God, with the goal <char
+        style="it">of becoming</char> a full-grown man (i.e., getting our act together) to the point where we
+        reach Christ’s height and body-weight<char style="sup">[F]</char>, <verse eid="EPH 4:13" />
+      <verse number="14" style="v" sid="EPH 4:14" />so that we’d no longer be young children, jostled and carried about by every wind of teaching among the
+        cheap hustles that pool sharks dream up to con people<char style="sup">[g]</char>; <verse eid="EPH 4:14" />
+      <verse number="15" style="v" sid="EPH 4:15" />but, while being straight-up about the truth<char style="sup">[h]</char> in <char style="it">a spirit
+        of </char>love, we would grow to <char style="it">the same stature as</char> him in all respects, who
+        is the head, <verse eid="EPH 4:15" />
+      <verse number="16" style="v" sid="EPH 4:16" />from whom the entire body is being assembled into a single, cohesive unit by examining each part, seeing
+        how it logically fits into the big picture, then putting the entire unit together—<char style="it">a
+        body which is connected</char> through every supporting ligament according to a <char style="it">pattern
+        of</char> operation where each one of the members does its share<char style="sup">[i]</char> to cause
+        the growth of the body towards the goal of the building up of itself in love.<verse eid="EPH 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="EPH 4:17" />What I’m telling you—and I swear by it in the Lord—is this: No longer go about your day-to-day lives
+        as the Gentiles (i.e., the random people out yonder who have no relationship with God; the nations which
+        populate the earth) do in the futile, foolish, senseless, and worthless state of their minds, <verse eid="EPH 4:17" />
+      <verse number="18" style="v" sid="EPH 4:18" />being darkened in their end-to-end thought process, estranged from the life of God on account of the
+        ignorance which exists in them <char style="it">and furthermore </char>on account of the state of hardness,
+        dullness, and insensitivity of their hearts, <verse eid="EPH 4:18" />
+      <verse number="19" style="v" sid="EPH 4:19" />people in particular who, having reached the point where they’re so callous that they’re not bothered
+        by the implications of what they do, have relinquished control of themselves in their giving of themselves
+        over to an unrestrained indulgence in lewd and immoral physical pleasures towards the end-result of practicing
+        all <char style="it">sorts of</char><char style="sup">[j]</char> filthy, disgusting things<char style="sup">[k]</char>
+        in a yearning for more and more of the same.<verse eid="EPH 4:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="EPH 4:20" />But you did not learn (i.e., successively come to appreciate and build an understanding of) Christ this
+        way, <verse eid="EPH 4:20" />
+      <verse number="21" style="v" sid="EPH 4:21" />if you really heard him and were taught by him (according to the premise that truth is in Jesus) <verse eid="EPH 4:21" />
+      <verse number="22" style="v" sid="EPH 4:22" />to <char style="it">repeatedly </char>put aside the old-self<char style="sup">[l]</char> in regard to
+        the former lifestyle <char style="it">you used to live</char>, the old-self who’s degenerating as a consequence
+        of the carnal desires of “the delusion” <char style="it">we’re all-too familiar with— </char><verse eid="EPH 4:22" />
+      <verse number="23" style="v" sid="EPH 4:23" />but <char style="it">doing this </char>while being renewed in the prevailing attitude and disposition<char
+        style="sup">[m]</char> of your mind— <verse eid="EPH 4:23" />
+      <verse number="24" style="v" sid="EPH 4:24" />and to put on <char style="it">once and for all</char><char style="sup">[G]</char> the new-self, who,
+        as directed by God, was created in righteousness and holiness—without fault both from a human and from
+        a divine perspective—derived from<char style="sup">[n]</char> the truth.<verse eid="EPH 4:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="EPH 4:25" />In light of this, now that you’ve put aside the mendacity <char style="it">that used to be a part of
+        your conversation,</char> <char style="it">as Zechariah says</char>, “Each person <char style="it">ought
+        to </char>speak truthfully <char style="it">when</char> <char style="it">he’s </char>with his neighbor<char
+        style="sup">[o]</char>,” since you belong to one another<char style="sup">[p]</char>. <char style="it">Psalms
+        says, </char><verse eid="EPH 4:25" />
+      <verse number="26" style="v" sid="EPH 4:26" />“Be angry and don’t sin <char style="it">when you are</char>”—don’t let the sun set on your wrath (i.e.,
+        be angry but don’t be consumed by the emotion, not putting the anger away when you should), <verse eid="EPH 4:26" />
+      <verse number="27" style="v" sid="EPH 4:27" />nor give place to the devil (i.e., close off any opportunities for the devil; don’t allow him to gain
+        a foothold anywhere). <verse eid="EPH 4:27" />
+      <verse number="28" style="v" sid="EPH 4:28" />Let the person who steals no longer steal, but rather <char style="it">have him </char>toil, working
+        <char style="it">for</char> the <char style="it">common </char>good using his own hands, so that he would
+        have <char style="it">the wherewithal </char>to give to the one in need. <verse eid="EPH 4:28" />
+      <verse number="29" style="v" sid="EPH 4:29" />Don’t let any rotten word (including ideas and topics of conversation) come out of your mouth, but rather
+        <char style="it">let </char>something <char style="it">come out of your mouth </char>that contributes
+        positively to the problem at hand<char style="sup">[q]</char>, so that it would give grace (i.e., it
+        would be a gift of kindness, graciousness, and goodwill to those who don’t deserve the same) to those
+        who hear. <verse eid="EPH 4:29" />
+      <verse number="30" style="v" sid="EPH 4:30" />And do not grieve the Holy Spirit of God or cause him pain, in whom you were sealed (i.e., certified
+        and labeled as genuine or as belonging to someone) for a day of redemption (i.e. to a point in time where
+        things are made to be what they’re supposed to be or restored to what they used to be). <verse eid="EPH 4:30" />
+      <verse number="31" style="v" sid="EPH 4:31" />Let any sort of bitterness, rage, anger, shouting, or blasphemy (i.e., swearing at someone, trash-talking
+        about someone, smearing or slandering the reputation of someone) be removed from you together with any
+        sort of malice. <verse eid="EPH 4:31" />
+      <verse number="32" style="v" sid="EPH 4:32" />In the same <char style="it">situations</char>, become kind to one another, tender-hearted and compassionate,
+        and gracious, forgiving, and extending goodwill just as God in Christ was gracious, forgiving, and extended
+        goodwill to you as well.<verse eid="EPH 4:32" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">with every kind of humility, gentleness, and self-restraint there is</char>…Lit: <char
+        style="it">with all humility and meekness</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">on the top of the heap</char>…Lit: <char style="it">upon all</char> [<char style="it">things</char>]</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">specific amount</char> <char style="it">and peculiar characteristics</char>…Lit: <char
+        style="it">measure</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">he bedazzled the captives</char>…Lit: <char style="it">he took captive the captives</char>.
+        A repetition of the same root, first the verb then the noun with not article is a figure of speech, likely
+        an idiom also. This figure of speech originates in the Hebrew text of Ps. 68:18 and was simply copied
+        to the LXX, from where it was copied to this epistle.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">fully take ownership of</char>…Lit: <char style="it">fulfill</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">pastor</char>…Lit: <char style="it">shepherd</char>. Ref. note of 1 Pet. 5:2.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the cheap hustles that pool sharks dream up to con people</char>…Lit: <char style="it">the
+        cunning</char> [from <char style="it">dice-playing</char>; <char style="it">sleight</char>] <char style="it">of
+        men in villainy, knavery, trickery</char> [lit: <char style="it">readiness to do anything</char>] <char
+        style="it">to the scheming</char> [from the root <char style="it">method, system; device; scheming; deal
+        craftily with</char>] <char style="it">of deception. Pool sharks </char>is actually <char style="it">dice-throwers</char>
+        (liberties taken).</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">while being straight-up about the truth</char>…Lit<char style="it">: truth-speaking</char>.
+        Of note is that this is a single Gk. word and not a multi-word phrase. Since it is a single word, it
+        has a more specific definition.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">its share</char>…Lit: <char style="it">in a measure</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">all sorts of</char>…Lit: <char style="it">all</char>. Same idiom used in 1 Tim. 6:10.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">filthy, disgusting things</char>…Lit: <char style="it">uncleanness</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">old-self</char>…Lit: <char style="it">old man</char> [<char style="it">person</char>]</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">prevailing attitude and disposition</char>…Lit: <char style="it">spirit</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">derived</char> <char style="it">from</char>…Lit: <char style="it">of</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">Each person ought to speak truthfully when he’s with his neighbor</char>…Lit: <char
+        style="it">speak truth each one with his neighbor</char>. <char style="it">Speak truth</char> is a figure
+        of speech.</char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">belong to one another</char>…Lit: <char style="it">are a member of one another</char></char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">contributes positively to the problem at hand</char>…Lit: <char style="it">is good towards
+        an edification of the need</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">One God who occupies the role of Father</char>…Lit: <char style="it">God and Father</char>.
+        An hendiadys; ref. note of Matt. 3:11. In this case, the hendiadys emphasizes the fact that God is the
+        Supreme Father, and as the Father is the One Who is over everything, plans, originates, directs, and
+        gives purpose to everything. This very thing is elaborated in the words which follow.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the unearned gift which God gives out of His kindness</char>…Also: <char style="it">the
+        grace</char>. The definite article precedes the word <char style="it">grace </char>when it refers to
+        grace in a Christian context, and not one of the other meanings the Gk. word might convey. This is sort-of
+        idiomatic.</char>
+      <char style="fp"></char>
+      <char style="ft">The context suggests that this is talking about the special abilities God gives to select individuals
+        to be used in the ministry. Note that the word <char style="it">grace </char>in this verse is the root
+        for the word <char style="it">gift </char>(<char style="it">charisma) </char>used in 1 Cor. 12,14. Now,
+        the word <char style="it">gift </char>used in v. 7 here in <char style="it">gift of Christ</char> uses
+        the generic word for <char style="it">gift </char>(<char style="it">dōron, </char>δῶρον/Strong’s 1435)
+        <char style="it">, </char>which, unlike <char style="it">charisma,</char> has no sense of grace attached
+        to it (ref. note of Rom. 12:6). But this was probably because <char style="it">dōron </char>was used
+        in Ps. 68:18 in the LXX, which is quoted in v. 8, so Paul uses it in reference to this quotation, not
+        because there’s no grace associated with this <char style="it">dōron.</char></char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">ascended to a high place</char>…Lit: <char style="it">ascended to high</char>. A few
+        verses later (v. 10) Paul clarifies what <char style="it">high </char>means: <char style="it">far above
+        all the heavens. </char>This is not so much a physical location as a position of authority.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">instructor</char>…Also: <char style="it">teacher</char>. Ref. note of Acts 15:1. Also
+        note that there is only one definite article before <char style="it">pastor and instructor</char>, whereas
+        apostle, prophet, and evangelist each have their own definite articles. The missing definite article
+        before <char style="it">teacher </char>binds it to <char style="it">pastor.</char></char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">should the time ever come</char>…This seems to be insinuated by the verb tense of <char
+        style="it">attain, </char>but others (in this case, the <char style="it">Expositor’s Greek Testament</char>)
+        claim that the tense of <char style="it">attain </char>“…points to the event [of attaining the unity
+        of the faith] as expected, and not as a mere hypothetical possibility.” According to this reasoning,
+        <char style="it">should the time ever come </char>would be rendered <char style="it">when the time actually
+        does come</char> instead.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">being a full-grown man (i.e., getting our act together) to the point where we reach
+        Christ’s height and body-weight</char> …Lit: <char style="it">to a complete man, to a measure of stature
+        of the fullness of Christ</char>. <char style="it">Complete man </char>is the same idiom/metaphor used
+        in James 3:2. The metaphorical sense of this is signaled by the use of the more specific Gk. word for
+        <char style="it">man, </char>which is<char style="it"> anār </char><char style="w" strong="G00435">ἀνήρ</char>),
+        over the more general <char style="it">anthrōpos </char><char style="w" strong="G00444">ἄνθρωπος</char>).
+        Also, choosing <char style="it">anār </char>over <char style="it">anthrōpos </char>refers to the physical
+        size of a grown-man’s body. The comparison to a full-grown body continues in the phrase <char style="it">to
+        a measure of the stature of the fullness of Christ. </char>Furthermore<char style="it">,</char> <char
+        style="it">complete man </char>also refers to a man’s physical body size. A “complete man” is one who
+        has a full-grown body. The metaphor is that, when our body is fully grown, we will have attained the
+        same height and weight as Christ. The reference to children in v. 14 continues this stature-metaphor.</char>
+    </note>
+    <note caller="[G]" style="f">
+      <char style="fk">[G]</char>
+      <char style="ft"><char style="it">to put on</char> <char style="it">once and for all…</char>There is a noteworthy change
+        in verb tense between the verb <char style="it">to put aside </char>in v. 23 (Gk. present tense) and
+        the verb <char style="it">to put on </char>in v. 24 (Gk. aorist tense); the words <char style="it">repeatedly
+        </char>and <char style="it">once and for all </char>are insinuated by these tenses. Also, as these two
+        verbs are imperatives, a present-tense imperative is softer than an aorist-imperative. So the command
+        <char style="it">to put on </char>is like an order that an army captain would give to one of his soldiers
+        or that a lord would give to one of his slaves. So the command to put on the new-self is more urgent,
+        abrupt, and forceful than the command to put off the old-self.</char>
+    </note>
+  <chapter eid="EPH 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="EPH 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 5:1" />Become imitators of God as children who are loved, <verse eid="EPH 5:1" />
+      <verse number="2" style="v" sid="EPH 5:2" />and go about your day-to-day lives in love, just as Christ loved you and handed himself over <char style="it">to
+        be crucified </char>for your sakes <char style="it">as </char>a sacrificial offering<char style="sup">[a]</char>
+        with the goal <char style="it">of giving off </char>an aromatic aroma <char style="it">when incinerated
+        as a burnt offering</char>. <verse eid="EPH 5:2" />
+      <verse number="3" style="v" sid="EPH 5:3" />But fornication (i.e., sexual immorality) and uncleanness (i.e., any immoral practice which is filthy
+        and disgusting) of any sort or greed—don’t even mention it<char style="sup">[b]</char> among yourselves,
+        as <char style="it">not mentioning these things </char>is what’s appropriate for the saints (i.e., those
+        who believe in Christ). <verse eid="EPH 5:3" />
+      <verse number="4" style="v" sid="EPH 5:4" />And things you ought to be ashamed of saying because they’re morally unacceptable or they’re obscene;
+        and stupid, foolish babbling or <char style="it">sexual </char>innuendos—that which ought not <char style="it">be
+        spoken—don’t say these things</char>, but rather <char style="it">speak </char>words of gratitude all
+        the more. <verse eid="EPH 5:4" />
+      <verse number="5" style="v" sid="EPH 5:5" />In fact, wrap your head around this<char style="sup">[c]</char>: All fornicators, those who practice
+        uncleanness, or those who are greedy (which is idolatry) don’t have an inheritance (i.e., don’t have
+        a piece carved out for them) in the kingdom of Christ and God.<verse eid="EPH 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="EPH 5:6" />Let no one deceive you with empty words: the wrath of God comes upon the sons of disobedience (i.e.,
+        those who take it upon themselves to be disobedient) because of these things, <verse eid="EPH 5:6" />
+      <verse number="7" style="v" sid="EPH 5:7" />so don’t partner up with them. <verse eid="EPH 5:7" />
+      <verse number="8" style="v" sid="EPH 5:8" />You see, you were darkness back then, but now you are light in <char style="it">the</char> Lord: go about
+        your day-to-day lives as children of light <verse eid="EPH 5:8" />
+      <verse number="9" style="v" sid="EPH 5:9" />(As a side-note, the fruit (i.e., the byproduct) of light <char style="it">can be found</char> in any
+        kind of and all sorts of<char style="sup">[d]</char> goodness, righteousness, and truth), <verse eid="EPH 5:9" />
+      <verse number="10" style="v" sid="EPH 5:10" />giving your approval to what is pleasing to the Lord. <verse eid="EPH 5:10" />
+      <verse number="11" style="v" sid="EPH 5:11" />And don’t take part in the fruitless (i.e., no long-term benefit) works of darkness, but expose <char
+        style="it">them</char> instead; <verse eid="EPH 5:11" />
+      <verse number="12" style="v" sid="EPH 5:12" />for the things which take place in secret <char style="it">which are done </char>by them are embarrassing
+        to even talk about. <verse eid="EPH 5:12" />
+      <verse number="13" style="v" sid="EPH 5:13" />Now everything which is exposed by the light gets brought out in the open, plain for all to see. <verse eid="EPH 5:13" />
+      <verse number="14" style="v" sid="EPH 5:14" />In fact, anything which itself brings things out in the open and makes them plain to see is light<char
+        style="sup">[A]</char>. Therefore it says,</para>
+    <para style="pi" vid="EPH 5:14"></para>
+    <para style="pi" vid="EPH 5:14">You <char style="it">there </char>who’s sleeping: get up</para>
+    <para style="pi" vid="EPH 5:14">And arise from the dead</para>
+    <para style="pi" vid="EPH 5:14">And Christ will shine on you (i.e., he’ll appear to you)<verse eid="EPH 5:14"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="15" style="v" sid="EPH 5:15" />So see to it that you go about your day-to-day lives monitoring whether your lives are up to standard
+        <char style="it">in every aspect</char>, not <char style="it">living </char>as an unwise person but as
+        a shrewd and wise one, <verse eid="EPH 5:15" />
+      <verse number="16" style="v" sid="EPH 5:16" />making the most of the time and taking advantage of every opportunity, because it’s bad out there<char
+        style="sup">[e]</char>. <verse eid="EPH 5:16" />
+      <verse number="17" style="v" sid="EPH 5:17" />Because of this, don’t get to where you’re careless, reckless, thoughtless, or stupid, but rather constantly
+        understand what the will of the Lord <char style="it">is</char>. <verse eid="EPH 5:17" />
+      <verse number="18" style="v" sid="EPH 5:18" />And don’t get drunk on wine—in which is a reckless disregard for your own self-preservation—but be continuously
+        filled <char style="it">with the Spirit while</char> in <char style="it">the </char>Spirit<char style="sup">[f]</char>
+        instead, <verse eid="EPH 5:18" />
+      <verse number="19" style="v" sid="EPH 5:19" />speaking among yourselves or to yourselves in popular songs accompanied by instruments, songs of praise<char
+        style="sup">[B]</char>, and spiritual songs<char style="sup">[C]</char> (i.e., prophetic manifestations
+        of the Holy Spirit put to song, including singing in tongues), singing in general<char style="it"> </char>and
+        singing popular tunes—tunes which may be accompanied by musical instruments<char style="sup">[g]</char>—with
+        the heart to the Lord, <verse eid="EPH 5:19" />
+      <verse number="20" style="v" sid="EPH 5:20" />always offering thanksgiving for everything<char style="sup">[h]</char> in <char style="it">the </char>name
+        of our Lord Jesus Christ to God the Father<char style="sup">[i]</char>, <verse eid="EPH 5:20" />
+      <verse number="21" style="v" sid="EPH 5:21" />submitting to one another in a reverence of Christ bordering on fear.<verse eid="EPH 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="EPH 5:22" />Wives <char style="it">are to submit</char><char style="sup">[D]</char> to their husbands as <char style="it">though
+        submitting </char>to the Lord, <verse eid="EPH 5:22" />
+      <verse number="23" style="v" sid="EPH 5:23" />since <char style="it">the</char> husband is <char style="it">the </char>head<char style="sup">[j]</char>
+        of the wife as Christ is <char style="it">the </char>head of the church, he personally <char style="it">being
+        the</char> savior of the body. <verse eid="EPH 5:23" />
+      <verse number="24" style="v" sid="EPH 5:24" />Anyways, as the church submits to Christ, this is the same way that wives <char style="it">are to submit
+        </char>to <char style="it">their</char> husbands in all aspects.<verse eid="EPH 5:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="EPH 5:25" />Husbands, love <char style="it">your</char> wives just as Christ loved the church and surrendered himself
+        and was taken into custody for her sake, <verse eid="EPH 5:25" />
+      <verse number="26" style="v" sid="EPH 5:26" />so that he would set her apart and make her holy after cleaning <char style="it">her </char>up in the
+        bathtub with the word <char style="it">of God</char>, <verse eid="EPH 5:26" />
+      <verse number="27" style="v" sid="EPH 5:27" />so that he personally could present to himself the church imbued with glory, having no spot, wrinkle,
+        or anything of that sort, but instead <char style="it">that </char>she would be holy and blameless <char
+        style="it">when presented</char>. <verse eid="EPH 5:27" />
+      <verse number="28" style="v" sid="EPH 5:28" />The way that husbands ought to love their wives is as if they were their own bodies. He who loves his
+        wife loves himself; <verse eid="EPH 5:28" />
+      <verse number="29" style="v" sid="EPH 5:29" />the fact of the matter is that no one ever hated his own flesh, rather cherishes and nourishes it<char
+        style="sup">[k]</char>, just as Christ <char style="it">cherishes and nourishes </char>the church, <verse eid="EPH 5:29" />
+      <verse number="30" style="v" sid="EPH 5:30" />because we are a part of his body. <verse eid="EPH 5:30" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="31" style="v" sid="EPH 5:31" />Because of this
+    </para>
+    <para style="pi" vid="EPH 5:31">A man shall leave <char style="it">his </char>father and mother</para>
+    <para style="pi" vid="EPH 5:31">And adhere to his wife,</para>
+    <para style="pi" vid="EPH 5:31">And the two will be <char style="it">molded </char>into a single flesh<verse eid="EPH 5:31"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="32" style="v" sid="EPH 5:32" />This mystery—and I’m referring to Christ and to the church—is deep<char style="sup">[l]</char>. <verse eid="EPH 5:32" />
+      <verse number="33" style="v" sid="EPH 5:33" />But in any case, make sure every one of you down to the last man love his wife as <char style="it">he
+        loves </char>himself, but make sure wives have a deep reverence and respect for their husbands, one which
+        borders on fear.<verse eid="EPH 5:33" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">a sacrificial offering</char>…Lit: <char style="it">an offering and a sacrifice</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">don’t even mention it</char>…Lit: <char style="it">let it not even be named</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">wrap your head around this</char>…Lit: <char style="it">know</char> [<char style="it">for
+        a fact</char>] <char style="it">while knowing</char> [<char style="it">understanding something abstract</char>].
+        This appears to be an expression.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">any kind of and all sorts of</char>…Lit: <char style="it">all</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">it’s bad out there</char>…Lit: <char style="it">the days are evil</char>. The word <char
+        style="it">days </char>as used here is a personification.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">filled</char> <char style="it">with the Spirit while</char> <char style="it">in</char>
+        <char style="it">the </char>Spirit …Lit: <char style="it">filled in</char> [<char style="it">the</char>]
+        <char style="it">Spirit</char>. Note that this phrase in the GT for <char style="it">in Spirit </char>is
+        the same one found 1 Cor. 12:3; Rev. 1:10. It means the same thing. Ref. notes there.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">singing in general and singing popular tunes—tunes which may be accompanied by musical
+        instruments</char>…Lit: <char style="it">singing and psalm-ing</char>. Ref. note of previous verse.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">everything</char>…Or: <char style="it">everyone</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">God the Father</char>…Lit: <char style="it">the God and Father</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">head</char>…See 1 Cor. 11 for usage of the word <char style="it">head </char>in this
+        context</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">it</char>…Also: <char style="it">her</char>. This has a dual-meaning, since the Gk.
+        word for <char style="it">flesh</char> is feminine, it can—and does—refer to both “it” (the flesh) and
+        “she” (the wife).</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">deep</char>…Lit: <char style="it">great</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">anything which itself brings things out in the open and makes them plain to see is light</char>…Or:
+        <char style="it">all which is being manifested is light</char>. Interpreting the Gk. verb tense of <char
+        style="it">is being manifested </char>as a middle voice instead of passive, in order to make sense of
+        this and fit it into the context. Usage of the middle voice like this is extremely rare in the NT (this
+        is skating on thin ice).</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">popular songs accompanied by instruments, songs of praise</char>…Lit: <char style="it">psalms
+        and hymns</char>. The Gk. word for <char style="it">psalm </char>means, “to vibrate by touching” (Thayer);
+        “song of praise accompanied on the harp” (Max &amp; Mary); the Gk. word for <char style="it">hymn </char>means,
+        “a song in praise of gods, heroes, and conquerors” (Thayer). Thayer goes on to say (with a quotation
+        from Synesius? embedded), “[the Gk. word for] <char style="it">song </char>is the generic term; [the
+        Gk. words for] <char style="it">psalm </char>and <char style="it">hymn </char>are the specific, the former
+        designating a song which took its general character from the OT Psalms (although not restricted to them,
+        see 1 Cor. 14:15,26), the latter a song of praise. ‘While the leading idea of <char style="it">psalm
+        </char>is a musical accompaniment, and that of <char style="it">hymn </char>praise to God, <char style="it">song
+        </char>is the general word for a song, whether accompanied or unaccompanied, whether of praise or on
+        any other subject. Thus it was quite possible for the same song to be at once <char style="it">psalm,
+        hymn, </char>and <char style="it">song.’ </char>The words occur together in Col. 3:16 and Eph. 5:19.”
+        Also, ref. note of 1 Cor. 14:15.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">spiritual songs</char>…The word for <char style="it">spiritual </char>here is the same
+        word used in 1 Cor. 12:1 “concerning spirituals” (see note there) and is also found in 1 Cor. 14:15,37.
+        In both v. 19 here and 1 Cor. 14:15:37, this phrase means a prophetic utterance or the equivalent of
+        a prophetic utterance in the form of tongues and interpretation. A <char style="it">spiritual song</char>
+        is a prophetic utterance which is put to song.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">submit</char>…Ref. note of 1 Pet. 2:18, which explains the Gk. words for <char style="it">submit
+        </char>and <char style="it">obey. </char>A case in point is the usage of <char style="it">submit </char>here,
+        but the usage of <char style="it">obey </char>in 6:1. Wives are told to submit, but children are told
+        to obey.</char>
+    </note>
+  <chapter eid="EPH 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="EPH 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="EPH 6:1" />Children, obey your parents as part of your walk with the Lord<char style="sup">[a]</char>; this is the
+        right thing to do, you see. <verse eid="EPH 6:1" />
+      <verse number="2" style="v" sid="EPH 6:2" />”Honor your father and mother,” which is the foremost<char style="sup">[b]</char> commandment <char style="it">found
+        in the Law of Moses </char>with a promise <char style="it">appended to it:</char> <verse eid="EPH 6:2" />
+      <verse number="3" style="v" sid="EPH 6:3" />”…So that it would go well with you and you would be blessed <char style="it">during your stay </char>on
+        the planet.” <verse eid="EPH 6:3" />
+      <verse number="4" style="v" sid="EPH 6:4" />And, parents, don’t exasperate your children but raise them in the discipline, coaching, mentoring, and
+        instruction of <char style="it">the </char>Lord instead.<verse eid="EPH 6:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="EPH 6:5" />Slaves and menial servants, obey those who are your masters or bosses in the natural with the utmost
+        reverence and respect<char style="sup">[c]</char> in <char style="it">the </char>simplicity of your heart
+        (i.e., without making something bigger out of it) as <char style="it">if being reverent </char>to Christ,<verse eid="EPH 6:5" />
+      <verse number="6" style="v" sid="EPH 6:6" />not just making the boss think you’re doing a good job when he’s looking and acting up when he’s not<char
+        style="sup">[d]</char> but <char style="it">obeying</char> as though you’re Christ’s slave instead, doing
+        the will of God from <char style="it">the </char>soul, <verse eid="EPH 6:6" />
+      <verse number="7" style="v" sid="EPH 6:7" />serving with a good attitude<char style="sup">[e]</char> as <char style="it">if your service is </char>to
+        the Lord and not to humans, <verse eid="EPH 6:7" />
+      <verse number="8" style="v" sid="EPH 6:8" />knowing for a fact that each person, if he were to do something in particular which is good, he’ll get
+        this <char style="it">same thing </char>back from <char style="it">the</char> Lord, whether slave or
+        free. <verse eid="EPH 6:8" />
+      <verse number="9" style="v" sid="EPH 6:9" />And masters and bosses, treat them the same way<char style="sup">[f]</char>, giving up the <char style="it">constant
+        </char>threat <char style="it">of punishment as your primary means of motivating your slaves</char>,
+        knowing for a fact that in the spiritual domain<char style="sup">[g]</char> the Lord is master and boss
+        of both them and you, and there is no favoritism based on position in society or such with him.<verse eid="EPH 6:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="EPH 6:10" />In conclusion, be strong in <char style="it">the </char>Lord and <char style="it">reach into </char>the
+        vastness of his power. <verse eid="EPH 6:10" />
+      <verse number="11" style="v" sid="EPH 6:11" />Put on<char style="sup">[h]</char> all the components of God’s complete suit of armor<char style="sup">[i]</char>
+        so you’ll have the ability to stand against the schemes of the devil, <verse eid="EPH 6:11" />
+      <verse number="12" style="v" sid="EPH 6:12" />because the fight we’re in isn’t against flesh and blood, but against the rulers (i.e., the evil spirits
+        who have dominion at the top of a hierarchy, presumably over other evil spirits), against the authorities
+        (i.e., the evil spirits with power over a specific area), against the world-dominators of this darkness
+        (i.e., the evil spirits who dominate the ungodly human system and society that is the darkness we’re
+        surrounded by), against the spirit-forces of wickedness in the spiritual domain<char style="sup">[g]</char>.<verse eid="EPH 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="EPH 6:13" />On account of this, take up God’s complete suit of armor, so that you’ll be able to withstand <char style="it">the
+        spiritual forces of the devil</char> in the day of evil and—after you’ve accomplished everything <char
+        style="it">on that day</char>—to stand. <verse eid="EPH 6:13" />
+      <verse number="14" style="v" sid="EPH 6:14" />So stand, <char style="it">after</char> having fastened the belt of truth around your waist<char style="sup">[j]</char>,
+        and having put on the breastplate of righteousness, <verse eid="EPH 6:14" />
+      <verse number="15" style="v" sid="EPH 6:15" />and having put on your feet the preparation of the good-news message of the Gospel of peace, <verse eid="EPH 6:15" />
+      <verse number="16" style="v" sid="EPH 6:16" />in all <char style="it">situations</char><char style="sup">[k]</char> having taken up the shield of faith,
+        by which you’ll be able to extinguish and knock out all the Evil One’s flaming projectiles, <verse eid="EPH 6:16" />
+      <verse number="17" style="v" sid="EPH 6:17" />and having received the helmet of salvation and the sword of the Spirit (which is <char style="it">the</char>
+        word of God), <verse eid="EPH 6:17" />
+      <verse number="18" style="v" sid="EPH 6:18" />with every sort of<char style="sup">[l]</char> prayer and supplication (i.e., an urgent request put into
+        prayer) praying in every season<char style="it"> of life</char> in <char style="it">the </char>Spirit,
+        and while at it with maximum perseverance and prayer be on the lookout looking around to see how all
+        the saints (i.e., believers) are doing, <verse eid="EPH 6:18" />
+      <verse number="19" style="v" sid="EPH 6:19" />and for me, so that a message may be given <char style="it">to me</char> when I open my mouth to boldly
+        make known the mystery of the Gospel <verse eid="EPH 6:19" />
+      <verse number="20" style="v" sid="EPH 6:20" />(for which I’m an ambassador kept on a short leash<char style="sup">[m]</char>) so that with the same
+        I will speak out freely, boldly, and confidently as it is incumbent on me to speak.<verse eid="EPH 6:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="EPH 6:21" />Now, so that you too would know what’s going on with me <char style="it">and </char>how I’m doing<char
+        style="sup">[n]</char>, Tychicus, a dear brother and a faithful assistant<char style="sup">[o]</char>
+        in the Lord, will fill you in on everything, <verse eid="EPH 6:21" />
+      <verse number="22" style="v" sid="EPH 6:22" />whom I sent to you with that very goal in mind, so you’d know what I’m up to and that he’d give your
+        hearts encouragement and comfort.<verse eid="EPH 6:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="EPH 6:23" /><char style="it">Extend a greeting of </char>peace to the brothers and love with faith from God <char
+        style="it">the </char>Father and <char style="it">the </char>Lord Jesus Christ<char style="sup">[p]</char>.<verse eid="EPH 6:23" />
+      <verse number="24" style="v" sid="EPH 6:24" />Grace be with them who love our Lord Jesus Christ with sincerity.<verse eid="EPH 6:24" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">as part of your walk with the Lord</char>…Lit: <char style="it">in the Lord</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">foremost</char>…Also: <char style="it">first</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">the utmost reverence and respect</char>…Lit: <char style="it">fear and trembling</char>.
+        An idiom; also found in 1 Cor. 2:3; 2 Cor. 7:15; Phil 2:12.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">not just making the boss think you’re doing a good job when he’s looking and acting
+        up when he’s not</char>…Lit: <char style="it">not according to eye-serving as man-pleasers</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">good attitude</char>…Also: <char style="it">goodwill</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">treat them the same way</char>…Lit: <char style="it">do the same things to them</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">spiritual domain</char>…Lit: <char style="it">the heavens</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">put on</char>…The Gk. verb tense used for this imperative is a strong command, like
+        one an officer gives to a soldier, something he should snap to attention and get done immediately.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">all the components of God’s complete suit of armor</char>…Lit: <char style="it">the
+        full armor of God</char>. The Gk. word <char style="it">panoplia</char> <char style="w" strong="G03833">πανοπλία</char>),
+        where we get the English word <char style="it">panoply</char>, is used here for <char style="it">full
+        armor.</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">after having fastened the belt of truth around your waist</char>…Lit: <char style="it">having
+        your loins girded in truth</char>. A reference to Is. 11:5; 59:17.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">in all situations</char>…Lit: <char style="it">in all</char>. Older commentaries (and
+        one would assume they’re based on Textus Receptus) read <char style="it">upon all </char>(rendered <char
+        style="it">above all</char>) instead; Codex Vaticanus/UBS NT read <char style="it">in all</char>.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">every sort of</char>…Lit: <char style="it">all</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">kept on a short leash</char>…Lit: <char style="it">in a chain</char>. Some liberties
+        taken.</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">how I’m doing</char>…Or: <char style="it">what I practice</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">assistant</char>…Lit: <char style="it">deacon</char>. Ref. note of Rom. 12:7.</char>
+    </note>
+  <chapter eid="EPH 6" />
+</usx>

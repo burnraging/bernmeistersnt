@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="ROM" style="id">The Bernmeister's NT</book>
+  <para style="h">Romans</para>
+  <para style="toc1">The Epistle of Romans</para>
+  <para style="toc2">Romans</para>
+  <para style="toc3">Rom.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">ROMANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="ROM 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 1:1" />Paul, servant of Christ Jesus, called as a missionary, designated to God’s good news—the Gospel, <verse eid="ROM 1:1" />
+      <verse number="2" style="v" sid="ROM 1:2" />what He promised before over and over through His prophets in the Old Testament <verse eid="ROM 1:2" />
+      <verse number="3" style="v" sid="ROM 1:3" />about His son, who—physically speaking—came into being through the lineage of David, <verse eid="ROM 1:3" />
+      <verse number="4" style="v" sid="ROM 1:4" />who was declared in a powerful way to be God’s son according to the Holy Spirit due to the resurrection
+        from the dead, namely Jesus Christ our Lord, <verse eid="ROM 1:4" />
+      <verse number="5" style="v" sid="ROM 1:5" />through whom we’ve received grace and have received a missionary assignment that has the end-goal of
+        obedience—a consequence of faith—among all the Gentiles and the far-off nations on behalf of all he stands
+        for, <verse eid="ROM 1:5" />
+      <verse number="6" style="v" sid="ROM 1:6" />by which you too are called by Jesus Christ:<verse eid="ROM 1:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="ROM 1:7" />To God’s beloved who are holy and called of God who are in Rome: Grace be to you—and peace—from the Father-God
+        and the Lord Jesus Christ.<verse eid="ROM 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="ROM 1:8" />First and foremost, concerning you I thank my God through Jesus Christ, that the word is being spread
+        about your faith throughout the entire world. <verse eid="ROM 1:8" />
+      <verse number="9" style="v" sid="ROM 1:9" />In fact, God is my witness, whom I offer a service of worship to in my spirit in the evangelization of
+        his son, as I’m constantly making mention of you <verse eid="ROM 1:9" />
+      <verse number="10" style="v" sid="ROM 1:10" />every time I offer up prayers, asking if somehow, sometime, I will have succeeded by the will of God
+        in visiting you. <verse eid="ROM 1:10" />
+      <verse number="11" style="v" sid="ROM 1:11" />The fact of the matter is that I long to see you so that I might bestow on you a spiritual gift, a gift
+        whose goal is to establish you. <verse eid="ROM 1:11" />
+      <verse number="12" style="v" sid="ROM 1:12" />This bestowing of a spiritual gift is done to take comfort together with you through the faith shared
+        between you and me.<verse eid="ROM 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 1:13" />I don’t want you to be left in the dark, comrades, that I purposed many times to come to you, but I was
+        prevented from doing so up until now, so that I would have the opportunity in the meantime to observe
+        the germination and growth of tangible signs of maturity among you as well just I observed it in the
+        other Gentiles— <verse eid="ROM 1:13" />
+      <verse number="14" style="v" sid="ROM 1:14" />I’m in debt not just to the civilized but to the uncivilized also, to not just the wise but to the foolish
+        also. <verse eid="ROM 1:14" />
+      <verse number="15" style="v" sid="ROM 1:15" />This is what motivates me to evangelize to you too who are in Rome.<verse eid="ROM 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="ROM 1:16" />The fact of the matter is, I’m not ashamed of the Gospel, for it’s God’s power in all those who believe
+        for them to end up with salvation (i.e., the state of being kept from from spiritual, moral, mental,
+        and physical calamity)—and not just the Jews but the non-Jewish Westerners as well. <verse eid="ROM 1:16" />
+      <verse number="17" style="v" sid="ROM 1:17" />For in the Gospel God’s righteousness (i.e., God’s requirements of how a person must lead his life in
+        order to please Him and be approved by Him) is revealed out of faith and back into faith, just as it’s
+        been written in the Old Testament, “The one who’s righteous (i.e., the one whose life is to be approved
+        by God) shall live out of faith.”<verse eid="ROM 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="ROM 1:18" />You see, God’s wrath is unfurled from up in the sky, up in heaven, upon ungodliness and unrighteousness
+        inherent in people who withhold the truth in and by their unrighteousness, <verse eid="ROM 1:18" />
+      <verse number="19" style="v" sid="ROM 1:19" />and it is unfurled because the knowledge of God has appeared and been made known to them. <verse eid="ROM 1:19" />
+      <verse number="20" style="v" sid="ROM 1:20" />To this point, from the inception of human society, His invisible aspects (that is, His everlasting power
+        and divine nature) have been clearly seen and understood by means of the things which were created, resulting
+        in all humans being without excuse. <verse eid="ROM 1:20" />
+      <verse number="21" style="v" sid="ROM 1:21" />Therefore, while knowing and understanding God, they didn’t glorify or thank Him as God, but became empty-headed
+        in their reasonings instead, and their non-understanding heart darkened. <verse eid="ROM 1:21" />
+      <verse number="22" style="v" sid="ROM 1:22" />Asserting to be wise, they became idiots <verse eid="ROM 1:22" />
+      <verse number="23" style="v" sid="ROM 1:23" />and exchanged the glory of the Immortal God for the facsimile of a Mortal Human and of animals.<verse eid="ROM 1:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="ROM 1:24" />So for the aforementioned reasons, as they were wallowing in the desires of their hearts, God handed
+        them over to dirty and disgusting unholy things in dishonoring and disgracing their bodies among themselves,<verse eid="ROM 1:24" />
+      <verse number="25" style="v" sid="ROM 1:25" />the very people who, as they were wallowing in the aforementioned lie, swapped the truth of God and worshipped
+        and held religious services for the creature, circumventing the Creator, the One who is forever blessed
+        (and let us pause a moment for that to sink in).<verse eid="ROM 1:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="ROM 1:26" />On account of this, God handed them over to an unnatural, disgraceful, excruciating passion of lust.
+        In this regard, both the women swapped the Natural Function for that which circumvents what comes naturally;<verse eid="ROM 1:26" />
+      <verse number="27" style="v" sid="ROM 1:27" />and the men too—and in the same manner—leaving the Natural Function of the woman, burning in their longing
+        for one another, men perpetrating the disgraceful deed with men and receiving the corresponding reward
+        which they have coming to them and which they were bound to receive due to their error, an error which
+        they adhered to among themselves.<verse eid="ROM 1:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="ROM 1:28" />And just as they did not approve of retaining the accumulated knowledge and understanding of God, God
+        handed them over to an unapproved mind, to do what is not fitting to do, <verse eid="ROM 1:28" />
+      <verse number="29" style="v" sid="ROM 1:29" />having been filled to the brim with every kind of unrighteousness: with wickedness, greed, malice, they
+        are full of envy, murder, strife, Machiavellian-styled rivalry, malevolence; they’re gossips and slanderers,<verse eid="ROM 1:29" />
+      <verse number="30" style="v" sid="ROM 1:30" />trash-talkers, God-haters; they’re insolent people, they’re arrogant, they’re braggarts, they dream up
+        evil, they rebel against their parents, <verse eid="ROM 1:30" />
+      <verse number="31" style="v" sid="ROM 1:31" />they’re dull-witted, treacherous, without the natural affection one has for parents, children, nation,
+        etc.; they’re unmerciful— <verse eid="ROM 1:31" />
+      <verse number="32" style="v" sid="ROM 1:32" />The very people who know and understand God’s righteous precepts exactly, that those who practice such
+        things deserve to die—not only do they do these things, but they’re in lockstep-agreement and think highly
+        of those who practice them.<verse eid="ROM 1:32" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="ROM 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 2:1" />…Which leads to this: who do you think you are, you who pronounces judgment over others (i.e., draws
+        conclusions about others for the purpose of writing them off)?—There’s no excuse for this. The fact is,
+        in the area in which you judge another, you condemn yourself, for the one who’s doing the judging practices
+        the same thing. <verse eid="ROM 2:1" />
+      <verse number="2" style="v" sid="ROM 2:2" />Now we know for a fact that God renders a guilty verdict in line with the truth against those who practice
+        such things. <verse eid="ROM 2:2" />
+      <verse number="3" style="v" sid="ROM 2:3" />You rascal, you who commits such sins and practices such things—do you figure that you’ll evade God’s
+        judgment? <verse eid="ROM 2:3" />
+      <verse number="4" style="v" sid="ROM 2:4" />Or while despising the riches of His goodness, forbearance and patience, you’re unaware that the goodness
+        of God leads one to repentance (i.e., to change one’s heart and one’s ways)? <verse eid="ROM 2:4" />
+      <verse number="5" style="v" sid="ROM 2:5" />But in accordance with your hard—downright unrepentant—heart, you’re accumulating your own individualized-wrath
+        to be regurgitated on that date when wrath is unveiled and readily distributed, the day of God’s righteous
+        judgment, <verse eid="ROM 2:5" />
+      <verse number="6" style="v" sid="ROM 2:6" />Who “will repay every person according to what that person’s done.” <verse eid="ROM 2:6" />
+      <verse number="7" style="v" sid="ROM 2:7" />On the one hand to those who, in accordance with a consistent pattern of good works, seek after glory,
+        honor, and immortality, the repayment will be eternal life. <verse eid="ROM 2:7" />
+      <verse number="8" style="v" sid="ROM 2:8" />But on the other hand, to those who, out of an attempt to promote themselves by buying influence with
+        God and out of not being persuaded and being disobedience to the Truth but are convinced that doing unrighteousness
+        is alright, the repayment will be wrath and an outburst of rage— <verse eid="ROM 2:8" />
+      <verse number="9" style="v" sid="ROM 2:9" />Distress and anguish for every last person who leads a life of evil, Jews at a higher level and non-Jewish
+        Westerners at a level below them. <verse eid="ROM 2:9" />
+      <verse number="10" style="v" sid="ROM 2:10" />But glory, honor, and peace to all who lead a life of good, Jews at a higher level and Westerners at
+        a level below them. <verse eid="ROM 2:10" />
+      <verse number="11" style="v" sid="ROM 2:11" />The fact of the matter is that God shows no favoritism.<verse eid="ROM 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="ROM 2:12" />You see, anyone at all who sinned without the benefit of possessing a law (i.e., a list of God’s rules)
+        will perish; and anyone at all who sins while immersed in a law will be judged by that law. <verse eid="ROM 2:12" />
+      <verse number="13" style="v" sid="ROM 2:13" />To be clear, it’s not the ones who have heard a law and can spout off what it says who are right with
+        God, but the ones who put a law into practice will be pronounced righteous by God.<verse eid="ROM 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="ROM 2:14" />To this point, when the Gentiles who don’t have a law (i.e., a list of God’s rules) instinctively do
+        the things of the Law (i.e., the definitive, comprehensive list of God’s rules, which is the Law of Moses),
+        they, though not possessing the Law, are a law (i.e., a set of God-given rules) for themselves. <verse eid="ROM 2:14" />
+      <verse number="15" style="v" sid="ROM 2:15" />These particular people point out what the law written in their hearts (i.e., their particular list of
+        God’s rules written in their hearts) has accomplished—and while pointing this out their consciences join
+        in and testify even to the extent of arbitrating between the various differing rationales condemning
+        or defending— <verse eid="ROM 2:15" />
+      <verse number="16" style="v" sid="ROM 2:16" />on whatever day it happens to be when God judges the hidden things of mankind through Christ Jesus according
+        to my positive message—my Gospel.<verse eid="ROM 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 2:17" />Now if you call yourself a Jew and are fixated on law (i.e., mankind possessing and putting into practice
+        the definitive list of God’s rules), boast over (i.e., take pride in; swagger over; loudly extol the
+        virtues of; defend vociferously) the things of God, <verse eid="ROM 2:17" />
+      <verse number="18" style="v" sid="ROM 2:18" />know the will of God, and accept or reject the differing oral traditions of interpretation which are
+        derived from the Law of Moses— <verse eid="ROM 2:18" />
+      <verse number="19" style="v" sid="ROM 2:19" />and all these to the extent that you’ve convinced yourself that you’ve reached the point where you’re
+        a guide to the blind, a light in darkness, <verse eid="ROM 2:19" />
+      <verse number="20" style="v" sid="ROM 2:20" />a trainer to the foolish, a teacher to the young, possessing in the Law of Moses the embodiment of the
+        knowledge and the truth of God— <verse eid="ROM 2:20" />
+      <verse number="21" style="v" sid="ROM 2:21" />so now, does the one who’s teaching someone else teach himself anything? Does the one who preaches to
+        others not to steal steal himself? <verse eid="ROM 2:21" />
+      <verse number="22" style="v" sid="ROM 2:22" />Does the one who says “don’t commit adultery” commit adultery? Is the one who abhors idols a temple robber?<verse eid="ROM 2:22" />
+      <verse number="23" style="v" sid="ROM 2:23" />Does the one who boasts in law (i.e., takes pride in—to the point of bragging about—his ability to follow
+        the list of God’s rules) dishonor God by the transgression of the Law of Moses? <verse eid="ROM 2:23" />
+      <verse number="24" style="v" sid="ROM 2:24" />In fact, “God’s reputation is slandered among the Gentiles because of you,” like it says in the Bible.<verse eid="ROM 2:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="ROM 2:25" />The fact of the matter is that—yes—circumcision (i.e., committing one’s life to following the Law of
+        Moses) is beneficial if one were to put the edicts of the Law of Moses into practice, but if one were
+        to transgress the Law, his circumcision will have become uncircumcision (i.e., as though he never committed
+        himself to follow the Law of Moses). <verse eid="ROM 2:25" />
+      <verse number="26" style="v" sid="ROM 2:26" />So if the archetypical circumcised man were to keep the edicts of the Law of Moses, wouldn’t his uncircumcision
+        count as circumcision? <verse eid="ROM 2:26" />
+      <verse number="27" style="v" sid="ROM 2:27" />And the physically-uncircumcised man who satisfies the requirements of the Law of Moses will judge you,
+        the quintessential transgressor of law (i.e., one who doesn’t fulfill the requirements of the list of
+        edicts given by God), a transgressor in the midst of having a verbatim copy of God’s edicts and by having
+        signed up to comply with those edicts.<verse eid="ROM 2:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="ROM 2:28" />You see, a person is not Jewish because he appears Jewish on the outside, nor is circumcision a physical
+        characteristic, <verse eid="ROM 2:28" />
+      <verse number="29" style="v" sid="ROM 2:29" />but rather one is Jewish by virtue of what’s on the inside, and circumcision is of the heart done by
+        the Spirit not by the letter (i.e., by the rigid interpretation and application of God’s edicts); that
+        person’s praise is not from people but from God.<verse eid="ROM 2:29" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="ROM 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 3:1" />So what’s so much better about being Jewish? Put another way, what’s the advantage of being circumcised
+        (i.e., being in a covenant to obey the Law of Moses)? <verse eid="ROM 3:1" />
+      <verse number="2" style="v" sid="ROM 3:2" />Much and in many ways. First—certainly first—is that they were entrusted with the safekeeping and preservation
+        of God’s words. <verse eid="ROM 3:2" />
+      <verse number="3" style="v" sid="ROM 3:3" />So now, what if some of them refused to have faith and believe? Does their refusal to believe cancel
+        God’s faithfulness?— <verse eid="ROM 3:3" />
+      <verse number="4" style="v" sid="ROM 3:4" />Don’t even think about it; think this instead: God is true, but every person is a liar, just like it’s
+        written,</para>
+    <para style="pi" vid="ROM 3:4"></para>
+    <para style="pi" vid="ROM 3:4">…So You’d be absolutely right in Your words</para>
+    <para style="pi" vid="ROM 3:4">And come out on top in Your judgments<verse eid="ROM 3:4"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="5" style="v" sid="ROM 3:5" />Now if our unrighteousness causes us to become aligned with the righteousness of God, what’s the takeaway?
+        It isn’t that God, Who brings the wrath which He’s deemed justifiable upon select individuals, is unfair?
+        (I’m talking about “unfair” in terms of human standards of fair and unfair.) <verse eid="ROM 3:5" />
+      <verse number="6" style="v" sid="ROM 3:6" />Don’t even think about it—otherwise, how will God judge the world (i.e., those who are a part of the
+        ungodly society which mankind formed)? <verse eid="ROM 3:6" />
+      <verse number="7" style="v" sid="ROM 3:7" />But if in the My Fraud Falsehood the truth of God proliferates to His glory, why am I still being judged
+        like I’m a sinner, <verse eid="ROM 3:7" />
+      <verse number="8" style="v" sid="ROM 3:8" />and not being judged according to the way in which we’re being slandered, in which some people are saying
+        that our position is: let’s do these things here which are evil in order that these things here which
+        are good will come? Their condemnation of our so-called position is justified.<verse eid="ROM 3:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="ROM 3:9" />What then? Do we have an advantage? Not entirely. The fact is, we Jews—and throw in all Westerners too—have
+        been pre-indicted for being dominated by sin, <verse eid="ROM 3:9" />
+      <verse number="10" style="v" sid="ROM 3:10" />just like it’s recorded in Scripture:
+    </para>
+    <para style="pi" vid="ROM 3:10"></para>
+    <para style="pi" vid="ROM 3:10">There is no person who’s righteous—not one.<verse eid="ROM 3:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="ROM 3:11" />There’s no person who understands.
+    </para>
+    <para style="pi" vid="ROM 3:11">No one seeks out God.<verse eid="ROM 3:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="ROM 3:12" />All of them veered off in a bad direction;
+    </para>
+    <para style="pi" vid="ROM 3:12">The whole lot of them is useless.</para>
+    <para style="pi" vid="ROM 3:12">There’s no one who does good</para>
+    <para style="pi" vid="ROM 3:12">—Not even a single person.<verse eid="ROM 3:12"/>
+    </para>
+    <para style="pi">
+      <verse number="13" style="v" sid="ROM 3:13" />Their throat is an open grave.
+    </para>
+    <para style="pi" vid="ROM 3:13">They deceive others with their tongues.</para>
+    <para style="pi" vid="ROM 3:13">Cobra venom is under their lips, under the lips of those<verse eid="ROM 3:13"/>
+    </para>
+    <para style="pi">
+      <verse number="14" style="v" sid="ROM 3:14" />Whose mouth cusses and has a bitter taste in it.<verse eid="ROM 3:14" />
+    </para>
+    <para style="pi">
+      <verse number="15" style="v" sid="ROM 3:15" />Their feet are keen to shed blood
+    </para>
+    <para style="pi" vid="ROM 3:15">(i.e., they are acutely prone to shed blood).<verse eid="ROM 3:15"/>
+    </para>
+    <para style="pi">
+      <verse number="16" style="v" sid="ROM 3:16" />Ruin and misery is in their paths
+    </para>
+    <para style="pi" vid="ROM 3:16">(i.e., for them, ruin and misery is inevitable and unavoidable),<verse eid="ROM 3:16"/>
+    </para>
+    <para style="pi">
+      <verse number="17" style="v" sid="ROM 3:17" />And they haven’t discerned a path of peace,<verse eid="ROM 3:17" />
+    </para>
+    <para style="pi">
+      <verse number="18" style="v" sid="ROM 3:18" />There is no fear of God directly in front of their eyes
+    </para>
+    <para style="pi" vid="ROM 3:18">(i.e., their hearts’ desire is not fascinated</para>
+    <para style="pi" vid="ROM 3:18">by a deep reverence for God).<verse eid="ROM 3:18"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="19" style="v" sid="ROM 3:19" />Now we know that, to the extent to which the Law of Moses touches on points, it addresses those who’re
+        up to their neck in the Law, so that everyone would be left with nothing to say and the entire world
+        (i.e., the entire established order of humanity) would become accountable to God. <verse eid="ROM 3:19" />
+      <verse number="20" style="v" sid="ROM 3:20" />Therefore, what comes out of works of law (i.e., an attempt to perform the deeds which satisfy the requirements
+        mandated by a list of God-given rules) is that not a single living being will be justified before Him
+        (i.e., declared “not guilty” in a court of law presided over by God as judge); the fact is, through law
+        comes a recognition and a precise knowledge and understanding of sin.<verse eid="ROM 3:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="ROM 3:21" />But as it turns out, righteousness of God (i.e., a venue whereby God will approve of how one conducts
+        his life) has been manifested apart from law (i.e., the reliance on pleasing God solely based on obeying
+        His list of rules), as it is showcased by the Old Testament, <verse eid="ROM 3:21" />
+      <verse number="22" style="v" sid="ROM 3:22" />a righteousness of God through Jesus Christ-faith to all who believe: there is no distinction, you see:<verse eid="ROM 3:22" />
+      <verse number="23" style="v" sid="ROM 3:23" />For all have sinned and come up short of the glory of God, <verse eid="ROM 3:23" />
+      <verse number="24" style="v" sid="ROM 3:24" />while at the same time being offered a gift of being justified by His grace through the redemption (i.e.,
+        the restoring of a person to his original, proper, and designated place) in Christ Jesus, <verse eid="ROM 3:24" />
+      <verse number="25" style="v" sid="ROM 3:25" />whom God determined before it all started to be a propitiation (i.e., a means of redemption) through
+        faith in his blood resulting in a demonstration of His righteousness by the overlooking of the previously-committed
+        sins <verse eid="ROM 3:25" />
+      <verse number="26" style="v" sid="ROM 3:26" />by the forbearance of God coupled with the demonstration of His righteousness in the present time, resulting
+        in Him being just and justifying a given person out of and as a byproduct of Jesus-faith.<verse eid="ROM 3:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="ROM 3:27" />So where is the boaster (i.e., the one who brags about his own accomplishments)?—he’s been shut out.
+        Through what sort of law (i.e., method of attaining righteousness with God)? Through the works-method?—No,
+        but rather through a law (i.e. method) of faith. <verse eid="ROM 3:27" />
+      <verse number="28" style="v" sid="ROM 3:28" />You see, we figure that a person’s justified by faith apart from works of law (i.e. a method of works).<verse eid="ROM 3:28" />
+      <verse number="29" style="v" sid="ROM 3:29" />Is God the Jews’ God only? Isn’t He the Gentiles’ God too—Yes, He’s the Gentiles’ God too, <verse eid="ROM 3:29" />
+      <verse number="30" style="v" sid="ROM 3:30" />if one assumes that there is only one true God and that this God is of one mind and has His own will,
+        and there is no other being comparable to Him, a God who will justify a circumcised man (i.e., a person
+        who’s in a covenant to obey the Law of Moses) as a result of faith and an uncircumcised man by means
+        of the same faith. <verse eid="ROM 3:30" />
+      <verse number="31" style="v" sid="ROM 3:31" />Is law (i.e., the expectation of having to obey the list of God’s rules) preempted through faith? Don’t
+        even think about it—on the contrary: law is established.<verse eid="ROM 3:31" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="ROM 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 4:1" />So what’ll we say about what we’ve discovered about Abraham, our forefather physically-speaking? <verse eid="ROM 4:1" />
+      <verse number="2" style="v" sid="ROM 4:2" />You see, if Abraham was justified (i.e., examined by a judge and declared to be in the right) by works,
+        he has bragging-rights (i.e., he has the right to be proud of and brag about his personal achievements);
+        but no—not with God. <verse eid="ROM 4:2" />
+      <verse number="3" style="v" sid="ROM 4:3" />Taking a closer look, what does the Scripture say?
+    </para>
+    <para style="pi" vid="ROM 4:3"></para>
+    <para style="pi" vid="ROM 4:3">Abraham had faith in God, and it was credited to him as righteousness<verse eid="ROM 4:3"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="4" style="v" sid="ROM 4:4" />The agreed-upon pay which the average worker earns is not awarded to him as a favor or as a gift to charity
+        but as a debt which is owed and which he must be compensated for. <verse eid="ROM 4:4" />
+      <verse number="5" style="v" sid="ROM 4:5" />Contrast that to the average worker who instead of being owed a wage of righteousness believes in the
+        justification of the ungodly and relies on this justification instead: his faith is credited to him as
+        righteousness, <verse eid="ROM 4:5" />
+      <verse number="6" style="v" sid="ROM 4:6" />just as David too describes the blessings on the person whom God credits righteousness independent of
+        works:<verse eid="ROM 4:6" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="7" style="v" sid="ROM 4:7" />Blessed are they whose lawless deeds have been forgiven
+    </para>
+    <para style="pi" vid="ROM 4:7">And whose sins have been covered over.<verse eid="ROM 4:7"/>
+    </para>
+    <para style="pi">
+      <verse number="8" style="v" sid="ROM 4:8" />Blessed is a man to whom the Lord
+    </para>
+    <para style="pi" vid="ROM 4:8">Will definitely not impute sin.<verse eid="ROM 4:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="9" style="v" sid="ROM 4:9" />So is this blessing upon the circumcised (i.e., those who’ve made a covenant to obey the Law of Moses)
+        or the uncircumcised? The fact of the matter is that we say, “The faith peculiar to Abraham was credited
+        to him as righteousness.” <verse eid="ROM 4:9" />
+      <verse number="10" style="v" sid="ROM 4:10" />So how was it credited? While circumcised or uncircumcised? No—not while circumcised but while uncircumcised,<verse eid="ROM 4:10" />
+      <verse number="11" style="v" sid="ROM 4:11" />and after being credited with righteous, he had the actual circumcision operation done to him, a certification
+        of the righteousness of the faith which he had while uncircumcised, resulting in him being the progenitor
+        of every believer who traverses from uncircumcision (i.e., them being Gentiles and consequently having
+        no covenant with God) to their being credited with righteous, <verse eid="ROM 4:11" />
+      <verse number="12" style="v" sid="ROM 4:12" />and a progenitor of a circumcised person (i.e., a person who’s Jewish and consequently follows the Law
+        of Moses) whose righteousness is not derived from circumcision alone but is a result of following in
+        the footsteps of the faith that our patriarch Abraham had while uncircumcised.<verse eid="ROM 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 4:13" />You see, the promise to Abraham or to his offspring, the promise to be the world’s heir, was not by means
+        of law (i.e., a method where one follows a list of rules, with the implication of obtaining righteousness
+        from it) but rather through faith-based-righteousness. <verse eid="ROM 4:13" />
+      <verse number="14" style="v" sid="ROM 4:14" />To that point, if a law-based methodology is the means by which one lays claim to righteousness and takes
+        possession of it, faith has been made null and void, and the promise that was given to Abraham has been
+        nullified. <verse eid="ROM 4:14" />
+      <verse number="15" style="v" sid="ROM 4:15" />The Law of Moses brings about wrath, you see, but where there is no law (i.e., God-originated list of
+        right and wrong), there’s no transgression of that law either.<verse eid="ROM 4:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="ROM 4:16" />By this method, righteousness comes out of faith, so that it would be dispensed in accordance to grace,
+        resulting in the certainty of the promise to all the descendants of Abraham, not only to those who are
+        based out of the Law of Moses but also to those who are based out of Abraham’s faith, who is the progenitor
+        of us all, <verse eid="ROM 4:16" />
+      <verse number="17" style="v" sid="ROM 4:17" />just like it’s written in Scripture, “I have positioned you to be a father (i.e., patriarch, progenitor)
+        of every nation and of all Gentiles”…positioning him in plain sight of (and therefore getting the full
+        attention of) the One whom he believed: God, the One who makes the dead alive and calls things which
+        be not as being. <verse eid="ROM 4:17" />
+      <verse number="18" style="v" sid="ROM 4:18" />Contrary to hope but resting upon hope, Abraham believed, resulting in him becoming “a father of many
+        nations” according to the quotation, “This is the way your offspring will be.” <verse eid="ROM 4:18" />
+      <verse number="19" style="v" sid="ROM 4:19" />Not weakened in faith after fully noticing his own already-lifeless body, which by that time had existed
+        for a hundred years or so, and the lifelessness of Sarah’s womb, <verse eid="ROM 4:19" />
+      <verse number="20" style="v" sid="ROM 4:20" />he didn’t doubt the promise of God by being in unbelief but was strengthened in faith instead, after
+        giving glory to God, <verse eid="ROM 4:20" />
+      <verse number="21" style="v" sid="ROM 4:21" />convinced that He who promised is able also to do what He promised. <verse eid="ROM 4:21" />
+      <verse number="22" style="v" sid="ROM 4:22" />This is why “it was credited to him as righteousness.” <verse eid="ROM 4:22" />
+      <verse number="23" style="v" sid="ROM 4:23" />Now what Scripture says—that righteousness was credited to him—was not written for his sake only, <verse eid="ROM 4:23" />
+      <verse number="24" style="v" sid="ROM 4:24" />but for our sake too, those to whom it’s going to be credited, namely to those believing and laying their
+        trust upon the resurrected-Jesus—our Lord raised from the dead, <verse eid="ROM 4:24" />
+      <verse number="25" style="v" sid="ROM 4:25" />who was handed over and delivered to those who killed him by our sins and was raised by our justification
+        (i.e., the process of getting us to where we are acquitted of our sins before God).<verse eid="ROM 4:25" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="ROM 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 5:1" />So having been justified (i.e., examined by God the judge and declared to be righteous) as a result of
+        faith, we have peace with God through our Lord Jesus Christ, <verse eid="ROM 5:1" />
+      <verse number="2" style="v" sid="ROM 5:2" />through whom we’ve also arrived at the point where we have the access by faith to this grace in which
+        we’ve come to stand and boast (i.e., take pride, bask, exult) in a hope of the glory of God.<verse eid="ROM 5:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="ROM 5:3" />Not only that, but we also boast in our affliction, knowing that the affliction we experience accomplishes
+        perseverance, <verse eid="ROM 5:3" />
+      <verse number="4" style="v" sid="ROM 5:4" />the ensuing perseverance approval (i.e., deemed sound as a result of having passed tests), the ensuing
+        approval hope, <verse eid="ROM 5:4" />
+      <verse number="5" style="v" sid="ROM 5:5" />and the ensuing hope won’t disappoint, since the love of God has been poured out in our hearts through
+        the Holy Spirit who was given to us.<verse eid="ROM 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="ROM 5:6" />You see, while we were still weak, even still at the appointed time Christ died on behalf of ungodly
+        people. <verse eid="ROM 5:6" />
+      <verse number="7" style="v" sid="ROM 5:7" />You see, there’s hardly a person who will die on behalf of a person who’s righteous; and maybe someone
+        will muster the courage to die on behalf of a good person. <verse eid="ROM 5:7" />
+      <verse number="8" style="v" sid="ROM 5:8" />But God’s own love is endorsed to us by virtue of the fact that Christ died on our behalf while we were
+        still sinners. <verse eid="ROM 5:8" />
+      <verse number="9" style="v" sid="ROM 5:9" />So now that we’ve been justified by his blood, we’ll all the more be spared from the wrath which is due
+        us through him. <verse eid="ROM 5:9" />
+      <verse number="10" style="v" sid="ROM 5:10" />You see, if we were reconciled to God through the death of His son while we were enemies, now that we’ve
+        been reconciled, we’ll all the more be spared, preserved, and kept intact by his life. <verse eid="ROM 5:10" />
+      <verse number="11" style="v" sid="ROM 5:11" />Not only that but we’ll also boast (i.e., take pride, bask, exult) in God through our Lord Jesus Christ,
+        through whom we at this time have received the previously stated reconciliation.<verse eid="ROM 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="ROM 5:12" />Throughout this all, just as sin entered the world through one man and death (i.e., stagnation of waste,
+        joylessness, futility, and destruction) through the sin which entered, and in this way death propagated
+        to all men, seeing that everybody has sinned— <verse eid="ROM 5:12" />
+      <verse number="13" style="v" sid="ROM 5:13" />the fact is, up until law (i.e., an enumeration of God’s commandments) was given, sin was in the world
+        (i.e., the established order of human beings), but sin is not transacted and counted against a person
+        when law doesn’t exist. <verse eid="ROM 5:13" />
+      <verse number="14" style="v" sid="ROM 5:14" />That aside, death reigned from Adam until Moses and it also reigned over those who didn’t sin by committing
+        the same transgression that Adam committed, who is a prototype of and symbolic of all human beings who
+        come after him.<verse eid="ROM 5:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="ROM 5:15" />But put that aside. The gift of grace doesn’t operate the same way as the initial transgression: for
+        if the many died (i.e., were transformed into a state of spiritual death, resulting in their lives becoming
+        a stagnation of waste, joylessness, futility, and destruction—culminating in physical death itself) by
+        the single transgression, all the more did the grace of God and the unrequited-gift overflow to the many
+        by grace, by the one man Jesus Christ. <verse eid="ROM 5:15" />
+      <verse number="16" style="v" sid="ROM 5:16" />But the unrequited-gift doesn’t operate the same way as the affair with the lone person who sinned: on
+        the one hand the judicial review which came out of an incident involving a single person resulted in
+        condemnation, but on the other hand the grace which came out of many transgressions resulted in an act
+        of righteousness.<verse eid="ROM 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 5:17" />Put another way, if by the transgression of the singular person death reigned through the singular person,
+        all the more will they who receive the abundance of the grace of God and the gift of righteousness reign
+        in life through the singular person Jesus Christ. <verse eid="ROM 5:17" />
+      <verse number="18" style="v" sid="ROM 5:18" />So then, just as condemnation came to every person as the result of one transgression, in the same way
+        one act of righteousness resulted in making available to every person the ability of to have the slate
+        of his entire life wiped clean. <verse eid="ROM 5:18" />
+      <verse number="19" style="v" sid="ROM 5:19" />For just as through the disobedience of the singular person the many were declared by imposition to be
+        sinners, in the same way too through the obedience of the singular person the many are declared by imposition
+        to be righteous. <verse eid="ROM 5:19" />
+      <verse number="20" style="v" sid="ROM 5:20" />But law (i.e., the expectation of living up to the standards imposed by a list of right and wrong) slipped
+        in, sneaking in unplanned as though crashing a party, in order that the transgression seeded by Adam
+        and propagated to the entire human race would multiply; but if the sin which was seeded multiplied, grace
+        multiplied even more so, <verse eid="ROM 5:20" />
+      <verse number="21" style="v" sid="ROM 5:21" />so that just as the sin which was seeded reigned by the death that it spawned, in the same way grace
+        would reign through righteousness resulting in eternal life (i.e., that special fullness of life, one
+        which begins in this lifetime) through our Lord Jesus Christ.<verse eid="ROM 5:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="ROM 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 6:1" />So what’s there to say about this? Shall we dwell in the sin inherent in all humans so that more and
+        more grace will come of it?— <verse eid="ROM 6:1" />
+      <verse number="2" style="v" sid="ROM 6:2" />Don’t even think about it. We—the very people who died (i.e., were transformed into a state of spiritual
+        death, resulting in our lives becoming a stagnation of waste, joylessness, futility, and destruction)
+        in the sin inherited by all humans—how will we live in it still? <verse eid="ROM 6:2" />
+      <verse number="3" style="v" sid="ROM 6:3" />Or are you ignorant of the fact that any person at all who was baptized into Christ Jesus (i.e., was
+        initiated into a total dedication to Christ Jesus) was baptized (i.e. was initiated) into his death?<verse eid="ROM 6:3" />
+      <verse number="4" style="v" sid="ROM 6:4" />So we were buried together with him through the baptism ritual symbolic of a total dedication to Christ
+        resulting in death, in order that, just as Christ was raised from the dead through the glory of the Father,
+        we too in like fashion would go about in a brand-newness of life. <verse eid="ROM 6:4" />
+      <verse number="5" style="v" sid="ROM 6:5" />You see, if we’ve become united together in a way which replicates his death, then certainly we will
+        also be a product of the resurrection, <verse eid="ROM 6:5" />
+      <verse number="6" style="v" sid="ROM 6:6" />knowing this: that our old-self was jointly-crucified, so that the body of sin (i.e., the sinful propensity
+        incumbent to our human nature) would be done away with, done away with in respect to us slaving in the
+        sin inherited by all humans: <verse eid="ROM 6:6" />
+      <verse number="7" style="v" sid="ROM 6:7" />for he who’s died has been justified from (i.e., cleared of; absolved of) the sin.<verse eid="ROM 6:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="ROM 6:8" />Now if we jointly-died with Christ, we believe that we’ll also jointly-live with him, <verse eid="ROM 6:8" />
+      <verse number="9" style="v" sid="ROM 6:9" />knowing for a fact that, now that he’s been raised from the dead, Christ won’t die anymore: death no
+        longer has control over him. <verse eid="ROM 6:9" />
+      <verse number="10" style="v" sid="ROM 6:10" />The fact is, what died died once and for all in the sin inherited by all humans; what lives lives in
+        God. <verse eid="ROM 6:10" />
+      <verse number="11" style="v" sid="ROM 6:11" />In the same way we also consider ourselves to be, on the one hand, dead in the sin, but on the other
+        hand living in Christ Jesus.<verse eid="ROM 6:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="ROM 6:12" />So don’t keep on letting sin reign in your mortal bodies (i.e., the part of you which hosts carnal desires
+        during your life here on Earth) to where you obey its sinful desire, <verse eid="ROM 6:12" />
+      <verse number="13" style="v" sid="ROM 6:13" />nor put your body parts (i.e., your physical body parts, each part being a metonymy for various activities
+        one engages in. In this case, each part is a metonymy for this or that sin, the whole comprising your
+        personal carnal signature) in a place where they’re available to be used as tools, mechanisms, or weapons
+        of unrighteousness in the sin inherent in all humans, but instead put yourselves in a place where you’re
+        made available in God as alive from the dead and your body parts as tools, mechanisms, and weapons of
+        righteousness in God. <verse eid="ROM 6:13" />
+      <verse number="14" style="v" sid="ROM 6:14" />To this point, sin will not control you; you see, you’re not under the jurisdiction of law (i.e., your
+        life is decided by a list of do’s-and-dont’s) but under the jurisdiction of grace instead.<verse eid="ROM 6:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="ROM 6:15" />So now…shall we sin since we’re not under the jurisdiction of law but under the jurisdiction of grace
+        instead?—Don’t even think about it. <verse eid="ROM 6:15" />
+      <verse number="16" style="v" sid="ROM 6:16" />You ought to know that whatever thing you make yourself available to be used by—used to the point of
+        being obedient to—you’re enslaved to, a slave of either sin culminating in death or obedience culminating
+        in righteousness. <verse eid="ROM 6:16" />
+      <verse number="17" style="v" sid="ROM 6:17" />God is so good: you were slaves of sin, but you whole-heartedly obeyed what was presented to you in a
+        clear, orderly, and systematic way: the particular kind of instruction which has you walking in the righteousness
+        of faith rather than just following a set of rules; <verse eid="ROM 6:17" />
+      <verse number="18" style="v" sid="ROM 6:18" />having been freed from the sin inherent in all humans, you were enslaved by righteousness.<verse eid="ROM 6:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="ROM 6:19" />The subject I’m talking about is the human condition and human experience on account of the weakness
+        of your flesh (i.e., of your lack of self-ability apart from God; of that part of you which has carnal
+        desires; of that part of you which fails to live up to God’s standards). You see, just as you made your
+        body parts available to be used as slaves in the filth and degradation of carnality and in an artifact
+        of sin, namely the refusal to be restrained by any laws, rules, or codes of conduct, which leads to even
+        more of the same, in like fashion make your body parts available at this time to be used as slaves by
+        the righteousness which is a consequence of faith which leads to holiness. <verse eid="ROM 6:19" />
+      <verse number="20" style="v" sid="ROM 6:20" />The fact is, when you were yet slaves of sin, you were free with respect to living in righteousness.<verse eid="ROM 6:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="ROM 6:21" />So what final result did you obtain back then, based on the things which you’re now ashamed of? The fact
+        of the matter is that those things end in death. <verse eid="ROM 6:21" />
+      <verse number="22" style="v" sid="ROM 6:22" />But as things stand now, on the one hand having been freed from the sin inherent in all humans but on
+        the other hand having become slaves in God, you’re getting holiness as your final result on the one hand,
+        but you end up with eternal life (i.e., that special fullness of life) on the other. <verse eid="ROM 6:22" />
+      <verse number="23" style="v" sid="ROM 6:23" />For the wages of the sin inherent in all humans is death, but the gift of God is that special fullness
+        of life (eternal life) in Christ Jesus our Lord.<verse eid="ROM 6:23" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="ROM 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 7:1" />Or are you unaware, comrades (and I’m speaking to those of you who’re familiar with the operative details
+        of a law-code), that the Law of Moses exercises control over a person only during that person’s lifetime?<verse eid="ROM 7:1" />
+      <verse number="2" style="v" sid="ROM 7:2" />To this point, a married woman (who owing to marriage laws is under the authority of her husband, who
+        has the legal right to initiate a divorce—but not she) is legally bound to her husband while he’s alive.
+        If the husband were to die, then-and-only-then will she be released from her legal constraint to her
+        husband. <verse eid="ROM 7:2" />
+      <verse number="3" style="v" sid="ROM 7:3" />So then, while her husband’s still alive, she’d be officially labeled an adulteress if she were to get
+        married (and therefore under the authority of and bound to) to another man.<verse eid="ROM 7:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="ROM 7:4" />In the same way, my fellow comrades, through the body of Christ you too have been put to death in relation
+        to the Law of Moses resulting in you having come into being under the authority of and bound to another—to
+        him who’s been raised from the dead—in order that you would produce aftereffects in God. <verse eid="ROM 7:4" />
+      <verse number="5" style="v" sid="ROM 7:5" />You see, when you were in the flesh (i.e., trying in and of yourself to live up to God’s rules while
+        at the same time beholden to your carnal nature), the passions of the sins pervasive to mankind, those
+        things that, on account of the Law, were repeatedly at work in our body parts (i.e., your personal carnal
+        signature) resulting in the production of aftereffects in death (i.e., in a stagnation of waste, joylessness,
+        futility, and destruction).<verse eid="ROM 7:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="ROM 7:6" />But as things stand now, we’ve been released from the Law of Moses, having died to that which kept holding
+        us down, so that we serve in newness of spirit (i.e. walking in line with and dominated by a regenerated
+        human spirit, which is in communion with the Holy Spirit) and not oldness of letter (i.e., a strict,
+        literal, exacting interpretation of the verbatim Law of Moses, along with a grueling, rigid adherence
+        done the “old way”—out of a person’s self-ability).<verse eid="ROM 7:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="ROM 7:7" />So what’s there to say about this? Are we to conclude that the Law of Moses is characteristic of and
+        has the quality and nature of sin?—Don’t even think about it—on the contrary I would not have come to
+        know, recognize, and understand the sin pervasive to mankind if not through law (i.e., by conducting
+        my life under the weight of a long list of God-ordained rules); for indeed I would’ve come to know this
+        first-hand had not the Law of Moses kept on telling me over and over, “Thou shalt not covet such-and-such.”<verse eid="ROM 7:7" />
+      <verse number="8" style="v" sid="ROM 7:8" />Sin took advantage of the situation through the commandment “thou shalt not covet” and worked utterly
+        in me every sort of coveting imaginable: you see, apart from law (i.e., being forced to obey a list of
+        rules) sin is dead. <verse eid="ROM 7:8" />
+      <verse number="9" style="v" sid="ROM 7:9" />In the past I was alive and living apart from law; but the commandment came and the sin of coveting which
+        I just mentioned sprang to life; <verse eid="ROM 7:9" />
+      <verse number="10" style="v" sid="ROM 7:10" />I died. It became evident in me that the commandment—the same one leading to life—was leading to death.<verse eid="ROM 7:10" />
+      <verse number="11" style="v" sid="ROM 7:11" />To be more specific, the sin of coveting through the commandment took advantage of the situation, fooled
+        me completely, and killed me (i.e., caused me to die spiritually) by this. <verse eid="ROM 7:11" />
+      <verse number="12" style="v" sid="ROM 7:12" />Consequently, the Law of Moses is indeed holy, and the commandment “thou shalt not covet” is holy and
+        just and good.<verse eid="ROM 7:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 7:13" />So the thing which is good became a mechanism of death in me, right?—Don’t even think about it; on the
+        contrary, in order that the nature and devastation of sin would become apparent, sin utterly worked death
+        through the good in me, so that the sin of coveting would reach its maximal efficacy through the commandment
+        “thou shalt not covet.” <verse eid="ROM 7:13" />
+      <verse number="14" style="v" sid="ROM 7:14" />You see, we know for a fact that the Law is intrinsically spiritual; I am fleshly (i.e., the nature of
+        my physical body is that it is susceptible to carnal temptations, and that part of me does not want to
+        serve God), having been sold by the sin pervasive to mankind: <verse eid="ROM 7:14" />
+      <verse number="15" style="v" sid="ROM 7:15" />I don’t understand nor do I recognize what it is that I’m getting done; the fact of the matter is, I’m
+        not putting into practice what I want—I’m doing what I hate instead. <verse eid="ROM 7:15" />
+      <verse number="16" style="v" sid="ROM 7:16" />But if I’m doing what I don’t want to, I concur with the Law of Moses, concurring that it’s good. <verse eid="ROM 7:16" />
+      <verse number="17" style="v" sid="ROM 7:17" />At this point, though, it’s no longer me personally accomplishing this but rather the sin which inhabits
+        me.<verse eid="ROM 7:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="ROM 7:18" />You see, I know for a fact that good does not inhabit me, that is, in my flesh (i.e. in my human, carnal
+        nature); for the wanting is present in me, at hand ready to jump in, but getting the good done is not
+        happening. <verse eid="ROM 7:18" />
+      <verse number="19" style="v" sid="ROM 7:19" />In fact, I’m not doing the good that I want to do, but instead, I’m doing the bad which I don’t want
+        to do and doing it on a day-to-day basis. <verse eid="ROM 7:19" />
+      <verse number="20" style="v" sid="ROM 7:20" />Now if what I don’t want to do is the thing that I’m doing, It’s no longer me producing the finished
+        product but the sin which inhabits me is producing it instead. <verse eid="ROM 7:20" />
+      <verse number="21" style="v" sid="ROM 7:21" />I’m discovering the Law of God (i.e., the principle that one should do right and live according to God’s
+        will), then, with the wanting in me to do the good, because the bad is present in me, ready to rear its
+        ugly head; <verse eid="ROM 7:21" />
+      <verse number="22" style="v" sid="ROM 7:22" />you see, I delight in the Law of God with respect to the inner-person, <verse eid="ROM 7:22" />
+      <verse number="23" style="v" sid="ROM 7:23" />but I see another law (i.e., a different principle) in my body parts (i.e., in my unique carnal signature)
+        waging war against the law of my mind (i.e. against the principles by which my mind operate), defeating
+        me and making me a prisoner of the sin which exists in my body parts. <verse eid="ROM 7:23" />
+      <verse number="24" style="v" sid="ROM 7:24" />What a miserable person I am: who’ll rescue me from this body which is rooted in death?— <verse eid="ROM 7:24" />
+      <verse number="25" style="v" sid="ROM 7:25" />God is so good through Jesus Christ our Lord!—So then me—on the one hand I’m enslaved in mind to a law
+        of God (i.e., to a principle set in place by God), but on the other hand I’m enslaved in flesh to a law
+        of sin (i.e., to a principle of sin caused by carnality).<verse eid="ROM 7:25" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="ROM 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 8:1" />Therefore, there’s nothing of condemnation now with those in Christ Jesus: <verse eid="ROM 8:1" />
+      <verse number="2" style="v" sid="ROM 8:2" />The law of the spirit of life (i.e., the principle of living a spiritual life in communion with the Holy
+        Spirit) set you free from the law of the sin which afflicts mankind and the ensuing death (i.e. the principle
+        of sin coming about due to our human nature and the resulting stagnation of waste, joylessness, futility,
+        and destruction). <verse eid="ROM 8:2" />
+      <verse number="3" style="v" sid="ROM 8:3" />You see, the inability of the Law of Moses in that it was continually weak through the flesh (i.e., through
+        human ability alone apart from God and aggravated by human carnality), God sent His very-own son in sinful-flesh
+        form and, in regard to sin, condemned the sin in the flesh, <verse eid="ROM 8:3" />
+      <verse number="4" style="v" sid="ROM 8:4" />so that the decrees of the Law of Moses would be fulfilled in us, in those who’re not going about their
+        day-to-day business according to flesh (i.e., according to their own ability apart from God and according
+        to their carnal nature) but rather according to spirit (i.e., according to a spiritual life, a life in
+        communion with the Holy Spirit). <verse eid="ROM 8:4" />
+      <verse number="5" style="v" sid="ROM 8:5" />For those whose existence is in accordance with the nature of the flesh think about the things of the
+        flesh; those whose existence is in accordance with spirit (i.e. with living a spiritual life) think about
+        the things of the Spirit. <verse eid="ROM 8:5" />
+      <verse number="6" style="v" sid="ROM 8:6" />The fact of the matter is that the flesh-mindset is death; the mindset of the spirit is life and peace.<verse eid="ROM 8:6" />
+      <verse number="7" style="v" sid="ROM 8:7" />Therefore, the mindset of the flesh is an enemy to God; for it doesn’t submit to the Law of God; in fact,
+        it can’t do so: <verse eid="ROM 8:7" />
+      <verse number="8" style="v" sid="ROM 8:8" />Those existing in flesh can’t please God.<verse eid="ROM 8:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="ROM 8:9" />You aren’t in flesh (i.e., live out of your natural ability and through your carnal nature) but in spirit
+        (i.e., live out of a regenerated human spirit in communion with the Holy Spirit), if God’s Spirit in
+        fact dwells in you. (If a given person doesn’t have Christ’s Spirit, that person’s not a part of him
+        and from him.) <verse eid="ROM 8:9" />
+      <verse number="10" style="v" sid="ROM 8:10" />Now if Christ is in you—yes—the body is dead through sin, but the spirit has life and is alive through
+        righteousness. <verse eid="ROM 8:10" />
+      <verse number="11" style="v" sid="ROM 8:11" />If the Spirit of the One who raised Jesus from the dead dwells in you all, He who raised Jesus from the
+        dead will also invigorate your mortal bodies through the Indwelling Spirit in you.<verse eid="ROM 8:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="ROM 8:12" />So then, comrades, we have an obligation—but not to the flesh—we’re not to live according to flesh. <verse eid="ROM 8:12" />
+      <verse number="13" style="v" sid="ROM 8:13" />If you live according to flesh, you’re going to die (i.e., experience spiritual death), you see; but
+        if by spirit you put to death the practices of the body, you’re going to live. <verse eid="ROM 8:13" />
+      <verse number="14" style="v" sid="ROM 8:14" />The fact is, any people—any people at all—who’re led by the Spirit of God: these people are sons of God.<verse eid="ROM 8:14" />
+      <verse number="15" style="v" sid="ROM 8:15" />In fact, you have not received a spirit (i.e., a prevailing disposition) of slavery resulting in fear
+        again; instead, you’ve received a spirit of adoption, one with which we cry out, “Papa! Father!” <verse eid="ROM 8:15" />
+      <verse number="16" style="v" sid="ROM 8:16" />The Spirit himself in conjunction with our spirit jointly declares that we are children of God. <verse eid="ROM 8:16" />
+      <verse number="17" style="v" sid="ROM 8:17" />If children, heirs too—heirs of God indeed; joint-heirs of Christ’s inheritance, if indeed we jointly-suffer
+        with him in order that we too would be jointly-glorified.<verse eid="ROM 8:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="ROM 8:18" />Regarding this point, I figure that the present-day sufferings aren’t even in the same ballpark as the
+        glory that’s going to be revealed to us. <verse eid="ROM 8:18" />
+      <verse number="19" style="v" sid="ROM 8:19" />In fact, the creation is in suspense waiting for the sons of God to break onto the scene. <verse eid="ROM 8:19" />
+      <verse number="20" style="v" sid="ROM 8:20" />You see, the creation was subjected to futility—not willingly of course—no—it was subjected on account
+        of whoever or whatever subjected it, resting upon hope <verse eid="ROM 8:20" />
+      <verse number="21" style="v" sid="ROM 8:21" />that the creation itself will be set free from the slavery of corruption (a corruption like decomposing
+        organic matter) over to the freedom of the sons of God. <verse eid="ROM 8:21" />
+      <verse number="22" style="v" sid="ROM 8:22" />Regarding this, we know from first-hand experience that every bit of the creation moans and groans in
+        unison and is in agony in unison from the time it was first corrupted up to now. <verse eid="ROM 8:22" />
+      <verse number="23" style="v" sid="ROM 8:23" />Not only does the creation moan, groan, and agonize but so do those who have a token sample of celebration
+        of the Spirit—namely us—we too moan and groan within ourselves in suspense waiting for an adoption, the
+        redemption of our body (i.e., the restoration of the body to its original purpose and function and the
+        elimination of the carnal nature). <verse eid="ROM 8:23" />
+      <verse number="24" style="v" sid="ROM 8:24" />In fact, we were saved by hope; hope which is seen (i.e., is of something which verifiably exists in
+        the physical world) isn’t hope—just who hopes for what he sees? <verse eid="ROM 8:24" />
+      <verse number="25" style="v" sid="ROM 8:25" />Now if we hope for what we don’t see, we’re in suspense awaiting it, exercising perseverance throughout.<verse eid="ROM 8:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="ROM 8:26" />In the same way, the Spirit helps us (i.e., he gets ahold of something in unison with us against that
+        something) with our weakness: you see, we don’t know how we must pray or what we must pray; instead of
+        us being constrained by that limitation, when he intercedes on behalf of others, the Spirit himself intercedes
+        (i.e., he personally acts on another’s behalf by joining up with him in order to obtain a goal, to hit
+        the mark like an arrow hitting its target, like a baseball player who gets a good solid hit on a ball
+        putting it in the spot he’s chosen) with moans and groans which can’t be put into speech. <verse eid="ROM 8:26" />
+      <verse number="27" style="v" sid="ROM 8:27" />The one who searches the hearts knows for a fact the thoughts, opinions, and intentions of the Spirit,
+        since he intercedes on behalf of people set apart for God. <verse eid="ROM 8:27" />
+      <verse number="28" style="v" sid="ROM 8:28" />We know for a fact that God works all things in unison towards a good goal for them who love God, those
+        who exist as the according-to-purpose called-ones, <verse eid="ROM 8:28" />
+      <verse number="29" style="v" sid="ROM 8:29" />since they whom He foreknew (i.e., knew one’s individual personality, nature, and spiritual acuity before
+        it became apparent), he foreordained to conform to the image of His son, resulting in him being firstborn
+        among many comrades and brothers. <verse eid="ROM 8:29" />
+      <verse number="30" style="v" sid="ROM 8:30" />Those whom He foreordained, He also called (i.e., summoned to believe in Him). And those He called, He
+        also justified (i.e., declared “not guilty”); those He justified, He also glorified.<verse eid="ROM 8:30" />
+    </para>
+    <para style="p">
+      <verse number="31" style="v" sid="ROM 8:31" />So what’s the takeaway?—If God’s on our side, who’s on the opposing team? <verse eid="ROM 8:31" />
+      <verse number="32" style="v" sid="ROM 8:32" />He who certainly didn’t spare His own son, but surrendered him to crucifixion on behalf of us all, how
+        will He not freely and willingly give us all things? <verse eid="ROM 8:32" />
+      <verse number="33" style="v" sid="ROM 8:33" />Who will press charges against those chosen by God, those in God’s church? God’s doing the justifying
+        (i.e., God’s the one Who’s issuing the “not guilty” verdicts); <verse eid="ROM 8:33" />
+      <verse number="34" style="v" sid="ROM 8:34" />who’s issuing the guilty verdicts? Is the person who’s issuing the guilty verdicts Christ Jesus, the
+        fellow who died, but—beyond that—was resurrected? The fellow who’s also God’s chief executive, the fellow
+        who also intercedes on our behalf? <verse eid="ROM 8:34" />
+      <verse number="35" style="v" sid="ROM 8:35" />What will separate us from the love of Christ—tribulation…distress…persecution…famine…nakedness…danger…sword
+        (i.e., another’s imposition of brute force upon you even to the threat of death)? <verse eid="ROM 8:35" />
+      <verse number="36" style="v" sid="ROM 8:36" />Just as it’s written:
+    </para>
+    <para style="pi" vid="ROM 8:36"></para>
+    <para style="pi" vid="ROM 8:36">We’re being put to death all day long for Your sake</para>
+    <para style="pi" vid="ROM 8:36">We’ve been slated for slaughter as though we’re sheep of slaughter<verse eid="ROM 8:36"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="37" style="v" sid="ROM 8:37" />No—in all these things we come out on top conquering through the one who loved us. <verse eid="ROM 8:37" />
+      <verse number="38" style="v" sid="ROM 8:38" />In fact, I’ve reached the point where I’m persuaded that neither death nor life nor Satan’s agents nor
+        demon-chieftains nor present-events nor future-events nor unexplainable, supernatural, or miraculous
+        powers, <verse eid="ROM 8:38" />
+      <verse number="39" style="v" sid="ROM 8:39" />nor heights (i.e., high highs) nor depths (i.e., depths of despair) nor some other creature will be able
+        to separate us from the love of God, love which is in Christ Jesus our Lord.<verse eid="ROM 8:39" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="ROM 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 9:1" />Truthfully, I’m telling you in Christ—I’m not lying—my conscience attests to the fact in conjunction
+        with the Holy Spirit <verse eid="ROM 9:1" />
+      <verse number="2" style="v" sid="ROM 9:2" />that I have tremendous sorrow and incessant pain in my heart: <verse eid="ROM 9:2" />
+      <verse number="3" style="v" sid="ROM 9:3" />that is, that I would be granted this request, that I—even I—be accursed and shunned by the Messiah,
+        the Christ, for the sake of my brethren, my flesh &amp; blood relatives <verse eid="ROM 9:3" />
+      <verse number="4" style="v" sid="ROM 9:4" />(the ones I’m referring to are the Israelites), they who have the Lineal Descent Selection; the Shekhinah-Glory
+        (i.e., God manifesting Himself in His glory, such as in the burning bush); the Covenants (i.e., the Abrahamic,
+        Mosaic, and Davidic covenants); the Enactment of the Law of Moses; the Religious Service (i.e., the temple
+        rituals, sacrificial system, priestly traditions, etc.); the Promises— <verse eid="ROM 9:4" />
+      <verse number="5" style="v" sid="ROM 9:5" />who are the descendants of the patriarchs, and from whom the Messiah came, physically speaking, who is
+        over all, God be blessed forevermore. Let us pause a moment for that to sink in.<verse eid="ROM 9:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="ROM 9:6" />It’s not as though the word of God has been ineffectual. The fact of the matter is, Israel doesn’t consist
+        solely of everyone who was spawned from the nation of Israel, <verse eid="ROM 9:6" />
+      <verse number="7" style="v" sid="ROM 9:7" />nor are all of Abraham’s children (i.e., his sons, grandsons, etc.) his seed (i.e., his true father-to-son
+        lineal descendants and progeny); rather, “Your seed shall be in and through Isaac.” <verse eid="ROM 9:7" />
+      <verse number="8" style="v" sid="ROM 9:8" />In other words, the children of the flesh (i.e., the biological offsprings) are not the ones who’re the
+        children of God, rather the children of promise are regarded as being the seed. <verse eid="ROM 9:8" />
+      <verse number="9" style="v" sid="ROM 9:9" />In fact, this statement from the Old Testament is based on promise, “I’ll come at the right time, and
+        Sarah will have a son.”<verse eid="ROM 9:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="ROM 9:10" />Not just that but Rebekah too, while doing on the marriage bed what married couples do, was impregnated
+        from what came out of one man, from Isaac, one of our patriarchs. <verse eid="ROM 9:10" />
+      <verse number="11" style="v" sid="ROM 9:11" />You see, while they had not been born yet and committed any good or bad deed, in order that freedom of
+        choice in God’s purpose would persist— <verse eid="ROM 9:11" />
+      <verse number="12" style="v" sid="ROM 9:12" />not as a works-outcome but rather as a calling-outcome, the free choice of the One Who calls—she was
+        told that, “the older and therefore superior one shall serve the younger,” <verse eid="ROM 9:12" />
+      <verse number="13" style="v" sid="ROM 9:13" />as it’s written:
+    </para>
+    <para style="pi" vid="ROM 9:13"></para>
+    <para style="pi" vid="ROM 9:13">I loved Isaac;</para>
+    <para style="pi" vid="ROM 9:13">I hated (i.e., despised; had contempt for; loathed) Esau<verse eid="ROM 9:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="14" style="v" sid="ROM 9:14" />What’s the takeaway? Not that God’s unfair, right?—Don’t even think about it. <verse eid="ROM 9:14" />
+      <verse number="15" style="v" sid="ROM 9:15" />Furthermore, he tells Moses:
+    </para>
+    <para style="pi" vid="ROM 9:15"></para>
+    <para style="pi" vid="ROM 9:15">I’ll have mercy on whom I so happen to show mercy to</para>
+    <para style="pi" vid="ROM 9:15">And have pity on whom I so happen to have pity on<verse eid="ROM 9:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="16" style="v" sid="ROM 9:16" />So then it’s not based on the person desiring this or that or the one pursuing this or that, but rather
+        it’s a product of the mercy of God. <verse eid="ROM 9:16" />
+      <verse number="17" style="v" sid="ROM 9:17" />In fact, in regard to Pharaoh the Old Testament says:
+    </para>
+    <para style="pi" vid="ROM 9:17"></para>
+    <para style="pi" vid="ROM 9:17">I brought you to prominence for this:</para>
+    <para style="pi" vid="ROM 9:17">In order to demonstrate in you My power</para>
+    <para style="pi" vid="ROM 9:17">And in order to make My reputation known</para>
+    <para style="pi" vid="ROM 9:17">To everyone throughout all the land <verse eid="ROM 9:17"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="18" style="v" sid="ROM 9:18" />So then, He shows mercy to whom He pleases; He hardens the heart of whom He pleases.<verse eid="ROM 9:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="ROM 9:19" />I know what you’re going to say now: how can He blame anyone for anything anymore? In this regard, who
+        has arrived at a point where he’s successfully resisted His will? <verse eid="ROM 9:19" />
+      <verse number="20" style="v" sid="ROM 9:20" />Wow—aren’t you something?—no, on the contrary who do you think you are, you who responds to an assertion
+        that God has made with a contradictory reply? Shall the thing created tell its creator, “Why’d you make
+        me this way?” <verse eid="ROM 9:20" />
+      <verse number="21" style="v" sid="ROM 9:21" />Doesn’t the potter have the right to make vessels from the same lump of clay that are intended for dishonorable
+        use (i.e., dirty water basins or chamber pots) on the one hand but for honorable use (i.e., best dinnerware
+        pieces or decorative pots) on the other? <verse eid="ROM 9:21" />
+      <verse number="22" style="v" sid="ROM 9:22" />What if God, wanting to demonstrate His wrath in a particular situation and make His capabilities known
+        near and far in the same, while exercising a good deal of patience took vessels of wrath along for a
+        ride, preparing them for an ends of destruction? <verse eid="ROM 9:22" />
+      <verse number="23" style="v" sid="ROM 9:23" />And what if He, in order that the riches of His glory be made known, wanted to demonstrate His kindness
+        upon vessels of mercy, ones that have been prepared beforehand for an ends of glory, <verse eid="ROM 9:23" />
+      <verse number="24" style="v" sid="ROM 9:24" />even us, whom He called, not only from among the Jews but from among the Gentiles as well? <verse eid="ROM 9:24" />
+      <verse number="25" style="v" sid="ROM 9:25" />Also, like in the Book of Hosea:
+    </para>
+    <para style="pi" vid="ROM 9:25"></para>
+    <para style="pi" vid="ROM 9:25">I will call the people who aren’t My people “My people,”</para>
+    <para style="pi" vid="ROM 9:25">And the unloved woman “beloved.”<verse eid="ROM 9:25"/>
+    </para>
+    <para style="pi">
+      <verse number="26" style="v" sid="ROM 9:26" />And it will come to pass that in the place
+    </para>
+    <para style="pi" vid="ROM 9:26">Where they were told “You are not My people,”</para>
+    <para style="pi" vid="ROM 9:26">There they’ll be called “sons of the Living God.”<verse eid="ROM 9:26"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="27" style="v" sid="ROM 9:27" />Now while representing Israel, Isaiah cried out, 
+    </para>
+    <para style="pi" vid="ROM 9:27"></para>
+    <para style="pi" vid="ROM 9:27">Even if the descendants of Israel happened to be</para>
+    <para style="pi" vid="ROM 9:27">As numerous as the grains of sand on the seashore,</para>
+    <para style="pi" vid="ROM 9:27">Only a select few will be spared from calamity<verse eid="ROM 9:27"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="28" style="v" sid="ROM 9:28" />Furthermore Isaiah said:
+    </para>
+    <para style="pi" vid="ROM 9:28"></para>
+    <para style="pi" vid="ROM 9:28">Wrap it up lickety-split—</para>
+    <para style="pi" vid="ROM 9:28">That’s what the Lord will do upon the earth<verse eid="ROM 9:28"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="29" style="v" sid="ROM 9:29" />And just as Isaiah said before the fact:
+    </para>
+    <para style="pi" vid="ROM 9:29"></para>
+    <para style="pi" vid="ROM 9:29">Had not the Army Commander-in-Chief</para>
+    <para style="pi" vid="ROM 9:29">Left behind seed (i.e., progeny; heirs) for us,</para>
+    <para style="pi" vid="ROM 9:29">We would’ve become like Sodom,</para>
+    <para style="pi" vid="ROM 9:29">And we would’ve duplicated Gomorrah.<verse eid="ROM 9:29"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="30" style="v" sid="ROM 9:30" />So what’s the takeaway? That the Gentiles—they who aren’t pursuing righteousness—cornered and subdued
+        righteousness (a righteousness which came out of faith)? <verse eid="ROM 9:30" />
+      <verse number="31" style="v" sid="ROM 9:31" />But Israel, pursuing a law of righteousness (i.e., a system of rules of right conduct), didn’t attain
+        law (i.e., didn’t live up to the standards of those rules)? <verse eid="ROM 9:31" />
+      <verse number="32" style="v" sid="ROM 9:32" />Because of what? Because their pursuit of righteousness wasn’t from a standpoint of faith but was pursued
+        as though it could be attained from a standpoint of works. They crashed into the collision-stone, <verse eid="ROM 9:32" />
+      <verse number="33" style="v" sid="ROM 9:33" />just like it’s written:
+    </para>
+    <para style="pi" vid="ROM 9:33"></para>
+    <para style="pi" vid="ROM 9:33">Look here! I’m laying a collision-stone</para>
+    <para style="pi" vid="ROM 9:33">In Zion (i.e., in My yet-to-come relationship with mankind)</para>
+    <para style="pi" vid="ROM 9:33">And a problem-causing rock</para>
+    <para style="pi" vid="ROM 9:33">And he who believes and trusts in it/him</para>
+    <para style="pi" vid="ROM 9:33">Won’t have any regrets</para>
+    <para style="p" vid="ROM 9:33">HeH<verse eid="ROM 9:33"/>
+    </para>
+  <chapter eid="ROM 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="ROM 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 10:1" />Comrades, my heart’s good intentions towards my fellow Israelites and my prayer to God when I pray for
+        them are targeted towards their salvation (i.e., their being rescued from spiritual, moral, mental, and
+        physical calamity). <verse eid="ROM 10:1" />
+      <verse number="2" style="v" sid="ROM 10:2" />Furthermore, I do declare that they have a zeal for God, but not a zeal in which they arrive at an understanding
+        of what they’re doing. <verse eid="ROM 10:2" />
+      <verse number="3" style="v" sid="ROM 10:3" />For while being ignorant of the righteousness of God and while seeking to erect their own righteousness,
+        they didn’t put themselves in subjection to the righteousness of God. <verse eid="ROM 10:3" />
+      <verse number="4" style="v" sid="ROM 10:4" />You see, for all those who have faith and believe, Christ puts an end to law (i.e., the method of living
+        by God’s list of rules) whose end-goal is righteousness.<verse eid="ROM 10:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="ROM 10:5" />In fact, Moses writes about the righteousness which comes out of law, stating that, “Those things which
+        a person has done, he’ll stake his life on them.” <verse eid="ROM 10:5" />
+      <verse number="6" style="v" sid="ROM 10:6" />But the righteousness which comes from the perspective of faith puts things this way: Don’t say in your
+        heart, “Who will ascend into heaven” (that is, to bring Christ down), or, <verse eid="ROM 10:6" />
+      <verse number="7" style="v" sid="ROM 10:7" />“Who will descend into the abyss (i.e., the world of the dead; the place of eternal identity-loss)” (that
+        is, to bring Christ up out of the world of the dead); <verse eid="ROM 10:7" />
+      <verse number="8" style="v" sid="ROM 10:8" />Rather, what does the Old Testament say? It says:
+    </para>
+    <para style="pi" vid="ROM 10:8"></para>
+    <para style="pi" vid="ROM 10:8">The spoken-word is near you,</para>
+    <para style="pi" vid="ROM 10:8">In your mouth and in your heart</para>
+    <para style="pi" vid="ROM 10:8"></para>
+    <para style="m" vid="ROM 10:8">…That is, the “spoken-word which is near you” is the word of faith which we preach, <verse eid="ROM 10:8"/>
+      <verse number="9" style="v" sid="ROM 10:9" />that if you were to confess with your mouth the Lord Jesus and believe with your heart that God raised
+        him from the dead, you will be saved (i.e., rescued from spiritual, moral, mental, and physical calamity).<verse eid="ROM 10:9" />
+      <verse number="10" style="v" sid="ROM 10:10" />You see, the word is believed with the heart, and the end-result is righteousness; the word is confessed
+        with the mouth, and the end-result is salvation (i.e., the state of being saved). <verse eid="ROM 10:10" />
+      <verse number="11" style="v" sid="ROM 10:11" />To this point, the Old Testament says:
+    </para>
+    <para style="pi" vid="ROM 10:11"></para>
+    <para style="pi" vid="ROM 10:11">He who trusts and believes in it</para>
+    <para style="pi" vid="ROM 10:11">Won’t have any regrets<verse eid="ROM 10:11"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="12" style="v" sid="ROM 10:12" />In fact, there’s no distinction made between Jews and non-Jewish Westerners; for the same Lord is everyone’s
+        Lord, enriching all who call upon him: <verse eid="ROM 10:12" />
+      <verse number="13" style="v" sid="ROM 10:13" />“Everyone who ventures to call upon the Lord’s authority and reputation for being favorably inclined
+        will be saved.”<verse eid="ROM 10:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="ROM 10:14" />So how could they call upon him whom they haven’t believed in? How could they believe in a person they
+        haven’t heard of? Apart from people preaching to them, how could they hear about him? <verse eid="ROM 10:14" />
+      <verse number="15" style="v" sid="ROM 10:15" />How could these people preach if they haven’t been sent out? As it’s written:
+    </para>
+    <para style="pi" vid="ROM 10:15"></para>
+    <para style="pi" vid="ROM 10:15">Oh, how beautiful are the feet (i.e., the course and direction of the lives)</para>
+    <para style="pi" vid="ROM 10:15">Of those evangelizing the good things of God<verse eid="ROM 10:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="16" style="v" sid="ROM 10:16" />No, not everyone obeyed the Good News, the Gospel. You see, Isaiah says, “Lord who believed our message?”<verse eid="ROM 10:16" />
+      <verse number="17" style="v" sid="ROM 10:17" />Therefore, the faith that I’m talking about comes out of hearing a message (i.e., listening intently
+        to a message and letting it sink into your heart and not just pass through your head); the hearing I’m
+        talking about comes through a spoken-word of Christ.<verse eid="ROM 10:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="ROM 10:18" />That aside, I’ll tell you this: It’s not as though they haven’t heard the message yet, is it? On the
+        contrary:</para>
+    <para style="pi" vid="ROM 10:18"></para>
+    <para style="pi" vid="ROM 10:18">The sound of their voice went out to the entire earth</para>
+    <para style="pi" vid="ROM 10:18">And to the far reaches of the civilized world<verse eid="ROM 10:18"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="19" style="v" sid="ROM 10:19" />No, I’ll one-up that and say this: It’s not that Israel hasn’t understood the message, is it? Right out
+        of the gate Moses says,</para>
+    <para style="pi" vid="ROM 10:19"></para>
+    <para style="pi" vid="ROM 10:19">I’ll make you jealous over a people;</para>
+    <para style="pi" vid="ROM 10:19">I’ll enrage you over a people who are clueless<verse eid="ROM 10:19"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="20" style="v" sid="ROM 10:20" />And Isaiah takes it to another level and says:
+    </para>
+    <para style="pi" vid="ROM 10:20"></para>
+    <para style="pi" vid="ROM 10:20">I was discovered by those not seeking Me;</para>
+    <para style="pi" vid="ROM 10:20">I became manifest to those not inquiring of Me<verse eid="ROM 10:20"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="21" style="v" sid="ROM 10:21" />But to Israel it says:
+    </para>
+    <para style="pi" vid="ROM 10:21"></para>
+    <para style="pi" vid="ROM 10:21">All day long I’ve had My arms stretched out</para>
+    <para style="pi" vid="ROM 10:21">To a disobedient and contrary folk<verse eid="ROM 10:21"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="ROM 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 11:1" />So, I’ll say this: God hasn’t rejected His people, has He?—Not a chance. The fact of the matter is that
+        I myself am an Israelite, from Abraham’s seed (i.e. lineal descent; progeny; great-great-etc. grandson),
+        the tribe of Benjamin— <verse eid="ROM 11:1" />
+      <verse number="2" style="v" sid="ROM 11:2" />God hasn’t rejected His people, those whom He foreknew (i.e., knew their individual personalities, nature,
+        and spiritual acuity before it became apparent). Or don’t you know what the Old Testament says about
+        Elijah? As he intercedes with God against Israel:<verse eid="ROM 11:2" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="3" style="v" sid="ROM 11:3" />Lord, they killed Your prophets, they tore down Your altars,
+    </para>
+    <para style="pi" vid="ROM 11:3">And I’m the only survivor, and they’re out to get me<verse eid="ROM 11:3"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="4" style="v" sid="ROM 11:4" />What does God’s Divine Answer tell him instead?
+    </para>
+    <para style="pi" vid="ROM 11:4"></para>
+    <para style="pi" vid="ROM 11:4">I’ve kept at My disposal seven-thousand men,</para>
+    <para style="pi" vid="ROM 11:4">Those individuals in particular</para>
+    <para style="pi" vid="ROM 11:4">Who haven’t kowtowed to Baal<verse eid="ROM 11:4"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="5" style="v" sid="ROM 11:5" />So in the same way in this day-and-age also, a remnant (i.e., the select few who’ve stayed the course)
+        freely chosen by grace has emerged. <verse eid="ROM 11:5" />
+      <verse number="6" style="v" sid="ROM 11:6" />Now if the choice is by grace, it’s no longer a product of works, since grace of this sort would no longer
+        qualify as being grace. <verse eid="ROM 11:6" />
+      <verse number="7" style="v" sid="ROM 11:7" />What then? What Israel sought after, that’s what it didn’t obtain; it obtained the free choice by grace,
+        but the rest who weren’t part of the remnant were hardened on the inside <verse eid="ROM 11:7" />
+      <verse number="8" style="v" sid="ROM 11:8" />just as it’s written:
+    </para>
+    <para style="pi" vid="ROM 11:8"></para>
+    <para style="pi" vid="ROM 11:8">God gave them a deep, intense mindset of stupefaction,</para>
+    <para style="pi" vid="ROM 11:8">Eyes incapable of sight and ears incapable of hearing,</para>
+    <para style="pi" vid="ROM 11:8">Continuing up to the present day<verse eid="ROM 11:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="9" style="v" sid="ROM 11:9" />And in the Old Testament David says:
+    </para>
+    <para style="pi" vid="ROM 11:9"></para>
+    <para style="pi" vid="ROM 11:9">Let their sustenance, provision, relaxation, and merriment</para>
+    <para style="pi" vid="ROM 11:9">Turn into a snare and into a net</para>
+    <para style="pi" vid="ROM 11:9">And into a cause of vexation</para>
+    <para style="pi" vid="ROM 11:9">And into a tit-for-tat payback meted out to them.<verse eid="ROM 11:9"/>
+    </para>
+    <para style="pi">
+      <verse number="10" style="v" sid="ROM 11:10" />Let their vision deteriorate to the point where they can’t see,
+    </para>
+    <para style="pi" vid="ROM 11:10">And throughout all of this let their back be</para>
+    <para style="pi" vid="ROM 11:10">Thrown out and mangled up, leaving them hunched over.<verse eid="ROM 11:10"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="11" style="v" sid="ROM 11:11" />I’m saying that they haven’t careened off the road to where they’re stuck in a ditch, have they?—Don’t
+        even think about it. Instead, by their transgressions the salvation which is in Jesus in one fell swoop
+        has been made available to the Gentiles in order to provoke my fellow countrymen to imitation because
+        of envy. <verse eid="ROM 11:11" />
+      <verse number="12" style="v" sid="ROM 11:12" />Now if their transgression is a bonanza for the world, and their failure a bonanza for the Gentiles,
+        how much more of a bonanza would their saturation in the faith be?<verse eid="ROM 11:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 11:13" />I’m addressing you Gentiles. Insofar as I have indeed been sent as a missionary—an apostle—to the Gentiles—I’m
+        putting my ministry on center stage, <verse eid="ROM 11:13" />
+      <verse number="14" style="v" sid="ROM 11:14" />if somehow I might provoke my kinsmen to imitation because of envy and thereby save (i.e., rescue) some
+        of them. <verse eid="ROM 11:14" />
+      <verse number="15" style="v" sid="ROM 11:15" />You see, if their rejection of Jesus be the world’s reconciliation, what can their acceptance of Jesus
+        be if not life from the dead? <verse eid="ROM 11:15" />
+      <verse number="16" style="v" sid="ROM 11:16" />If the early sample of the harvest is consecrated to God, the bulk of the harvest is consecrated as well;
+        if the root’s consecrated, the branches are too.<verse eid="ROM 11:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 11:17" />Now if some of the branches were chopped off, you—the wild olive branch—were grafted into them and became
+        joint-partakers of the Olive Tree’s Root of Faith, <verse eid="ROM 11:17" />
+      <verse number="18" style="v" sid="ROM 11:18" />no boasting from the wild branches about how you supplanted the natural branches. But if you intend to
+        adopt a condescending attitude, keep in mind that you don’t support the root, but the root supports you.<verse eid="ROM 11:18" />
+      <verse number="19" style="v" sid="ROM 11:19" />So if you’re going to say, “Branches were chopped off so that I could be grafted in”… <verse eid="ROM 11:19" />
+      <verse number="20" style="v" sid="ROM 11:20" />that’s all well and good: they were broken off due to their refusal to believe; you’ve come to stand
+        due to faith. Don’t think highly of yourselves, but adopt an attitude of fear: <verse eid="ROM 11:20" />
+      <verse number="21" style="v" sid="ROM 11:21" />if God didn’t spare the natural branches, I don’t see any way around Him not sparing you either.<verse eid="ROM 11:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="ROM 11:22" />Ah, God’s kindness and severity. On the one hand, severity will be lavished upon those who’ve wound up
+        in a ditch by their own doing, but on the other hand God’s kindness will be lavished upon you, if you
+        were to continue doing what you’re doing in this kindness; otherwise, you’ll be “chopped off” so to speak
+        too. <verse eid="ROM 11:22" />
+      <verse number="23" style="v" sid="ROM 11:23" />And they too—if they were to not continue in their refusal to believe, they’ll be grafted in: the fact
+        is, God is able to graft them back in again. <verse eid="ROM 11:23" />
+      <verse number="24" style="v" sid="ROM 11:24" />You see, if you were chopped off a wild olive tree and grafted into a cultivated olive tree, how much
+        more will these natural branches be grafted back into their own olive tree?<verse eid="ROM 11:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="ROM 11:25" />The fact of the matter is that I don’t want you to continue in ignorance, comrades, over this mystery,
+        so that you wouldn’t be forming within yourselves thoughts and ideas which haven’t been carefully considered
+        or well thought-through, since, to a large extent a hardness has occurred to Israel until the fullness
+        of the Gentiles enters in, <verse eid="ROM 11:25" />
+      <verse number="26" style="v" sid="ROM 11:26" />and in this way all Israel shall be saved (i.e., rescued from spiritual, moral, mental, and physical
+        calamity), just like it’s been recorded in Scripture:</para>
+    <para style="pi" vid="ROM 11:26"></para>
+    <para style="pi" vid="ROM 11:26">The Deliverer will come out of Zion</para>
+    <para style="pi" vid="ROM 11:26">(i.e., out of the manifestation of God’s ultimate plan)—</para>
+    <para style="pi" vid="ROM 11:26">He’ll repel ungodliness from Israel.<verse eid="ROM 11:26"/>
+    </para>
+    <para style="pi">
+      <verse number="27" style="v" sid="ROM 11:27" />And this is the Covenant from Me to them,
+    </para>
+    <para style="pi" vid="ROM 11:27">That I’ll take away their sins.<verse eid="ROM 11:27"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="28" style="v" sid="ROM 11:28" />Yes, they are enemies of the Good News, the Gospel, on account of you, but are beloved according to the
+        Selection on account of the patriarchs of Israel: <verse eid="ROM 11:28" />
+      <verse number="29" style="v" sid="ROM 11:29" />the gifts that were given by the grace of God, not earned by the recipients, and the calling of God (i.e.,
+        God’s selection to be one of His people) are irrevocable, you see. <verse eid="ROM 11:29" />
+      <verse number="30" style="v" sid="ROM 11:30" />Just as you were disobedient to God and unconvinced that you should believe in Him a while ago, you have
+        now received mercy on account of their disobedience and unbelief. <verse eid="ROM 11:30" />
+      <verse number="31" style="v" sid="ROM 11:31" />In the same way, at the present moment these people too are disobedient to and unconvinced by your mercy
+        to the effect that they would receive mercy. <verse eid="ROM 11:31" />
+      <verse number="32" style="v" sid="ROM 11:32" />For God consigned them all to disobedience so that they all would receive mercy.<verse eid="ROM 11:32" />
+    </para>
+    <para style="p">
+      <verse number="33" style="v" sid="ROM 11:33" />Oh, the depth of the riches, the wisdom, and the understanding of God—as His decisions evade analysis
+        and the path that He’s taken cannot be traced!…<verse eid="ROM 11:33" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="34" style="v" sid="ROM 11:34" />In fact, who knew what was on the Lord’s mind?
+    </para>
+    <para style="pi" vid="ROM 11:34">Or who became His decision-making advisor?<verse eid="ROM 11:34"/>
+    </para>
+    <para style="pi">
+      <verse number="35" style="v" sid="ROM 11:35" />Or who’s loaned him anything
+    </para>
+    <para style="pi" vid="ROM 11:35">That He’ll have to pay back?<verse eid="ROM 11:35"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="36" style="v" sid="ROM 11:36" />…Because from Him and through Him and to Him are all things—to Him be the Glory forever and ever. And
+        let us pause for a moment to let that sink in.<verse eid="ROM 11:36" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="ROM 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 12:1" />On account of the mercies of God, I beseech you, comrades, to present your bodies an alive, holy, and
+        acceptable (“acceptable” as though it complies with something analogous to the requirements in the Old
+        Testament for the animals to be sacrificed) sacrifice (like a sacrificial animal) to God, performing
+        your religious ritual, one which constitutes worship. <verse eid="ROM 12:1" />
+      <verse number="2" style="v" sid="ROM 12:2" />And be not conformed to the lifestyle of this age, but be transformed on the outside by what’s on the
+        inside by the renewing of the mind instead, resulting in you continuously approving as the result of
+        examination what the will of God is, the good will of God, the acceptable will of God, and the perfect
+        will of God.<verse eid="ROM 12:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="ROM 12:3" />In addition, through the grace given to me I’m telling every one of you all not to let your minds stray
+        and be thinking loftier thoughts, thoughts where you think more highly of yourself, than you ought be
+        thinking, but be sound-minded (i.e., come down to earth, straighten your head out, and get rid of those
+        lofty thoughts) instead, as God has allocated an area of responsibility for every person. <verse eid="ROM 12:3" />
+      <verse number="4" style="v" sid="ROM 12:4" />You see, just as there’re many parts to any given body, but all the parts don’t serve the same purpose,<verse eid="ROM 12:4" />
+      <verse number="5" style="v" sid="ROM 12:5" />similarly, we the many parts are one body in Christ, and a member of one another from an individual perspective.<verse eid="ROM 12:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="ROM 12:6" />Now having gifts according to the grace (i.e., the giver giving not based on the receiver meriting it
+        but based on the giver’s generosity; giving with no expectation of receiving anything in return; giving
+        something freely and therefore irrevocably) given to us diversely, whether the gift be prophecy (i.e.,
+        speaking the utterances of God) let the prophesying be done according to the allocation of responsibility;<verse eid="ROM 12:6" />
+      <verse number="7" style="v" sid="ROM 12:7" />whether being in charge of a particular area of ministry and serving in that area, let the same be applied
+        to the service; whether teaching, let the same be applied to the teaching; <verse eid="ROM 12:7" />
+      <verse number="8" style="v" sid="ROM 12:8" />whether assistance, advocacy, counseling, and encouraging, let the same be applied to the assistance,
+        etc.; whether giving, let the same be applied in singleness (i.e., in simplicity: straightforward, without
+        hesitancy, hidden agendas, or internal conflicts); whether taking the lead, let the same be applied with
+        pep, diligence, and self-motivation; whether being merciful, let the same be applied in cheerfulness.<verse eid="ROM 12:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="ROM 12:9" />Let the love you have be genuine and without hypocrisy.
+    </para>
+    <para style="p" vid="ROM 12:9">Hate the evil that’s in the world, adhere to the good.<verse eid="ROM 12:9"/>
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="ROM 12:10" />With a close comradeship, engage in close friendships formed out of natural affection.
+    </para>
+    <para style="p" vid="ROM 12:10">In the high value with which you esteem others, put each other ahead of yourselves.<verse eid="ROM 12:10"/>
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="ROM 12:11" />Using pep, diligence, and self-motivation, don’t be lazy.
+    </para>
+    <para style="p" vid="ROM 12:11">In the Spirit be zealous.</para>
+    <para style="p" vid="ROM 12:11">Serve in the Lord.<verse eid="ROM 12:11"/>
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="ROM 12:12" />In good times, rejoice; in bad times, persevere.
+    </para>
+    <para style="p" vid="ROM 12:12">Pray constantly—continuously.<verse eid="ROM 12:12"/>
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 12:13" />Be intimately familiar with the needs of the saints, your fellow believers.
+    </para>
+    <para style="p" vid="ROM 12:13">Reach out to those who are new or who are different—make this your pastime.<verse eid="ROM 12:13"/>
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="ROM 12:14" />Have a good word to say about those who persecute others.
+    </para>
+    <para style="p" vid="ROM 12:14">Bless and don’t curse.<verse eid="ROM 12:14"/>
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="ROM 12:15" />Rejoice with those who’re rejoicing.
+    </para>
+    <para style="p" vid="ROM 12:15">Weep with those who’re weeping.<verse eid="ROM 12:15"/>
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="ROM 12:16" />Maintain the same mindset towards each individual: don’t think you’re better than anyone else but associate
+        with those who’ve been humbled by circumstances or by their station in life (i.e., those on the lowest
+        wrungs of society; those who aren’t the brightest and best). Don’t become too big for your britches/too
+        big for your boots.<verse eid="ROM 12:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 12:17" />When anyone does something bad to you, don’t do something bad to them in return.
+    </para>
+    <para style="p" vid="ROM 12:17">Have respect for what people generally regard as beautiful and what they hold in high esteem.<verse eid="ROM 12:17"/>
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="ROM 12:18" />If at all possible, for your own part, be at peace with everyone.<verse eid="ROM 12:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="ROM 12:19" />Don’t take your own revenge, beloved, but leave room for the wrath of God. You see, it’s written:
+    </para>
+    <para style="pi" vid="ROM 12:19"></para>
+    <para style="pi" vid="ROM 12:19">“Vengeance is for Me to do, I’ll pay them back,” says the Lord<verse eid="ROM 12:19"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="20" style="v" sid="ROM 12:20" />Instead of taking revenge:
+    </para>
+    <para style="pi" vid="ROM 12:20"></para>
+    <para style="pi" vid="ROM 12:20">If your enemy happens to be hungry, give him something to eat.</para>
+    <para style="pi" vid="ROM 12:20">If he happens to be thirsty, give him some water.</para>
+    <para style="pi" vid="ROM 12:20">You see, by doing this you make him stew in his own juice.<verse eid="ROM 12:20"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="21" style="v" sid="ROM 12:21" />Don’t be defeated by the bad things people do to you, but defeat bad things with good things.<verse eid="ROM 12:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="ROM 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 13:1" />Let all people from all walks of life submit to the overarching authorities; the fact is, there’s no
+        authority-structure except what’s been put there by God, and those that exist have been arranged, organized,
+        and put into place by God into the state in which they exist, <verse eid="ROM 13:1" />
+      <verse number="2" style="v" sid="ROM 13:2" />so that any given person who opposes the authority that’s in place has taken a stand against the way
+        that God decides to organize and arrange things; the ones who’ve taken a stand in opposition to the authorities
+        in place will be judged (i.e., arrested, prosecuted, convicted, and incarcerated by the criminal justice
+        system) for doing so. <verse eid="ROM 13:2" />
+      <verse number="3" style="v" sid="ROM 13:3" />You see, those who do good have no need to be afraid of rulers; but those who do bad need to be afraid.
+        Do you want to have no fear of the authorities?—do good, and you’ll be applauded by them: <verse eid="ROM 13:3" />
+      <verse number="4" style="v" sid="ROM 13:4" />the person in authority is God’s servant for you in a positive way. But if you were to live the life
+        of crime, be afraid: the authorities have the wherewithal to forcibly and violently impose their will
+        upon you—and won’t hesitate to use it. In fact, the authorities are God’s servants to dole out wrath
+        upon the stereotypical criminal.<verse eid="ROM 13:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="ROM 13:5" />Putting it all together, you’ve got to submit to the authorities, not just because of the wrath they
+        could potentially inflict but also because you should be keeping a clean conscience. <verse eid="ROM 13:5" />
+      <verse number="6" style="v" sid="ROM 13:6" />In fact, this is also a reason why you pay taxes: they’re ministers (i.e., officers, constables, judges,
+        etc.) of God employed full-time at this, and their salary is paid out of tax revenue. <verse eid="ROM 13:6" />
+      <verse number="7" style="v" sid="ROM 13:7" />Pay all the taxes that you’re on the hook to pay: tax to the taxman, tolls at the tollgate, customs at
+        the customhouse, reverence—fear even—to the one who instills fear, honor to the one who should be honored.<verse eid="ROM 13:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="ROM 13:8" />Don’t owe anyone anything except to love one another: he who loves another person has fulfilled law (i.e.,
+        has satisfied the mandates of any list of godly rules). <verse eid="ROM 13:8" />
+      <verse number="9" style="v" sid="ROM 13:9" />To this end, the commandments, “Thou shalt not commit adultery,” “Thou shalt not murder,” “Thou shalt
+        not steal,” “Thou shalt not covet,” and if there’s any other commandment I should’ve included, it’s summed
+        up by one statement, “Thou shalt love thy neighbor as thyself.” <verse eid="ROM 13:9" />
+      <verse number="10" style="v" sid="ROM 13:10" />The love that you show to the typical neighbor doesn’t do anything bad; so then, love is a fulfillment
+        of law.<verse eid="ROM 13:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="ROM 13:11" />I’ll add this to what I’ve said. You know what time it is, that it’s time for us to wake up, for now
+        our salvation is closer than when we first became believers. <verse eid="ROM 13:11" />
+      <verse number="12" style="v" sid="ROM 13:12" />The night wanes, daylight approaches, so put away the deeds of darkness; put on the armor of the light.<verse eid="ROM 13:12" />
+      <verse number="13" style="v" sid="ROM 13:13" />Like the way people carry themselves during the day, go about behaving appropriately and properly, not
+        with loud partying, drunkenness, or sleeping around and unrestrained indulgence in immoral, physical
+        pleasures, nor strife, discord, contention and the ensuing passions. <verse eid="ROM 13:13" />
+      <verse number="14" style="v" sid="ROM 13:14" />Instead, clothe yourselves in the Lord Jesus Christ and make no provision to indulge the desires of the
+        flesh (i.e., one’s carnal nature).<verse eid="ROM 13:14" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 13" />
+  <!--   **********   -->
+  <!--   Chapter 14   -->
+  <!--   **********   -->
+  <chapter number="14" style="c" sid="ROM 14" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 14:1" />Accept the person who’s struggling in the Faith the way he is without resolving the disagreements over
+        what he should or shouldn’t believe. <verse eid="ROM 14:1" />
+      <verse number="2" style="v" sid="ROM 14:2" />On the one hand a given person who believes that he’s permitted to eat any kind of food eats every kind
+        of food, but on the other hand a given person who’s struggling with his faith is a vegetarian. <verse eid="ROM 14:2" />
+      <verse number="3" style="v" sid="ROM 14:3" />Don’t let the one who believes he’s permitted to eat anything despise the one who doesn’t, and don’t
+        let the one who won’t eat everything judge the one who does; you see, God has accepted this person.<verse eid="ROM 14:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="ROM 14:4" />Who do you think you are, you who judges another man’s butler?—The butler will stand or fall (i.e., get
+        the nod of approval to continue doing what he’s doing or be reprimanded and forced to amend his behavior)
+        by his own boss. And stand he will, for the boss—the Lord—is able to pick him up off the ground and stand
+        him to his feet.<verse eid="ROM 14:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="ROM 14:5" />In fact, one person decides that one day stands out above the other days as being a special holy day;
+        another person decides that all days are the same and so none stands out above the others—let each person
+        work it all out in his own mind. <verse eid="ROM 14:5" />
+      <verse number="6" style="v" sid="ROM 14:6" />The one who thinks about what days should be considered holy thinks the day he has in mind should be
+        dedicated to the Lord; the one who’ll eat anything eats to the Lord; you see while eating these items
+        he’s giving thanksgiving to God; and the one who won’t eat everything abstains from eating certain foods
+        to the Lord, and while not eating these items he’s thanking God. <verse eid="ROM 14:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="ROM 14:7" />The fact of the matter is that not a one of us lives for himself, and not a one of us dies for himself.<verse eid="ROM 14:7" />
+      <verse number="8" style="v" sid="ROM 14:8" />If we so happen to live, we live in the Lord; and if we so happen to die, we die in the Lord. And so,
+        if we so happen to live and so happen to die, we are of the Lord (i.e., we are a part of, are derived
+        from, the Lord). <verse eid="ROM 14:8" />
+      <verse number="9" style="v" sid="ROM 14:9" />You see, Christ died and came back to life again to arrive at this point: in order to assume lordship
+        over both the dead and the living.<verse eid="ROM 14:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="ROM 14:10" />Who do you think you are, you who judges your fellow comrade? Or I can also say, who do you think you
+        are to despise your comrade? You see, we’ll all have to stand in the courtroom before God the judge,<verse eid="ROM 14:10" />
+      <verse number="11" style="v" sid="ROM 14:11" />seeing that it’s written:
+    </para>
+    <para style="pi" vid="ROM 14:11"></para>
+    <para style="pi" vid="ROM 14:11">“As surely as I live,” says the Lord, “I swear</para>
+    <para style="pi" vid="ROM 14:11">That everyone willingly or not</para>
+    <para style="pi" vid="ROM 14:11">Will be on their knees before Me paying homage,</para>
+    <para style="pi" vid="ROM 14:11">And that every tongue will confess out loud</para>
+    <para style="pi" vid="ROM 14:11">In homage to God.”<verse eid="ROM 14:11"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="12" style="v" sid="ROM 14:12" />So then each of you will deliver a written report to God concerning himself while he stands before Him
+        in judgment, and God will go over that report with him.<verse eid="ROM 14:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 14:13" />So no longer judge one another, but become all the more determined to not do something in particular
+        that your fellow comrade believes is sinful or that causes your fellow comrade to regress into sin— <verse eid="ROM 14:13" />
+      <verse number="14" style="v" sid="ROM 14:14" />I know for a fact and have reached the point where I’m persuaded in the Lord Jesus that nothing I’ve
+        written about here is forbidden to partake of, participant in, or consume in and of itself, except by
+        someone who reckons that it’s forbidden—to that person, it’s forbidden. <verse eid="ROM 14:14" />
+      <verse number="15" style="v" sid="ROM 14:15" />In fact, if your comrade is being hurt by you because of food, you’re no longer walking in love. Don’t
+        destroy he whom Christ died for with your food convictions.<verse eid="ROM 14:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="ROM 14:16" />So don’t let your good behavior be spoken of disparagingly. <verse eid="ROM 14:16" />
+      <verse number="17" style="v" sid="ROM 14:17" />The kingdom of God (i.e., God’s involvement with mankind) does not chiefly concern itself with food and
+        drink you see, but rather with righteousness, peace, and joy in the Holy Spirit. <verse eid="ROM 14:17" />
+      <verse number="18" style="v" sid="ROM 14:18" />In fact, the one who’s serving—slaving away—in Christ in doing this is well-pleasing to God and spoken
+        well of by the people around him. <verse eid="ROM 14:18" />
+      <verse number="19" style="v" sid="ROM 14:19" />So then pursue those things pertaining to peace and to each other’s edification. <verse eid="ROM 14:19" />
+      <verse number="20" style="v" sid="ROM 14:20" />Don’t dismantle the work of God because of an issue over food. Yes, all foods can be consumed, but’s
+        it’s wrong for the person who sees a particular food as an item of temptation and as something that is
+        sinful to eat. <verse eid="ROM 14:20" />
+      <verse number="21" style="v" sid="ROM 14:21" />The practice of not eating meat, drinking wine, or indulging in something which your fellow comrade believes
+        to be sinful is laudable. <verse eid="ROM 14:21" />
+      <verse number="22" style="v" sid="ROM 14:22" />Keep your personal beliefs between you and God. Blessed is he who’s not having to decide for himself
+        one way or the other in the moment what he’s OK with. <verse eid="ROM 14:22" />
+      <verse number="23" style="v" sid="ROM 14:23" />But he who’s weighing point and counterpoint deciding if he’d chance eating some food has already reached
+        the point where he’s condemned (i.e., objectively guilty of wrong-doing), since that’s not a product
+        of faith. Anything which is not a product of faith is a sin.<verse eid="ROM 14:23" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 14" />
+  <!--   **********   -->
+  <!--   Chapter 15   -->
+  <!--   **********   -->
+  <chapter number="15" style="c" sid="ROM 15" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 15:1" />We who are capable ought to bear the struggles of those who are incapable and not just please ourselves
+        (i.e., not just make ourselves happy). <verse eid="ROM 15:1" />
+      <verse number="2" style="v" sid="ROM 15:2" />Let each of us please the neighbor at hand for his betterment. <verse eid="ROM 15:2" />
+      <verse number="3" style="v" sid="ROM 15:3" />You see, Christ didn’t go around pleasing himself either, but led a life according to this verse instead:
+    </para>
+    <para style="pi" vid="ROM 15:3"></para>
+    <para style="pi" vid="ROM 15:3">The reproaches of those who reproach You fell upon me<verse eid="ROM 15:3"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="4" style="v" sid="ROM 15:4" />To this point, all the many things which were written in the Old Testament were put there ahead of time
+        for our instruction, so that we would have hope through the endurance (i.e., never-failing consistency
+        and persistency in spite of all things to the contrary—in this case, the consistency and persistency
+        of the Old Testament’s themes) and through the advice, encouragement, and guidance of the Scriptures.<verse eid="ROM 15:4" />
+      <verse number="5" style="v" sid="ROM 15:5" />May the God of endurance and of advice, encouragement, and guidance grant that you think along the same
+        lines while among one another in a way which is consistent with Christ Jesus, <verse eid="ROM 15:5" />
+      <verse number="6" style="v" sid="ROM 15:6" />so that speaking the same thing in unison you would glorify the God and Father of our Lord Jesus Christ.<verse eid="ROM 15:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="ROM 15:7" />Therefore take each other into your circles, just as, to God’s glory, Christ also took us in. <verse eid="ROM 15:7" />
+      <verse number="8" style="v" sid="ROM 15:8" />In fact, I’m saying that Christ has already become a minister of circumcision (i.e., a minister to those
+        following the Law of Moses) on behalf of the truth of God arriving at a place where he proved that the
+        promises of the patriarchs are reliable, <verse eid="ROM 15:8" />
+      <verse number="9" style="v" sid="ROM 15:9" />but became a servant to the Gentiles on behalf of mercies which glorified God, as it’s written:
+    </para>
+    <para style="pi" vid="ROM 15:9"></para>
+    <para style="pi" vid="ROM 15:9">On account of this, while among Gentiles</para>
+    <para style="pi" vid="ROM 15:9">I will confess praises to You out loud,</para>
+    <para style="pi" vid="ROM 15:9">And I’ll sing as one authorized by You to do so<verse eid="ROM 15:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="10" style="v" sid="ROM 15:10" />And another verse says:
+    </para>
+    <para style="pi" vid="ROM 15:10"></para>
+    <para style="pi" vid="ROM 15:10">Rejoice, Gentiles, with His folk-people<verse eid="ROM 15:10"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="11" style="v" sid="ROM 15:11" />And another:
+    </para>
+    <para style="pi" vid="ROM 15:11"></para>
+    <para style="pi" vid="ROM 15:11">All you Gentiles praise the Lord,</para>
+    <para style="pi" vid="ROM 15:11">And have all the folk-people praise Him<verse eid="ROM 15:11"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="12" style="v" sid="ROM 15:12" />And another verse from Isaiah says:
+    </para>
+    <para style="pi" vid="ROM 15:12"></para>
+    <para style="pi" vid="ROM 15:12">There’ll be a root planted from out of David’s father Jesse,</para>
+    <para style="pi" vid="ROM 15:12">And the offshoot produced from it will be ruling Gentiles.</para>
+    <para style="pi" vid="ROM 15:12">The Gentiles will set their hope upon it.<verse eid="ROM 15:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="13" style="v" sid="ROM 15:13" />Would that the God of hope fill you with every kind of joy and peace imaginable in the Faith to the point
+        of you overflowing in the hope—in the power—of the Holy Spirit.<verse eid="ROM 15:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="ROM 15:14" />Concerning you, I’ve been convinced, my dear fellow comrades—even I personally have been—that you—yes,
+        you—are full of goodness, having reached a point where you’re filled with knowledge of all sorts and
+        are able to admonish one another too. <verse eid="ROM 15:14" />
+      <verse number="15" style="v" sid="ROM 15:15" />But occasionally I didn’t hold back any punches when I wrote to you, as I would remind you through the
+        God-given grace that was given to me <verse eid="ROM 15:15" />
+      <verse number="16" style="v" sid="ROM 15:16" />for me to be a minister of Christ Jesus to the Gentiles, treating my ministry of the good news, the Gospel,
+        of God as a holy, priestly duty, in order that the sacrificial offering so to speak of the Gentiles would
+        become something acceptable, being made holy by the Holy Spirit.<verse eid="ROM 15:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 15:17" />I have something I’m excited to tell you about, something that has to do with the things of God in Christ
+        Jesus. <verse eid="ROM 15:17" />
+      <verse number="18" style="v" sid="ROM 15:18" />You see, I dare not talk about something which Christ didn’t accomplish through me towards the goal of
+        the Gentile’s obedience in word and deed, <verse eid="ROM 15:18" />
+      <verse number="19" style="v" sid="ROM 15:19" />accomplished by the supernatural power of the miraculous, that is by the supernatural power of the Spirit
+        of God, so much so that the fulfillment of the spreading of the good news of Christ took me from Jerusalem
+        and its surrounding area all the way to Illyricum, <verse eid="ROM 15:19" />
+      <verse number="20" style="v" sid="ROM 15:20" />but took me in such a way as to travel from Jerusalem to Illyricum with the aspiration of evangelizing
+        in places where nobody knows for certain what Christ is all about, in order that I not build a building
+        upon someone else’s foundation, <verse eid="ROM 15:20" />
+      <verse number="21" style="v" sid="ROM 15:21" />but instead that the evangelization would be according to what was written in the Old Testament,
+    </para>
+    <para style="pi" vid="ROM 15:21"></para>
+    <para style="pi" vid="ROM 15:21">The announcement about Him will be</para>
+    <para style="pi" vid="ROM 15:21">To those who haven’t seen Him,</para>
+    <para style="pi" vid="ROM 15:21">And they who haven’t heard will understand<verse eid="ROM 15:21"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="22" style="v" sid="ROM 15:22" />For reasons which are obvious, there’ve been so many obstacles in getting to go and visit you, <verse eid="ROM 15:22" />
+      <verse number="23" style="v" sid="ROM 15:23" />but as things stand now I no longer have any options left in these regions and have been having a desire
+        for a good many years now to go visit you, <verse eid="ROM 15:23" />
+      <verse number="24" style="v" sid="ROM 15:24" />as I might walk to Spain. Specifically, while walking through that part of the empire, I hope to see
+        you up close and have you send me on my way from there refreshed, resupplied, and ready for the journey,
+        if I could first of all ask you to take care of some of my provisions. <verse eid="ROM 15:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="ROM 15:25" />But I’m going to Jerusalem now in my serving the saints, our fellow-believers. <verse eid="ROM 15:25" />
+      <verse number="26" style="v" sid="ROM 15:26" />The fact of the matter is that Macedonia and Achaia have been enthusiastic about making a tangible contribution
+        to the saints in Jerusalem who are poor. <verse eid="ROM 15:26" />
+      <verse number="27" style="v" sid="ROM 15:27" />They have been enthusiastic, you see, and are indebted to them: for if the believers in Jerusalem made
+        tangible contributions to the Gentiles by means of their Holy Spirit-generated gifts, ministries, and
+        manifestations of the Holy Spirit, the Gentiles too ought to serve them in the form of offerings made
+        by means of their own physical abilities. <verse eid="ROM 15:27" />
+      <verse number="28" style="v" sid="ROM 15:28" />So now that I’m finished with this offering, signed, sealed, and delivered, I’ll depart and cross through
+        your area on my way to Spain. <verse eid="ROM 15:28" />
+      <verse number="29" style="v" sid="ROM 15:29" />I know for a fact that I’m headed your way, going in the fullness of the blessings of Christ.<verse eid="ROM 15:29" />
+    </para>
+    <para style="p">
+      <verse number="30" style="v" sid="ROM 15:30" />I beseech you, comrades, through our Lord Jesus Christ and through the love of the Spirit, for you to
+        come together and help me out in your prayers to God for me, <verse eid="ROM 15:30" />
+      <verse number="31" style="v" sid="ROM 15:31" />so that I’d be protected from and delivered out of the disobedience and incredulity pervasive among the
+        Judeans, and that my ministry inside of Jerusalem would be accepted by the saints there, <verse eid="ROM 15:31" />
+      <verse number="32" style="v" sid="ROM 15:32" />so that I could head your way with joy through the will of God to take some time off and relax when you
+        and I are together. <verse eid="ROM 15:32" />
+      <verse number="33" style="v" sid="ROM 15:33" />May the God of peace be with you all. So be it.<verse eid="ROM 15:33" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="ROM 15" />
+  <!--   **********   -->
+  <!--   Chapter 16   -->
+  <!--   **********   -->
+  <chapter number="16" style="c" sid="ROM 16" />
+    <para style="p">
+      <verse number="1" style="v" sid="ROM 16:1" />I endorse our sister-comrade Phoebe, who’s in charge of an area of ministry at the church in Cenchreae,<verse eid="ROM 16:1" />
+      <verse number="2" style="v" sid="ROM 16:2" />endorsing her so that you’ll make her a part of your inner circle in the Lord, as she’s earned respect
+        among her fellow-believers the saints. Extend a helping-hand to her in whatever ways she needs; she’s
+        been a great help to many people—including me—you see.<verse eid="ROM 16:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="ROM 16:3" />Say hello to Priscilla and Aquila for me, my coworkers in Christ Jesus, <verse eid="ROM 16:3" />
+      <verse number="4" style="v" sid="ROM 16:4" />the very people who stuck their necks out for me, putting their life on the line—It’s not just me who’s
+        thankful for them but all the Gentile churches are too. <verse eid="ROM 16:4" />
+      <verse number="5" style="v" sid="ROM 16:5" />Say hello to everyone who attends her house-church too.
+    </para>
+    <para style="p" vid="ROM 16:5">Say hello to my good friend Epenetus, who was the first one to receive Christ in the Roman province of
+        Asia. <verse eid="ROM 16:5"/>
+      <verse number="6" style="v" sid="ROM 16:6" />Say hello to Mary, who worked her tail off for you. <verse eid="ROM 16:6" />
+      <verse number="7" style="v" sid="ROM 16:7" />Say hello to my fellow-Israelis Andronicus and Junia, who did time in prison with me. They’re outstanding
+        missionaries, and they became believers in Christ before I did. <verse eid="ROM 16:7" />
+      <verse number="8" style="v" sid="ROM 16:8" />Say hello to Ampliatus, my dear friend in the Lord. <verse eid="ROM 16:8" />
+      <verse number="9" style="v" sid="ROM 16:9" />Say hello to Urbanus, our co-worker in Christ, and my dear friend Stachys. <verse eid="ROM 16:9" />
+      <verse number="10" style="v" sid="ROM 16:10" />Say hello to Apelles, who in Christ has withstood everything thrown at him. Say hello to Aristobulus’s
+        household (i.e., his family and his household servants). <verse eid="ROM 16:10" />
+      <verse number="11" style="v" sid="ROM 16:11" />Say hello to Herodion, my distant relative. Say hello to those in the Narcissus‘s household who are in
+        the Lord (i.e., who are Christians). <verse eid="ROM 16:11" />
+      <verse number="12" style="v" sid="ROM 16:12" />Say hello to Tryphena and Tryphosa, who work their tails off in the Lord. Say hello to my dear friend
+        Persis, another woman who’s a hard worker in the Lord. <verse eid="ROM 16:12" />
+      <verse number="13" style="v" sid="ROM 16:13" />Say hello to Rufus, a person chosen in the Lord (i.e., a person who’s special or unusual in his relationship
+        with the Lord), and to his mother—and who’s my mother too. <verse eid="ROM 16:13" />
+      <verse number="14" style="v" sid="ROM 16:14" />Say hello to Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the comrades who hang out with them. <verse eid="ROM 16:14" />
+      <verse number="15" style="v" sid="ROM 16:15" />Say hello to Philologus, Julia, Nereus and his sister, and Olympas and all the saints who hang out with
+        them. <verse eid="ROM 16:15" />
+      <verse number="16" style="v" sid="ROM 16:16" />Greet each other with a holy hug. All the churches of Christ send their greetings.<verse eid="ROM 16:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="ROM 16:17" />Comrades, I beg you to keep an eye out for those who cause dissensions and cause problems by introducing
+        specific items that oppose the instruction you’ve learned. Stay away from them; <verse eid="ROM 16:17" />
+      <verse number="18" style="v" sid="ROM 16:18" />you see, those sort of people don’t serve our Lord Christ, but serve their own appetite instead. By smooth,
+        believable talk and by their positivity, they deceive the hearts of the naive. <verse eid="ROM 16:18" />
+      <verse number="19" style="v" sid="ROM 16:19" />Your reputation for obedience has spread far and wide to where everyone has heard about it—I’m thrilled
+        about you—but I want you to be wise to where you do the good, and innocent to where you don’t do the
+        evil. <verse eid="ROM 16:19" />
+      <verse number="20" style="v" sid="ROM 16:20" />Soon now, the God of peace will crush Satan and subjugate him to you. The grace of our Lord Jesus be
+        with you.<verse eid="ROM 16:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="ROM 16:21" />My coworker Timothy sends his greetings to you, and so do my distant relatives Lucius, Jason, and Sosipater.<verse eid="ROM 16:21" />
+      <verse number="22" style="v" sid="ROM 16:22" />I, Tertius, who did the actual writing of this letter for Paul, personally extend my greetings in the
+        Lord. <verse eid="ROM 16:22" />
+      <verse number="23" style="v" sid="ROM 16:23" />Gaius, who’s outgoing and welcoming and who’s congenial to me and to the entire church, sends his greetings.
+        The city treasurer Erastus and our comrade Quartus send you their greetings too. <verse eid="ROM 16:23" />
+      <verse number="24" style="v" sid="ROM 16:24" /><verse eid="ROM 16:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="ROM 16:25" />Now to Him who is able to stand you up and keep you standing consistent with and in relation to the teachings
+        of my Gospel, my good-news message of Jesus Christ, consistent with the revelation of the mystery which
+        has been kept silent for ages and ages, <verse eid="ROM 16:25" />
+      <verse number="26" style="v" sid="ROM 16:26" />but has now been made manifest through the proclamation of the Gospel and through the prophetic Scriptures
+        by the command of the eternal God, with the goal of being made known to the Gentiles resulting in their
+        obedience, the consequence of their faith, <verse eid="ROM 16:26" />
+      <verse number="27" style="v" sid="ROM 16:27" />to the One Wise God be glory through Jesus Christ forever. And with that I conclude.<verse eid="ROM 16:27" />
+    </para>
+  <chapter eid="ROM 16" />
+</usx>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2JN" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">2 John</para>
+  <para style="toc1">The Epistle of 2 John</para>
+  <para style="toc2">2 John</para>
+  <para style="toc3">2 John</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 JOHN</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">In 2 John, John continues to speak in a similar way as 1 John, again confirming the supposition that
+    John spoke this way all the time. John’s writing style from his first is not a one-off. But as the epistle
+    is directed to a specific person and as the goal is to thwart false teaching, he breaks from his normal
+    style at times to address a pressing issue.</para>
+  <para style="ipi">But the fact that he had to address false teaching reminds us of how severe the challenge of heresy was
+    in the early church and how good we have it today in that respect.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2JN 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2JN 1:1" /><char style="it">From </char>the<char style="it"> </char>distinguished, respected gentleman<char style="sup">[a]</char>:
+    </para>
+    <para style="p" vid="2JN 1:1">To the Lady<char style="sup">[b]</char> chosen <char style="it">of God </char>and to her children, whom
+        I love in truth, and not just me but all who’ve come to know and understand the truth, <verse eid="2JN 1:1"/>
+      <verse number="2" style="v" sid="2JN 1:2" />because of the truth which dwells in us and with us forevermore:<verse eid="2JN 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2JN 1:3" />Joy, mercy, <char style="it">and </char>peace will be with us from <char style="it">the </char>Father-God
+        and from the Father’s son Jesus Christ, in truth and in love.<verse eid="2JN 1:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2JN 1:4" />I rejoiced tremendously because I discovered that your children are conducting their lives<char style="sup">[c]</char>
+        in truth, in accordance with a<char style="it"> life-guiding</char> commandment that we received from
+        the Father. <verse eid="2JN 1:4" />
+      <verse number="5" style="v" sid="2JN 1:5" />And at this time I’m asking you, Madame<char style="sup">[b]</char>—not like I’m writing a new, never-heard-of-before
+        commandment but rather one which we’ve had from day-one—that we love one another. <verse eid="2JN 1:5" />
+      <verse number="6" style="v" sid="2JN 1:6" />And love is this very thing, that we conduct our lives according to His commandment. This very thing
+        is the commandment. Just as you heard it <char style="it">explained to you</char> from day-one, so conduct
+        your lives accordingly, <verse eid="2JN 1:6" />
+      <verse number="7" style="v" sid="2JN 1:7" />because many deceivers have dispersed themselves throughout the world, deceivers who don’t confess Jesus
+        Christ as having come in <char style="it">actual</char> flesh <char style="it">and blood</char><char
+        style="sup">[d]</char>: this is the archetypical deceiver and antichrist. <verse eid="2JN 1:7" />
+      <verse number="8" style="v" sid="2JN 1:8" />Watch yourselves now, that you don’t ruin what we’ve accomplished but get paid every cent you’ve earned<char
+        style="sup">[e]</char> instead. <verse eid="2JN 1:8" />
+      <verse number="9" style="v" sid="2JN 1:9" />All who are venturing beyond <char style="it">accepted</char> <char style="it">teaching </char>and are
+        not remaining in the doctrine of Christ do not have God. The one who remains in the teaching: this person
+        has both the Father and the son. <verse eid="2JN 1:9" />
+      <verse number="10" style="v" sid="2JN 1:10" />If someone comes to you and doesn’t bring this doctrine <char style="it">of Christ with him</char>, don’t
+        take him into a home and don’t extend a greeting to him which makes him welcome. <verse eid="2JN 1:10" />
+      <verse number="11" style="v" sid="2JN 1:11" />You see, the one who expresses a greeting to him which makes him welcome aids, abets, and is a fellow-participant
+        in his deeds, which are evil.<verse eid="2JN 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2JN 1:12" />I have a lot to write to you about but decided not to on account of <char style="it">having to express
+        my thoughts with</char> pen and paper<char style="sup">[f]</char>, but rather hope to appear to you in
+        person and speak face-to-face, so that our joy would be filled to the fullest.<verse eid="2JN 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2JN 1:13" />The children <char style="it">spiritually-speaking </char>of your fellow-chosen-<char style="it">of-God</char>-woman<char
+        style="sup">[g]</char> greet you.<verse eid="2JN 1:13" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">distinguished, respected gentleman</char>…Lit: <char style="it">elder</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">Lady…Madame</char>…The Gk. word is the female form of <char style="it">lord</char>;
+        a woman who has authority</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">conducting their lives</char>…Lit: <char style="it">walking about</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">having come in actual flesh and blood</char>…Lit: <char style="it">coming in flesh</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">get paid every cent you’ve earned</char>…Lit: <char style="it">you receive a full wage</char>.
+        An expression.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">having</char> <char style="it">to express my thoughts with pen and paper</char>…Lit:
+        <char style="it">papyrus and ink</char>. An expression; guessing as to what it means exactly.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">fellow-chosen-of-God-woman</char>…Lit: <char style="it">chosen sister</char></char>
+    </note>
+  <chapter eid="2JN 1" />
+</usx>

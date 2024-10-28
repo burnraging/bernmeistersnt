@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="TIT" style="id">The Bernmeister's NT</book>
+  <para style="h">Titus</para>
+  <para style="toc1">The Epistle of Titus</para>
+  <para style="toc2">Titus</para>
+  <para style="toc3">Titus</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">TITUS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="TIT 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 1:1" />Paul, a menial servant of God but yet an apostle (i.e., a missionary) of Jesus Christ according to the
+        Faith of God’s chosen people and the recognition of the truth which is reflective of godliness <verse eid="TIT 1:1" />
+      <verse number="2" style="v" sid="TIT 1:2" />which rests upon a living hope of eternal life, which the God Who Won’t Lie promised before time immemorial—<verse eid="TIT 1:2" />
+      <verse number="3" style="v" sid="TIT 1:3" />But He manifested His word in individual periods of human history by means of preaching, preaching that
+        I was entrusted with according to the commandment of God our Savior:<verse eid="TIT 1:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="TIT 1:4" />To Titus, a real son according to the common Faith:
+    </para>
+    <para style="p" vid="TIT 1:4">Grace and peace from the Father God and Christ Jesus our savior.<verse eid="TIT 1:4"/>
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="TIT 1:5" />The reason I left you behind in Crete is so that you would tidy up the remaining items and would go from
+        city to city and appoint elders (i.e., church board members) like I told you to do. <verse eid="TIT 1:5" />
+      <verse number="6" style="v" sid="TIT 1:6" />If a given candidate is without moral flaws, the husband of one wife (i.e., not divorced and remarried),
+        the children he has are trustworthy, not ones who can be fairly accused of having a reckless disregard
+        for their own self-preservation or of being rebellious, then he’s met the minimum qualifications to be
+        an elder.<verse eid="TIT 1:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="TIT 1:7" />The fact is, a bishop (i.e., a head pastor), as the steward of God’s house, must be without moral flaws;
+        not stubborn or self-willed; not hot-tempered; not a heavy drinker; not pugnacious or a bully; not always
+        trying to make a fast buck through shady business practices; <verse eid="TIT 1:7" />
+      <verse number="8" style="v" sid="TIT 1:8" />but instead hospitable, able to reach out to others, one who likes and can work with people who are different
+        than himself; a lover of all things good; sensible, serious, and level-headed; just and fair; holy; self-controlled,
+        disciplined, and having one’s impulses under control; <verse eid="TIT 1:8" />
+      <verse number="9" style="v" sid="TIT 1:9" />clinging to the tried-and-true message reflective of the doctrine we teach, so that he’d be capable of
+        both exhorting and encouraging others in the Sound Doctrine and correcting those who oppose it.<verse eid="TIT 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="TIT 1:10" />The fact of the matter is that there are those who refuse to submit to authority, those who say nothing
+        when they speak and who are deceivers, especially those who came out of the circumcision (i.e., those
+        whose background was that they were following the Law of Moses), <verse eid="TIT 1:10" />
+      <verse number="11" style="v" sid="TIT 1:11" />who must be silenced, people in particular who subvert entire households, teaching things they mustn’t
+        for morally unacceptable gain. <verse eid="TIT 1:11" />
+      <verse number="12" style="v" sid="TIT 1:12" />One of their own prophets said, “Cretans are always liars, vicious brutes, and fat blimps.” <verse eid="TIT 1:12" />
+      <verse number="13" style="v" sid="TIT 1:13" />I’m quoting a reliable source. You must severely correct them for this reason: so that they’ll be healthy
+        in the Faith; <verse eid="TIT 1:13" />
+      <verse number="14" style="v" sid="TIT 1:14" />so they won’t pay any attention to Jewish fables and to the commandments of people who are turning them
+        away from the truth.<verse eid="TIT 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 1:15" />All things are clean (i.e., according to the Law of Moses, eligible to be touched, handled, and used;
+        absent any defilement) to those who are clean; but to those who have been defiled (i.e., who’ve become
+        tainted and are no longer clean) and who refuse to believe, nothing is pure—no, not a chance—both their
+        minds and their consciences have come to be defiled. <verse eid="TIT 1:15" />
+      <verse number="16" style="v" sid="TIT 1:16" />They profess to know God, but their profession is repudiated by their actions, as these people are detestable,
+        disobedient, and failures when comes to any good deed.<verse eid="TIT 1:16" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="TIT 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="TIT 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 2:1" />Now talk in a way that makes sound doctrine more pronounced and more palatable.<verse eid="TIT 2:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="TIT 2:2" />I expect the older men to be self-controlled and to exercise moderation in vices such as drinking; to
+        be honorable and respectable; to be sensible, serious, and level-headed; healthy in faith, love, perseverance.<verse eid="TIT 2:2" />
+      <verse number="3" style="v" sid="TIT 2:3" />Likewise, older women should behave in a reverent manner; not be slanderers; not have reached the point
+        where they have a compulsion to drink a lot; be ones who teach others to strive for excellence, <verse eid="TIT 2:3" />
+      <verse number="4" style="v" sid="TIT 2:4" />so that they could train the young women to maintain a discipline of sensibility and self-control which
+        causes them to have a strong friendship with their husbands and enjoy their companionship, and train
+        them to do the same for their children; <verse eid="TIT 2:4" />
+      <verse number="5" style="v" sid="TIT 2:5" />to be sensible, serious, and level-headed; to be chaste; to be good housekeepers and homemakers, submitting
+        to their husbands, so that the word of God not be spoken badly of.<verse eid="TIT 2:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="TIT 2:6" />Likewise, I exhort and encourage the young men to be sensible, serious, and level-headed <verse eid="TIT 2:6" />
+      <verse number="7" style="v" sid="TIT 2:7" />in every aspect of their life, putting yourself out there as an example of a lifestyle characterized
+        by fine deeds; to be incorruptible in their adherence to the teaching of Christianity; to be dignified;<verse eid="TIT 2:7" />
+      <verse number="8" style="v" sid="TIT 2:8" />to have wholesome speech which is unassailable to accusation, so the opposition camp would be humiliated
+        by not having anything bad to say about them.<verse eid="TIT 2:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="TIT 2:9" />I exhort and encourage slaves to submit to their masters in all respects; to be pleasing and to not give
+        their masters any backtalk; <verse eid="TIT 2:9" />
+      <verse number="10" style="v" sid="TIT 2:10" />to not go around stealing things, but to instead demonstrate that they’re good people and can be trusted
+        in every regard, so that slaves acting this way would in every regard be a feather in the cap (so to
+        speak) of the teaching of God our Savior.<verse eid="TIT 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="TIT 2:11" />In fact, the grace of God, which is salvation, shined to all people, <verse eid="TIT 2:11" />
+      <verse number="12" style="v" sid="TIT 2:12" />training us to deny the ungodliness and the strong, worldly desires, so we would live in the present
+        age sensibly, with self-control, justly, and godly, <verse eid="TIT 2:12" />
+      <verse number="13" style="v" sid="TIT 2:13" />awaiting the blessed hope and the appearance of the glory of our Great God and of our savior Christ Jesus,<verse eid="TIT 2:13" />
+      <verse number="14" style="v" sid="TIT 2:14" />who gave himself for us so that he would redeem us (i.e., recover for us what we once had) from any sort
+        of wickedness and lawlessness (i.e., a refusal to be restrained by the rules of God or of man) and clean
+        and purify for himself a special people, ones who have a zeal for doing good works.<verse eid="TIT 2:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 2:15" />Communicate these things and encourage, exhort, and correct while staying in full control of the situation:
+        don’t let anyone look down on you.<verse eid="TIT 2:15" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="TIT 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="TIT 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 3:1" />Keep reminding them to submit to and comply with rulers who have legitimate authority over you and to
+        be prepared to do any sort of good deed <verse eid="TIT 3:1" />
+      <verse number="2" style="v" sid="TIT 3:2" />without saying bad things about what you’re having to do, not being quarrelsome when you’re doing it,
+        not being inflexible about every little detail—in every way possible demonstrating a gentleness towards
+        people borne out of self-restraint.<verse eid="TIT 3:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="TIT 3:3" />The fact is, we were mindless back then, disobedient, deceived, enslaved to a variety of strong desires
+        (including sexual desires) and pleasures, spending our lives in malice, in envy, detestable people hating
+        each other. <verse eid="TIT 3:3" />
+      <verse number="4" style="v" sid="TIT 3:4" />But when the goodness and benevolence of God our Savior shined on us, <verse eid="TIT 3:4" />
+      <verse number="5" style="v" sid="TIT 3:5" />it did not originate out of things we did in a state of righteousness, but He saved us instead according
+        to His mercy on account of a washing of the new birth and a renewal of the Holy Spirit, <verse eid="TIT 3:5" />
+      <verse number="6" style="v" sid="TIT 3:6" />which He poured out on us copiously through Jesus Christ our savior, <verse eid="TIT 3:6" />
+      <verse number="7" style="v" sid="TIT 3:7" />so that, having been made righteous in that grace, we heirs would be born to a hope of eternal life (i.e.,
+        that special fullness of life).<verse eid="TIT 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="TIT 3:8" />You can count on this statement being true: I’ve thought about these things, and what I want you to do
+        is to emphasize them, so that those who have come to believe in God would be intent on prioritizing good
+        works. These things I’m having you do are good and benefit the people. <verse eid="TIT 3:8" />
+      <verse number="9" style="v" sid="TIT 3:9" />But do your best to avoid stupid debates, obsessions with genealogies, and conflicts and fights over
+        law (i.e., from a conceptual perspective, over a codified list of God’s commandments, in particular the
+        Law of Moses), for they are useless and pointless. <verse eid="TIT 3:9" />
+      <verse number="10" style="v" sid="TIT 3:10" />Shun a heretic (i.e., a person who breaks people off from the accepted doctrine or school of thought
+        and forms a sect out of them) after giving him two clear warnings, <verse eid="TIT 3:10" />
+      <verse number="11" style="v" sid="TIT 3:11" />knowing from firsthand experience that that kind of person is twisted, has no morals, and is sinning,
+        being condemned for what’s going on inside of himself.<verse eid="TIT 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="TIT 3:12" />When I do send Artemis to you or maybe Tychicus, as fast as you can come visit me in Nicopolis, since
+        I’ve decided to spend the winter there. <verse eid="TIT 3:12" />
+      <verse number="13" style="v" sid="TIT 3:13" />Send Zenas the lawyer and Apollos on their journey as soon as you can, and check with them first so that
+        they don’t leave without taking something they need.<verse eid="TIT 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="TIT 3:14" />But let our own people also learn to emphasize good works that have the goal of meeting the needs of
+        others, so that they’re not unproductive with their time and resources.<verse eid="TIT 3:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 3:15" />Everyone with me sends their greetings. Greet those who love us in faith.
+    </para>
+    <para style="p" vid="TIT 3:15">The grace of God be with you all.<verse eid="TIT 3:15"/>
+    </para>
+  <chapter eid="TIT 3" />
+</usx>

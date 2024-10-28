@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2CO" style="id">The Bernmeister's NT</book>
+  <para style="h">2 Corinthians</para>
+  <para style="toc1">The Epistle of 2 Corinthians</para>
+  <para style="toc2">2 Corinthians</para>
+  <para style="toc3">2 Cor.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 CORINTHIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2CO 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 1:1" />Paul, an apostle of Christ Jesus by God’s will, and his fellow comrade Timothy—
+    </para>
+    <para style="p" vid="2CO 1:1">To the church of God that is in Corinth, joined by the saints (i.e., God’s people) who are all over Achaia:<verse eid="2CO 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 1:2" />Grace and peace to you from God our Father and the Lord Jesus Christ.<verse eid="2CO 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2CO 1:3" />Give praise to the God and Father of our Lord Jesus Christ, the Originator of all sorts of compassion
+        and of advice, encouragement, and consolation, <verse eid="2CO 1:3" />
+      <verse number="4" style="v" sid="2CO 1:4" />which consoles, etc. us in all of our distresses, resulting in our ability to console those in all kinds
+        of distresses with the same consolation with which we’re being consoled by God. <verse eid="2CO 1:4" />
+      <verse number="5" style="v" sid="2CO 1:5" />Just as Christ’s sufferings proliferate to us, in the same way through Christ the consolation we receive
+        proliferates as well. <verse eid="2CO 1:5" />
+      <verse number="6" style="v" sid="2CO 1:6" />Whether we’re being pressured, it’s for the sake of your consolation and salvation (i.e., your being
+        rescued from spiritual, moral, mental, and physical calamity); whether we’re being consoled, it’s for
+        the sake of your consolation, a consolation which is accomplished by enduring the same sufferings which
+        we too suffer. <verse eid="2CO 1:6" />
+      <verse number="7" style="v" sid="2CO 1:7" />And the hope which we have for you—our hope is firm, fixed in the observation that as you are joint participants
+        of the sufferings which we suffer, in the same way you are joint participants of the consolation as well.<verse eid="2CO 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 1:8" />In this regard, we don’t want you to be left in the dark, comrades, about the extreme difficulties we
+        experienced in the Roman province of Asia, that we were overloaded and overwhelmed to the point that
+        we lost the will to live. <verse eid="2CO 1:8" />
+      <verse number="9" style="v" sid="2CO 1:9" />Anyways, deep inside ourselves we concluded that we were doomed to die, so we reached the point where
+        we couldn’t be convinced that our own abilities would save us, but were convinced that the God who raises
+        the dead would do so instead: <verse eid="2CO 1:9" />
+      <verse number="10" style="v" sid="2CO 1:10" />He Who rescued us from a narrow brush with death—and rescues us continuously—we set our hope in Him that
+        He’ll rescue us yet again, <verse eid="2CO 1:10" />
+      <verse number="11" style="v" sid="2CO 1:11" />while you too were joining in lending a helping hand by the prayers that you prayed for us, so that the
+        outcome of the stances, disposition, and full attention of many people is that the mercy and kindness
+        shown to us would be thanked by many on our behalf.<verse eid="2CO 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 1:12" />You see, our proud talk and bold claims are on par with the solemn declaration of our conscience, since
+        the lifestyle we led in the world (i.e., among those who aren’t believers) was by God’s simplicity and
+        sincerity, not by the wisdom of flesh (i.e., by the cunning shrewdness of our own ability apart from
+        God tainted by the carnal nature) but by God’s grace instead—and that lifestyle was all the more so with
+        you. <verse eid="2CO 1:12" />
+      <verse number="13" style="v" sid="2CO 1:13" />In fact we’re writing to you nothing other than what you’re reading to the congregation or what you’re
+        coming to understand, but I hope that you continue to gain an exact understanding until it’s all said
+        and done, <verse eid="2CO 1:13" />
+      <verse number="14" style="v" sid="2CO 1:14" />just as you also gained an understanding of us, at least partially, that we are the reason for your proud
+        talk and bold claims just as you too will be ours in the Day of the Lord Jesus (i.e., when he’s revealed
+        in the fullness of his might).<verse eid="2CO 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2CO 1:15" />We formed a long-term desire for this, for what we’ve reached the point where we’re convinced is the
+        thing that we want to do more than anything else, namely to go visit you, so that you would get a second
+        grace (i.e., a second impartation of our face-to-face ministry), <verse eid="2CO 1:15" />
+      <verse number="16" style="v" sid="2CO 1:16" />and to continue on our journey through your city to Macedonia, to resume the journey going from Macedonia
+        back to your city again, and to be sent forth by you (i.e., depart fully rested, provisioned, and in
+        good spirits—all on account of the your generosity and hospitality) to the Jews in Judea.<verse eid="2CO 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 1:17" />So then, was this plan treated with a nonchalant thought-process? Or what I’m planning, I’m planning
+        according to flesh (i.e., from my own self apart from God, according to my own needs, and somewhat tainted
+        to feed my carnal appetite), so that it would be “the yes-yes and the no-no” with me (i.e., I’d vacillate
+        or renege on what I planned or promised to do)? <verse eid="2CO 1:17" />
+      <verse number="18" style="v" sid="2CO 1:18" />But—by God—trust me that the statements we made to you aren’t “the yes-yes and the no-no.” <verse eid="2CO 1:18" />
+      <verse number="19" style="v" sid="2CO 1:19" />To this point, God’s son Jesus Christ, who through us has been preached among you—through me, Siloam,
+        and Timothy—hasn’t wound up being “the yes-yes and the no-no,” but rather has wound up being “yes” in
+        him. <verse eid="2CO 1:19" />
+      <verse number="20" style="v" sid="2CO 1:20" />For as many promises as there are from God, in him they are all “yes” (i.e., no vacillating or reneging
+        on them), and in light of this through him is also the Amen (i.e., the acknowledgement of the finality
+        of a matter; the familiar profession to God of “Let it be so”) to God with glory through us. <verse eid="2CO 1:20" />
+      <verse number="21" style="v" sid="2CO 1:21" />God’s establishing us together with you in Christ and anointed us. <verse eid="2CO 1:21" />
+      <verse number="22" style="v" sid="2CO 1:22" />He also stamped us with His seal of approval and gave us the down payment of the Spirit in our hearts.<verse eid="2CO 1:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="2CO 1:23" />I swear to God—cross my heart and hope to die—that it was to spare you that I no longer went to Corinth—<verse eid="2CO 1:23" />
+      <verse number="24" style="v" sid="2CO 1:24" />not that we act in a domineering manner towards you of the Faith—no—we work together as helpers of your
+        grace: for you have stood by faith.<verse eid="2CO 1:24" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2CO 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 2:1" />Getting to the point, I made up my mind that I wouldn’t visit you again while laden with the pains of
+        sorrow. <verse eid="2CO 2:1" />
+      <verse number="2" style="v" sid="2CO 2:2" />In fact, if I’m making you feel sorry, who in particular will cheer me up apart from the one I made feel
+        sorry? <verse eid="2CO 2:2" />
+      <verse number="3" style="v" sid="2CO 2:3" />The very thing I wrote, I wrote so that I wouldn’t come for a visit and wind up being made sorry by the
+        ones I ought to rejoice over, as my nearness to you all has convinced me that my joy is derived from
+        you all. <verse eid="2CO 2:3" />
+      <verse number="4" style="v" sid="2CO 2:4" />In fact, what I wrote to you through many tears came out of a great deal of distress and heart-felt anguish,
+        not so that it would cause you sorrow, but so that you’d understand the abundant love which I have for
+        you.<verse eid="2CO 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 2:5" />If a certain person has caused sorrow, he hasn’t caused me sorrow (actually no, he has partially), so
+        I won’t dump any more of this on you all. <verse eid="2CO 2:5" />
+      <verse number="6" style="v" sid="2CO 2:6" />The very punishment inflicted by the many is enough for such a person, <verse eid="2CO 2:6" />
+      <verse number="7" style="v" sid="2CO 2:7" />so that on the flip-side, you should be all the more kind and merciful to him and comfort and encourage
+        him, so that such a person not somehow be deluged with even more sorrow. <verse eid="2CO 2:7" />
+      <verse number="8" style="v" sid="2CO 2:8" />In light of this I advise you to broadcast love to him. <verse eid="2CO 2:8" />
+      <verse number="9" style="v" sid="2CO 2:9" />In fact, another reason I wrote is so that I could discern if you live up to my standards, that is if
+        you obey everything you’re told. <verse eid="2CO 2:9" />
+      <verse number="10" style="v" sid="2CO 2:10" />Now if you forgive somebody of something, so do I; you see, if in addition to you I forgave somebody
+        of something, what I’ve forgiven (assuming there’s something I’m forgiving), I did so through you under
+        the scrutiny of Christ, <verse eid="2CO 2:10" />
+      <verse number="11" style="v" sid="2CO 2:11" />so that we won’t be swindled by Satan: we are not ignorant of his intentions, you see.<verse eid="2CO 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 2:12" />Now that I’ve arrived at Troas for the purpose of spreading the Gospel of Christ (i.e., the good news
+        about Christ), a door has been opened to me in the Lord (i.e., in regard to the things of the Lord, a
+        tremendous opportunity has presented itself to me), <verse eid="2CO 2:12" />
+      <verse number="13" style="v" sid="2CO 2:13" />I was uncomfortable in my spirit not finding my fellow-comrade Titus, so instead I excused myself, said
+        goodbye to them, and left for Macedonia.<verse eid="2CO 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 2:14" />But thank-you God, Who always makes us roadies on Christ’s victory tour, and Who’s propagating the fragrance
+        of his knowledge through us in all regions, <verse eid="2CO 2:14" />
+      <verse number="15" style="v" sid="2CO 2:15" />since in God we are a pleasant aroma (like the incense they burned in the Old Testament, or the pleasing
+        smell of a burnt offering) of Christ among those being saved (i.e., those being rescued from calamity)
+        and among those perishing; <verse eid="2CO 2:15" />
+      <verse number="16" style="v" sid="2CO 2:16" />we who on the one hand are a whiff of going from death to even more death, and on the other hand are
+        a whiff of going from life to even more life—and that’s not good enough for some people? <verse eid="2CO 2:16" />
+      <verse number="17" style="v" sid="2CO 2:17" />You see, we’re not like so many other preachers who hustle the word of God—no—we preach the Gospel like
+        it’s coming from someone who’s sincere through-and-through—no—we speak the word of God in Christ like
+        it’s coming directly from God while we stand before God.<verse eid="2CO 2:17" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2CO 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 3:1" />Are my comrades and I starting over again in doing self-promotion to bolster your opinion of us? Put
+        another way, we’re not in need of letters of recommendation to be sent to you or to be received from
+        you, like some people do, are we? <verse eid="2CO 3:1" />
+      <verse number="2" style="v" sid="2CO 3:2" />You are our letter of recommendation, written in our hearts, understood and read by all people. <verse eid="2CO 3:2" />
+      <verse number="3" style="v" sid="2CO 3:3" />It’s plain for all to see that you are a letter of Christ transcribed and delivered by us; not written
+        with ink, but with the Spirit of the Living God; not written in stone but written in a flesh-heart.<verse eid="2CO 3:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2CO 3:4" />We’re convinced that we have such a thing through Christ with God— <verse eid="2CO 3:4" />
+      <verse number="5" style="v" sid="2CO 3:5" />Not that we’re up-to-par in and of ourselves to where we figure that something in particular which is
+        good was self-generated, but rather that our adequacy comes out of God, <verse eid="2CO 3:5" />
+      <verse number="6" style="v" sid="2CO 3:6" />Who also made us up-to-par ministers of a new covenant, not of the letter (i.e., the literal, exacting
+        listing of rules, compliance with those rules, and consequences for breaking them) but of the Spirit:
+        for the letter kills, but the Spirit causes things to spring into life.<verse eid="2CO 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 3:7" />Now if the administering of death, which was packaged in letters etched in stone, occurred in glory to
+        the point that it wasn’t possible for the run-of-the-mill Israelite to gaze at Moses’s face because of
+        the glory of his face—a glory that was deteriorating no less— <verse eid="2CO 3:7" />
+      <verse number="8" style="v" sid="2CO 3:8" />how much more will the administering of the Spirit be accompanied by glory? <verse eid="2CO 3:8" />
+      <verse number="9" style="v" sid="2CO 3:9" />Furthermore, if there was glory in the administering of condemnation, how much more does the administering
+        of righteousness exceed it in glory? <verse eid="2CO 3:9" />
+      <verse number="10" style="v" sid="2CO 3:10" />And furthermore, that which has been made glorious hasn’t been made glorious relative to the glory which
+        surpasses it. <verse eid="2CO 3:10" />
+      <verse number="11" style="v" sid="2CO 3:11" />In fact, if the glory which has been nullified has been nullified by glory, the glory which remains does
+        so all the more in glory.<verse eid="2CO 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 3:12" />So having such hope, in our outspokenness and boldness we conceal nothing, <verse eid="2CO 3:12" />
+      <verse number="13" style="v" sid="2CO 3:13" />unlike Moses who placed a veil over his face so that the run-of-the-mill Israelites couldn’t gaze at
+        the vestige of the glory that was deteriorating— <verse eid="2CO 3:13" />
+      <verse number="14" style="v" sid="2CO 3:14" />not a chance—their minds were dead-set against it. In fact to this very day the same veil remains uncovered
+        at the reading of the Old Testament, since it’s done away with in Christ. <verse eid="2CO 3:14" />
+      <verse number="15" style="v" sid="2CO 3:15" />No—to this day whenever the Old Testament happens to be read aloud a veil lies over their heart, <verse eid="2CO 3:15" />
+      <verse number="16" style="v" sid="2CO 3:16" />but, if they were to turn to the Lord, the moment they do so, the veil gets taken off.<verse eid="2CO 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 3:17" />Now the Lord is in lockstep with the Spirit, and there’s freedom where the Spirit of the Lord is. <verse eid="2CO 3:17" />
+      <verse number="18" style="v" sid="2CO 3:18" />While gazing at the glory of the Lord with an uncovered face as though we’re looking intently in a mirror,
+        we all are transformed into the same image going from one gaze of glory to another gaze of even more
+        glory, just as we go from one gaze of the Spirit of the Lord to another gaze of even more of the Spirit.<verse eid="2CO 3:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="2CO 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 4:1" />On account of this, that is of having this administering of righteousness, to the degree that we’ve been
+        shown mercy, we don’t lose heart— <verse eid="2CO 4:1" />
+      <verse number="2" style="v" sid="2CO 4:2" />on the contrary, we quit for good doing those things that we’re ashamed of that we keep hidden, not going
+        here and there playing games with people, nor putting a spin on the word of God, rather by means of the
+        propagation of the truth we leave a good impression deep inside of everyone else while under God’s scrutiny.<verse eid="2CO 4:2" />
+      <verse number="3" style="v" sid="2CO 4:3" />But even if our Gospel, our Good News Message, is veiled, it’s veiled among those who are perishing,<verse eid="2CO 4:3" />
+      <verse number="4" style="v" sid="2CO 4:4" />among whom the god of this age (i.e., this current era of mankind’s history) blinded the minds of those
+        who refuse to believe to where they don’t see the light of the Gospel of the glory of Christ, who is
+        a spitting image of God. <verse eid="2CO 4:4" />
+      <verse number="5" style="v" sid="2CO 4:5" />You see, we don’t preach that we ourselves are your superiors but rather that Jesus Christ is Lord, and
+        that we ourselves are your humble servants on account of Jesus, <verse eid="2CO 4:5" />
+      <verse number="6" style="v" sid="2CO 4:6" />since the God Who said, “Light shall shine out of darkness,” is the One Who shined in our hearts with
+        the light of the knowledge and understanding of the glory of God by means of the direct attention of
+        Jesus Christ.<verse eid="2CO 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 4:7" />We have this treasure in clay storage vessels (i.e., physical bodies) so that the over-and-above power
+        would be of God and not from ourselves. <verse eid="2CO 4:7" />
+      <verse number="8" style="v" sid="2CO 4:8" />We’re pressured from every direction and in trouble, but no—we’re not at the end of our rope; confused
+        as to what to do—but not totally confused; <verse eid="2CO 4:8" />
+      <verse number="9" style="v" sid="2CO 4:9" />persecuted but not abandoned; knocked off our feet but not destroyed; <verse eid="2CO 4:9" />
+      <verse number="10" style="v" sid="2CO 4:10" />always carrying around in our body the death of Jesus, so that the life of Jesus would also be manifested
+        in our body. <verse eid="2CO 4:10" />
+      <verse number="11" style="v" sid="2CO 4:11" />You see, we the living are forever being forced into a position where death has control over us because
+        of Jesus, so that the life of Jesus would also be manifested in our mortal body.<verse eid="2CO 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 4:12" />So then, the death I just described is at work in us, but the life I likewise described is at work in
+        you. <verse eid="2CO 4:12" />
+      <verse number="13" style="v" sid="2CO 4:13" />Having a spirit of (i.e., a prevailing attitude of) faith that’s the same as what’s written in the Old
+        Testament, “I believed, and in light of it all I spoke,” we too believe, and in light of it all we too
+        speak, <verse eid="2CO 4:13" />
+      <verse number="14" style="v" sid="2CO 4:14" />knowing for a fact that He who raised the Lord Jesus will also raise us together with Jesus and together
+        with him cast us in a favorable light in God’s estimation. <verse eid="2CO 4:14" />
+      <verse number="15" style="v" sid="2CO 4:15" />You see, all these things are for your sake, so that the grace bestowed on us, having proliferated through
+        the thanksgiving of the many, would abound to God’s glory.<verse eid="2CO 4:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 4:16" />In light of this we’re not losing heart; on the contrary, even though our outer-person is deteriorating,
+        yet our inner-person is being renewed day-in, day-out. <verse eid="2CO 4:16" />
+      <verse number="17" style="v" sid="2CO 4:17" />To this point, the light weight of our affliction is incomparable to the heavy weight of glory at work
+        in us, <verse eid="2CO 4:17" />
+      <verse number="18" style="v" sid="2CO 4:18" />while we’re not looking at the things which are seen but the things that are not seen: for the things
+        which are seen are transient, but the things which are not seen are eternal.<verse eid="2CO 4:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="2CO 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 5:1" />In fact, we know for certain that if our Earth-suit were to be demolished, we have a building from God—an
+        eternal building, one that’s not of human construction—way up in the sky. <verse eid="2CO 5:1" />
+      <verse number="2" style="v" sid="2CO 5:2" />In connection to this we do groan, longing to put on (i.e., as though putting on a piece of clothing)
+        our home—our cozy cottage—which comes from heaven. <verse eid="2CO 5:2" />
+      <verse number="3" style="v" sid="2CO 5:3" />If we really have put on our eternal building, we won’t be caught naked. <verse eid="2CO 5:3" />
+      <verse number="4" style="v" sid="2CO 5:4" />Furthermore, we whose present form of existence is with the Earth-suit do groan, being encumbered, the
+        crux of which is that we don’t want to be stripped of our garments but to be clothed instead, so that
+        the death we carry about would be thoroughly dowsed by the life. <verse eid="2CO 5:4" />
+      <verse number="5" style="v" sid="2CO 5:5" />Now He Who did the necessary work in us to make this very thing happen to us is God, the One Who gave
+        us the down payment of the Spirit.<verse eid="2CO 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2CO 5:6" />So keep your chin up—always—and know for certain that making yourselves at home in the body will leave
+        you far from home with the Lord <verse eid="2CO 5:6" />
+      <verse number="7" style="v" sid="2CO 5:7" />(we go about our lives by faith and not by sight, you see), <verse eid="2CO 5:7" />
+      <verse number="8" style="v" sid="2CO 5:8" />but with our chins held high and thinking positively, we’d rather be far from home in regard to the body
+        but make ourselves at home with the Lord. <verse eid="2CO 5:8" />
+      <verse number="9" style="v" sid="2CO 5:9" />And so whether at home or away from home, we aspire to be pleasing to him: <verse eid="2CO 5:9" />
+      <verse number="10" style="v" sid="2CO 5:10" />the fact of the matter is that every one of us must appear before the Judge, Christ the Judge, so that
+        each individual’s deeds, deeds which were committed by the body, whether they were good or bad—all of
+        them—would be brought before the Judge to be judged by him.<verse eid="2CO 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 5:11" />Now that we’ve acquired a firm understanding of the fear of the Lord, we convince other people to do
+        the same. We’ve been made manifest to God (i.e., we’ve presented ourselves before God), and I hope to
+        reach the point where we’ve been made manifest to your consciences as well— <verse eid="2CO 5:11" />
+      <verse number="12" style="v" sid="2CO 5:12" />Not that we’re trying to promote ourselves again, but are giving you the chance to talk proudly about
+        us instead, so that you would have something good to say to those who take pride in and talk big about
+        peoples’ behavior on the surface, or the masks people present to others, and not what’s in the heart.<verse eid="2CO 5:12" />
+      <verse number="13" style="v" sid="2CO 5:13" />The fact of the matter is that if it’s the case that I’ve lost my mind, I’ve lost my mind for God; if
+        it’s the case that I’m sane, I’m sane for you. <verse eid="2CO 5:13" />
+      <verse number="14" style="v" sid="2CO 5:14" />The love of Christ has a tight grip on us, you see, and has determined that this is the case: that one
+        person died in everyone’s place (therefore everyone died), <verse eid="2CO 5:14" />
+      <verse number="15" style="v" sid="2CO 5:15" />and he died in everyone’s place so that the living would no longer live for themselves but that they
+        would instead live for him who died and was raised in their place.<verse eid="2CO 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 5:16" />An outcome of all this is that, from now on, there’s nobody we form a perception of according to the
+        flesh (i.e., according to a person’s physical body and outward appearance; his limited ability in and
+        of himself), even if we had come to know and understand Christ according to the flesh—but, no, we no
+        longer know and understand him according to the flesh.<verse eid="2CO 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 5:17" />An outcome of all this is that if someone is in Christ (melded with him: in him, with him, and living
+        life by means of him), he’s a new type of species, a new kind of creature, a new creation: the old has
+        come and gone and—get this—the new has come into being. <verse eid="2CO 5:17" />
+      <verse number="18" style="v" sid="2CO 5:18" />Now all these new things are from God, Who by Christ reconciled us with Himself and gave us the Reconciliation
+        Ministry, <verse eid="2CO 5:18" />
+      <verse number="19" style="v" sid="2CO 5:19" />that is that God was in Christ reconciling the world (i.e., those who don’t know and live for God) to
+        Himself, not holding all the times they crossed over the line in doing wrong as strikes against them,
+        and assigning to us the task of keeping and spreading the message of reconciliation. <verse eid="2CO 5:19" />
+      <verse number="20" style="v" sid="2CO 5:20" />So we’re ambassadors of Christ as we’re encouraging, exhorting, and advising others in matters pertaining
+        to God. And this is the message we tell them: “As a representative of Christ I ask you—I beg you—to be
+        reconciled to God. <verse eid="2CO 5:20" />
+      <verse number="21" style="v" sid="2CO 5:21" />He who had never consummated sin was made sin on our behalf so that we would become righteous of a nature
+        of God’s righteousness in him (melded with him: in him, with him, and living life by means of him).”<verse eid="2CO 5:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="2CO 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 6:1" />Being those who work together to minister to others, we do plead with you to not take in God’s grace
+        and have nothing to show for it. <verse eid="2CO 6:1" />
+      <verse number="2" style="v" sid="2CO 6:2" />In fact, the Old Testament says,
+    </para>
+    <para style="pi" vid="2CO 6:2"></para>
+    <para style="pi" vid="2CO 6:2">I heard you just in time</para>
+    <para style="pi" vid="2CO 6:2">And I helped you</para>
+    <para style="pi" vid="2CO 6:2">That time you needed to be rescued</para>
+    <para style="pi" vid="2CO 6:2"></para>
+    <para style="m" vid="2CO 6:2">Hey! “Just in time” is now—Hey! “The time you needed to be rescued” is now.<verse eid="2CO 6:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2CO 6:3" />Don’t give anyone any reason to be seriously offended by something you did wrong, so that the ministry
+        of God’s grace won’t be criticized— <verse eid="2CO 6:3" />
+      <verse number="4" style="v" sid="2CO 6:4" />Uh-uh—leaving others with an impression that’s expected of God’s ministers, and doing this with a good
+        deal of perseverance, doing this in times of distress, in times of privation, while in anguish, <verse eid="2CO 6:4" />
+      <verse number="5" style="v" sid="2CO 6:5" />while being whipped or beaten, while in prison, during riots, while doing hard, grueling work, in sleepless
+        nights, while going hungry; <verse eid="2CO 6:5" />
+      <verse number="6" style="v" sid="2CO 6:6" />doing this with purity, with understanding, with patience, with kindness; do this in the Holy Spirit,
+        in sincere love, <verse eid="2CO 6:6" />
+      <verse number="7" style="v" sid="2CO 6:7" />with a message of truth, in the power of God, by being armed with the armor and weapons of righteousness
+        that the left and right hands are accustomed to handle; <verse eid="2CO 6:7" />
+      <verse number="8" style="v" sid="2CO 6:8" />through glory and disgrace, through a bad reputation and a good reputation; as though we’re deceived
+        and as though we know the truth, <verse eid="2CO 6:8" />
+      <verse number="9" style="v" sid="2CO 6:9" />as though we’re not known or understood and as though we’re known and understood, as though we’re dying
+        but—hey—we’re still alive; as though we’re being reprimanded but not sentenced to death, <verse eid="2CO 6:9" />
+      <verse number="10" style="v" sid="2CO 6:10" />as though we’re in pain but ever rejoicing, as though we’re poor but becoming quite wealthy, as though
+        we own nothing but own everything.<verse eid="2CO 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 6:11" />We haven’t stopped engaging you in dialogue, Corinthians; our heart is fixed wide open to you. <verse eid="2CO 6:11" />
+      <verse number="12" style="v" sid="2CO 6:12" />Don’t be closed off to us—but with the sort of “closed off” which keeps us in your tender affections.<verse eid="2CO 6:12" />
+      <verse number="13" style="v" sid="2CO 6:13" />When it’s your turn to reciprocate (I’m talking to you like I would to a child), open yourselves up to
+        us.<verse eid="2CO 6:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 6:14" />Don’t get unevenly yoked (i.e., like an ox and a donkey yoked together on the same plow harness) with
+        unbelievers. What partnership is there between righteousness and lawlessness (i.e., the refusal to be
+        restrained by the rules of God or of man)? What do light and darkness have in common? <verse eid="2CO 6:14" />
+      <verse number="15" style="v" sid="2CO 6:15" />What harmony is there between Christ and the Devil? How does a believer partake in joint ventures with
+        an unbeliever? <verse eid="2CO 6:15" />
+      <verse number="16" style="v" sid="2CO 6:16" />How does God’s temple approve of or validate an idol’s temple? You are a temple of the Living God, in
+        fact, just as God said,</para>
+    <para style="pi" vid="2CO 6:16"></para>
+    <para style="pi" vid="2CO 6:16">“I will dwell and move among them,</para>
+    <para style="pi" vid="2CO 6:16">And I will be their God,</para>
+    <para style="pi" vid="2CO 6:16">And they will be my folk-people.<verse eid="2CO 6:16"/>
+    </para>
+    <para style="pi">
+      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst
+    </para>
+    <para style="pi" vid="2CO 6:17">And be separate,” Says the Lord,</para>
+    <para style="pi" vid="2CO 6:17">“And don’t touch things which</para>
+    <para style="pi" vid="2CO 6:17">Are vile, disgusting, and forbidden to touch,</para>
+    <para style="pi" vid="2CO 6:17">And I will receive you and take you in,<verse eid="2CO 6:17"/>
+    </para>
+    <para style="pi">
+      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,
+    </para>
+    <para style="pi" vid="2CO 6:18">And you will be sons and daughters to Me,”</para>
+    <para style="pi" vid="2CO 6:18">Says the Lord Almighty.<verse eid="2CO 6:18"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="2CO 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 7:1" />So having these promises I quoted just now, beloved, let us cleanse ourselves from all defilement of
+        flesh (i.e., of carnality) and spirit, while bringing holiness to perfection in the deep reverence—downright
+        fear—of God.<verse eid="2CO 7:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 7:2" />Accomodate us: we haven’t wronged anyone, ruined anyone, or taken advantage of anyone. <verse eid="2CO 7:2" />
+      <verse number="3" style="v" sid="2CO 7:3" />I’m not pointing any fingers; in fact I’ve stated before that you are in our hearts for the rest of our
+        lives, until death do us part. <verse eid="2CO 7:3" />
+      <verse number="4" style="v" sid="2CO 7:4" />It’s a lot for me to be blunt with you, a lot for me to talk about you with pride. I’ve reached the point
+        where I’m full of encouragement and comfort; I’m way overjoyed every time we’re faced with a really bad
+        situation.<verse eid="2CO 7:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 7:5" />In fact, not once after arriving in Macedonia did our weary bodies get a chance to rest, uh-uh…all kinds
+        of pressure…on the outside we faced conflict, on the inside fear. <verse eid="2CO 7:5" />
+      <verse number="6" style="v" sid="2CO 7:6" />In contrast, God was the One Who encouraged us the abased by having Titus show up. <verse eid="2CO 7:6" />
+      <verse number="7" style="v" sid="2CO 7:7" />Not just by him showing up, but by the encouragement, comfort, and advise he showered on us, relaying
+        to us your longing, your grieving, your fervency you have regarding me, resulting in it giving me all
+        the more joy.<verse eid="2CO 7:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 7:8" />Even if I hurt you by what I put in the previous letter, I have no regrets; even if I had regrets (for
+        I see that that letter did cause you pain for some time), <verse eid="2CO 7:8" />
+      <verse number="9" style="v" sid="2CO 7:9" />I’m glad now, not because you were simply hurt, but rather that the pain that you suffered resulted in
+        a change of heart and of actions. In fact, you were hurt God’s way, so you suffered no loss in any area
+        of your life. <verse eid="2CO 7:9" />
+      <verse number="10" style="v" sid="2CO 7:10" />You see, being hurt (hurt intentionally in a way that you suffer pain) God’s way effects a change of
+        heart and actions working towards the end goal of dodging a bullet and having no regrets about what had
+        to be done to accomplish that; the pain that the world (i.e., those outside of Christ) experiences works
+        in a way that, when it’s run its course, results in death (i.e., a stagnation of waste, joylessness,
+        futility, destruction, and ultimately physical death).<verse eid="2CO 7:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 7:11" />While I’m on this topic, this very thing—being hurt God’s way—look how much it accomplished in you and
+        what a priority you made it. From where you were instead is a rebuttal—instead you have indignation,
+        fear, longing, fervency, and self-vindication. In everything you demonstrated to everyone that you’re
+        cleared of these matters. <verse eid="2CO 7:11" />
+      <verse number="12" style="v" sid="2CO 7:12" />So now, that I’m even writing to you at all, I’m not doing so because of something you did wrong or because
+        of some wrong done to us, rather because of the priority and urgency at which you’ve made the things
+        we confronted you with before God materialize. <verse eid="2CO 7:12" />
+      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.
+    </para>
+    <para style="p" vid="2CO 7:13">On the subject of what’s been an encouragement to us, hearing the news that Titus is happy gave me even
+        more joy, since his spirit was refreshed by you all. <verse eid="2CO 7:13"/>
+      <verse number="14" style="v" sid="2CO 7:14" />I had told him a thing or two about you, telling him how proud I am of you, and I wasn’t disappointed
+        or embarrassed. On the contrary—as we’ve always been truthful with you when we’ve talked to you, in the
+        same vein our speaking with pride about you to Titus turned out to be true as well. <verse eid="2CO 7:14" />
+      <verse number="15" style="v" sid="2CO 7:15" />The tender affection he has for you is that much more when recalling every time you did as you were told,
+        as you received him with fear and trembling. <verse eid="2CO 7:15" />
+      <verse number="16" style="v" sid="2CO 7:16" />I rejoice since I have confidence in you in every respect.<verse eid="2CO 7:16" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="2CO 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 8:1" />Just wanted you to know, comrades, about the grace of God that’s been granted to the churches in Macedonia,<verse eid="2CO 8:1" />
+      <verse number="2" style="v" sid="2CO 8:2" />that in such a severe trial brought on by distress, the abundance of their joy and the vast extent of
+        their poverty amplified the richness of their generosity— <verse eid="2CO 8:2" />
+      <verse number="3" style="v" sid="2CO 8:3" />that according to their means—I swear—even beyond their means—and of their own free accord— <verse eid="2CO 8:3" />
+      <verse number="4" style="v" sid="2CO 8:4" />with a good deal of explanations, assurances, and exhortation they were asking us to do them a favor
+        and allow them to participate in ministering to the saints (i.e., their fellow believers).<verse eid="2CO 8:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 8:5" />And they didn’t just do this the way we expected they would—no—by the will of God they first dedicated
+        themselves to the Lord and to us, <verse eid="2CO 8:5" />
+      <verse number="6" style="v" sid="2CO 8:6" />resulting in us having encouraged Titus to finish off this favor, which is being done for you in a consistent
+        manner to how he started it. <verse eid="2CO 8:6" />
+      <verse number="7" style="v" sid="2CO 8:7" />That aside, just as you continuously take everything to a new level—faith, attestation, knowledge and
+        understanding, eager diligence, and the love which came out of us and was imparted in you—apply the same
+        principles so that you would take this act of charity to the next level as well.<verse eid="2CO 8:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 8:8" />What I’m saying shouldn’t be construed as an order, but certainly as a test of the authenticity of your
+        love by the zeal which motivates others. <verse eid="2CO 8:8" />
+      <verse number="9" style="v" sid="2CO 8:9" />In fact you know the act of charity of our Lord Jesus Christ, that he, being rich, became poor for your
+        sake so that by that impoverishment you would become rich. <verse eid="2CO 8:9" />
+      <verse number="10" style="v" sid="2CO 8:10" />I’ll give you my opinion on this topic: this benefits you, you the very ones who, beginning last year
+        and continuing thenceforth, didn’t just begin to tackle this but maintained the desire to do it.<verse eid="2CO 8:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 8:11" />But now complete the doing-part as well, so that just as the enthusiasm of the wanting-part was prevalent
+        from the inception, so the completion of the deed from the what-do-we-possess-part is the natural consequence
+        of the wanting. <verse eid="2CO 8:11" />
+      <verse number="12" style="v" sid="2CO 8:12" />For if the enthusiasm’s in place, whatever gift a given person comes up with is acceptable according
+        to whatever wealth and belongings that person happens to possess, not according to what he doesn’t possess.<verse eid="2CO 8:12" />
+      <verse number="13" style="v" sid="2CO 8:13" />You see, this isn’t so that others can take it easy while you’re subjected to hardship, but it’s done
+        out of equality. <verse eid="2CO 8:13" />
+      <verse number="14" style="v" sid="2CO 8:14" />The way things stand at the moment, your abundance of material possessions is directed towards their
+        lack so that equality would take shape, <verse eid="2CO 8:14" />
+      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,
+    </para>
+    <para style="pi" vid="2CO 8:15"></para>
+    <para style="pi" vid="2CO 8:15">He who has much didn’t have a surplus</para>
+    <para style="pi" vid="2CO 8:15">And he who has a little didn’t lack<verse eid="2CO 8:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 8:16" />But God is so kind: for our sake He’s putting the same eagerness to get the job done in Titus’s heart,<verse eid="2CO 8:16" />
+      <verse number="17" style="v" sid="2CO 8:17" />since, while—yes—he took the counsel, advise, and encouragement that was given to him to heart, but,
+        being more eager than ever, of his own volition he left on a trip to visit you. <verse eid="2CO 8:17" />
+      <verse number="18" style="v" sid="2CO 8:18" />We sent someone to go with him, the comrade who’s praised throughout all the churches in his preaching
+        of the Gospel— <verse eid="2CO 8:18" />
+      <verse number="19" style="v" sid="2CO 8:19" />not just to go along for the ride but to be our travelling companion as well, hand-picked to be the churches’
+        attaché with respect to this act of charity, which is the service done by us to the glory of the Lord
+        and which is a token of our enthusiasm.<verse eid="2CO 8:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="2CO 8:20" />The intention is that no one would find fault with us in our handling of this generous gift. <verse eid="2CO 8:20" />
+      <verse number="21" style="v" sid="2CO 8:21" />In fact, we considered ahead of time what the decent thing to do would be, not just from the Lord’s perspective
+        but also from the perspective of the average person. <verse eid="2CO 8:21" />
+      <verse number="22" style="v" sid="2CO 8:22" />We sent our comrade along with the others, he who at many times and in many ways has proven to be eager,
+        diligent, and to get things done without dragging his feet, but now is even more eager because of the
+        tremendous confidence he has in you.<verse eid="2CO 8:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="2CO 8:23" />Whether I’m speaking on behalf of Titus, my fellow worker and a mentor and assistant for you, or whether
+        I’m speaking on behalf of our comrades the apostles of churches (i.e., those who are pioneers in founding
+        churches; missionaries who establish churches), in either case the glory goes to Christ. <verse eid="2CO 8:23" />
+      <verse number="24" style="v" sid="2CO 8:24" />So the pointed demonstration of your love and of the tremendous things we tell them about you is taking
+        place in full view of the churches.<verse eid="2CO 8:24" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="2CO 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 9:1" />As a matter of fact, I sure do have more to write to you concerning this ministry-drive for the saints
+        (i.e., our fellow believers). <verse eid="2CO 9:1" />
+      <verse number="2" style="v" sid="2CO 9:2" />You see, having observed you, I know your enthusiasm, an enthusiasm I speak proudly about to the Macedonians,
+        namely that Achaia started making preparations a year ago and that your passion for this project motivated
+        a great many people there. <verse eid="2CO 9:2" />
+      <verse number="3" style="v" sid="2CO 9:3" />I dispatched the comrades so that the tremendous things we say about you regarding this matter would
+        not be for nothing, so that it would be just like I kept saying over and over again that you were making
+        preparations— <verse eid="2CO 9:3" />
+      <verse number="4" style="v" sid="2CO 9:4" />but it’s not as though the Macedonians and I were going to somehow get together and go and catch you
+        unprepared and we—dare I say you too—would be embarrassed at what’s behind it all.<verse eid="2CO 9:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 9:5" />Anyways, to give the comrades encouragement was the most important thing to do, so that they would arrive
+        in your locale ahead of time and put in order your pledged blessing (i.e., charitable contribution) ahead
+        of time. These arrangements are thus so that the entire affair is done the way a blessing is done and
+        not the way a shakedown for money is done.<verse eid="2CO 9:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2CO 9:6" />Now onto this: he who sows parsimoniously also reaps parsimoniously and he who sows with a mindset of
+        blessing others also reaps a blessing because of that mindset. <verse eid="2CO 9:6" />
+      <verse number="7" style="v" sid="2CO 9:7" />Let the offering from each person be according to what he decided in his heart beforehand, not out of
+        an inner pain of regret in having to part with one’s money or out of compulsion, for God loves a cheerful,
+        glad, happy, prompt-to-do giver. <verse eid="2CO 9:7" />
+      <verse number="8" style="v" sid="2CO 9:8" />In fact God is able to proliferate all kinds of grace (i.e., good things, in terms of money and material
+        goods) to us, so that in all situations always having enough of everything you would exude any and every
+        good work, <verse eid="2CO 9:8" />
+      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:
+    </para>
+    <para style="pi" vid="2CO 9:9"></para>
+    <para style="pi" vid="2CO 9:9">He scattered, he gave to the needy</para>
+    <para style="pi" vid="2CO 9:9">His righteousness remains in place forever<verse eid="2CO 9:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 9:10" />Now He who supplies seed to the sower and bread for the food that you eat will provide and multiply your
+        seed and will cause the crop of your righteous endeavor to grow, <verse eid="2CO 9:10" />
+      <verse number="11" style="v" sid="2CO 9:11" />being made rich in all respects, towards an ends of complete simplicity (i.e., a heart which has the
+        single, simple motive of giving, and therefore has no ulterior motive, attaches no strings, and gives
+        without any of the complications of guilt, remorse, etc.; does so under no threat, no compulsion, nor
+        because of any rule, religious or otherwise), which through us works God’s praise to the nth degree,<verse eid="2CO 9:11" />
+      <verse number="12" style="v" sid="2CO 9:12" />because the ministry which consists of this religious ritual, this act of worship, this service to God,
+        is not simply the supplying of the saints’ needs but also the causing of a multiplication-effect through
+        much praise to God— <verse eid="2CO 9:12" />
+      <verse number="13" style="v" sid="2CO 9:13" />Through the proof of this ministry, God has been glorified in the compliance with what you said you were
+        going to do for the Good News of Christ, the Gospel, and the simplicity of the act of sharing with them
+        and with everyone, <verse eid="2CO 9:13" />
+      <verse number="14" style="v" sid="2CO 9:14" />and their prayer for you, longing for you on account of the exceeding grace of God which is upon you.<verse eid="2CO 9:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2CO 9:15" />God is so kind with this indescribable gift of His!<verse eid="2CO 9:15" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="2CO 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 10:1" />I, Paul, through the gentle restraint and kindness of Christ, who, when I was here on Earth face-to-face
+        with you was humble indeed, but audacious when away from you, beg you personally— <verse eid="2CO 10:1" />
+      <verse number="2" style="v" sid="2CO 10:2" />but with the infusion of audacity which comes from not being present—I ask with confidence, which I figure
+        makes me brash enough to confront some people who suppose that we live day in, day out according to the
+        flesh (i.e. of our own ability apart from God; as though God doesn’t work through us). <verse eid="2CO 10:2" />
+      <verse number="3" style="v" sid="2CO 10:3" />You see, though living day in, day out in flesh (i.e., in a physical body, one subject to human weaknesses),
+        we don’t wage war according to the flesh: <verse eid="2CO 10:3" />
+      <verse number="4" style="v" sid="2CO 10:4" />our battle-gear isn’t fleshly (i.e., of a physical nature; of our own ability apart from God)—uh-uh,
+        it’s quite capable in God of leveling heavily-fortified defenses—leveling schemes, machinations, detailed
+        plans, <verse eid="2CO 10:4" />
+      <verse number="5" style="v" sid="2CO 10:5" />and every erected fortification or entrenched high-ground which opposes the knowledge and understanding
+        of God, and capturing every thought and making it a prisoner of the obedience of Christ, <verse eid="2CO 10:5" />
+      <verse number="6" style="v" sid="2CO 10:6" />and of being prepared to avenge every disobedience, when your obedience happens to reach the tipping
+        point.<verse eid="2CO 10:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 10:7" />You’re seeing things as they appear on the surface. If a given person has convinced himself that he’s
+        derived from Christ, let this fellow rethink the logic again as it applies to himself and let him come
+        to the conclusion that, just as he himself is derived from Christ, we also are derived from Christ in
+        the same way as he. <verse eid="2CO 10:7" />
+      <verse number="8" style="v" sid="2CO 10:8" />So now, if I venture to say something even more cocky about our authority (an authority which the Lord
+        gave for building you up and not for tearing you down, by the way), I won’t embarrass myself and have
+        to eat my words because I’ve failed in this regard, <verse eid="2CO 10:8" />
+      <verse number="9" style="v" sid="2CO 10:9" />embarassed so that I not revel in delight, as you might be scared out of your wits by what I wrote in
+        the letters. <verse eid="2CO 10:9" />
+      <verse number="10" style="v" sid="2CO 10:10" />Since a few people say, “Sure—the letters cut to the bone and pack a punch, but he comes across as weak
+        when you see him in person and his speaking ability and rhetoric is contemptuous,” <verse eid="2CO 10:10" />
+      <verse number="11" style="v" sid="2CO 10:11" />Let any such person who says that think this over: what we are in writing through the mail when absent,
+        such we are in what we do when present as well.<verse eid="2CO 10:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 10:12" />Furthermore, we dare not put ourselves in the same category as some of the self-promoters or compare
+        ourselves to them—no—they get off to the side by themselves and rank themselves and do self-endorsements
+        to one another—they just don’t get it. <verse eid="2CO 10:12" />
+      <verse number="13" style="v" sid="2CO 10:13" />We’re not going to speak proudly or say tremendous things about the things outside our sphere of ministry—no—we’ll
+        speak proudly about the things within the sphere which the God of a limit to such spheres assigned to
+        us to envelop even you within that sphere. <verse eid="2CO 10:13" />
+      <verse number="14" style="v" sid="2CO 10:14" />In fact, it’s not as though we don’t envelop you while extending our reach out to the perimeter of our
+        sphere and beyond; you see, in the course of enveloping you by our sphere, we were the first to arrive
+        in your locale with the Good News, the Gospel of Christ— <verse eid="2CO 10:14" />
+      <verse number="15" style="v" sid="2CO 10:15" />No, we don’t speak proudly about things outside our sphere, namely about the toils of others, but we’re
+        hoping, as your faith which is among you is being grown, to vastly enlarge our sphere, <verse eid="2CO 10:15" />
+      <verse number="16" style="v" sid="2CO 10:16" />that is for places beyond you to be evangelized—and not to speak proudly about the fruition of somebody
+        else’s long-term plans taking place in his sphere, <verse eid="2CO 10:16" />
+      <verse number="17" style="v" sid="2CO 10:17" />but like it says, ”He who speaks proudly, let him speak proudly of what he does in the Lord.”<verse eid="2CO 10:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2CO 10:18" />You see, the person who promotes himself—that’s not the individual who obtains the approval of God, rather
+        the one whom the Lord speaks well of is the one who gains the approval instead.<verse eid="2CO 10:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="2CO 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 11:1" />If you would bear with me a bit while I act stupid—scratch that: you are bearing with me. <verse eid="2CO 11:1" />
+      <verse number="2" style="v" sid="2CO 11:2" />You see, I dote over you zealously with a zealous doting that’s of God, for I’ve betrothed you to only
+        one man in order to present to this one man a chaste virgin in Christ. <verse eid="2CO 11:2" />
+      <verse number="3" style="v" sid="2CO 11:3" />I fear that somehow that’s not the case—as the serpent deceived Eve with his cunning trickery, he would
+        somehow seduce your minds and draw you away from the simplicity (i.e., straightforward, without conniving,
+        ulterior motives, hidden agendas, or religious quid-pro-quo) and the purity which has Christ as its goal.<verse eid="2CO 11:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2CO 11:4" />For indeed, if a passerby stops over and preaches that another person is the real Jesus, a person whom
+        we didn’t preach as being the real Jesus, or you receive (i.e., take to heart and wholeheartedly embrace)
+        a different spirit which you didn’t receive before, or you wholeheartedly embrace a different good-news-type
+        message that you didn’t receive, you tolerate it with no qualms. <verse eid="2CO 11:4" />
+      <verse number="5" style="v" sid="2CO 11:5" />You see, the way I figure, we’re not inferior to these so-called super-apostles in any category. <verse eid="2CO 11:5" />
+      <verse number="6" style="v" sid="2CO 11:6" />But even if I’m an amateur when it comes to speaking ability and rhetoric, put that aside—I’m not an
+        amateur when it comes to knowledge and understanding—no—I’ve made that apparent to you in every possible
+        way.<verse eid="2CO 11:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 11:7" />Is it that I committed a sin in humbling and debasing myself so that you would be made to stand on two
+        legs, since I evangelized the good news of the Gospel to you sacrificially on my part and delivered it
+        to you free of charge? <verse eid="2CO 11:7" />
+      <verse number="8" style="v" sid="2CO 11:8" />Scratch that—I robbed other churches by drawing a wage from them and applying it to your ministry. <verse eid="2CO 11:8" />
+      <verse number="9" style="v" sid="2CO 11:9" />Not only that, when I was staying with you and was in need, I wasn’t a burden to anyone: the comrades
+        who came from Macedonia provided what I needed. My living expenses weren’t a burden in any way to you,
+        nor will they be. <verse eid="2CO 11:9" />
+      <verse number="10" style="v" sid="2CO 11:10" />Christ in me unequivocally indicates that this is true: I won’t be denied the opportunity to speak with
+        pride about what we will accomplish in the Lord in the region of Achaia. <verse eid="2CO 11:10" />
+      <verse number="11" style="v" sid="2CO 11:11" />Why would I be denied? Because I don’t love you? God knows for a fact that I do.<verse eid="2CO 11:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 11:12" />What I’m doing I’ll continue to do in order to nix the occasion for fault-finding by those who are wanting
+        to find such an occasion, so that in the specific area that they’re boasting of, everyone will come to
+        the conclusion that they’re also like us. <verse eid="2CO 11:12" />
+      <verse number="13" style="v" sid="2CO 11:13" />In fact, false apostles such as they, workers of deceit, are disguising themselves as apostles of Christ—<verse eid="2CO 11:13" />
+      <verse number="14" style="v" sid="2CO 11:14" />And it’s not surprising: Satan himself disguises himself as an angel of light. <verse eid="2CO 11:14" />
+      <verse number="15" style="v" sid="2CO 11:15" />So there’s not a huge difference if his servants the false apostles also disguise themselves as servants
+        of righteousness. The way it ends for these false apostles will be in step with their deeds.<verse eid="2CO 11:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 11:16" />Moving on to another topic. Nobody should take me for a fool, but should it be otherwise, accept me even
+        as a fool, so that even as a fool I have some little thing or two to say about my tremendous accomplishments.<verse eid="2CO 11:16" />
+      <verse number="17" style="v" sid="2CO 11:17" />What I’m about to say isn’t in line with how the Lord speaks, but are words you’d expect to come out
+        of one in the throes of folly—the essence of the boasting you’re about to hear.<verse eid="2CO 11:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2CO 11:18" />Since many are talking up great things they’ve done according to flesh (i.e., from their own ability
+        apart from God; taking credit for it personally and not giving God the credit), I’ll talk up my tremendous
+        accomplishments too. <verse eid="2CO 11:18" />
+      <verse number="19" style="v" sid="2CO 11:19" />The fact of the matter is, you’re more than happy to tolerate what the fools spout off, treating them
+        like they’re sensible and wise. <verse eid="2CO 11:19" />
+      <verse number="20" style="v" sid="2CO 11:20" />You put up with someone if he subjugates and oppresses you, if he cheats you out of house and home, if
+        he sets you up to take advantage of you, if he lifts himself up in arrogance, if he slaps you upside
+        the head. <verse eid="2CO 11:20" />
+      <verse number="21" style="v" sid="2CO 11:21" />I’m ashamed to say it, but it’s as though you disdain us because we’ve become weak in what someone else
+        might dare speak proudly about.</para>
+    <para style="p" vid="2CO 11:21">I’m talking foolishly, but I’ll dare speak anyways. <verse eid="2CO 11:21"/>
+      <verse number="22" style="v" sid="2CO 11:22" />Are they native-Hebrew speakers and live by the ancient Jewish culture?—So do I. Are they Israelites?—So
+        am I. Are they father-to-son direct descendants and heirs of Abraham?—So am I. <verse eid="2CO 11:22" />
+      <verse number="23" style="v" sid="2CO 11:23" />Are they Christ’s servants (I’m talking like a mad man)?—I’ll up them one: as far as hard labor goes,
+        I’ve done more. I’ve spent more time in prison. I’ve received more beatings. I’ve had more near-death
+        experiences: <verse eid="2CO 11:23" />
+      <verse number="24" style="v" sid="2CO 11:24" />I’ve received the thirty-nine lash punishment by the Jews five times; <verse eid="2CO 11:24" />
+      <verse number="25" style="v" sid="2CO 11:25" />I’ve been beaten with staffs three times; I was stoned to death once; I was shipwrecked three times;
+        I spent twenty-four straight hours floundering out in the ocean. <verse eid="2CO 11:25" />
+      <verse number="26" style="v" sid="2CO 11:26" />I’ve been on the road many a time walking great distances; I’ve been in danger while travelling by river;
+        in danger from robbers; in danger by my fellow countrymen; in danger by those in faraway countries; in
+        danger in the city; in danger in the countryside; in danger on the high seas; in danger from phony comrades;<verse eid="2CO 11:26" />
+      <verse number="27" style="v" sid="2CO 11:27" />I worked hard, long hours and did heavy manual labor; had many a sleepless night; went long stretches
+        with nothing to eat or nothing to drink; fasted many times; was cold because I had nothing to wear— <verse eid="2CO 11:27" />
+      <verse number="28" style="v" sid="2CO 11:28" />Besides those external pressures, there is the pressure on the inside of me due to the day-to-day responsibility
+        for all the churches, worrying over them. <verse eid="2CO 11:28" />
+      <verse number="29" style="v" sid="2CO 11:29" />Who’s weak (i.e., sickly, frail, or simply unable to muster the strength to face life’s challenges),
+        and I’m not weak along with them? Who stumbles (i.e. falls away from the walk of faith; falls into sin;
+        is overcome by temptation; stops following God), and I’m not raving over it?<verse eid="2CO 11:29" />
+    </para>
+    <para style="p">
+      <verse number="30" style="v" sid="2CO 11:30" />If there has to be proud talk about tremendous things which have taken place, I’ll speak proudly about
+        things that have to do with my weakness (i.e., circumstances in which I lacked the power in my own self
+        to overcome the difficulties I faced). <verse eid="2CO 11:30" />
+      <verse number="31" style="v" sid="2CO 11:31" />The God and Father of our Lord Jesus—He Who’s blessed forevermore—knows for a fact that I’m not lying—<verse eid="2CO 11:31" />
+      <verse number="32" style="v" sid="2CO 11:32" />In Damascus the governor under King Aretas kept the entire city of Damascus on alert searching for me
+        in order to arrest me, <verse eid="2CO 11:32" />
+      <verse number="33" style="v" sid="2CO 11:33" />and I was put through a window in the city wall and lowered to the ground in a basket and slipped out
+        of his hands.<verse eid="2CO 11:33" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="2CO 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 12:1" />To talk with pride about some spectacular things that have happened to me must be done here. While this
+        won’t help anyone, I’ll jump into visions and revelations of the Lord anyways. <verse eid="2CO 12:1" />
+      <verse number="2" style="v" sid="2CO 12:2" />From firsthand experience, I know of a man in Christ fourteen years earlier, and said-person was seized
+        and carried off (whether he was carried off outside of the body or whether both his body and his spirit
+        together were carried off, I don’t know—only God knows) until he reached the third heaven (i.e., went
+        through the first and second heavens, which are the sky, the upper atmosphere, and outer space, into
+        the spirit world: “paradise”). <verse eid="2CO 12:2" />
+      <verse number="3" style="v" sid="2CO 12:3" />And I know said-person (whether in the body or apart from the body, I don’t know—only God knows), <verse eid="2CO 12:3" />
+      <verse number="4" style="v" sid="2CO 12:4" />that he was seized and carried off into paradise and heard remarks that must not be told, that are not
+        allowed to be spoken to a person.<verse eid="2CO 12:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 12:5" />I’ll talk big on behalf of said-man and talk about the spectacular things that happened to him, but I
+        won’t talk big about myself except in the weaknesses I’m beset with. <verse eid="2CO 12:5" />
+      <verse number="6" style="v" sid="2CO 12:6" />You see, if I were to want to talk big, I won’t be acting like a fool as I talk: in fact, I’d be telling
+        the truth. But I’ll spare you, lest someone make incorrect assumptions based on what he sees or hears
+        that comes from me <verse eid="2CO 12:6" />
+      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.
+    </para>
+    <para style="p" vid="2CO 12:7">With this in mind, so that I not be lifted up and over (i.e., leap over the hurdles of life), a “thorn
+        in the flesh” (an idiom referring to an antagonist which vexes and harasses continuously) was given to
+        me, an agent of Satan, so that he would buffet me (i.e., strike me repeatedly and non-stop), so that
+        I not be lifted up and over. <verse eid="2CO 12:7"/>
+      <verse number="8" style="v" sid="2CO 12:8" />Because of this I begged the Lord three times that it be taken away from me, <verse eid="2CO 12:8" />
+      <verse number="9" style="v" sid="2CO 12:9" />and he told me,
+    </para>
+    <para style="pi" vid="2CO 12:9"></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">My grace which I give to you is sufficient,</char></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">For the power which accompanies it</char></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">Is brought to completion in weakness</char><verse eid="2CO 12:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 12:10" />In light of this, I’m content in weakness, with insults, in dire need, with persecutions, and in distress
+        on behalf of Christ: for when I’m weak, then I’m powerful and capable.<verse eid="2CO 12:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 12:11" />I’ve turned into a fool; you drove me to it. The fact of the matter is that you ought to have a high
+        opinion of me. I’m not deficient in any category when compared to the apostles as a whole, you see, even
+        though I’m nothing. <verse eid="2CO 12:11" />
+      <verse number="12" style="v" sid="2CO 12:12" />Indeed, the defining characteristics of an apostle were thoroughly put into action among you with steadfastness
+        and perseverance at every turn, and with signs and wonders (i.e., spectacular, attention-getting miracles)
+        and supernatural power. <verse eid="2CO 12:12" />
+      <verse number="13" style="v" sid="2CO 12:13" />In fact how have you been treated worse than any of the other churches, except that I didn’t wear out
+        my welcome with you? Excuse this bad behavior on my part.<verse eid="2CO 12:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 12:14" />Hey, this is the third time I’ve made preparations to go visit you, and I’ll not wear out my welcome:
+        I’m not trying to get your material possessions, I’m trying to get you instead. You see, the children
+        in the family aren’t obligated to pay for their parents when it comes to room, board, clothing, etc.,
+        but the parents are for their children. <verse eid="2CO 12:14" />
+      <verse number="15" style="v" sid="2CO 12:15" />I will most gladly spend on you—you who are vivacious in thought and emotion—and be spent for you…although
+        the more I love you, the less I’m loved.<verse eid="2CO 12:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 12:16" />But I’ll let that be. I wasn’t a burden to you; instead—the clever fellow that I am—I pulled a fast one
+        on you. <verse eid="2CO 12:16" />
+      <verse number="17" style="v" sid="2CO 12:17" />Of all the people I sent you, whom did I try to use to take advantage of you with and milk you for gain?<verse eid="2CO 12:17" />
+      <verse number="18" style="v" sid="2CO 12:18" />I asked Titus to visit you and the comrade who went with him to accompany him—did Titus take advantage
+        of you? Have we not conducted our lives in the same spirit (i.e., in the same attitude, led by the same
+        prevailing demeanor)? Have we not followed in the same footsteps?<verse eid="2CO 12:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="2CO 12:19" />So far you think we’ve just been telling you one excuse after another. But what we tell you, we speak
+        before God in Christ (i.e., knowing that God is listening closely, while relying on Christ to mediate);
+        every last thing we do is for your edification, my dear comrades. <verse eid="2CO 12:19" />
+      <verse number="20" style="v" sid="2CO 12:20" />The fact of the matters is that I’m afraid that somehow I’ll come visit you and find that you’re not
+        the way that I want and expect you to be, and vice-versa; that somehow I’ll find there’s rivalry, jealousy,
+        uncontrolled tempers, selfish ambition, bad-mouthing, gossip, arrogance, or havoc being wreaked. <verse eid="2CO 12:20" />
+      <verse number="21" style="v" sid="2CO 12:21" />I don’t want to have to go there again and have God humiliate me with you and cause me to mourn much
+        (i.e., to pray deep, heart-felt prayers of grieving and sorrow; to be in a melancholy state of grief,
+        pain, and sorrow) over sins you have previously committed and have no intention of asking God to forgive
+        you of these things and quitting them—you have no intention of doing anything about them—when it comes
+        to the uncleanness (i.e., lewd, crude, disgusting behavior), fornication (i.e., loose sexual morals),
+        and licentiousness (i.e., unrestrained indulgence in immoral, physical pleasures) which you have practiced.<verse eid="2CO 12:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="2CO 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="2CO 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.
+    </para>
+    <para style="pi" vid="2CO 13:1"></para>
+    <para style="pi" vid="2CO 13:1">Based upon what’s spoken from the mouth</para>
+    <para style="pi" vid="2CO 13:1">Of two or better yet three witnesses</para>
+    <para style="pi" vid="2CO 13:1">Will every affair in question be settled<verse eid="2CO 13:1"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 13:2" />I have said earlier and am telling those who’ve sinned up to now and everyone else for future reference
+        (and telling them as though I’m present for the second time and leaving just now) that if I were to go
+        see you another time, I won’t hold anything back, <verse eid="2CO 13:2" />
+      <verse number="3" style="v" sid="2CO 13:3" />since you’re looking for proof of Christ speaking in me—Christ who isn’t weak when it comes to you, but
+        rather is able, capable, and powerful in you. <verse eid="2CO 13:3" />
+      <verse number="4" style="v" sid="2CO 13:4" />The fact of the matter is, he was crucified out of weakness, but he lives out of power from God. The
+        fact of the matter is, even we are weak in him, but we shall live jointly with him out of the power of
+        God granted to you.<verse eid="2CO 13:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 13:5" />If you are in the Faith, test for yourselves—prove to yourselves this: don’t you recognize as far as
+        your own selves are concerned—don’t you know full-well that Christ Jesus is in you and among you?—Unless
+        of course you fail the test. <verse eid="2CO 13:5" />
+      <verse number="6" style="v" sid="2CO 13:6" />But I hope you’ll come to recognize that we don’t fail the test.<verse eid="2CO 13:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 13:7" />We pray to God for you to no longer do this or that thing which is bad—not so that everyone would see
+        that we were right all along, but that you would do what’s good instead. <verse eid="2CO 13:7" />
+      <verse number="8" style="v" sid="2CO 13:8" />You see, we don’t have the strength to do a thing contrary to the truth, but instead we only have the
+        strength to do a thing for the truth. <verse eid="2CO 13:8" />
+      <verse number="9" style="v" sid="2CO 13:9" />You see, we rejoice when we happen to be weak, but you happen to have strength. This is what we pray
+        in addition: we pray for you to reach maturity.<verse eid="2CO 13:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 13:10" />Because of this, I write these words while absent, so that when I get there and am staying with you,
+        I won’t be using the authority which the Lord assigned to me in a harsh manner, an authority which is
+        to be used for edification and not is to be used destructively.<verse eid="2CO 13:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 13:11" />One last thing, comrades: rejoice, mend your ways, be comforted and encouraged, stay in agreement, live
+        in peace, and the God of that wonderful, peaceful love will be with you.<verse eid="2CO 13:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug from me.
+    </para>
+    <para style="p" vid="2CO 13:12">All the saints (i.e., your fellow believers in all the churches) greet you.<verse eid="2CO 13:12"/>
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2CO 13:13" />The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you
+        all.<verse eid="2CO 13:13" />
+    </para>
+  <chapter eid="2CO 13" />
+</usx>

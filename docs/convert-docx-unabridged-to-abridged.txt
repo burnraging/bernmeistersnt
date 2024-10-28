@@ -1,0 +1,49 @@
+
+                               Unabridged Version Generation
+==============================================================================
+
+Strip footnote references
+-------------------------
+These are the [a], [B], etc. which appear interspersed among the verses.
+
+'Find what'  [^$^$]              (this finds any 2 letters which are between left and right brackets)
+      Make sure you select Find > Format > Font > Effects > Superscript
+
+'Replace with'               (leave this completely blank
+
+'Find what'  [^$]                (this finds any 1 letter2 which is between left and right brackets)
+      Make sure you select Find > Format > Font > Effects > Superscript
+
+'Replace with'               (leave this completely blank)
+
+
+Strip footnotes
+---------------
+These are the footnotes which appear after the verses at the end of each chapter.
+
+'Find what'  ^?              (find all characters)
+        Make sure you clear (select 'No Formatting') all Find formatting first!
+        Select Find > Format > Style > spacer-before-footnotes
+
+'Replace with'               (leave this completely blank)
+
+'Find what'  ^?              (find all characters)
+        Make sure you clear all Find formatting first!
+        Select Find > Format > Style > footnotes-normal
+
+'Replace with'               (leave this completely blank)
+
+
+Remove italics
+--------------
+'Find what'  ^?              (find all characters)
+        Make sure you clear all Find formatting first!
+        Select Find > Format > Font > Font Style > Italic
+
+'Replace with'  ^&           (same character)
+        Make sure you clear all Replace with formatting first!
+        Select Find > Format > Font > Font Style > Not Italic
+
+Book Introductions
+------------------
+While it would be advantageous to remove them, it's tedious to do so

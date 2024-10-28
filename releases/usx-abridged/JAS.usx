@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="JAS" style="id">The Bernmeister's NT</book>
+  <para style="h">James</para>
+  <para style="toc1">The Epistle of James</para>
+  <para style="toc2">James</para>
+  <para style="toc3">James</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">JAMES</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="JAS 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of the Lord Jesus Christ:
+    </para>
+    <para style="p" vid="JAS 1:1">To the blood-descendants of the twelve tribes of Israel who are among the Diaspora (i.e. the scattering
+        of Jews all over the world):
+    </para>
+    <para style="p" vid="JAS 1:1">I’m delighted to write to you:<verse eid="JAS 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="JAS 1:2" />Consider it a joy, my dear comrades, when you by chance fall into various tests and trials which find
+        out what you’re made of, <verse eid="JAS 1:2" />
+      <verse number="3" style="v" sid="JAS 1:3" />knowing that the process of proving your faith produces perseverance. <verse eid="JAS 1:3" />
+      <verse number="4" style="v" sid="JAS 1:4" />Let perseverance have the opportunity to become a mature, completed work, in order that you would become
+        mature and that every part of you would become complete with nothing left out.<verse eid="JAS 1:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JAS 1:5" />But speaking of things which are left out…If someone is lacking in wisdom, advise him to simply ask for
+        wisdom from the giving-God who’ll grant the request without chewing the person out or demeaning him,
+        and it will be given to him. <verse eid="JAS 1:5" />
+      <verse number="6" style="v" sid="JAS 1:6" />But admonish him to ask in faith, nothing about him wavering in doubt: you see, a person who doubts is
+        like the way that ocean waves are moved and tossed about by the wind. <verse eid="JAS 1:6" />
+      <verse number="7" style="v" sid="JAS 1:7" />To this point, you should adjust that person’s expectations so that he does not expect to receive anything
+        from the Lord, <verse eid="JAS 1:7" />
+      <verse number="8" style="v" sid="JAS 1:8" />since he is a double-minded man, irresolute in all his ways.<verse eid="JAS 1:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="JAS 1:9" />Get the Humiliated, Abased Person to glory and take pride in his exaltation, <verse eid="JAS 1:9" />
+      <verse number="10" style="v" sid="JAS 1:10" />and likewise get the rich man to practice humility and self-abasement, because, like the wild flowers
+        of the field which reach an apex when they blossom and then fade back into obscurity, he too will have
+        his moment in the sun then pass away and fade back into obscurity. <verse eid="JAS 1:10" />
+      <verse number="11" style="v" sid="JAS 1:11" />You see, the sun rose and dried out the wild flower with its sweltering heat, its flower-part fell off,
+        and the lovely appearance it projected was destroyed—this is the same way that the rich man will waste
+        away in his journey through life.<verse eid="JAS 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JAS 1:12" />Blessed is the man who perseveres over the course of tests and trials, since, after he’s attained approval
+        because of his perseverance, he’ll receive the trophy of a deeply satisfying life, which is promised
+        to those who love Him. <verse eid="JAS 1:12" />
+      <verse number="13" style="v" sid="JAS 1:13" />Teach the person who’s being tested by some sort of trial or temptation not to say, “I’m being tested
+        by God to see if there’s any evil in me.” You see, God is un-tempt-able by any evil; He tempts no one.<verse eid="JAS 1:13" />
+      <verse number="14" style="v" sid="JAS 1:14" />Each person is tempted when he’s lured and dragged off by the passions which are peculiar to him and
+        not necessarily to the next person. <verse eid="JAS 1:14" />
+      <verse number="15" style="v" sid="JAS 1:15" />Then once passion or desire has conceived, it gives birth to sin. When it’s finished running its course,
+        sin produces death (i.e., stagnation of waste, joylessness, futility, and destruction).<verse eid="JAS 1:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JAS 1:16" />Don’t get led down the primrose path, my dear comrades. <verse eid="JAS 1:16" />
+      <verse number="17" style="v" sid="JAS 1:17" />Every good gift and every perfect present is from the sky above, coming down from the Creator of Astronomical
+        Objects (i.e. the sun, the moon, stars, etc.), with whom there is no deviation in the movement of such
+        objects and no hint or suggestion of change to them. <verse eid="JAS 1:17" />
+      <verse number="18" style="v" sid="JAS 1:18" />Having planned and decided to do so, he birthed us in a conceptualization of truth with the end-goal
+        of us being the crème de la crème of His creation.<verse eid="JAS 1:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="JAS 1:19" />Be sure you get this down pat, my dear comrades: Each person should see to it that he’s quick to listen,
+        slow to speak, slow to anger. <verse eid="JAS 1:19" />
+      <verse number="20" style="v" sid="JAS 1:20" />You see, a man’s anger won’t live up to God’s standards of right and wrong. <verse eid="JAS 1:20" />
+      <verse number="21" style="v" sid="JAS 1:21" />In light of this, once you’ve rid yourself of any filthy residue of malice, with a soft-spoken, gentle
+        self-restraint take to heart and fully embrace the implanted word of God which is able to relieve, rescue,
+        and preserve your mind and emotions.<verse eid="JAS 1:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="JAS 1:22" />But become practitioners of a given subject matter and not just students who hear it taught, deceiving
+        themselves because they listen but won’t do, <verse eid="JAS 1:22" />
+      <verse number="23" style="v" sid="JAS 1:23" />because if somebody hears a subject lectured to him but doesn’t put it into practice, that guy’s like
+        a man who looks at himself in a mirror and gets an idea of what he looks like— <verse eid="JAS 1:23" />
+      <verse number="24" style="v" sid="JAS 1:24" />you see, he got an idea of what he looks likes, walked away, and immediately forgot what he looks like.<verse eid="JAS 1:24" />
+      <verse number="25" style="v" sid="JAS 1:25" />But the fellow who crouched down and looked carefully at a perfect code, a freedom code, and stays put
+        looking at it and didn’t become a forgetting-student but became a doing-practitioner, that fellow will
+        be blessed in his doing.<verse eid="JAS 1:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="JAS 1:26" />If anyone thinks that he strictly adheres to the do’s and don’ts of his religion and isn’t reigning in
+        his tongue but instead kids himself into believing he follows his religion strictly—this sort of religion
+        is worthless. <verse eid="JAS 1:26" />
+      <verse number="27" style="v" sid="JAS 1:27" />A pure set of religious do’s and don’ts—a set that’s untainted from the Father-God’s point of view—is
+        to visit orphans and widows in dire need for the purpose of helping them, while keeping oneself unstained
+        from the world, i.e. the established order of humanity which wants nothing to do with God.<verse eid="JAS 1:27" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="JAS 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="JAS 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 2:1" />My comrades, don’t have a faith in our Lord of Glory Jesus Christ which shows favoritism. <verse eid="JAS 2:1" />
+      <verse number="2" style="v" sid="JAS 2:2" />If a powerful businessman wearing an expensive suit were to join your synagogue, and a poor man in ragged
+        clothing were to join, <verse eid="JAS 2:2" />
+      <verse number="3" style="v" sid="JAS 2:3" />you’d be naturally inclined to favor the fellow in the expensive suit and tell him, “Let’s make sure
+        you’re seated up front in the reserved section where all the important people sit,” and you would tell
+        the poor guy, “Stand against the wall in the back or sit where the usher sits and be ready to fill in
+        for him and run an errand when we call.” <verse eid="JAS 2:3" />
+      <verse number="4" style="v" sid="JAS 2:4" />Have you not shown bias towards those among you, preferring one person over another, and have you not
+        become decision-makers whose thought process consists of really bad, downright evil, things?<verse eid="JAS 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="JAS 2:5" />Listen, my dear comrades: Hasn’t God chosen the world’s poor to be rich in faith and to get their individual
+        slice of God’s involvement with the human race, which He promised to those who love Him? <verse eid="JAS 2:5" />
+      <verse number="6" style="v" sid="JAS 2:6" />But you’ve treated the poor with contempt. Don’t the rich oppress you and drag you into court? <verse eid="JAS 2:6" />
+      <verse number="7" style="v" sid="JAS 2:7" />Don’t they cuss at, slander, and revile your excellent, hard-earned reputation? <verse eid="JAS 2:7" />
+      <verse number="8" style="v" sid="JAS 2:8" />If there really is a perfect regal code which we live by and if the code is based on the Bible verse
+        which says, “Love your neighbor as yourself,” then you’re on the right track. <verse eid="JAS 2:8" />
+      <verse number="9" style="v" sid="JAS 2:9" />But if you show favoritism, you’re committing a sin and are incriminated by the Law of Moses. <verse eid="JAS 2:9" />
+      <verse number="10" style="v" sid="JAS 2:10" />In fact, that particular individual who’s willingly trying to keep the Law but falls short in one area
+        is guilty of violating it as a whole.<verse eid="JAS 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JAS 2:11" />Here’s an example: the same Old Testament Law which said “Don’t commit adultery” also said “Don’t commit
+        murder.” Now if you didn’t commit adultery but committed murder, you nevertheless became a Law-violator,
+        violating the Law as a whole even though you violated just one part of it. <verse eid="JAS 2:11" />
+      <verse number="12" style="v" sid="JAS 2:12" />Talk and behave as though as though you’re going to be held to a standard defined by freedom’s code and
+        judged by it. <verse eid="JAS 2:12" />
+      <verse number="13" style="v" sid="JAS 2:13" />You see, the judgment that you will eventually face will be merciless towards those who won’t show mercy.
+        Mercy trumps judgment.<verse eid="JAS 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="JAS 2:14" />What benefit is it, my comrades, if (using some person for the purpose of illustration) this person says
+        he has faith but has no actions which normally accompany it? That sort of so-called faith won’t pull
+        him out of a bad situation, will it? <verse eid="JAS 2:14" />
+      <verse number="15" style="v" sid="JAS 2:15" />If a comrade were to find himself or herself having no clothing whatsoever to protect his or her body
+        with and lacking minimum-sustenance food, <verse eid="JAS 2:15" />
+      <verse number="16" style="v" sid="JAS 2:16" />and if you were to tell him, “See you later, take care now. Stay warm and get plenty to eat,” but not
+        provide physical necessities for him, what good is that? <verse eid="JAS 2:16" />
+      <verse number="17" style="v" sid="JAS 2:17" />The sort of faith we’re talking about here is the same way: if it were to not have actions which normally
+        accompany it, it would be void of life, being in a state which is consistent with itself.<verse eid="JAS 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="JAS 2:18" />Putting that aside now—someone is bound to say, “You have faith but no actions to go along with it and
+        I have actions but no faith to go along with them.” Show me your kind of faith apart from the actions
+        which normally accompany it, and I’ll show you the genuine kind of faith from out of my actions. <verse eid="JAS 2:18" />
+      <verse number="19" style="v" sid="JAS 2:19" />You believe that there is only one true God and that He is of one mind and has His own will, and there
+        is no other being comparable to Him? Good job. The demons believe it as well and quiver in their boots
+        over it.<verse eid="JAS 2:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="JAS 2:20" />Oh you nit-wit—were you interested in knowing that the sort of faith which is apart from actions which
+        normally accompany it amounts to nothing? <verse eid="JAS 2:20" />
+      <verse number="21" style="v" sid="JAS 2:21" />Wasn’t our patriarch Abraham made right in God’s sight from actions after offering his son Isaac upon
+        the altar? <verse eid="JAS 2:21" />
+      <verse number="22" style="v" sid="JAS 2:22" />In the case of Abraham offering Isaac, one sees that the genuine sort of faith operates together with
+        its accompanying actions and comes to fruition out of the actions. <verse eid="JAS 2:22" />
+      <verse number="23" style="v" sid="JAS 2:23" />The verse of Scripture was fulfilled which says, “Abraham believed in God, and it wound up being credited
+        to him as righteousness,” and he was called a friend and close-companion of God. <verse eid="JAS 2:23" />
+      <verse number="24" style="v" sid="JAS 2:24" />Observe that a person is made right in God’s sight as the result of actions and not by faith on its own.<verse eid="JAS 2:24" />
+      <verse number="25" style="v" sid="JAS 2:25" />Wasn’t the prostitute Rahab made right in God’s sight the same way—as the result of actions—cooperating
+        with the agents and hurrying them out another way? <verse eid="JAS 2:25" />
+      <verse number="26" style="v" sid="JAS 2:26" />For as the body is dead when it is apart from a spirit, in the same way the genuine sort of faith apart
+        from works is dead too.<verse eid="JAS 2:26" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="JAS 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="JAS 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 3:1" />There should not be a lot of you becoming instructors, my comrades, knowing that we’ll be held to a higher
+        standard. <verse eid="JAS 3:1" />
+      <verse number="2" style="v" sid="JAS 3:2" />You see, we all mess up or fall short in many ways. If a given person doesn’t mess up in speech, that
+        fellow has got his act together, able to reign in his entire body as well. <verse eid="JAS 3:2" />
+      <verse number="3" style="v" sid="JAS 3:3" />Now we stick bits in the mouths of horses in order to prevail upon them to do our bidding, and in doing
+        so we guide their entire bodies. <verse eid="JAS 3:3" />
+      <verse number="4" style="v" sid="JAS 3:4" />Ships too, for example, are gigantic and are propelled by stiff breezes, guided by the smallest thing
+        imaginable—a rudder—in whatever heading the helmsman selects. <verse eid="JAS 3:4" />
+      <verse number="5" style="v" sid="JAS 3:5" />Analogous to this, the tongue is a small part of a much larger unit and makes outrageous remarks.
+    </para>
+    <para style="p" vid="JAS 3:5">I’m telling you what, it’s like they say: “Just a tiny flame can set even an enormous forest on fire.”<verse eid="JAS 3:5"/>
+      <verse number="6" style="v" sid="JAS 3:6" />And the tongue is a flame indeed, an elaborate mechanism of wrong-doing—the tongue occupies a position
+        of preeminence among our body parts—the defiler of the entire body and stoker of the Merry-go-round of
+        Life—and is itself stoked by hell.<verse eid="JAS 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 3:7" />In fact, human beings by nature tame wild animals. All sorts—land, aquatic, reptilian—are in the process
+        of being tamed and have been tamed, <verse eid="JAS 3:7" />
+      <verse number="8" style="v" sid="JAS 3:8" />but not a single person can tame the restless, unstable tongue, full of deadly poison. <verse eid="JAS 3:8" />
+      <verse number="9" style="v" sid="JAS 3:9" />With it we thank the Father-God and with it we swear at our fellow man, those who have been created in
+        the image of God. <verse eid="JAS 3:9" />
+      <verse number="10" style="v" sid="JAS 3:10" />Out of the same mouth come thanksgiving and cussing. This is not the way it’s supposed to be, my comrades.<verse eid="JAS 3:10" />
+      <verse number="11" style="v" sid="JAS 3:11" />Non-contaminated and contaminated water doesn’t pour out of the same spring, now does it? <verse eid="JAS 3:11" />
+      <verse number="12" style="v" sid="JAS 3:12" />It’s not possible, my comrades, for a fig tree to yield olives or a grape vine figs, or for a water source
+        to produce both salt water and fresh water, is it?<verse eid="JAS 3:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 3:13" />Who among you is wise and understanding? Let him display his deeds which come from the good conduct of
+        one who follow’s God’s commandments in wisdom’s gentleness. <verse eid="JAS 3:13" />
+      <verse number="14" style="v" sid="JAS 3:14" />But if you have bitter jealousy and rivalry in your heart, don’t distort the truth by bragging and lying.<verse eid="JAS 3:14" />
+      <verse number="15" style="v" sid="JAS 3:15" />This is not the same wisdom which comes from the spiritual world where God lives, but is the cunning-sort
+        of wisdom which is among other things ruthlessly pragmatic, psychopathic, and diabolic. <verse eid="JAS 3:15" />
+      <verse number="16" style="v" sid="JAS 3:16" />The fact is, where jealousy and rivalry exist, there is turmoil, and every bad thing imaginable is done.<verse eid="JAS 3:16" />
+      <verse number="17" style="v" sid="JAS 3:17" />But the wisdom from the spiritual world where God lives is pure and innocent, then on top of that is
+        peaceful, considerate, reasonable, full of mercy, and without pretense. <verse eid="JAS 3:17" />
+      <verse number="18" style="v" sid="JAS 3:18" />The end-result where everything turns out right has its origins in peace by those who put peace into
+        practice.<verse eid="JAS 3:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="JAS 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="JAS 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 4:1" />Where do the long, drawn-out quarrels and fights among you come from? Is it not from the pleasurable
+        carnal impulses which are a component of your human nature, enlisted in a war against you? <verse eid="JAS 4:1" />
+      <verse number="2" style="v" sid="JAS 4:2" />You desire but don’t have anything to show for it—murder and covet but don’t attain—fight and have long,
+        drawn-out quarrels—You don’t have on account of you not asking. <verse eid="JAS 4:2" />
+      <verse number="3" style="v" sid="JAS 4:3" />You ask and don’t receive because you ask with bad intentions, asking for something for the purpose of
+        spending it on your carnal impulses. <verse eid="JAS 4:3" />
+      <verse number="4" style="v" sid="JAS 4:4" />Spiritual adulterers, don’t you know that a close friend of the world (i.e. the ungodly society of mankind)
+        is pitted against God? So now, he who wishes he were the world’s close friend puts himself in a position
+        where he’s God’s enemy. <verse eid="JAS 4:4" />
+      <verse number="5" style="v" sid="JAS 4:5" />Or do you think that the verse of Scripture which says “The Spirit that has taken up residence in us
+        and among us jealously longs and desires for hearts turned towards Him” is a waste of time?<verse eid="JAS 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="JAS 4:6" />Now the Bible lets us off the hook all the more; owing to this it says,
+    </para>
+    <para style="pi" vid="JAS 4:6"></para>
+    <para style="pi" vid="JAS 4:6">God takes a stance against the arrogant, proud, and haughty</para>
+    <para style="pi" vid="JAS 4:6">But He lets the humble and abased off the hook<verse eid="JAS 4:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 4:7" />So submit to God. Take a stand against the devil and he’ll run away from you. <verse eid="JAS 4:7" />
+      <verse number="8" style="v" sid="JAS 4:8" />Draw closer to God, and He’ll draw closer to you. Purge your life from wrong-doing, sinners, and set
+        your hearts apart from impurity and make them holy, you who are double-minded. <verse eid="JAS 4:8" />
+      <verse number="9" style="v" sid="JAS 4:9" />Recognize your deplorable moral and spiritual condition and become wretched and miserable over it; become
+        deeply sorrowful similar to the way you would mourn the death of a loved one, and weep. Have your laughter
+        turn into deep sorrow and your joy into gloom. <verse eid="JAS 4:9" />
+      <verse number="10" style="v" sid="JAS 4:10" />Humble and abase yourself before the Lord, and he will uplift and exalt you.<verse eid="JAS 4:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="JAS 4:11" />Don’t put others down while talking, comrades. He who puts a comrade down or draws conclusions about
+        his comrade so as to write him off trashes the rules that govern us and writes them off by his speech.
+        Now if you write a set of rules off, you’re not a practitioner of the rule-set but instead are a person
+        who decides if the rules themselves are right or wrong. <verse eid="JAS 4:11" />
+      <verse number="12" style="v" sid="JAS 4:12" />There’s only One who’s lawgiver and decider, He who’s able to preserve and destroy. Who do you think
+        you are, you who writes off those around you regularly?<verse eid="JAS 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 4:13" />Come on now, those of you who say “Today or maybe even tomorrow we’ll go to such-and-such town, spend
+        a year there engaged in business, and turn a profit.” <verse eid="JAS 4:13" />
+      <verse number="14" style="v" sid="JAS 4:14" />You all are the very people who don’t understand how your lives will turn out given the ups and downs
+        that tomorrow brings. You see, you’re a wisp of steam that appears for a little while then vanishes.<verse eid="JAS 4:14" />
+      <verse number="15" style="v" sid="JAS 4:15" />Instead, the statement you should make is, “If it happens to be the Lord’s will, and if we’re still alive,
+        we’ll do this-or-that.” <verse eid="JAS 4:15" />
+      <verse number="16" style="v" sid="JAS 4:16" />You’re vaunting at the present time by your pretentious, ostentatious swagger. All such vaunting is evil.<verse eid="JAS 4:16" />
+      <verse number="17" style="v" sid="JAS 4:17" />So it’s a sin for him who knows to do good not to do it.<verse eid="JAS 4:17" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="JAS 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="JAS 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="JAS 5:1" />Come on now, you rich people who act like the stereotypical rich, weep and wail over the miseries that
+        assail you. <verse eid="JAS 5:1" />
+      <verse number="2" style="v" sid="JAS 5:2" />Your wealth has rotted and your fancy clothes have been eaten by moths. <verse eid="JAS 5:2" />
+      <verse number="3" style="v" sid="JAS 5:3" />Your hoard of gold and silver has corroded, and its corrosion will show you just how guilty you are and
+        eat you alive as though being burned at the stake: you’ve stashed valuables away in this era in which
+        God is doing the great things He promised He’d do. <verse eid="JAS 5:3" />
+      <verse number="4" style="v" sid="JAS 5:4" />Take a look—the wages which you’ve withheld from the workers scything your grain fields cry out, and
+        these outcries have secured the attention of the Great Unseen Army Chief of Staff, and He is favorably
+        disposed to wage war on the workers’ behalf. <verse eid="JAS 5:4" />
+      <verse number="5" style="v" sid="JAS 5:5" />You have lived the life of luxury in the midst of the going-ons of this life and have indulged in every
+        pleasure. You fattened your hearts in a day of slaughter (i.e., just like a cow is fed extra grain to
+        fatten it up right before it’s slaughtered, your heart has been fed and has become fat and is well-primed
+        to be slaughtered during this present cattle-slaughter season). <verse eid="JAS 5:5" />
+      <verse number="6" style="v" sid="JAS 5:6" />You condemned—you MURDERED—the righteous. They don’t even try to fight you off.<verse eid="JAS 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="JAS 5:7" />So be patient, comrades, until the Lord appears on the scene. Take a look at how your typical farmer
+        awaits the valuable crop that the soil produces, how he applies patience through the course of it all,
+        ultimately getting the Planting Rains and the Harvesting Rains. <verse eid="JAS 5:7" />
+      <verse number="8" style="v" sid="JAS 5:8" />You too be patient, make your hearts resolute, because the Lord is getting closer and closer to coming.<verse eid="JAS 5:8" />
+      <verse number="9" style="v" sid="JAS 5:9" />Don’t groan at each other in exasperation, comrades, so that you not be judged. Take a look—the judge
+        is waiting for someone to give him the nod to take action. <verse eid="JAS 5:9" />
+      <verse number="10" style="v" sid="JAS 5:10" />For example, comrades, take a look at the suffering of the prophets, who spoke with the mouth of the
+        Lord. <verse eid="JAS 5:10" />
+      <verse number="11" style="v" sid="JAS 5:11" />There you have it: blessed are they who endure. You heard about the endurance of Job and saw how the
+        Lord’s dealings with him turned out, that He was full of pity and was compassionate too.<verse eid="JAS 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="JAS 5:12" />Now first and foremost, my dear comrades, don’t swear oaths: don’t pledge any oath by the sky (including
+        heaven itself) nor by the earth. Let a simple “yes” be your yes-answer, and simple “no” be your no-answer,
+        in order not to incur a tremendous burden of guilt.<verse eid="JAS 5:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="JAS 5:13" />Is anyone among you enduring hardship?—Have him pray. Anyone cheerful?—Have him sing for joy. <verse eid="JAS 5:13" />
+      <verse number="14" style="v" sid="JAS 5:14" />Anyone run-down with a malady of some sort?—Have him summon the church governing board, have them pray
+        over him after rubbing oil on him (or coating him in oil) acting under the authority of the Lord, <verse eid="JAS 5:14" />
+      <verse number="15" style="v" sid="JAS 5:15" />and the prayer of faith will restore the health of the one who’s ill, and the Lord will get him back
+        on his feet and going. And if he has committed sins, he’ll be forgiven.<verse eid="JAS 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="JAS 5:16" />Confess your sins out loud to each other, comrades, and pray for each other, in order to be healed. The
+        prayer of a righteous man is capable of accomplishing a lot. <verse eid="JAS 5:16" />
+      <verse number="17" style="v" sid="JAS 5:17" />Elijah was a person who experienced the same emotions that we do and prayed a tremendous prayer that
+        it wouldn’t rain, and it didn’t rain all over the place for three and a half years. <verse eid="JAS 5:17" />
+      <verse number="18" style="v" sid="JAS 5:18" />He prayed again and the sky issued forth rain, and out of the ground sprouted the plants that the Earth
+        produces.<verse eid="JAS 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="JAS 5:19" />My dear comrades: if any person should wander from the truth and someone were to get him back on track,<verse eid="JAS 5:19" />
+      <verse number="20" style="v" sid="JAS 5:20" />let him know that the person who gets a sinner back on track and away from a path of wandering from the
+        truth will rescue his psychological well-being (and perhaps even his very life) from waste, ruin, destruction,
+        and worthlessness and covers a multitude of sins.<verse eid="JAS 5:20" />
+    </para>
+  <chapter eid="JAS 5" />
+</usx>

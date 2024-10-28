@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2CO" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">2 Corinthians</para>
+  <para style="toc1">The Epistle of 2 Corinthians</para>
+  <para style="toc2">2 Corinthians</para>
+  <para style="toc3">2 Cor.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 CORINTHIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">If it wasn’t enough that Paul wrote his longest epistle (slightly longer than Romans by verse count),
+    he writes a second—and not a short one either. How did the Corinthians merit two lengthy epistles, whereas
+    the Ephesians or Philippians did not?</para>
+  <para style="ipi">And based on what Paul wrote in the first letter, does the second show any signs that the Corinthians
+    improved? Is the second epistle a part II of the first? No, the tone that the letter begins in is completely
+    different, as Paul repeatedly uses words like suffering, tribulation, and consolation in the first chapter.
+    The second chapter finds Paul expressing sorrow; the sting from the first letter is apparent. Is the
+    sting mutual, as the second epistles describes the anguish, sorrow, and even tears Paul underwent as
+    he penned the first? But the end of the book is telling: Paul says “the more I love you, the less I’m
+    loved” (12:15).</para>
+  <para style="ipi">Of all the churches Paul founded, the Corinthian was not the most spiritual, but as it is true of a parent
+    of several children whose favorite child is not the one who’s the best behaved, so it is with Paul and
+    the Corinthians, as the volume he wrote to this church, the extremes of emotion, surpass the other churches.</para>
+  <para style="ipi">In the first epistle to the Corinthians, Paul gives a hint here, a detail there, of the difficulties
+    he faces. But in this second epistle, as Paul progresses through the letter, his allusions become sentences,
+    then the sentences become paragraphs. This culminates in the twelfth chapter as he talks about his “thorn
+    in the flesh”—an oft misinterpreted passage.</para>
+  <para style="ipi">The Greek text is from one who has full command of the language, unlike the Gospels or like John’s writing.
+    The writer was educated, the recipients were as well. Many times a more uncommon word was chosen when
+    a simple word would have sufficed. But there is none of the awkwardness one finds, for example, in James
+    or in the Gospels. The writing is fluid, howbeit with words and phrases omitted for brevity, like one
+    does when texting on a phone. This is one of the more challenging NT books translate, ranking alongside
+    Jude, but that also makes it one of the most satisfying.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2CO 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 1:1" />Paul, an apostle of Christ Jesus by God’s will, and <char style="it">his fellow </char>comrade<char style="sup">[a]</char>
+        Timothy—</para>
+    <para style="p" vid="2CO 1:1">To the church of God that is in Corinth, joined by the saints (i.e., God’s people) who are all over Achaia:<verse eid="2CO 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 1:2" />Grace and peace to you from God our Father and <char style="it">the </char>Lord Jesus Christ.<verse eid="2CO 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2CO 1:3" /><char style="it">Give </char>praise <char style="it">to the </char>God and Father of our Lord Jesus Christ,
+        the Originator<char style="sup">[b]</char> of all sorts of<char style="sup">[c]</char> compassion and
+        of advice, encouragement, and consolation, <verse eid="2CO 1:3" />
+      <verse number="4" style="v" sid="2CO 1:4" />which consoles, etc. us in all of our distresses<char style="sup">[d]</char>, resulting in our ability
+        to console those in all kinds of distresses<char style="it"> </char>with the same consolation with which
+        we’re being consoled by God. <verse eid="2CO 1:4" />
+      <verse number="5" style="v" sid="2CO 1:5" />Just as Christ’s sufferings proliferate to us, in the same way through Christ the consolation we <char
+        style="it">receive</char> proliferates as well. <verse eid="2CO 1:5" />
+      <verse number="6" style="v" sid="2CO 1:6" />Whether we’re being pressured, <char style="it">it’s </char>for the sake of your consolation and salvation
+        (i.e., your being rescued from spiritual, moral, mental, and physical calamity); whether we’re being
+        consoled, <char style="it">it’s </char>for the sake of your consolation, a consolation which is accomplished
+        by enduring the same sufferings which we too suffer. <verse eid="2CO 1:6" />
+      <verse number="7" style="v" sid="2CO 1:7" />And the hope which we have for you—our hope <char style="it">is </char>firm, fixed in the observation
+        that as you are joint participants of the sufferings <char style="it">which we suffer</char>, in the
+        same way <char style="it">you are joint participants </char>of the consolation as well.<verse eid="2CO 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 1:8" />In this regard, we don’t want you to be left in the dark, comrades, about the extreme difficulties we
+        experienced in <char style="it">the Roman province of </char>Asia, that we were overloaded and overwhelmed
+        to the point that we lost the will to live. <verse eid="2CO 1:8" />
+      <verse number="9" style="v" sid="2CO 1:9" />Anyways, <char style="it">deep </char>inside ourselves we concluded that we were doomed to die<char style="sup">[e]</char>,
+        so we reached the point where we couldn’t be convinced that our own abilities <char style="it">would
+        save us</char>, but <char style="it">were convinced</char> that the God who raises the dead <char style="it">would
+        do so </char>instead: <verse eid="2CO 1:9" />
+      <verse number="10" style="v" sid="2CO 1:10" />He Who rescued us from a narrow brush with death<char style="sup">[f]</char>—and rescues us <char style="it">continuously</char>—we
+        set our hope in Him that He’ll rescue <char style="it">us </char>yet again, <verse eid="2CO 1:10" />
+      <verse number="11" style="v" sid="2CO 1:11" />while you too were joining in lending a helping hand by the prayers that you prayed for us, so that the
+        outcome of the stances, disposition, and full attention of many people<char style="sup">[g]</char> is
+        that the mercy and kindness shown to us would be thanked by many on our behalf.<verse eid="2CO 1:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 1:12" />You see, our proud talk and bold claims<char style="sup">[h]</char> are on par with the solemn declaration
+        of our conscience, since the lifestyle we led in the world (i.e., among those who aren’t believers) was
+        by God’s simplicity and sincerity, not by the wisdom of flesh (i.e., by the cunning shrewdness of our
+        own ability apart from God tainted by the carnal nature) but by God’s grace instead—<char style="it">and
+        that lifestyle was </char>all the more <char style="it">so </char>with you. <verse eid="2CO 1:12" />
+      <verse number="13" style="v" sid="2CO 1:13" />In fact we’re writing to you nothing other than what you’re reading <char style="it">to the congregation
+        </char>or what you’re coming to understand, but I hope that you continue to gain an exact understanding
+        until it’s all said and done<char style="sup">[i]</char>, <verse eid="2CO 1:13" />
+      <verse number="14" style="v" sid="2CO 1:14" />just as you also gained an understanding of us, at least<char style="it"> </char>partially, that we are
+        <char style="it">the reason for </char>your proud talk and bold claims just as you too <char style="it">will
+        be </char>ours in the Day of the Lord Jesus (i.e., when he’s revealed in the fullness of his might).<verse eid="2CO 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2CO 1:15" />We formed a long-term desire for this, for what we’ve reached the point where we’re convinced is<char
+        style="it"> </char>the thing that we want to do more than anything else, <char style="it">namely </char>to
+        go visit you, so that you would get a second grace (i.e., a second impartation of our face-to-face ministry),<verse eid="2CO 1:15" />
+      <verse number="16" style="v" sid="2CO 1:16" />and to continue on our journey through your <char style="it">city</char> to Macedonia, to <char style="it">resume
+        </char>the journey going from Macedonia <char style="it">back </char>to your <char style="it">city</char>
+        again, and to be sent forth by you (i.e., depart fully rested, provisioned, and in good spirits—all on
+        account of the your generosity and hospitality) to the Jews in Judea.<verse eid="2CO 1:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 1:17" />So then, was this plan treated with a nonchalant thought-process? Or what I’m planning, I’m planning
+        according to flesh (i.e., from my own self apart from God, according to my own needs, and somewhat tainted
+        to feed my carnal appetite), so that it would be “the yes-yes and the no-no” with me (i.e., I’d vacillate
+        or renege on what I planned or promised to do)? <verse eid="2CO 1:17" />
+      <verse number="18" style="v" sid="2CO 1:18" />But—by God—trust me<char style="sup">[j]</char> that the statements we made to you aren’t “<char style="it">the
+        yes</char>-yes and <char style="it">the no</char>-no.” <verse eid="2CO 1:18" />
+      <verse number="19" style="v" sid="2CO 1:19" />To this point, God’s son Jesus Christ, who through us has been preached among you—through me, Siloam,
+        and Timothy—hasn’t wound up being “<char style="it">the yes</char>-yes and <char style="it">the no</char>-no,”
+        but rather has wound up being “yes” in him. <verse eid="2CO 1:19" />
+      <verse number="20" style="v" sid="2CO 1:20" />For as many promises as there are from God, in him they are <char style="it">all</char> “yes” (i.e.,
+        no vacillating or reneging on them), and in light of this through him <char style="it">is </char>also
+        the Amen (i.e., the acknowledgement of the finality of a matter; the familiar profession to God of “Let
+        it be so”) to God with glory through us. <verse eid="2CO 1:20" />
+      <verse number="21" style="v" sid="2CO 1:21" />God’s establishing us together with you in Christ and anointed us. <verse eid="2CO 1:21" />
+      <verse number="22" style="v" sid="2CO 1:22" />He also stamped us with His seal of approval<char style="sup">[A]</char> and gave us the down payment<char
+        style="sup">[B]</char> of the Spirit in our hearts.<verse eid="2CO 1:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="2CO 1:23" />I swear to God—cross my heart and hope to die<char style="sup">[k]</char>—that it was to spare you that
+        I no longer went to Corinth— <verse eid="2CO 1:23" />
+      <verse number="24" style="v" sid="2CO 1:24" />not that we act in a domineering manner towards you of the Faith—no—we work together as helpers<char
+        style="sup">[l]</char> of your grace: for you have stood by faith.<verse eid="2CO 1:24" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrade</char>…Lit: <char style="it">brother</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">Originator</char>…Lit: <char style="it">Father</char>. This has a dual meaning: both
+        God the Father and Someone who creates.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">all sorts of</char>…Lit: <char style="it">all</char>. A figure of speech. Use of the
+        word <char style="it">all </char>figuratively also occurs 1 Tim. 6:10.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">distresses</char>…Also: <char style="it">tribulations</char>; <char style="it">extremely
+        difficult circumstances</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">we concluded that we were doomed to die</char>…Lit: <char style="it">we had the sentence</char>
+        [or <char style="it">diagnosis</char>] <char style="it">of death. </char>Appears to be an expression
+        or idiom.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">from a narrow brush with death</char>…Lit: <char style="it">out of a great death</char>.
+        Appears to be an expression.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the outcome of the stances, disposition, and full attention of many people</char>…Lit:
+        <char style="it">out of many faces</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">proud talk and bold claims</char>…Lit: <char style="it">boasting</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">until it’s all said and done</char>…Lit: <char style="it">until</char> [<char style="it">the</char>]
+        <char style="it">end</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">by God—trust me</char>…Lit: <char style="it">God</char> [<char style="it">be</char>]
+        <char style="it">faithful</char>. This appears to be an idiom.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">I swear to God—cross my heart and hope to die</char>…Lit: <char style="it">I call upon
+        witness-God upon my soul</char>. Some liberties taken.</char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">work together as helpers</char>…Lit: <char style="it">fellow workers</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">stamped us with His seal of approval</char>…Lit: <char style="it">sealed us. </char>Seals
+        were used in ancient times the same way they are today, howbeit for the occasional different application.
+        A messenger who was assigned the task of delivering a papyrus scroll with a message written on it to
+        a remote destination was handed a scroll which was sealed. The sealing more than likely was a hot wax
+        dripped across the overlapping edges of the scroll, so that when the wax cooled and hardened, the scroll
+        couldn’t be opened and read without irreparably breaking the wax seal—similar to how an envelope, once
+        opened, cannot be closed again and how, if it was opened, it would be apparent. In addition, the wax,
+        while still hot, was stamped with a stamp or a signet ring which had a detailed image etched into it
+        which became imprinted into the wax, so that the cooled wax retained this image. The receiver would inspect
+        the image to make sure it was genuine, as only a limited set of stamps or signet rings would be made.
+        The receiver would be ensured that the document was genuine, not a forgery from an imposter, as a potential
+        imposter, though capable of writing a forgery, could not (at least easily) make a duplicate of the stamp
+        or signet ring.</char>
+      <char style="fp"></char>
+      <char style="ft">So now, as Paul uses the word <char style="it">seal</char> a few times in his epistles, what he’s referring
+        to is this:</char>
+      <char style="fp"></char>
+      <char style="ft">1. God has placed his stamp of approval on something</char>
+      <char style="fp"></char>
+      <char style="ft">2. The thing God stamped is genuine, valuable, and special</char>
+      <char style="fp"></char>
+      <char style="ft">3. Any third party, someone other than God the stamper and the person being sealed, upon examination
+        will be able to recognize that such a stamp is indeed from God</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">down payment</char>…Also: <char style="it">collateral</char>…Lit: <char style="it">surety;
+        pledge. </char>As seen in the OT (one example is Prov. 6:1–5), loans were secured with collateral, so
+        a person who needed to borrow a small amount of cash for a day or two could leave his cloak with the
+        person who lends him the money as collateral. Now on a few occasions Paul in his epistles states that
+        the Holy Spirit is given to us like collateral for a loan. What he means is:</char>
+      <char style="fp"></char>
+      <char style="ft">1. God hands us something immediately with the promise He’ll “repay” us with something greater in the
+        future. In other words, the Holy Spirit is God’s guarantee to us that He’ll give us something greater
+        in the future</char>
+      <char style="fp"></char>
+      <char style="ft">2. The Holy Spirit is something we get to hold onto and make use of in the meantime</char>
+      <char style="fp"></char>
+      <char style="ft">3. The Holy Spirit will never—can never—be taken away from us, as he is “surety”</char>
+    </note>
+  <chapter eid="2CO 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2CO 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 2:1" />Getting to the point, I made up my mind that I wouldn’t visit you again while laden with the pains of
+        sorrow. <verse eid="2CO 2:1" />
+      <verse number="2" style="v" sid="2CO 2:2" />In fact, if I’m making you feel sorry, who in particular will cheer me up apart from the one I made feel
+        sorry? <verse eid="2CO 2:2" />
+      <verse number="3" style="v" sid="2CO 2:3" />The very thing I wrote, I wrote so that I wouldn’t come for a visit and wind up being made sorry<char
+        style="sup">[a]</char> by the ones I ought to rejoice over, as my nearness to you all has convinced me
+        that my joy is derived from you all. <verse eid="2CO 2:3" />
+      <verse number="4" style="v" sid="2CO 2:4" />In fact, what I wrote to you through many tears came out of a great deal of distress and heart-felt anguish,
+        not so that it would cause you sorrow, but so that you’d understand the abundant love which I have for
+        you.<verse eid="2CO 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 2:5" />If a certain person has caused sorrow, he hasn’t caused me sorrow (<char style="it">actually </char>no,
+        <char style="it">he has </char>partially), so I won’t dump<char style="sup">[b]</char> <char style="it">any
+        more of this</char> on you all. <verse eid="2CO 2:5" />
+      <verse number="6" style="v" sid="2CO 2:6" />The very punishment <char style="it">inflicted </char>by the many is enough for such a person, <verse eid="2CO 2:6" />
+      <verse number="7" style="v" sid="2CO 2:7" />so that on the flip-side, you <char style="it">should be</char> all the more kind and merciful <char
+        style="it">to him </char>and comfort and encourage <char style="it">him</char>, <char style="it">so that</char>
+        such a person not somehow be deluged with even more sorrow. <verse eid="2CO 2:7" />
+      <verse number="8" style="v" sid="2CO 2:8" />In light of this I advise you to broadcast<char style="sup">[c]</char> love to him. <verse eid="2CO 2:8" />
+      <verse number="9" style="v" sid="2CO 2:9" />In fact, another reason I wrote is so that I could discern if you live up to my standards, <char style="it">that
+        is </char>if you obey everything you’re told. <verse eid="2CO 2:9" />
+      <verse number="10" style="v" sid="2CO 2:10" />Now if you forgive <char style="it">somebody of </char>something, so do I; you see, if in addition <char
+        style="it">to you </char>I <char style="it">forgave somebody of something</char>, what I’ve forgiven
+        (assuming there’s something I’m forgiving), <char style="it">I did so </char>through you under the scrutiny<char
+        style="sup">[d]</char> of Christ, <verse eid="2CO 2:10" />
+      <verse number="11" style="v" sid="2CO 2:11" />so that we won’t be swindled by Satan: we are not ignorant of his intentions, you see.<verse eid="2CO 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 2:12" />Now that I’ve arrived at Troas for the purpose of spreading the Gospel of Christ (i.e., the good news
+        about Christ), a door has been opened to me in the Lord (i.e., in regard to the things of the Lord, a
+        tremendous opportunity has presented itself to me), <verse eid="2CO 2:12" />
+      <verse number="13" style="v" sid="2CO 2:13" />I was uncomfortable<char style="sup">[e]</char> in my spirit not finding my fellow-comrade<char style="sup">[f]</char>
+        Titus, so instead I excused myself, said goodbye to them, and left for Macedonia.<verse eid="2CO 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 2:14" />But thank-you God, Who always makes us roadies on Christ’s victory tour<char style="sup">[A]</char>,
+        and Who’s propagating the fragrance of his knowledge<char style="sup">[g]</char> through us in all regions,<verse eid="2CO 2:14" />
+      <verse number="15" style="v" sid="2CO 2:15" />since in God we are a pleasant<char style="sup">[h]</char> aroma (<char style="it">like the incense they
+        burned in the Old Testament, or the pleasing smell of a burnt offering</char>) of Christ among those
+        being saved (i.e., those being rescued from calamity) and among those perishing; <verse eid="2CO 2:15" />
+      <verse number="16" style="v" sid="2CO 2:16" />we who on the one hand <char style="it">are </char>a whiff <char style="it">of going </char>from death
+        to <char style="it">even more </char>death<char style="sup">[B]</char>, and on the other hand <char style="it">are
+        </char>a whiff <char style="it">of going </char>from life to <char style="it">even more </char>life—and
+        that’s not good enough for some people? <verse eid="2CO 2:16" />
+      <verse number="17" style="v" sid="2CO 2:17" />You see, we’re not like so many <char style="it">other preachers </char>who hustle<char style="sup">[i]</char>
+        the word of God—no—<char style="it">we preach the Gospel </char>like it’s coming from someone who’s sincere
+        through-and-through<char style="sup">[j]</char>—no—we speak <char style="it">the word of God </char>in
+        Christ like it’s coming directly from God <char style="it">while</char> <char style="it">we</char> <char
+        style="it">stand</char> before God<char style="sup">[k]</char>.<verse eid="2CO 2:17" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">wind up being made sorry</char>…Lit: <char style="it">have sorrow</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">dump</char>…<char style="it">on you</char>…Lit: <char style="it">burden you</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">broadcast</char>…Lit: <char style="it">preach</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">under the scrutiny of</char>…Lit: <char style="it">in the face of</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">I was uncomfortable</char>…Also: <char style="it">I remained ill at ease</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">my fellow-comrade</char>…Lit: <char style="it">my brother</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">fragrance of his knowledge</char>…A well-crafted metaphor, one which is continued in
+        the next couple of verses</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">pleasant</char>…Or<char style="it">: sweet-smelling</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">hustle</char>…The meaning of this Gk. word is “trade in, peddle, huckster.” It refers
+        to “the tricks of small tradesmen,” so “…the word almost comes to mean <char style="it">adulterate” </char>(Danker
+        &amp; Bauer).</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">like it’s coming from someone who’s sincere through-and-through</char>…Lit: <char style="it">as
+        out of sincerity</char>. An idiom.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">we speak the word of God in Christ like it’s coming directly from God while we stand
+        before God</char>…Lit: <char style="it">as from out of God before God in Christ we speak</char>. Same
+        idiom as before.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">makes us roadies on Christ’s victory tour</char>…Or: <char style="it">leads us around
+        in a triumphal procession in Christ</char>. Some liberties taken. The single Gk. word used here refers
+        to the following: In Roman times, generals returned from a battlefield victory in a procession and led
+        the procession through the capitol. The triumphal general and his lieutenants formed the vanguard of
+        the procession; those in the defeated enemy’s army, including women and children, were bound and formed
+        the rear of the procession, being led to the city to be sold as slaves. The analogy is that we are a
+        part of the procession, though I prefer to believe that we’re part of the vanguard and not the rear,
+        but that’s open to debate.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">a whiff of going from death to even more death</char>…<char style="it">from life to
+        even more life</char>…Lit: <char style="it">a smell out of death unto death</char>…<char style="it">out
+        of life unto life</char>. Same Gk. wording as is used in in Paul’s statement <char style="it">from faith
+        to faith </char>(Rom. 1:17), as this is the same expression. Similar to the English usage of <char style="it">whiff,
+        </char>the usage here means <char style="it">a living example; a glimpse</char>. Paul’s life and his
+        companions’ lives exemplify a life of death and, even more, of life and even more life. Paul goes into
+        detail about the death he’s referring to in the eleventh and twelfth chapters; but in the midst of this
+        Paul experiences more and more of the life of God.</char>
+    </note>
+  <chapter eid="2CO 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2CO 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 3:1" />Are <char style="it">my comrades and I</char> starting over again in doing self-promotion <char style="it">to
+        bolster your opinion of us</char>? Put another way, we’re not in need of letters of recommendation <char
+        style="it">to be sen</char>t to you or <char style="it">to be received</char> from you, like some people
+        do, are we? <verse eid="2CO 3:1" />
+      <verse number="2" style="v" sid="2CO 3:2" />You are our letter <char style="it">of recommendation</char>, written in our hearts, understood and read
+        by all people. <verse eid="2CO 3:2" />
+      <verse number="3" style="v" sid="2CO 3:3" />It’s plain for all to see that you are a letter of Christ transcribed and delivered<char style="sup">[a]</char>
+        by us; not written with ink, but with the Spirit of the Living God; not <char style="it">written </char>in
+        stone but <char style="it">written </char>in a flesh-heart.<verse eid="2CO 3:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2CO 3:4" />We’re convinced that we have such a thing through Christ with God— <verse eid="2CO 3:4" />
+      <verse number="5" style="v" sid="2CO 3:5" />Not that we’re up-to-par in and of ourselves to <char style="it">where we </char>figure that something
+        in particular <char style="it">which is good</char> was self-generated, but rather that our adequacy
+        <char style="it">comes</char> out of God, <verse eid="2CO 3:5" />
+      <verse number="6" style="v" sid="2CO 3:6" />Who also made us up-to-par ministers of a new covenant, not of <char style="it">the </char>letter (i.e.,
+        the literal, exacting listing of rules, compliance with those rules, and consequences for breaking them)
+        but of <char style="it">the</char> Spirit: for the letter kills, but the Spirit causes things to spring
+        into life.<verse eid="2CO 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 3:7" />Now if the administering of death, <char style="it">which was packaged</char> in letters etched<char
+        style="it"> </char>in stone, occurred in glory to the point that it wasn’t possible for the run-of-the-mill
+        Israelite<char style="sup">[b]</char> to gaze at Moses’s face because of the glory of his face—a glory
+        that was deteriorating <char style="it">no less</char>— <verse eid="2CO 3:7" />
+      <verse number="8" style="v" sid="2CO 3:8" />how much more will the administering of the Spirit be accompanied by<char style="sup">[c]</char> glory?<verse eid="2CO 3:8" />
+      <verse number="9" style="v" sid="2CO 3:9" />Furthermore, if <char style="it">there was</char> glory in the administering of condemnation, how much
+        more does the administering of righteousness exceed it in glory? <verse eid="2CO 3:9" />
+      <verse number="10" style="v" sid="2CO 3:10" />And furthermore, that which has been made glorious hasn’t been made glorious relative to<char style="sup">[d]</char>
+        the glory which surpasses it. <verse eid="2CO 3:10" />
+      <verse number="11" style="v" sid="2CO 3:11" />In fact, if <char style="it">the glory </char>which has been nullified has been nullified by glory, <char
+        style="it">the glory </char>which remains does so all the more in glory.<verse eid="2CO 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 3:12" />So having such hope, in our outspokenness and boldness we conceal nothing, <verse eid="2CO 3:12" />
+      <verse number="13" style="v" sid="2CO 3:13" />unlike Moses who placed a veil over his face so that the run-of-the-mill Israelites couldn’t gaze at
+        the vestige of <char style="it">the glory </char>that was deteriorating— <verse eid="2CO 3:13" />
+      <verse number="14" style="v" sid="2CO 3:14" />not a chance—their minds were dead-set against it<char style="sup">[e]</char>. In fact to this very day
+        the same veil remains uncovered at the reading of the Old Testament<char style="sup">[f]</char>, since
+        it’s done away with in Christ. <verse eid="2CO 3:14" />
+      <verse number="15" style="v" sid="2CO 3:15" />No—to this day whenever the Old Testament<char style="sup">[f]</char> happens to be read aloud a veil
+        lies over their heart, <verse eid="2CO 3:15" />
+      <verse number="16" style="v" sid="2CO 3:16" />but, if they were to turn to the Lord, the moment they do so, the veil gets taken off.<verse eid="2CO 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 3:17" />Now the Lord is <char style="it">in lockstep with </char>the Spirit, and there’s freedom where the Spirit
+        of the Lord <char style="it">is</char>. <verse eid="2CO 3:17" />
+      <verse number="18" style="v" sid="2CO 3:18" />While gazing at the glory of the Lord with an uncovered face as though we’re looking intently in a mirror,
+        we all are transformed into the same image <char style="it">going </char>from <char style="it">one gaze
+        of </char>glory to <char style="it">another gaze of even more </char>glory<char style="sup">[g]</char>,
+        just as <char style="it">we go </char>from <char style="it">one gaze of </char>the Spirit of the Lord
+        <char style="it">to another gaze of even more of the Spirit</char>.<verse eid="2CO 3:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">transcribed and delivered</char>…Lit: <char style="it">serviced</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">run-of-the-mill Israelite</char>…Lit: <char style="it">sons of Israel</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">accompanied by</char>…Or: <char style="it">in</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">relative to</char>…Lit: <char style="it">in this respect because of</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">dead-set against it</char>…Lit: <char style="it">hardened</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">the Old Testament</char>…Lit: <char style="it">the old covenant</char>…<char style="it">Moses</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">from one gaze of glory to another gaze of even more glory</char>…Lit<char style="it">:
+        from glory to glory</char>. Ref. note of 2:16.</char>
+    </note>
+  <chapter eid="2CO 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="2CO 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 4:1" />On account of this, <char style="it">that is of </char>having this administering <char style="it">of
+        righteousness</char>, to the degree that we’ve been shown mercy, we don’t lose heart— <verse eid="2CO 4:1" />
+      <verse number="2" style="v" sid="2CO 4:2" />on the contrary, we quit for good doing those things that we’re ashamed of that we keep hidden<char style="sup">[a]</char>,
+        not going here and there playing games with people<char style="sup">[b]</char>, nor putting a spin on<char
+        style="sup">[c]</char> the word of God, rather by means of the propagation of the truth we leave a good
+        impression deep inside of everyone else<char style="sup">[d]</char> <char style="it">while </char>under
+        God’s scrutiny<char style="sup">[e]</char>. <verse eid="2CO 4:2" />
+      <verse number="3" style="v" sid="2CO 4:3" />But even if our Gospel, our Good News Message, is veiled, it’s veiled among those who are perishing,<verse eid="2CO 4:3" />
+      <verse number="4" style="v" sid="2CO 4:4" />among whom the god of this age (i.e., this current era of mankind’s history) blinded the minds of those
+        who refuse to believe to where they don’t see the light of the Gospel of the glory of Christ, who is
+        a spitting image of God. <verse eid="2CO 4:4" />
+      <verse number="5" style="v" sid="2CO 4:5" />You see, we don’t preach <char style="it">that </char>we<char style="it"> </char>ourselves <char style="it">are
+        your superiors</char> but rather <char style="it">that </char>Jesus Christ <char style="it">is </char>Lord,
+        and <char style="it">that </char>we ourselves <char style="it">are </char>your humble servants<char style="sup">[f]</char>
+        on account of Jesus, <verse eid="2CO 4:5" />
+      <verse number="6" style="v" sid="2CO 4:6" />since the God Who said, “Light shall shine out of darkness,” <char style="it">is the One </char>Who shined
+        in our hearts with <char style="it">the </char>light of the knowledge and understanding of the glory
+        of God by means of the direct attention of<char style="sup">[g]</char> Jesus Christ.<verse eid="2CO 4:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 4:7" />We have this treasure in clay storage vessels (i.e., physical bodies) so that the over-and-above power
+        would be of God and not from ourselves. <verse eid="2CO 4:7" />
+      <verse number="8" style="v" sid="2CO 4:8" /><char style="it">We’re </char>pressured from every direction and in trouble, but no—we’re not at the
+        end of our rope<char style="sup">[h]</char>; confused as to what to do—but not totally confused; <verse eid="2CO 4:8" />
+      <verse number="9" style="v" sid="2CO 4:9" />persecuted but not abandoned; knocked off our feet but not destroyed; <verse eid="2CO 4:9" />
+      <verse number="10" style="v" sid="2CO 4:10" />always carrying around in our body the death of Jesus, so that the life of Jesus would also be manifested
+        in our body. <verse eid="2CO 4:10" />
+      <verse number="11" style="v" sid="2CO 4:11" />You see, we the living are forever being forced into a position where death has control over us because
+        of Jesus, so that the life of Jesus would also be manifested in our mortal body.<verse eid="2CO 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 4:12" />So then, the death <char style="it">I just described </char>is at work in us, but the life <char style="it">I
+        likewise described is at work</char> in you. <verse eid="2CO 4:12" />
+      <verse number="13" style="v" sid="2CO 4:13" />Having a spirit of (i.e., a prevailing attitude of) faith that’s the same as what’s written <char style="it">in
+        the Old Testament</char>, “I believed, and in light of it all<char style="it"> </char>I spoke,” we too
+        believe, and in light of it all we too speak, <verse eid="2CO 4:13" />
+      <verse number="14" style="v" sid="2CO 4:14" />knowing for a fact that He who raised the Lord Jesus will also raise us together with Jesus and together
+        with him cast us in a favorable light <char style="it">in God’s estimation</char><char style="sup">[i]</char>.<verse eid="2CO 4:14" />
+      <verse number="15" style="v" sid="2CO 4:15" />You see, all <char style="it">these </char>things are for your sake, so that the grace <char style="it">bestowed
+        on us</char>, having proliferated through the thanksgiving of the many, would abound to God’s glory.<verse eid="2CO 4:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 4:16" />In light of this we’re not losing heart; on the contrary, even though our outer-person is deteriorating,
+        yet our inner-person is being renewed day-in, day-out<char style="sup">[j]</char>. <verse eid="2CO 4:16" />
+      <verse number="17" style="v" sid="2CO 4:17" />To this point, the light weight of our affliction is incomparable to the heavy weight of glory at work
+        in us, <verse eid="2CO 4:17" />
+      <verse number="18" style="v" sid="2CO 4:18" />while we’re not looking at the things which are seen but the things that are not seen: for the things
+        which are seen are transient, but the things which are not seen are eternal.<verse eid="2CO 4:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">those things that we’re ashamed of that we keep hidden</char>…Lit: <char style="it">the
+        hidden things of shame</char>. A figure of speech.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">playing games with people</char>…Lit: <char style="it">in craftiness</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">putting a spin on</char>…Lit: <char style="it">falsifying</char>. Comes from root meaning
+        <char style="it">deceit; treachery.</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">we leave a good impression deep inside of everyone else</char>…Lit: <char style="it">commending
+        ourselves to all consciences of men</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">while under God’s scrutiny</char>…Lit: <char style="it">before God</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">humble servants</char>…Lit: <char style="it">slaves</char>. A figure of speech.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the direct attention of</char>…Lit: [<char style="it">the</char>] <char style="it">face
+        of</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">at the end of our rope</char>…Or: <char style="it">boxed in</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">cast us in a favorable light in God’s estimation</char>…Lit: <char style="it">present
+        us, </char>or, <char style="it">make us presentable</char>. The picture is of a person presenting himself
+        before a king, or someone presenting an offering at a temple. The implication is that the person or thing
+        presented will leave a good impression.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">day-in, day-out</char>…Lit: <char style="it">day and day</char></char>
+    </note>
+  <chapter eid="2CO 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="2CO 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 5:1" />In fact, we know for certain that if our Earth-suit<char style="sup">[a]</char> were to be demolished<char
+        style="sup">[b]</char>, we have a building from God—an eternal building, one that’s not of human construction—way
+        up in the sky<char style="sup">[c]</char>. <verse eid="2CO 5:1" />
+      <verse number="2" style="v" sid="2CO 5:2" />In connection to this we do groan, longing to put on (i.e., as though putting on a piece of clothing)
+        our home—our cozy cottage<char style="sup">[d]</char>—<char style="it">which comes </char>from heaven.<verse eid="2CO 5:2" />
+      <verse number="3" style="v" sid="2CO 5:3" />If we really have put on <char style="it">our eternal building</char><char style="sup">[A]</char>, we
+        won’t be caught naked. <verse eid="2CO 5:3" />
+      <verse number="4" style="v" sid="2CO 5:4" />Furthermore, we whose <char style="it">present form of </char>existence is with the Earth-suit do groan,
+        being encumbered<char style="sup">[e]</char>, the crux of which is that we don’t want to be stripped
+        of our garments but to be clothed instead, so that the death <char style="it">we carry about </char>would
+        be thoroughly dowsed by the life. <verse eid="2CO 5:4" />
+      <verse number="5" style="v" sid="2CO 5:5" />Now He Who did the necessary work in us to make this very thing happen to us is God, the One Who gave
+        us the down payment<char style="sup">[f]</char> of the Spirit.<verse eid="2CO 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2CO 5:6" />So keep your chin up—always—and know for certain that making yourselves at home in the body will leave
+        you far from home<char style="sup">[g]</char> with the Lord <verse eid="2CO 5:6" />
+      <verse number="7" style="v" sid="2CO 5:7" />(we go about our lives<char style="sup">[h]</char> by faith and not by sight, you see), <verse eid="2CO 5:7" />
+      <verse number="8" style="v" sid="2CO 5:8" />but with our chins held high and thinking positively, we’d rather be far from home in regard to the body
+        but make ourselves at home with the Lord. <verse eid="2CO 5:8" />
+      <verse number="9" style="v" sid="2CO 5:9" />And so whether at home or away from home, we aspire to be pleasing to him: <verse eid="2CO 5:9" />
+      <verse number="10" style="v" sid="2CO 5:10" />the fact of the matter is that every one of us must appear before the Judge, Christ the Judge, so that
+        each individual’s deeds, deeds which were committed by the body, whether they were good or bad—<char
+        style="it">all of them</char>—would be brought <char style="it">before the Judge to be judged by him</char>.<verse eid="2CO 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 5:11" />Now that we’ve acquired a firm understanding of the fear of the Lord, we convince <char style="it">other</char>
+        people <char style="it">to do the same</char>. We’ve been made manifest<char style="sup">[i]</char> to
+        God (i.e., we’ve presented ourselves before God), and I hope to reach the point where we’ve been made
+        manifest to your consciences as well— <verse eid="2CO 5:11" />
+      <verse number="12" style="v" sid="2CO 5:12" />Not that we’re trying to promote ourselves again<char style="sup">[j]</char>, but are giving you the
+        chance to talk proudly about us instead, so that you would have <char style="it">something good to say
+        </char>to those who take pride in and talk big about peoples’ behavior on the surface, or the masks people
+        present to others, and not what’s in the heart. <verse eid="2CO 5:12" />
+      <verse number="13" style="v" sid="2CO 5:13" />The fact of the matter is that if it’s the case that I’ve lost my mind, <char style="it">I’ve lost my
+        mind </char>for God; if it’s the case that I’m sane, <char style="it">I’m sane </char>for you. <verse eid="2CO 5:13" />
+      <verse number="14" style="v" sid="2CO 5:14" />The love of Christ has a tight grip on us, you see, and has determined <char style="it">that </char>this
+        <char style="it">is the case</char>: that one <char style="it">person </char>died in everyone’s place<char
+        style="sup">[k]</char> (therefore everyone died), <verse eid="2CO 5:14" />
+      <verse number="15" style="v" sid="2CO 5:15" />and he died in everyone’s place so that the living would no longer live for themselves but that they
+        would instead live for him who died and was raised in their place.<verse eid="2CO 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 5:16" />An outcome of all this is that, from now on, there’s nobody we form a perception of according to <char
+        style="it">the </char>flesh (i.e., according to a person’s physical body and outward appearance; his
+        limited ability in and of himself), even if we had come to know and understand Christ according to <char
+        style="it">the </char>flesh—but, no, we no longer know and understand <char style="it">him according
+        to the flesh</char>.<verse eid="2CO 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2CO 5:17" />An outcome of all this is that if someone is in Christ (melded with him: in him, with him, and living
+        life by means of him), he’s a new type of species, a new kind of creature, a new creation: the old has
+        come and gone<char style="sup">[l]</char> <char style="it">and</char>—get this—the new has come into
+        being<char style="sup">[B]</char>. <verse eid="2CO 5:17" />
+      <verse number="18" style="v" sid="2CO 5:18" />Now all <char style="it">these new </char>things <char style="it">are </char>from God, Who by Christ
+        reconciled us with Himself and gave us the Reconciliation Ministry, <verse eid="2CO 5:18" />
+      <verse number="19" style="v" sid="2CO 5:19" />that is that God was in Christ reconciling <char style="it">the </char>world (i.e., those who don’t know
+        and live for God) to Himself, not holding all the times they crossed over the line in doing wrong as
+        strikes against them<char style="sup">[m]</char>, and assigning to us <char style="it">the task of keeping
+        and spreading </char>the message of reconciliation. <verse eid="2CO 5:19" />
+      <verse number="20" style="v" sid="2CO 5:20" />So we’re ambassadors of Christ as we’re encouraging, exhorting, and advising <char style="it">others
+        </char>in matters pertaining to God. <char style="it">And this is the message we tell them: </char>“As
+        a representative of Christ I ask you—I beg you—to be reconciled to God. <verse eid="2CO 5:20" />
+      <verse number="21" style="v" sid="2CO 5:21" />He who had never consummated sin was made<char style="sup">[n]</char> sin on our behalf so that we would
+        become righteous of a nature of God’s righteousness<char style="sup">[C]</char> in him (melded with him:
+        in him, with him, and living life by means of him).”<verse eid="2CO 5:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">Earth-suit</char>…Lit: <char style="it">on-earth house of tent</char>. Some liberties
+        taken.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">demolished</char>…Lit: <char style="it">completely broken into pieces</char>. The word
+        describes breaking a stone edifice apart, as it’s the same root word Jesus used to describe the dispersal
+        of the stones of the Temple.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">way up in the sky</char>…Lit: <char style="it">in the heavens</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">our home—our cozy cottage</char>…The Gk. word here is a diminutive form of <char style="it">house</char>,
+        and as such acquires a connotation of coziness</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">encumbered</char>…Lit: <char style="it">weighed down</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">down payment</char>…Ref. note of 1:22</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">making yourself at home in the body will leave you far from home</char>…Lit (inserting
+        a couple of key Gk. words): <char style="it">endāmountos </char><char style="w" strong="G01736">ἐνδημέω</char>)<char
+        style="it">in the body ekdāmoumen </char><char style="w" strong="G01553">ἐκδημέω</char>). These two Gk.
+        words forms a rhyme, assonance, or pun, making this a figure of speech.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">go about our lives</char>…Lit: <char style="it">walk around</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">manifest</char>…The same Gk. verb is rendered <char style="it">appear</char> in v. 10,
+        and assuming that the reuse in v. 11 here links the two thoughts together, then what Paul means by “manifest”
+        in v. 11 is similar to its usage in v. 10, i.e. of appearing before a judge to have your deeds reviewed
+        and judged.</char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">Not that we’re trying to promote ourselves again</char>…Same wording as 3:1</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">in everyone’s place</char>…Also: <char style="it">on everyone’s behalf</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">come and gone</char>…Lit: <char style="it">passed by</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">not holding all the times they crossed over the line in doing wrong as strikes against
+        them</char>…Lit: <char style="it">not reckoning their trespasses to them</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">was made</char>…Lit: <char style="it">made</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">If we really have put on</char> <char style="it">our eternal building …</char>Or: <char
+        style="it">If we really have shed our clothing</char>….The UBS Greek NT, 3<char style="sup">rd</char>
+        Edition reads<char style="it"> shed our clothing</char> (also, <char style="it">undressed </char>or <char
+        style="it">stripped naked</char>);<char style="it"> </char>the photocopies of both Codex Vaticanus and
+        Codex Sinaiticus read <char style="it">put on </char>instead (and a translation of the Latin Vulgate
+        agrees), therefore most of the translators render this <char style="it">put on </char>and not <char style="it">undressed.
+        </char>One can only speculate if the UBS made a mistake here or if they changed the reading based on
+        “internal” considerations and didn’t footnote with a citation of the various manuscripts. The UBS reading
+        makes sense: assuming such a reading, the “undressing” referred to would be the same as “if our Earth-suit
+        were to be demolished” (v. 1). When the physical body is destroyed, we’ll be clothed with a heavenly
+        body, rather than being “found naked.”</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the new has come into being</char>…The KJV says “all things are become new.” The words
+        “all things” are not found in the better manuscripts.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">righteous of a nature of God’s righteousness</char>…Lit: [<char style="it">a</char>]
+        <char style="it">righteousness of God</char>. Noteworthy is that, in the GT, there’s no definite article
+        preceding <char style="it">righteousness. </char>This verse does not say we would become the righteousness
+        of God (insertion of definite article before <char style="it">righteous</char>), but that we would become
+        righteous in a way that our righteousness is of the same nature as God’s righteousness. This is a far
+        cry from becoming equivalent to God in His righteousness—which is an absurd proposition.</char>
+    </note>
+  <chapter eid="2CO 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="2CO 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 6:1" />Being those who work together <char style="it">to minister to others</char><char style="sup">[a]</char>,
+        we do plead with you to not take in God’s grace and have nothing to show for it. <verse eid="2CO 6:1" />
+      <verse number="2" style="v" sid="2CO 6:2" />In fact, <char style="it">the Old Testament </char>says,
+    </para>
+    <para style="pi" vid="2CO 6:2"></para>
+    <para style="pi" vid="2CO 6:2">I heard you just in time</para>
+    <para style="pi" vid="2CO 6:2">And I helped you</para>
+    <para style="pi" vid="2CO 6:2">That time you needed to be rescued<char style="sup">[b]</char></para>
+    <para style="pi" vid="2CO 6:2"></para>
+    <para style="m" vid="2CO 6:2">Hey! “Just in time” is now—Hey! “The time you needed to be rescued” is now.<verse eid="2CO 6:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2CO 6:3" />Don’t give anyone any reason to be seriously offended<char style="sup">[c]</char> <char style="it">by
+        something you did wrong</char>, so that the ministry <char style="it">of God’s grace</char> won’t be
+        criticized— <verse eid="2CO 6:3" />
+      <verse number="4" style="v" sid="2CO 6:4" />Uh-uh—leaving others with an impression that’s expected of<char style="it"> </char>God’s ministers, <char
+        style="it">and doing this </char>with a good deal of perseverance, <char style="it">doing this </char>in<char
+        style="it"> </char>times of distress, in times of privation, while in anguish, <verse eid="2CO 6:4" />
+      <verse number="5" style="v" sid="2CO 6:5" />while being whipped or beaten, while in prison, during riots, while doing hard, grueling work, in sleepless
+        nights, while going hungry; <verse eid="2CO 6:5" />
+      <verse number="6" style="v" sid="2CO 6:6" /><char style="it">doing this </char>with purity, with understanding, with patience, with kindness; <char
+        style="it">do this </char>in the Holy Spirit, in sincere love, <verse eid="2CO 6:6" />
+      <verse number="7" style="v" sid="2CO 6:7" />with a message of truth<char style="sup">[d]</char>, in <char style="it">the </char>power of God, by
+        being armed with the armor and weapons of righteousness that the left and right hands are accustomed
+        to handle<char style="sup">[e]</char>; <verse eid="2CO 6:7" />
+      <verse number="8" style="v" sid="2CO 6:8" />through glory and disgrace, through a bad reputation and a good reputation; as though we’re deceived
+        and as though we know the truth, <verse eid="2CO 6:8" />
+      <verse number="9" style="v" sid="2CO 6:9" />as though we’re not known or understood and as though we’re known and understood, as though we’re dying
+        but—hey—we’re <char style="it">still </char>alive; as though we’re being reprimanded but not sentenced
+        to death, <verse eid="2CO 6:9" />
+      <verse number="10" style="v" sid="2CO 6:10" />as though we’re in pain but ever rejoicing, as though we’re poor but becoming quite wealthy, as though
+        we own nothing but own everything.<verse eid="2CO 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 6:11" />We haven’t stopped engaging you in dialogue<char style="sup">[f]</char>, Corinthians; our heart is fixed<char
+        style="it"> </char>wide open <char style="it">to you</char>. <verse eid="2CO 6:11" />
+      <verse number="12" style="v" sid="2CO 6:12" />Don’t be closed off to us—but <char style="it">with</char> <char style="it">the sort of</char> “closed
+        off” <char style="it">which keeps us</char> in your tender affections. <verse eid="2CO 6:12" />
+      <verse number="13" style="v" sid="2CO 6:13" />When it’s your turn to reciprocate (I’m talking to you like I would to a child), open yourselves up <char
+        style="it">to us</char>.<verse eid="2CO 6:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 6:14" />Don’t get unevenly yoked (i.e., like an ox and a donkey yoked together on the same plow harness) with
+        unbelievers. What partnership is there between righteousness and lawlessness (i.e., the refusal to be
+        restrained by the rules of God or of man)? What do light and darkness have in common? <verse eid="2CO 6:14" />
+      <verse number="15" style="v" sid="2CO 6:15" />What harmony is there between Christ and the Devil<char style="sup">[g]</char>? How does a believer partake
+        in joint ventures with an unbeliever? <verse eid="2CO 6:15" />
+      <verse number="16" style="v" sid="2CO 6:16" />How does God’s temple approve of or validate <char style="it">an</char> idol’s <char style="it">temple</char>?
+        You are a temple of the Living God, in fact, just as God said,</para>
+    <para style="pi" vid="2CO 6:16"></para>
+    <para style="pi" vid="2CO 6:16">“I will dwell and move among them,</para>
+    <para style="pi" vid="2CO 6:16">And I will be their God,</para>
+    <para style="pi" vid="2CO 6:16">And they will be my folk-people.<verse eid="2CO 6:16"/>
+    </para>
+    <para style="pi">
+      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst
+    </para>
+    <para style="pi" vid="2CO 6:17">And be separate,” Says the Lord,</para>
+    <para style="pi" vid="2CO 6:17">“And don’t touch things which</para>
+    <para style="pi" vid="2CO 6:17">Are vile, disgusting, and forbidden to touch<char style="sup">[h]</char>,</para>
+    <para style="pi" vid="2CO 6:17">And I will receive you and take you in,<verse eid="2CO 6:17"/>
+    </para>
+    <para style="pi">
+      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,
+    </para>
+    <para style="pi" vid="2CO 6:18">And you will be sons and daughters to Me,”</para>
+    <para style="pi" vid="2CO 6:18">Says the Lord Almighty.<verse eid="2CO 6:18"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">those who work together to minister to others</char>…Lit: <char style="it">fellow worker</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">that time you needed to be rescued</char>…Lit: <char style="it">in a day of salvation</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">seriously offended</char>…Lit: <char style="it">a stumbling</char>. Ref. note of Matt.
+        18:6.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">a message of truth</char>…Or: [<char style="it">the</char>] <char style="it">word of
+        truth</char>…Lit: <char style="it">word of truth</char> [with the definite article before <char style="it">word</char>
+        inferred]</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">by being armed with the armor and weapons of righteousness that the left and right hands
+        are accustomed to handle</char>…Lit: <char style="it">through the armors of righteousness of the lefts
+        and rights</char>. A metaphor.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">We haven’t stopped engaging you in dialogue</char>…Lit: <char style="it">Our mouth remains
+        open to you</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">the Devil</char>…Lit: <char style="it">Belial</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">vile, disgusting, and forbidden to touch</char>…Lit: <char style="it">unclean</char></char>
+    </note>
+  <chapter eid="2CO 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="2CO 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 7:1" />So having these promises <char style="it">I quoted just now</char>, beloved, let us cleanse ourselves
+        from all defilement of flesh (i.e., of carnality) and spirit<char style="sup">[A]</char>, while bringing
+        holiness to perfection in the deep reverence—downright fear—of God.<verse eid="2CO 7:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 7:2" />Accomodate us: we haven’t wronged anyone, ruined anyone, or taken advantage of anyone. <verse eid="2CO 7:2" />
+      <verse number="3" style="v" sid="2CO 7:3" />I’m not pointing any fingers<char style="sup">[a]</char>; in fact I’ve stated before that you are in
+        our hearts for the rest of our lives, until death do us part. <verse eid="2CO 7:3" />
+      <verse number="4" style="v" sid="2CO 7:4" />It’s a lot for me to be blunt with you, a lot for me to talk about you with pride. I’ve reached the point
+        where I’m full of encouragement and comfort; I’m way overjoyed every time we’re faced with a really bad
+        situation.<verse eid="2CO 7:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 7:5" />In fact, not once after arriving in Macedonia did our <char style="it">weary </char>bodies get a chance
+        to rest, uh-uh…all kinds of pressure…on the<char style="it"> </char>outside <char style="it">we faced
+        </char>conflict, on the inside fear. <verse eid="2CO 7:5" />
+      <verse number="6" style="v" sid="2CO 7:6" />In contrast, God was the One Who encouraged us the abased by <char style="it">having </char>Titus show
+        up. <verse eid="2CO 7:6" />
+      <verse number="7" style="v" sid="2CO 7:7" />Not just <char style="it">by </char>him showing up, but by the encouragement, comfort, and advise he
+        <char style="it">showered</char> on us, relaying to us your longing, your grieving, your fervency you
+        have regarding me, resulting in it giving me all the more joy.<verse eid="2CO 7:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 7:8" />Even if I hurt you <char style="it">by</char> <char style="it">what I put </char>in the <char style="it">previous
+        </char>letter, I have no regrets; even if I had regrets (for I see that that letter did cause you pain
+        for <char style="it">some</char> time), <verse eid="2CO 7:8" />
+      <verse number="9" style="v" sid="2CO 7:9" />I’m glad now, not because you were <char style="it">simply </char>hurt, but rather that the pain that
+        you suffered resulted in a change of heart and of actions<char style="sup">[b]</char>. In fact, you were
+        hurt God’s way, so you suffered no loss <char style="it">in any area of your life</char>. <verse eid="2CO 7:9" />
+      <verse number="10" style="v" sid="2CO 7:10" />You see, being hurt (hurt intentionally in a way that you suffer pain) God’s way effects a change of
+        heart and actions working towards the end goal of dodging a bullet<char style="sup">[c]</char> and having
+        no regrets about <char style="it">what had to be done </char>to accomplish that; the pain that the world
+        (i.e., those outside of Christ) experiences works in a way that, when it’s run its course, results in
+        death (i.e., a stagnation of waste, joylessness, futility, destruction, and ultimately physical death).<verse eid="2CO 7:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 7:11" />While I’m on this topic, this very thing—being<char style="sup">[d]</char> hurt God’s way—look how much
+        it accomplished in you and what a priority you made it. <char style="it">From where you were </char>instead
+        is a rebuttal—instead <char style="it">you have </char>indignation, fear, longing, fervency, and self-vindication.
+        In everything you demonstrated to everyone that you’re cleared of these matters<char style="sup">[e]</char>.<verse eid="2CO 7:11" />
+      <verse number="12" style="v" sid="2CO 7:12" />So now, that I’m even writing to you <char style="it">at all</char>, <char style="it">I’m not doing so</char>
+        because of <char style="it">something you </char>did wrong or because of <char style="it">some </char>wrong
+        done <char style="it">to us</char>, rather because of the priority and urgency at which you’ve made the
+        things <char style="it">we confronted </char>you with before God materialize. <verse eid="2CO 7:12" />
+      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.
+    </para>
+    <para style="p" vid="2CO 7:13">On the subject of what’s been an encouragement to us, <char style="it">hearing the news </char>that Titus
+        is happy gave me even more joy, since his spirit was refreshed by you all. <verse eid="2CO 7:13"/>
+      <verse number="14" style="v" sid="2CO 7:14" />I had told him a thing or two about you, telling him how proud I am of you, and I wasn’t disappointed
+        or embarrassed. On the contrary—as we’ve always been truthful with you when we’ve talked to you, in the
+        same vein our speaking with pride <char style="it">about you</char> to Titus turned out to be true as
+        well. <verse eid="2CO 7:14" />
+      <verse number="15" style="v" sid="2CO 7:15" />The tender affection he has for you is that much more when recalling every time you did as you were told,
+        as you received him with fear and trembling<char style="sup">[f]</char>. <verse eid="2CO 7:15" />
+      <verse number="16" style="v" sid="2CO 7:16" />I rejoice since I have confidence in you in every respect.<verse eid="2CO 7:16" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">I’m not pointing any fingers</char>…Lit: <char style="it">I’m not saying condemnation</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">a change of heart and of actions</char>…Lit: <char style="it">repentance</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">dodging a bullet</char>…Or: <char style="it">escaping calamity</char>…Lit: <char style="it">unto
+        salvation</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">being</char>…Lit: <char style="it">to have been</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">you’re cleared of these matters</char>…Lit: <char style="it">you to be innocent to the
+        matters</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">fear and trembling</char>…A biblical expression (Ps. 55:5; Eph. 6:5; Phil 2:12 for example)</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">cleanse yourselves from all defilement of flesh (i.e., carnal nature) and spirit</char>…A
+        metaphor which compares the water purification rituals specified by the Law of Moses which the Jews had
+        to do on a regular basis to a self-cleansing of the things inside a person which are not holy.</char>
+    </note>
+  <chapter eid="2CO 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="2CO 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 8:1" />Just wanted you to know<char style="sup">[a]</char>, comrades<char style="sup">[b]</char>, <char style="it">about
+        </char>the grace of God that’s been granted to the churches in Macedonia, <verse eid="2CO 8:1" />
+      <verse number="2" style="v" sid="2CO 8:2" />that in such a severe trial brought on by distress, the abundance of their joy and the vast extent of
+        their poverty<char style="sup">[c]</char><char style="sup">[A]</char> amplified the richness of their
+        generosity— <verse eid="2CO 8:2" />
+      <verse number="3" style="v" sid="2CO 8:3" />that according to their means—I swear—even beyond their means—<char style="it">and </char>of their own
+        free accord— <verse eid="2CO 8:3" />
+      <verse number="4" style="v" sid="2CO 8:4" />with a good deal of explanations, assurances, and exhortation <char style="it">they were </char>asking
+        us to do them a favor and <char style="it">allow them to </char>participate in ministering to the saints
+        (i.e., their fellow believers).<verse eid="2CO 8:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 8:5" />And <char style="it">they didn’t </char>just <char style="it">do this </char>the way<char style="it">
+        </char>we expected<char style="sup">[d]</char> <char style="it">they would</char>—no—by the will of God
+        they first dedicated themselves to the Lord and to us, <verse eid="2CO 8:5" />
+      <verse number="6" style="v" sid="2CO 8:6" />resulting in us having encouraged Titus to finish off this favor, which is being done for you in a consistent
+        manner to how he started it. <verse eid="2CO 8:6" />
+      <verse number="7" style="v" sid="2CO 8:7" />That aside, just as you continuously take everything to a new level<char style="sup">[e]</char>—faith,
+        attestation<char style="sup">[f]</char>, knowledge and understanding, eager diligence, and the love which
+        came out of us <char style="it">and was imparted </char>in you<char style="sup">[g]</char>—<char style="it">apply
+        the same principles </char>so that you would take this act of charity to the next level as well.<verse eid="2CO 8:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="2CO 8:8" />What I’m saying shouldn’t be construed as an order, but certainly as a test<char style="sup">[h]</char>
+        of the authenticity of your love by the zeal which motivates others. <verse eid="2CO 8:8" />
+      <verse number="9" style="v" sid="2CO 8:9" />In fact you know the act of charity of our Lord Jesus Christ, that he, being rich, became poor for your
+        sake so that by that impoverishment you would become rich. <verse eid="2CO 8:9" />
+      <verse number="10" style="v" sid="2CO 8:10" />I’ll give you my opinion on this <char style="it">topic</char>: this benefits you, you the very ones
+        who, beginning last year <char style="it">and continuing thenceforth</char>, didn’t just begin to tackle
+        this but maintained the desire to do it.<verse eid="2CO 8:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 8:11" />But now complete the doing-part as well, so that just as the enthusiasm of the wanting-part <char style="it">was
+        prevalent from the inception, </char>so the completion <char style="it">of the deed </char>from the what-do-we-possess-part
+        is the <char style="it">natural</char> consequence <char style="it">of</char> <char style="it">the wanting.</char><verse eid="2CO 8:11" />
+      <verse number="12" style="v" sid="2CO 8:12" />For if the enthusiasm’s in place, <char style="it">whatever gift a given person comes up with </char>is
+        acceptable according to whatever wealth and belongings that person happens to possess, not according
+        to what he doesn’t possess. <verse eid="2CO 8:12" />
+      <verse number="13" style="v" sid="2CO 8:13" />You see, this isn’t so that others can take it easy while you’re subjected to hardship, but <char style="it">it’s
+        done </char>out of equality. <verse eid="2CO 8:13" />
+      <verse number="14" style="v" sid="2CO 8:14" />The way things stand at the moment, your abundance <char style="it">of material possessions is directed
+        </char>towards their lack so that equality would take shape, <verse eid="2CO 8:14" />
+      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,
+    </para>
+    <para style="pi" vid="2CO 8:15"></para>
+    <para style="pi" vid="2CO 8:15">He who has much didn’t have a surplus</para>
+    <para style="pi" vid="2CO 8:15">And he who has a little didn’t lack<verse eid="2CO 8:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 8:16" />But God is so kind<char style="sup">[i]</char>: for our sake He’s putting the same eagerness <char style="it">to
+        get the job done</char> in Titus’s heart, <verse eid="2CO 8:16" />
+      <verse number="17" style="v" sid="2CO 8:17" />since, while—yes—he took the counsel, advise, and encouragement that was given to him to heart, but,
+        being more eager than ever, of his own volition he left on a trip to visit you. <verse eid="2CO 8:17" />
+      <verse number="18" style="v" sid="2CO 8:18" />We sent someone to go with him, the comrade who’s praised throughout all the churches in<char style="it">
+        his preaching of </char>the Gospel— <verse eid="2CO 8:18" />
+      <verse number="19" style="v" sid="2CO 8:19" />not just <char style="it">to go along for the ride</char> but to be our travelling companion as well,
+        hand-picked to be the churches’ attaché with respect to this act of charity, which is the service <char
+        style="it">done </char>by us to the glory of the Lord and <char style="it">which is a token of </char>our
+        enthusiasm.<verse eid="2CO 8:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="2CO 8:20" />The intention is that no one would find fault with us in our handling of this generous <char style="it">gift</char>.<verse eid="2CO 8:20" />
+      <verse number="21" style="v" sid="2CO 8:21" />In fact, we considered ahead of time what the decent thing to do would be, not just from the Lord’s perspective
+        but also from the perspective of the average person. <verse eid="2CO 8:21" />
+      <verse number="22" style="v" sid="2CO 8:22" />We sent our comrade along with the others, he who at many times and in many ways has proven to be eager,
+        diligent, and to get things done without dragging his feet, but now is even more eager because of the
+        tremendous confidence <char style="it">he has </char>in you.<verse eid="2CO 8:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="2CO 8:23" />Whether <char style="it">I’m speaking </char>on behalf of Titus, my fellow worker and a mentor and assistant<char
+        style="sup">[B]</char> for you, or whether <char style="it">I’m speaking on behalf of </char>our comrades
+        the apostles of churches (i.e., those who are pioneers in founding churches; missionaries who establish
+        churches), <char style="it">in either case the </char>glory <char style="it">goes to </char>Christ. <verse eid="2CO 8:23" />
+      <verse number="24" style="v" sid="2CO 8:24" />So the pointed demonstration of your love and of the tremendous things we tell them about you is taking
+        place in full view of the churches.<verse eid="2CO 8:24" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">just wanted you to know</char>…Lit: <char style="it">we’re making known to you</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">in such a severe trial brought on by distress, the abundance of their joy and the vast
+        extent of their poverty</char>…Lit: <char style="it">in much test of affliction the abundance of their
+        joy and their poverty</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">expected</char>…Lit: <char style="it">hoped</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">take everything to a new level</char>…Lit: <char style="it">abound in all</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">attestation</char>…Lit: <char style="it">word</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">came out of us and was imparted in you</char>…The principle manuscripts are split here,
+        with the others reading <char style="it">of you to us</char>.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">test</char>…Or: <char style="it">verification</char>; <char style="it">proof</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">God is so kind</char>…Lit: <char style="it">grace</char> <char style="it">with</char>
+        [or <char style="it">to</char>] <char style="it">God</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">in such a severe trial brought on by distress, the abundance of their joy and the vast
+        extent of their poverty</char>…There is some ambiguity whether <char style="it">their </char>refers to
+        the Macedonians or to those whom they’re taking up a collection for.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">mentor and assistant</char>…Lit: <char style="it">fellow worker</char>. The two Gk.
+        words for <char style="it">fellow worker, </char>namely <char style="it">koinonos </char>(κοινωνός /Strong’s
+        2844)and <char style="it">sunergos </char><char style="w" strong="G04904">συνεργός</char>), are both
+        used in this verse, and the distinction between these words is apparent by the usage here. This distinction
+        is not found in the lexicons.</char>
+    </note>
+  <chapter eid="2CO 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="2CO 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 9:1" />As a matter of fact, I sure do have more to write to you concerning this ministry-drive for the saints
+        (i.e., our fellow believers). <verse eid="2CO 9:1" />
+      <verse number="2" style="v" sid="2CO 9:2" />You see, having observed you, I know your enthusiasm, an enthusiasm I speak proudly about to the Macedonians,
+        <char style="it">namely</char> that Achaia started making preparations a year ago and that your passion
+        <char style="it">for this project</char> motivated a great many people<char style="sup">[a]</char>there.<verse eid="2CO 9:2" />
+      <verse number="3" style="v" sid="2CO 9:3" />I dispatched the comrades<char style="sup">[b]</char> so that the tremendous things we say about you
+        regarding this matter would not be for nothing, so that <char style="it">it would be </char>just like
+        I kept saying over and over again that you were making preparations— <verse eid="2CO 9:3" />
+      <verse number="4" style="v" sid="2CO 9:4" /><char style="it">but it’s</char> not as though the Macedonians and I were going to somehow get together
+        and go and catch you unprepared<char style="sup">[c]</char> and we—dare I say you too<char style="sup">[d]</char>—would
+        be embarrassed at what’s behind it all<char style="sup">[e]</char>.<verse eid="2CO 9:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 9:5" />Anyways, to give the comrades encouragement was the most important thing to do, so that they would arrive
+        in your locale ahead of time and put in order your pledged blessing (i.e., charitable contribution) ahead
+        of time. These arrangements are <char style="it">thus</char> <char style="it">so that the entire affair
+        is done</char> the way a blessing <char style="it">is done</char> and not the way a shakedown for money
+        <char style="it">is done</char>.<verse eid="2CO 9:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2CO 9:6" />Now <char style="it">onto </char>this: he who sows parsimoniously also reaps parsimoniously and he who
+        sows with a mindset of blessing <char style="it">others </char>also reaps a blessing because of that
+        mindset<char style="sup">[f]</char>. <verse eid="2CO 9:6" />
+      <verse number="7" style="v" sid="2CO 9:7" /><char style="it">Let</char> <char style="it">the offering</char> from each person <char style="it">be
+        </char>according to what he decided in his heart beforehand, not out of an inner pain <char style="it">of</char>
+        <char style="it">regret in having to part with one’s money </char>or out of compulsion, for God loves
+        a cheerful, glad, happy, prompt-to-do giver. <verse eid="2CO 9:7" />
+      <verse number="8" style="v" sid="2CO 9:8" />In fact God is able to proliferate all <char style="it">kinds of </char>grace (i.e., good things, in
+        terms of money and material goods) to us, so that in all <char style="it">situations</char> always having
+        enough of everything you would exude any and every good work<char style="sup">[g]</char>, <verse eid="2CO 9:8" />
+      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:
+    </para>
+    <para style="pi" vid="2CO 9:9"></para>
+    <para style="pi" vid="2CO 9:9">He scattered, he gave to the needy</para>
+    <para style="pi" vid="2CO 9:9">His righteousness remains <char style="it">in place </char>forever<verse eid="2CO 9:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 9:10" />Now He who supplies seed to the sower and bread for the food that you eat<char style="sup">[A]</char>
+        will provide and multiply your seed and will cause the crop of your righteous endeavor to grow<char style="sup">[h]</char>,<verse eid="2CO 9:10" />
+      <verse number="11" style="v" sid="2CO 9:11" />being made rich in all <char style="it">respects,</char> towards an ends of complete simplicity (i.e.,
+        a heart which has the single, simple motive of giving, and therefore has no ulterior motive, attaches
+        no strings, and gives without any of the complications of guilt, remorse, etc.; does so under no threat,
+        no compulsion, nor because of any rule, religious or otherwise), which through us works God’s praise
+        to the nth degree, <verse eid="2CO 9:11" />
+      <verse number="12" style="v" sid="2CO 9:12" />because the ministry <char style="it">which consists</char> of this religious ritual, this act of worship,
+        this service to God, is not simply the supplying of the saints’ needs but also the causing of a multiplication-effect
+        through much praise to God— <verse eid="2CO 9:12" />
+      <verse number="13" style="v" sid="2CO 9:13" />Through the proof of this ministry, God has been glorified in the compliance with what you said you were
+        going to do<char style="sup">[i]</char> for the Good News of Christ, the Gospel, and the simplicity of
+        the act of sharing with them and with everyone, <verse eid="2CO 9:13" />
+      <verse number="14" style="v" sid="2CO 9:14" />and their prayer for you, longing for you on account of the exceeding grace of God <char style="it">which
+        is</char> upon you.<verse eid="2CO 9:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="2CO 9:15" />God is so kind<char style="sup">[j]</char> with this indescribable gift of His!<verse eid="2CO 9:15" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">a great many people</char>…Lit: <char style="it">the many</char> [<char style="it">majority</char>]</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">unprepared</char>…Or: <char style="it">off-guard</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">dare I say you too</char>…Lit: <char style="it">so that I wouldn’t say “you”</char>.
+        The NASB renders this: <char style="it">not to mention you.</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">at what’s behind it all</char>…Lit: <char style="it">in this the substance</char> [or
+        <char style="it">undergirding</char>; <char style="it">foundation</char>; <char style="it">core</char>].
+        Appears to be an expression.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">he who sows with a mindset of blessing others also reaps a blessing because of that
+        mindset</char>…Lit: <char style="it">the one sowing at</char> [i.e., <char style="it">at the exact location
+        of; right over top of</char>] <char style="it">a blessing at a blessing reaps</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">exude any and every good work</char>…Lit: <char style="it">abound unto all good work</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">will cause the crop of your righteous endeavor to grow</char>…Lit: <char style="it">will
+        grow the crop of your righteousness</char>. A metaphor comparing the doing of a righteous deed to growing
+        a crop.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">what you said you were going to do</char>…Lit: <char style="it">your confession</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">God is so kind with this indescribable gift of His</char>…Lit: <char style="it">grace</char>
+        <char style="it">with</char> [or <char style="it">to</char>] <char style="it">God at the indescribable
+        gift of His</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">bread for the food that you eat</char>…Lit: <char style="it">bread for food</char>.
+        the majority of one’s calories were derived from eating bread in ancient times. In the context of the
+        writing of this epistle, therefore, bread was what people survived on (ref. Matt. 6:11). So saying that
+        God will supply bread for food means that God will supply what you need to eat.</char>
+    </note>
+  <chapter eid="2CO 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="2CO 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 10:1" />I, Paul, through the gentle restraint and kindness of Christ, who, <char style="it">when I was here on
+        Earth</char> face-to-face with you was humble indeed, but audacious when away from you, beg you personally—<verse eid="2CO 10:1" />
+      <verse number="2" style="v" sid="2CO 10:2" />but with the infusion of audacity which comes from not being present—I ask with confidence, which I figure
+        makes me brash enough to confront some people who suppose that we live day in, day out<char style="sup">[a]</char>
+        according to the flesh (i.e. of our own ability apart from God; as though God doesn’t work through us).<verse eid="2CO 10:2" />
+      <verse number="3" style="v" sid="2CO 10:3" />You see, <char style="it">though</char> living day in, day out in flesh (i.e., in a physical body, one
+        subject to human weaknesses), we don’t wage war according to the flesh: <verse eid="2CO 10:3" />
+      <verse number="4" style="v" sid="2CO 10:4" />our battle-gear isn’t fleshly (i.e., of a physical nature; of our own ability apart from God)—uh-uh,
+        it’s quite capable in God of leveling heavily-fortified defenses—leveling schemes, machinations, detailed
+        plans, <verse eid="2CO 10:4" />
+      <verse number="5" style="v" sid="2CO 10:5" />and every erected fortification or entrenched high-ground<char style="sup">[b]</char> which opposes the
+        knowledge and understanding of God, and capturing every thought and making it a prisoner of the obedience
+        of Christ<char style="sup">[A]</char>, <verse eid="2CO 10:5" />
+      <verse number="6" style="v" sid="2CO 10:6" />and of being prepared to avenge every disobedience, when your obedience happens to reach the tipping
+        point.<verse eid="2CO 10:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 10:7" />You’re seeing things as they appear on the surface<char style="sup">[c]</char>. If a given person has
+        convinced himself that he’s derived from Christ, let this fellow rethink the logic again as it applies
+        to himself <char style="it">and let him come to the conclusion </char>that, just as he himself is derived
+        from Christ, we also are <char style="it">derived from Christ </char>in the same way <char style="it">as
+        he</char>. <verse eid="2CO 10:7" />
+      <verse number="8" style="v" sid="2CO 10:8" />So now, if I venture to say something even more cocky about our authority (an authority which the Lord
+        gave for building you up and not for tearing you down, <char style="it">by the way</char>), I won’t embarrass
+        myself and have to eat my words because I’ve failed in this regard<char style="sup">[d]</char>, <verse eid="2CO 10:8" />
+      <verse number="9" style="v" sid="2CO 10:9" /><char style="it">embarassed </char>so that I not revel in delight<char style="sup">[e]</char>, as you
+        might be scared out of your wits by <char style="it">what I wrote in </char>the letters. <verse eid="2CO 10:9" />
+      <verse number="10" style="v" sid="2CO 10:10" />Since a few people say, “Sure—the letters cut to the bone and pack a punch<char style="sup">[f]</char>,
+        but he comes across as weak when you see him in person and his speaking ability and rhetoric<char style="sup">[g]</char>
+        is contemptuous,” <verse eid="2CO 10:10" />
+      <verse number="11" style="v" sid="2CO 10:11" />Let any such person <char style="it">who says that </char>think this over: what we are in writing through
+        the mail when absent, such we are in what we do when present as well.<verse eid="2CO 10:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 10:12" />Furthermore, we dare not put ourselves in the same category as some of the self-promoters or compare
+        ourselves to them—no—they get off to the side by themselves and rank themselves and do self-endorsements
+        to one another<char style="sup">[h]</char>—they just don’t get it. <verse eid="2CO 10:12" />
+      <verse number="13" style="v" sid="2CO 10:13" />We’re not going to speak proudly or say tremendous things<char style="sup">[i]</char> about the things
+        outside our sphere <char style="it">of ministry</char><char style="sup">[B]</char>—no—<char style="it">we’ll
+        speak proudly about the things </char>within the sphere which the God of a limit <char style="it">to
+        such spheres</char> assigned to us to envelop even you <char style="it">within that sphere</char>. <verse eid="2CO 10:13" />
+      <verse number="14" style="v" sid="2CO 10:14" />In fact, it’s not as though we don’t envelop you while extending our reach out to <char style="it">the
+        perimeter of </char>our<char style="it"> sphere </char>and beyond; you see, in the course of enveloping
+        you <char style="it">by our sphere,</char> we were the first to arrive in your locale with the Good News,
+        the Gospel of Christ— <verse eid="2CO 10:14" />
+      <verse number="15" style="v" sid="2CO 10:15" /><char style="it">No, we </char>don’t speak proudly about things<char style="it"> </char>outside our sphere,
+        <char style="it">namely </char>about the toils of others, but <char style="it">we’re </char>hoping, as
+        your faith which is among you is being grown, to vastly enlarge our sphere, <verse eid="2CO 10:15" />
+      <verse number="16" style="v" sid="2CO 10:16" /><char style="it">that is </char>for places beyond you to be evangelized—<char style="it">and</char> not
+        to speak proudly about <char style="it">the fruition of</char> somebody else’s long-term plans<char style="sup">[j]</char>
+        taking place in his sphere, <verse eid="2CO 10:16" />
+      <verse number="17" style="v" sid="2CO 10:17" />but <char style="it">like it says, </char>”He who speaks proudly, let him speak proudly <char style="it">of
+        what he does </char>in the Lord.”<verse eid="2CO 10:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2CO 10:18" />You see, the person who promotes himself—that’s not the individual who obtains the approval <char style="it">of
+        God</char>, rather the one whom the Lord speaks well of <char style="it">is the one</char> <char style="it">who
+        gains the approval </char>instead.<verse eid="2CO 10:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">live day in, day out</char>…Lit: <char style="it">walk about</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">erected fortification or entrenched high-ground</char>…Lit: <char style="it">height
+        lifted up</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">You’re seeing things as they appear on the surface</char>…Lit: <char style="it">You’re
+        seeing according to face</char>. Note that the phrase <char style="it">according to face </char>is used
+        in v. 1 (<char style="it">face-to-face</char>), although the meaning there appears to be different.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">embarrass myself and have to eat my words because I’ve failed in this regard</char>…Lit:
+        <char style="it">be put to shame</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">revel in delight</char>…Lit: <char style="it">glory</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">cut to the bone and pack a punch</char>…Lit: <char style="it">are weighty and strong</char>.
+        The word <char style="it">weighty</char> also appears in Matt. 23:23, being used the same way there.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">speaking ability and rhetoric</char>…Lit: <char style="it">the word</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">they get off to the side by themselves and rank themselves and do self-endorsements
+        to one another</char>…Lit: <char style="it">they themselves among themselves measure themselves and commend
+        themselves</char>. The repetition of <char style="it">themselves </char>is a figure of speech.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">speak proudly or say tremendous things</char>…Also: <char style="it">boast</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">the fruition of…long-term plans</char>…Lit: <char style="it">the preparations</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">capturing every thought and making it a prisoner of the obedience of Christ</char>…The
+        passage of vv. 3–6 is a metaphor comparing the Christian struggles in their faith to the mechanics of
+        waging war.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">sphere of ministry</char>…Lit: <char style="it">sphere</char>. It’s not exactly clear
+        to me what Paul is talking about in this passage, the passage consisting of vv. 13–16. Certain words
+        have vague definitions and aren’t clarified by usage in other parts of the NT.</char>
+    </note>
+  <chapter eid="2CO 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="2CO 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 11:1" />If you would bear with me a bit while I act stupid—scratch that: you are<char style="it"> </char>bearing
+        with me. <verse eid="2CO 11:1" />
+      <verse number="2" style="v" sid="2CO 11:2" />You see, I dote over you zealously<char style="sup">[a]</char> with a zealous doting that’s of God, for
+        I’ve betrothed you to <char style="it">only </char>one man<char style="sup">[b]</char> <char style="it">in
+        order </char>to present <char style="it">to this one man </char>a chaste virgin in Christ. <verse eid="2CO 11:2" />
+      <verse number="3" style="v" sid="2CO 11:3" />I fear that somehow that’s not the case—as the serpent deceived Eve with his cunning trickery, he would
+        somehow seduce your minds <char style="it">and draw you </char>away from the simplicity<char style="sup">[c]</char>
+        (i.e., straightforward, without conniving, ulterior motives, hidden agendas, or religious quid-pro-quo)
+        and the purity which has Christ as its goal.<verse eid="2CO 11:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="2CO 11:4" />For indeed, if a passerby stops over and preaches <char style="it">that </char>another <char style="it">person
+        is the real </char>Jesus, a person whom we didn’t preach <char style="it">as being the real Jesus</char>,
+        or you receive (i.e., take to heart and wholeheartedly embrace) a different spirit which you didn’t receive
+        <char style="it">before</char>, or you wholeheartedly embrace<char style="it"> </char>a different good-news-<char
+        style="it">type</char> message that you didn’t receive<char style="sup">[d]</char>, you tolerate it with
+        no qualms. <verse eid="2CO 11:4" />
+      <verse number="5" style="v" sid="2CO 11:5" />You see, the way I figure, we’re not inferior to these <char style="it">so-called</char> super-apostles
+        in any category. <verse eid="2CO 11:5" />
+      <verse number="6" style="v" sid="2CO 11:6" />But even if I’m an amateur when it comes to speaking ability and rhetoric<char style="sup">[e]</char>,
+        put that aside—<char style="it">I’m not an amateur</char> when it comes to knowledge and understanding—no—I’ve
+        made that apparent to you in every possible way<char style="sup">[f]</char>.<verse eid="2CO 11:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 11:7" />Is it that I committed a sin in humbling and debasing myself so that you would be made to stand on two
+        legs<char style="sup">[g]</char>, since I evangelized the good news of the Gospel to you sacrificially
+        on my part and delivered it to you free of charge? <verse eid="2CO 11:7" />
+      <verse number="8" style="v" sid="2CO 11:8" />Scratch that—I robbed <char style="it">other </char>churches by drawing a wage <char style="it">from
+        them </char>and applying it to your ministry. <verse eid="2CO 11:8" />
+      <verse number="9" style="v" sid="2CO 11:9" />Not only that, when I was staying with you and was in need, I wasn’t a burden to anyone: the comrades<char
+        style="sup">[h]</char> who came from Macedonia provided what I needed. My living expenses weren’t a burden
+        in any way to you, nor will they be. <verse eid="2CO 11:9" />
+      <verse number="10" style="v" sid="2CO 11:10" />Christ in me unequivocally indicates that this is true<char style="sup">[i]</char>: I won’t be denied
+        the opportunity to speak with pride <char style="it">about what we will accomplish in the Lord </char>in
+        the region of Achaia<char style="sup">[j]</char>. <verse eid="2CO 11:10" />
+      <verse number="11" style="v" sid="2CO 11:11" />Why would <char style="it">I be denied</char>? Because I don’t love you? God knows for a fact <char style="it">that
+        I do</char>.<verse eid="2CO 11:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 11:12" />What I’m doing I’ll continue to do in order to nix the occasion <char style="it">for fault-finding </char>by
+        those who are wanting <char style="it">to find such </char>an occasion, so that in <char style="it">the
+        specific area </char>that they’re boasting of, everyone will come to the conclusion<char style="sup">[k]</char>
+        that they’re also like us. <verse eid="2CO 11:12" />
+      <verse number="13" style="v" sid="2CO 11:13" />In fact, false apostles such as they, workers of deceit, are disguising themselves as apostles of Christ—<verse eid="2CO 11:13" />
+      <verse number="14" style="v" sid="2CO 11:14" />And it’s not surprising: Satan himself disguises himself as an angel of light. <verse eid="2CO 11:14" />
+      <verse number="15" style="v" sid="2CO 11:15" />So there’s not a huge <char style="it">difference</char> if his servants <char style="it">the false apostles</char>
+        also disguise themselves as servants of righteousness. The way it ends for <char style="it">these false
+        apostles </char>will be in step with their deeds.<char style="sup">[l]</char><verse eid="2CO 11:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 11:16" />Moving on to another topic.<char style="sup">[m]</char> Nobody should take me for a fool, but should
+        it be otherwise, accept me even as a fool, so that even <char style="it">as a fool </char>I have some
+        little thing <char style="it">or two</char> to say about my tremendous <char style="it">accomplishments</char>.<verse eid="2CO 11:16" />
+      <verse number="17" style="v" sid="2CO 11:17" />What I’m about to say isn’t in line with how the Lord speaks, but are words you’d expect to come out
+        of one in <char style="it">the throes of </char>folly—the essence of the boasting <char style="it">you’re
+        about to hear</char>.<verse eid="2CO 11:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2CO 11:18" />Since many are talking up great things they’ve done according to flesh (i.e., from their own ability
+        apart from God; taking credit for it personally and not giving God the credit), I’ll talk up my tremendous
+        accomplishments too. <verse eid="2CO 11:18" />
+      <verse number="19" style="v" sid="2CO 11:19" />The fact of the matter is, you’re more than happy to tolerate what the fools spout off,<char style="it">
+        </char>treating them like they’re<char style="it"> </char>sensible and wise<char style="sup">[A]</char>.<verse eid="2CO 11:19" />
+      <verse number="20" style="v" sid="2CO 11:20" />You put up with someone if he subjugates and oppresses you, if he cheats you out of house and home, if
+        he sets you up to take advantage of you, if he lifts <char style="it">himself </char>up <char style="it">in
+        arrogance</char>, if he slaps you upside the head<char style="sup">[B]</char>. <verse eid="2CO 11:20" />
+      <verse number="21" style="v" sid="2CO 11:21" />I’m ashamed to say it, <char style="it">but it’s </char>as though <char style="it">you disdain us</char>
+        because we’ve become weak in what someone <char style="it">else</char> might dare <char style="it">speak
+        proudly about</char>.</para>
+    <para style="p" vid="2CO 11:21">I’m talking foolishly, but I’ll dare speak <char style="it">anyways</char>. <verse eid="2CO 11:21"/>
+      <verse number="22" style="v" sid="2CO 11:22" />Are they native-Hebrew speakers and live by the ancient Jewish culture?—So do I. Are they Israelites?—So
+        am I. Are they father-to-son direct descendants and heirs of<char style="sup">[n]</char> Abraham?—So
+        am I. <verse eid="2CO 11:22" />
+      <verse number="23" style="v" sid="2CO 11:23" />Are they Christ’s servants (I’m talking like a mad man)?—I’ll up them one: as far as hard labor goes,
+        I’ve done more. I’ve spent more time in prison. I’ve received more beatings. I’ve had more near-death
+        experiences: <verse eid="2CO 11:23" />
+      <verse number="24" style="v" sid="2CO 11:24" />I’ve received the thirty-nine lash <char style="it">punishment </char>by the Jews five times; <verse eid="2CO 11:24" />
+      <verse number="25" style="v" sid="2CO 11:25" />I’ve been beaten with staffs three times; I was stoned <char style="it">to death </char>once; I was shipwrecked
+        three times; I spent twenty-four straight hours floundering out in the ocean<char style="sup">[o]</char>.<verse eid="2CO 11:25" />
+      <verse number="26" style="v" sid="2CO 11:26" />I’ve been on the road many a time <char style="it">walking great distances</char>; I’ve been in danger
+        while travelling by river; in danger from robbers; in danger by my fellow countrymen; in danger by those
+        in faraway countries; in danger in the city; in danger in the countryside; in danger on the high seas;
+        in danger from phony comrades; <verse eid="2CO 11:26" />
+      <verse number="27" style="v" sid="2CO 11:27" />I worked hard, long hours and did heavy manual labor; had many a sleepless night; went long stretches
+        with nothing to eat or nothing to drink; fasted many times; was cold because I had nothing to wear<char
+        style="sup">[p]</char>— <verse eid="2CO 11:27" />
+      <verse number="28" style="v" sid="2CO 11:28" />Besides those external <char style="it">pressures</char>, <char style="it">there is </char>the <char
+        style="it">pressure on the inside of me due to </char>the day-to-day responsibility for all the churches,
+        worrying over them. <verse eid="2CO 11:28" />
+      <verse number="29" style="v" sid="2CO 11:29" />Who’s weak (i.e., sickly, frail, or simply unable to muster the strength to face life’s challenges),
+        and I’m not weak <char style="it">along with them</char>? Who stumbles<char style="sup">[q]</char> (i.e.
+        falls away from the walk of faith; falls into sin; is overcome by temptation; stops following God), and
+        I’m not raving <char style="it">over it</char>?<verse eid="2CO 11:29" />
+    </para>
+    <para style="p">
+      <verse number="30" style="v" sid="2CO 11:30" />If there has to be proud talk <char style="it">about tremendous things which have taken place</char>,
+        I’ll speak proudly about things that have to do with my weakness (i.e., circumstances in which I lacked
+        the power in my own self to overcome the difficulties I faced). <verse eid="2CO 11:30" />
+      <verse number="31" style="v" sid="2CO 11:31" />The God and Father of our Lord Jesus—He Who’s blessed forevermore—knows for a fact that I’m not lying—<verse eid="2CO 11:31" />
+      <verse number="32" style="v" sid="2CO 11:32" />In Damascus the governor under King Aretas kept the <char style="it">entire </char>city of Damascus on
+        alert searching for me in order to arrest me, <verse eid="2CO 11:32" />
+      <verse number="33" style="v" sid="2CO 11:33" />and I was <char style="it">put </char>through<char style="it"> </char>a window in the <char style="it">city
+        </char>wall and lowered to the ground in a basket and slipped out of his hands.<verse eid="2CO 11:33" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">I dote over zealously</char>…Also<char style="it">: I’m jealous</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">man</char>…Also: <char style="it">husband</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">simplicity</char>…Same word used in 9:11; ref. back to that usage</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">receive</char>…Paul uses two different Gk. words for <char style="it">receive </char>[<char
+        style="it">lambanō, </char><char style="w" strong="G02983">λαμβάνω</char>) and <char style="it">dechomai</char>,
+        <char style="w" strong="G01209">δέχομαι</char>)] in this clause; the subtle distinction between the two
+        can be gleaned from the usage here.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">speaking ability and rhetoric</char>…Lit: <char style="it">the word</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">in every possible way</char>…Lit: <char style="it">in every way in all things</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">made to stand on two legs</char>…Lit<char style="it">: be exalted</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">Christ in me unequivocally indicates that this is true</char>…Lit: <char style="it">It
+        is a truth of Christ in me</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">I won’t be denied the opportunity to speak with pride about what we will accomplish
+        in the Lord in the region of Achaia</char>…Lit: <char style="it">the very boast won’t be stifled to me
+        in the region of Achaia</char>. Assumption is that the boasting Paul speaks of refers to 10:17.</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">everyone will come to the conclusion</char>…Lit: <char style="it">it will be discovered</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">The way it ends for these false apostles will be in step with their deeds</char>…Lit:
+        <char style="it">To whom the end will be according to their works</char></char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">Moving on to another topic</char>…Lit: <char style="it">again I speak</char> [<char
+        style="it">speak</char> so as to convey reasoning and logic]</char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">father-to-son direct descendants and heirs of</char>…Lit: <char style="it">seed of</char></char>
+    </note>
+    <note caller="[o]" style="f">
+      <char style="fk">[o]</char>
+      <char style="ft"><char style="it">floundering out in the ocean</char>…Lit: <char style="it">in the deep</char></char>
+    </note>
+    <note caller="[p]" style="f">
+      <char style="fk">[p]</char>
+      <char style="ft"><char style="it">was cold because I had nothing to wear</char>…Lit: <char style="it">in cold and nakedness</char>.
+        A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[q]" style="f">
+      <char style="fk">[q]</char>
+      <char style="ft"><char style="it">stumbles</char>…Ref. note of Matt. 18:9</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">tolerate</char> <char style="it">what the fools spout off treating them like they’re
+        sensible and wise</char>…Lit: <char style="it">tolerate the fools being sensible</char>. There’s ambiguity
+        as to what the antecedent of the participle phrase <char style="it">being sensible </char>refers to.
+        Who’s Paul saying is sensible, the Corinthians or the fools (the false apostles)? It appears the latter
+        is the case. But this is not an isolated case in the NT where there’s such antecedent-ambiguity with
+        a participle phrase (and participle phrases dangle by nature). English has this problem also, but it’s
+        more acute in Gk.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">subjugates and oppresses you, if he cheats you out of house and home, if he sets you
+        up to take advantage of you, if he lifts himself up in arrogance, if he slaps you upside the head</char>…Lit:
+        <char style="it">if someone enslaves; if someone devours </char>[<char style="it">ref. Mark 12:40</char>]<char
+        style="it">; if someone catches </char>[<char style="it">like a hunter</char>]<char style="it">; if someone
+        lifts up; if someone hits to the face</char>. These are hyperboles to a greater or lesser extent.</char>
+    </note>
+  <chapter eid="2CO 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="2CO 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 12:1" />To talk with pride about <char style="it">some </char>spectacular things <char style="it">that have happened
+        to me</char><char style="sup">[a]</char><char style="it"> </char>must <char style="it">be done</char>
+        <char style="it">here</char>. While this won’t help anyone, I’ll jump into<char style="sup">[b]</char>
+        visions and revelations of the Lord anyways. <verse eid="2CO 12:1" />
+      <verse number="2" style="v" sid="2CO 12:2" />From firsthand experience, I know <char style="it">of </char>a man in Christ fourteen years earlier,
+        and said-person was seized and carried off (whether <char style="it">he was carried off </char>outside
+        of the body <char style="it">or whether both his body and his spirit together were carried off, </char>I
+        don’t know—<char style="it">only </char>God knows) until <char style="it">he reached</char> the third
+        heaven<char style="sup">[A]</char> (i.e., went through the first and second heavens, which are the sky,
+        the upper atmosphere, and outer space, into the spirit world: “paradise”). <verse eid="2CO 12:2" />
+      <verse number="3" style="v" sid="2CO 12:3" />And I know said-person (whether in the body or apart from the body, I don’t know—<char style="it">only
+        </char>God knows), <verse eid="2CO 12:3" />
+      <verse number="4" style="v" sid="2CO 12:4" />that he was seized and carried off into paradise and heard remarks that must not be told, that are not
+        allowed to be spoken to a person.<verse eid="2CO 12:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 12:5" />I’ll talk big on behalf of said-man and talk about the spectacular things <char style="it">that happened
+        to him, </char>but I won’t talk big about myself except in the weaknesses <char style="it">I’m beset
+        with</char>. <verse eid="2CO 12:5" />
+      <verse number="6" style="v" sid="2CO 12:6" />You see, if I were to want to talk big, I won’t be acting like a fool <char style="it">as I talk</char>:
+        in fact, I’d be telling the truth. But I’ll spare you, lest someone make <char style="it">incorrect </char>assumptions<char
+        style="sup">[c]</char> based on what he sees or hears that comes from me <verse eid="2CO 12:6" />
+      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.
+    </para>
+    <para style="p" vid="2CO 12:7">With this in mind, so that I not be lifted up and over<char style="sup">[B]</char> (i.e., leap over the
+        hurdles of life), a “thorn in the flesh”<char style="sup">[C]</char> (<char style="it">an idiom referring
+        to an antagonist which vexes and harasses continuously</char>) was given to me, an agent<char style="sup">[d]</char>
+        of Satan, so that he would buffet me (i.e., strike me repeatedly and non-stop), so that I not be lifted
+        up and over. <verse eid="2CO 12:7"/>
+      <verse number="8" style="v" sid="2CO 12:8" />Because of this I begged the Lord three times that it be taken away from me, <verse eid="2CO 12:8" />
+      <verse number="9" style="v" sid="2CO 12:9" />and he told me,
+    </para>
+    <para style="pi" vid="2CO 12:9"></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">My grace </char><char style="it"><char style="wj">which I give </char></char><char style="wj">to
+        you is sufficient,</char>
+    </para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">For the power </char><char style="it"><char style="wj">which accompanies it</char></char></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">Is brought to completion in weakness</char><char style="sup">[D]</char><verse eid="2CO 12:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 12:10" />In light of this, I’m content in weakness, with insults, in dire need, with persecutions, and in distress
+        on behalf of Christ: for when I’m weak, then I’m powerful and capable.<verse eid="2CO 12:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 12:11" />I’ve turned into a fool; you drove me to it. The fact of the matter is that you ought to have a high
+        opinion of me<char style="sup">[e]</char>. I’m not deficient in any category when compared to the apostles
+        as a whole, you see, even though I’m nothing. <verse eid="2CO 12:11" />
+      <verse number="12" style="v" sid="2CO 12:12" />Indeed, the defining characteristics of an apostle<char style="sup">[E]</char> were thoroughly put into
+        action among you with steadfastness and perseverance at every turn, and with signs and wonders (i.e.,
+        spectacular, attention-getting miracles) and <char style="it">supernatural </char>power. <verse eid="2CO 12:12" />
+      <verse number="13" style="v" sid="2CO 12:13" />In fact how have you been treated worse than any of the other churches, except that I didn’t wear out
+        my welcome<char style="sup">[f]</char> with you? Excuse this bad behavior on my part.<verse eid="2CO 12:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="2CO 12:14" />Hey, this is the third time I’ve made preparations to go visit you, and I’ll not wear out my welcome:
+        I’m not trying to get your <char style="it">material possessions</char>, I’m trying to get you instead.
+        You see, the children <char style="it">in the family </char>aren’t obligated to pay for<char style="sup">[g]</char>
+        their parents <char style="it">when it comes to room, board, clothing, etc.</char>, but the parents are
+        for their children. <verse eid="2CO 12:14" />
+      <verse number="15" style="v" sid="2CO 12:15" />I will most gladly spend on you—you who are vivacious in thought and emotion<char style="sup">[h]</char>—and
+        be spent for you…although the more I love you, the less I’m loved.<verse eid="2CO 12:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2CO 12:16" />But <char style="it">I’ll </char>let <char style="it">that</char> be. I wasn’t a burden to you; instead—the
+        clever fellow that I am—I pulled a fast one on you<char style="sup">[i]</char>. <verse eid="2CO 12:16" />
+      <verse number="17" style="v" sid="2CO 12:17" />Of all the people I sent you, whom did <char style="it">I try to use </char>to take advantage of you
+        with and milk you for gain? <verse eid="2CO 12:17" />
+      <verse number="18" style="v" sid="2CO 12:18" />I asked Titus <char style="it">to visit you </char>and the comrade <char style="it">who went with him
+        </char>to accompany him—did Titus take advantage of you? Have we not conducted our lives in the same
+        spirit (i.e., in the same attitude, led by the same prevailing demeanor)? Have we not followed in the
+        same footsteps?<verse eid="2CO 12:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="2CO 12:19" />So far you think we’ve <char style="it">just </char>been telling you one excuse after another. <char
+        style="it">But what we tell you, </char>we speak before God in Christ (i.e., knowing that God is listening
+        closely, while relying on Christ to mediate); every last thing we do is for your edification, my dear
+        <char style="it">comrades</char>. <verse eid="2CO 12:19" />
+      <verse number="20" style="v" sid="2CO 12:20" />The fact of the matters is that I’m afraid that somehow I’ll come <char style="it">visit you </char>and
+        find that you’re not the way that I want and expect you to be, and vice-versa; that somehow <char style="it">I’ll
+        find</char> there’s rivalry, jealousy, uncontrolled tempers, selfish ambition, bad-mouthing, gossip,
+        arrogance, or havoc being wreaked. <verse eid="2CO 12:20" />
+      <verse number="21" style="v" sid="2CO 12:21" /><char style="it">I don’t want to have to </char>go there again and <char style="it">have</char> God humiliate
+        me with you and <char style="it">cause me </char>to mourn much<char style="sup">[j]</char> (i.e., to
+        pray deep, heart-felt prayers of grieving and sorrow; to be in a melancholy state of grief, pain, and
+        sorrow) over sins you have previously committed and have no intention of asking God to forgive you of
+        these things and quitting them—you have no intention of doing anything about them—when it comes to the
+        uncleanness (i.e., lewd, crude, disgusting behavior), fornication (i.e., loose sexual morals), and licentiousness
+        (i.e., unrestrained indulgence in immoral, physical pleasures) which you have practiced.<verse eid="2CO 12:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">To talk with pride about some of the spectacular things that have happened to me</char>…Lit:
+        <char style="it">to be boasting</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">I’ll jump into</char>…Lit: <char style="it">I’ll come unto</char> [or <char style="it">into</char>].
+        Appears to be an expression.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">make incorrect assumptions</char>…Lit: <char style="it">figure</char>; <char style="it">reckon;
+        credit to someone</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">agent</char>…Also: <char style="it">angel</char>. See usage in Luke 9:52; Rev. 2:1.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">a high opinion of me</char>…Lit: <char style="it">to be commend by you</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">wear out my welcome</char>…Lit: <char style="it">didn’t grow completely stiff or numb;
+        wasn’t a burden</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">to pay for</char>…Lit: <char style="it">be storing provisions</char>. Like storing provisions
+        in anticipation of winter.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">on you—you who are vivacious in thought and emotion</char>…Lit: <char style="it">on
+        behalf of your souls</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">the clever fellow that I am—I pulled a fast one on you</char>…Lit: <char style="it">being
+        cunning, in deceit I have taken you</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">mourn much…</char>Ref. Matt. 5:4; 1 Cor. 5:2</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the third heaven</char>…The ancients had a different view of the universe than we do,
+        and they assumed that the spiritual world, which includes heaven itself, is simply a layer on top of
+        another layer. So the Gk. word<char style="it"> </char>for <char style="it">heaven </char>conflates a
+        couple of concepts we do not. The first of the “heavens” is the sky above. The second heaven-layer, being
+        above that of course, is where the sun, the moon, and the stars exist. We call it outer-space, but they
+        assumed that these astronomical objects were closer to the earth than they actually are. They assumed
+        that the sun travelled across the sky each day in the second “heaven.” So the third heaven is the layer
+        above the second, but since the second includes all physical objects (and from our perspective extends
+        to the far reaches of the universe), the third layer steps into the spirit-world. Now, is this spirit-world
+        heaven as we know it? Paul calls it <char style="it">paradise </char>in v.4, so it may be. Ref. notes
+        of John 3:3; 1 Pet. 1:5.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">be lifted up and over</char>…This is rendered word-for-word. It’s used as a metaphor.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft">”<char style="it">thorn in the flesh</char>”…This is an idiom from the OT, appearing in Num. 23:55; Josh.
+        23:13; Judg. 2:3; Ezek. 28:24. Since it is an idiom, it should not be taken literally; and indeed, it
+        is not used literally in any of the aforementioned references. This idiom was originally used to describe
+        the vexation which came from the enemy nations which surrounded Israel. In fact, Paul goes on to state
+        exactly what this idiom refers to in an appositive phrase a few words after: it is an “agent of Satan.”
+        Furthermore, this verse doesn’t say that God gave Paul a thorn in the flesh, rather the passive voice
+        of “was given” is used, thereby not specifying the subject, the one doing the giving.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">weakness</char>…Lit: <char style="it">asthenia</char> (the Gk. word for <char style="it">weakness</char>).<char
+        style="it"> Asthenia </char><char style="w" strong="G00769">ἀσθένεια</char>)at times means sickness (Luke
+        10:9 for example), but at other times means weakness as the English word suggests. When asthenia is used
+        to mean sickness, it refers to a prolonged, undiagnosed ailment which lasts for a long time and causes
+        a person to become weak. The context determines whether this refers to a physical ailment or not. In
+        addition, asthenia is used a few times starting from the 10<char style="sup">th</char> chapter until
+        this verse, and nowhere in those occurrences does it conclusively refer to a sickness of some sort. To
+        cap it off, v. 10 says “for when I’m weak,” where “weak” summarizes the words before it, which are “insults,
+        dire need, persecutions, and circumstances of distress”—none of which are a sickness of any sort. This
+        implies that the insults, dire need, persecutions, and circumstances of distress are Paul’s weakness.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">the defining characteristics of an apostle</char>…Lit: <char style="it">the signs of
+        an apostle</char>. Although this translation often renders <char style="it">apostle </char>as <char style="it">missionary</char>,
+        the complete definition of an apostle also includes what Paul says here, namely that a true apostle performs
+        signs and wonders. Likewise, to be considered an evangelist according to the strictest biblical definition,
+        one must perform miracles, healings, or something of a supernatural nature. This is because Philip (Acts
+        21:8) is the only evangelist that the NT identifies by name, so his example must serve as the archetype
+        for all evangelists. In other words, since Philip performed miracles, and Philip is the only evangelist
+        in the Bible, all evangelists must perform miracles in order to conform to the strictest definition laid
+        down by Acts 21.</char>
+    </note>
+  <chapter eid="2CO 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="2CO 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.
+    </para>
+    <para style="pi" vid="2CO 13:1"></para>
+    <para style="pi" vid="2CO 13:1"><char style="it">Based </char>upon <char style="it">what’s spoken from</char> the mouth</para>
+    <para style="pi" vid="2CO 13:1">Of two or<char style="sup">[a]</char> <char style="it">better yet</char> three witnesses</para>
+    <para style="pi" vid="2CO 13:1">Will every affair <char style="it">in question</char> be settled<char style="sup">[b]</char><verse eid="2CO 13:1"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="2" style="v" sid="2CO 13:2" />I have said earlier and am telling those who’ve sinned up to now and everyone else for future reference
+        (<char style="it">and telling them </char>as though <char style="it">I’m </char>present for the second
+        time and leaving just now) that if I were to go <char style="it">see you </char>another time, I won’t
+        hold anything back, <verse eid="2CO 13:2" />
+      <verse number="3" style="v" sid="2CO 13:3" />since you’re looking for proof of Christ speaking in me—<char style="it">Christ </char>who isn’t weak
+        when it comes to you<char style="sup">[c]</char>, but rather is able, capable, and powerful in you. <verse eid="2CO 13:3" />
+      <verse number="4" style="v" sid="2CO 13:4" />The fact of the matter is, he was crucified out of weakness, but he lives out of power from God. The
+        fact of the matter is, even we are weak in him, but we shall live jointly with him out of <char style="it">the</char>
+        power of God <char style="it">granted </char>to you.<verse eid="2CO 13:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2CO 13:5" />If you are in the Faith, test for yourselves—prove to yourselves <char style="it">this</char>: don’t
+        you recognize as far as your own selves are concerned—don’t you know full-well that Christ Jesus <char
+        style="it">is </char>in you and among you?—Unless of course you fail the test. <verse eid="2CO 13:5" />
+      <verse number="6" style="v" sid="2CO 13:6" />But I hope you’ll come to recognize that we don’t fail the test.<verse eid="2CO 13:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="2CO 13:7" />We pray to God for you to no longer do <char style="it">this or that thing which is</char> bad—not so
+        that everyone would see that we were right all along, but that you would do what’s good instead. <verse eid="2CO 13:7" />
+      <verse number="8" style="v" sid="2CO 13:8" />You see, we don’t have the strength to do a thing contrary to the truth, but instead <char style="it">we
+        only have the strength to do a thing </char>for the truth. <verse eid="2CO 13:8" />
+      <verse number="9" style="v" sid="2CO 13:9" />You see, we rejoice when we happen to be weak, but you happen to have strength. This is what we pray
+        in addition: <char style="it">we pray </char>for you to reach maturity.<verse eid="2CO 13:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2CO 13:10" />Because of this, I write these words while absent, so that when I get there and am staying with you,
+        I won’t be using the authority which the Lord assigned to me in a harsh manner, <char style="it">an authority
+        which is to be used </char>for edification and not <char style="it">is</char> <char style="it">to be
+        used</char> destructively.<verse eid="2CO 13:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2CO 13:11" />One last thing, comrades<char style="sup">[d]</char>: rejoice, mend your ways, be comforted and encouraged,
+        stay in agreement<char style="sup">[e]</char>, live in peace, and the God of that wonderful, peaceful
+        love<char style="sup">[f]</char> will be with you.<verse eid="2CO 13:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug<char style="sup">[g]</char> from me.
+    </para>
+    <para style="p" vid="2CO 13:12">All the saints (i.e., your fellow believers in all the churches) greet you.<verse eid="2CO 13:12"/>
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2CO 13:13" />The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit <char style="it">be
+        </char>with you all.<verse eid="2CO 13:13" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">or</char>…Lit: <char style="it">and</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">settled</char>…Lit: <char style="it">established</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">isn’t weak when it comes to you</char>…Lit<char style="it">: isn’t weak unto you</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">stay in agreement</char>…Lit: <char style="it">be thinking the same thing</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">that wonderful, peaceful love</char>…Lit: <char style="it">the love and peace</char>.
+        A hendiadys; ref. note of Matt. 3:11.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">holy hug</char>…Lit: <char style="it">holy kiss</char>. Liberties taken.</char>
+    </note>
+  <chapter eid="2CO 13" />
+</usx>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="2TH" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">2 Thessalonians</para>
+  <para style="toc1">The Epistle of 2 Thessalonians</para>
+  <para style="toc2">2 Thessalonians</para>
+  <para style="toc3">2 Thess.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">2 THESSALONIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">The Thessalonians’ curiosity about end-time prophecy has made them a favorite by all those down to our
+    present age who pine for answers to eschatology questions. It’s as though this is a follow-up letter
+    to Paul’s response to the first letter, or perhaps another one. Though the second chapter has these answers,
+    from our perspective the answers are cryptic and need second-guessing since we aren’t privy to all the
+    letters exchanged. Perhaps that makes it even more tantalizing and enticing to pore over.</para>
+  <para style="ipi">In the meantime, though, the Thessalonians had fallen on hard times and suffered persecutions. Unlike
+    some of his other epistles, Paul is quick to point out that the wrath of God will come upon those who
+    incite persecution—not the “turn the other cheek” stereotype. Paul closes with a defense of his conduct
+    among them, particularly how hard he worked to earn his keep, and that others must do the same.</para>
+  <para style="ipi">The text is typical of Paul’s epistles. Paul uses a wider range of vocabulary than one finds in the Gospels,
+    to put things in perspective.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="2TH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:
+    </para>
+    <para style="p" vid="2TH 1:1">To the church in Thessalonica in God our Father and the Lord Jesus Christ:<verse eid="2TH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="2TH 1:2" />Grace to you and peace from God our Father and from the Lord Jesus Christ.<verse eid="2TH 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="2TH 1:3" />We ought to thank God for you all the time, comrades<char style="sup">[a]</char>—as it’s worth <char
+        style="it">doing</char>—because your faith is growing off the charts, and the love which every one of
+        you has towards each other is proliferating, <verse eid="2TH 1:3" />
+      <verse number="4" style="v" sid="2TH 1:4" />so much so that we personally are speaking with pride about you in the churches of God because of your
+        perseverance and faith during all the persecutions and extreme difficulties which you endure, <verse eid="2TH 1:4" />
+      <verse number="5" style="v" sid="2TH 1:5" />evidence of the just and fair deliberation<char style="sup">[b]</char> of God in deeming you worthy of
+        the kingdom of God, which—incidentally—you suffer for. <verse eid="2TH 1:5" />
+      <verse number="6" style="v" sid="2TH 1:6" />At the end of the day, it’s right in God’s view to pay back those who’re causing you extreme difficulties<char
+        style="sup">[c]</char> <verse eid="2TH 1:6" />
+      <verse number="7" style="v" sid="2TH 1:7" />and for<char style="it"> </char>you who are on the receiving end of these extreme difficulties <char
+        style="it">they’re causing to get a payback from God </char>in <char style="it">the form of </char>relief
+        (<char style="it">a relief shared </char>with us) in the revelation of the Lord Jesus from heaven with
+        his almighty angels<char style="sup">[d]</char> <verse eid="2TH 1:7" />
+      <verse number="8" style="v" sid="2TH 1:8" />with a <char style="it">scorching </char>flame of fire<char style="sup">[e]</char> meting out<char style="sup">[f]</char>
+        vengeance on those who don’t know God and to those who don’t obey the Gospel (i.e., the message) of our
+        Lord Jesus; <verse eid="2TH 1:8" />
+      <verse number="9" style="v" sid="2TH 1:9" /><char style="it">and</char>—<char style="it">indeed</char>—those very people will pay for it in a punishment
+        of doom and destruction <char style="it">issued forth </char>from <char style="it">the </char>face (i.e.,
+        scrutinized closely and as a result of that scrutiny issued forth) of the Lord and from the glory of
+        his might (i.e., issued forth by his power manifested in all its magnificent splendor), <verse eid="2TH 1:9" />
+      <verse number="10" style="v" sid="2TH 1:10" />when he happens to come to be vested in glory among<char style="sup">[g]</char> his saints (i.e., his
+        people) and to be beheld, marveled, and admired among all those who have believed—since what we told
+        you to be true in a dead-serious manner was believed—on that day.<verse eid="2TH 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="2TH 1:11" />We also pray all the time for you with this goal <char style="it">in mind</char>: so that our God would
+        deem you worthy of the calling <char style="it">you have to be one of His people </char>and would cause
+        all sorts of goodness’s good-will and all sorts of deeds of faith in power to proliferate, <verse eid="2TH 1:11" />
+      <verse number="12" style="v" sid="2TH 1:12" />so that the name (i.e., the reputation) of the our Lord Jesus would be glorified among you, and you in
+        him, according to the grace of our God and <char style="it">of our </char>Lord Jesus Christ.<verse eid="2TH 1:12" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">deliberation</char>…Also: <char style="it">judgment</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">those who’re causing you extreme difficulties</char>…Lit: <char style="it">those tribulating
+        you a tribulation</char>. The repetition of <char style="it">tribulation </char>as a verb followed by
+        a noun is a figure of speech.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">his almighty angels</char>…Lit: <char style="it">angels of his might</char>. A figure
+        of speech.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">with a scorching flame of fire</char>…Lit: <char style="it">with a fire of flame</char>.
+        A figure of speech.</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">meting out</char>…Lit: <char style="it">giving</char>. As it is the shortened form of
+        the word <char style="it">pay back </char>used in v. 6, it refers to the same thing: the delivering of
+        a payback.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">among</char>…Or: <char style="it">in</char>; <char style="it">by</char>. The exact rendering
+        is ambiguous.</char>
+    </note>
+  <chapter eid="2TH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="2TH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 2:1" />Now we’re asking you, comrades<char style="sup">[a]</char>, on behalf of the coming of our Lord Jesus
+        Christ and our being rallied to him, <verse eid="2TH 2:1" />
+      <verse number="2" style="v" sid="2TH 2:2" />for you not to be jarred from the frame of mind <char style="it">one maintains as a Christian </char>nor
+        be inwardly disturbed or troubled either because of a strong, prevailing attitude<char style="sup">[b]</char>,
+        a concept, a piece of information, or a letter <char style="it">you received</char> like <char style="it">one
+        </char>you would <char style="it">receive </char>from us, claiming<char style="it"> </char>that the day
+        of the Lord has arrived already. <verse eid="2TH 2:2" />
+      <verse number="3" style="v" sid="2TH 2:3" />Don’t <char style="it">let </char>anyone delude you in any way, because it won’t come unless the “apostasy<char
+        style="sup">[A]</char>” (i.e., the great falling away from the faith) comes first and the Man of Lawlessness
+        (i.e., the man who’s completely unconstrained by any law, any moral principle, or any godly code defining
+        right and wrong), the Son of Destruction-Causing (i.e., the one who takes it as his personal mission
+        to destroy), is revealed, <verse eid="2TH 2:3" />
+      <verse number="4" style="v" sid="2TH 2:4" />the adversary to and the one who raises himself above everything which is said to be God-related or is
+        an object of worship or devotion, so much so that he takes a seat (i.e., he sets up his court, his courtroom,
+        his office) in the temple of God, advertising himself to everyone <char style="it">that</char> he is
+        a god.<verse eid="2TH 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="2TH 2:5" />Don’t you remember that when I was still staying with you I kept telling you these things? <verse eid="2TH 2:5" />
+      <verse number="6" style="v" sid="2TH 2:6" />And now you know for a fact the thing that restrains him from being revealed in his own time<char style="sup">[B]</char>.<verse eid="2TH 2:6" />
+      <verse number="7" style="v" sid="2TH 2:7" />In fact the mystery of <char style="it">this </char>lawlessness<char style="sup">[c]</char> is already
+        in action, it’s just that he who restrains<char style="sup">[d]</char> <char style="it">him from being
+        revealed </char>at the moment <char style="it">will continue to do so </char>until he happens to disappear
+        from the middle <char style="it">of it all</char>; <verse eid="2TH 2:7" />
+      <verse number="8" style="v" sid="2TH 2:8" />and then the Lawless-One will be revealed, whom the Lord Jesus will put to death by blowing <char style="it">on
+        him</char><char style="sup">[e]</char> and will annihilate <char style="it">him </char>by the outward
+        show of the brilliant splendor of his coming, <verse eid="2TH 2:8" />
+      <verse number="9" style="v" sid="2TH 2:9" /><char style="it">he</char> whose coming is a reflection of Satan in action with all <char style="it">sorts
+        of </char>phony power, signs, and wonders (i.e., miracles; miracles for the purpose of proving one’s
+        legitimacy; awe-inspiring miracles) <verse eid="2TH 2:9" />
+      <verse number="10" style="v" sid="2TH 2:10" />and with every kind of self-delusion<char style="sup">[f]</char> which has unrighteousness as its source
+        by those following a trajectory of perdition, because they didn’t receive the love of the truth resulting
+        in their being saved (i.e., spared damnation). <verse eid="2TH 2:10" />
+      <verse number="11" style="v" sid="2TH 2:11" />And because of this God will send them an activity of deception with the goal of and resulting in their
+        believing in the lie, <verse eid="2TH 2:11" />
+      <verse number="12" style="v" sid="2TH 2:12" />so that he would <char style="it">be given the opportunity to </char>judge every person who hasn’t believed
+        in the truth but has preferred <char style="it">to believe </char>in the unrighteousness <char style="it">of
+        the lie</char> instead.<verse eid="2TH 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TH 2:13" />But we ought to thank God for you all the time, comrades, <char style="it">you</char> who are loved by
+        the Lord, because God chose you, <char style="it">His </char>crème de la crème<char style="sup">[g]</char>,
+        to salvation (i.e., being spared spiritual and physical destruction) in <char style="it">the </char>Holy
+        Spirit and in <char style="it">the </char>true faith. <verse eid="2TH 2:13" />
+      <verse number="14" style="v" sid="2TH 2:14" />With this ends in mind, he called you through our Gospel (i.e. our message) to <char style="it">the</char>
+        acquisition of <char style="it">the same type of </char>glory <char style="it">as</char> our Lord Jesus
+        Christ <char style="it">has</char>. <verse eid="2TH 2:14" />
+      <verse number="15" style="v" sid="2TH 2:15" />So then, comrades, stand and keep standing in and get ahold of and keep holding onto the bylaws, code
+        of conduct, and best-practices established in perpetuity<char style="sup">[h]</char>, which you received
+        whether by a message <char style="it">spoken to you in person </char>or through <char style="it">one
+        of </char>our letters. <verse eid="2TH 2:15" />
+      <verse number="16" style="v" sid="2TH 2:16" />But our Lord Jesus Christ himself and God our Father, Who loved us and gave <char style="it">us</char>
+        everlasting comfort, consolation, and good hope by means of grace, <verse eid="2TH 2:16" />
+      <verse number="17" style="v" sid="2TH 2:17" />will comfort and console your hearts and cause you to stand in every action and in <char style="it">every
+        </char>good affair.<verse eid="2TH 2:17" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">strong, prevailing attitude</char>…Lit: <char style="it">spirit</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">this lawlessness</char>…Lit: <char style="it">the lawlessness </char><char style="w"
+        strong="G00458">ἀνομία</char>). Gk: <char style="it">anomia</char> (feminine). Note that the Gk. word
+        for Lawless-One in v. 7 is <char style="it">anomos </char>(masculine). Paul’s making a distinction by
+        using these slightly different words: anomia refers to a quality, whereas anomos <char style="w" strong="G00459">ἄνομος</char>)
+        refers to a person, the embodiment of these qualities.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">he who restrains</char>…Gk. <char style="it">o katexōn </char>[ὁ κατέχων, <char style="w"
+        strong="G02722">κατέχων</char>)]. This is not quite the same as what’s in v. 6, which is <char style="it">to
+        katexon </char>(τὸ κατέχον, <char style="w" strong="G02722">κατέχον</char>)]<char style="it">. </char>Although
+        the definite articles are both neuter/masculine, the substantive of the first is masculine while the
+        second in neuter. This suggest that it’s “he who restrains” not “the thing that restrains.” Ref. note
+        of v. 7.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">by blowing on him</char>…Lit: <char style="it">by the wind of his mouth</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">self-delusion</char>…Also: <char style="it">deceit</char>. Same word used in Mark 4:19;
+        ref. note there.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">crème de la crème</char>…Lit: <char style="it">first-fruits</char>. Ref. note of Rom.
+        8:23.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">bylaws, code of conduct, and best-practices established in perpetuity</char>…Lit: <char
+        style="it">traditions</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">apostasy</char>…The Gk. word <char style="it">apostasia </char><char style="w" strong="G00646">ἀποστασία</char>)<char
+        style="it">. </char>The NASB defines this as “a falling away from the faith.” Some Gk. scholars disagree
+        with this and claim that it means “departure” instead, citing sources such as the <char style="it">Geneva
+        Bible, </char>Tyndale’s translation, the <char style="it">Great Bible</char>, Kenneth Wuest, and John
+        Lineberry. Their reasoning for choosing “departure” over “a falling away” is that <char style="it">aphistāmi
+        </char><char style="w" strong="G00868">ἀφίστημι</char>)<char style="it">, </char>the root verb from which
+        apostasia is derived, means <char style="it">to depart. </char>Furthermore, they say that <char style="it">apostasia
+        </char>(the noun form) only occurs twice in the NT, here in 1 Thess. 2:3 and over in Acts 21:21. Although
+        the context of Acts 21:21 suggests that apostasia means “falling away” rather than “departure,” the critics
+        claim that this isn’t sufficient evidence to negate the core meaning of aphistāmi. However, what these
+        dissenters fail to take into consideration is the use of apostasia in the LXX. Apostasia is found in
+        Josh. 22:22; 2 Chron. 29:19; 2 Chron. 33:19; Jer. 2:19. In all four cases, apostasia means “rebellion,
+        unfaithfulness, backsliding.” In other words, it means the same thing as “a falling away from the faith.”
+        Paul read from the LXX frequently and extensively (it might’ve even been his primary study-Bible), and
+        he was familiar with the occurrences and usages of apostasia in these passages and was mimicking its
+        usage here in v. 3. But in any case, between the LXX and Acts. 21:21, there are five occurrences of apostasia
+        in the Bible apart from 2:3 here. In five of the five occurrences—100% of the time—the meaning of apostasia
+        is “a falling away from the faith.” The sixth must mean the same also, the one here in v. 3.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the thing that restrains him from being revealed in his own time</char>…Lit: <char style="it">the
+        restraint for him to be revealed in his</char> [or <char style="it">its</char>] <char style="it">own
+        time. </char>The “thing that restrains” in v. 7 is the Gk. <char style="it">to katexon </char>(a form
+        of <char style="it">o katexon</char>), where <char style="it">to </char>is the neuter definite article
+        and <char style="it">katexon </char>is the neuter participle form of the verb <char style="it">katexō
+        </char><char style="w" strong="G02722">κατέχω</char>)<char style="it">, </char>which literally means
+        <char style="it">to have down upon.</char></char>
+    </note>
+  <chapter eid="2TH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="2TH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="2TH 3:1" />In conclusion, pray for us, comrades<char style="sup">[a]</char>, so that the word of the Lord would
+        spread rapidly<char style="sup">[b]</char> and would be glorified just as it did with you <verse eid="2TH 3:1" />
+      <verse number="2" style="v" sid="2TH 3:2" />and that we would be rescued from the perverse<char style="sup">[c]</char> and wicked people <char style="it">who
+        resist us</char>: not everyone <char style="it">follows </char>the Faith, you see. <verse eid="2TH 3:2" />
+      <verse number="3" style="v" sid="2TH 3:3" />But the Lord is faithful, who will cause us to stand and will guard us from the Evil One. <verse eid="2TH 3:3" />
+      <verse number="4" style="v" sid="2TH 3:4" />I’ve reached the point where I’m convinced in <char style="it">the </char>Lord <char style="it">of good
+        things </char>where you’re concerned, because you are doing and will do what we charged you with. <verse eid="2TH 3:4" />
+      <verse number="5" style="v" sid="2TH 3:5" />May the Lord direct your hearts to the love of God and to the steadfastness and endurance of Christ.<verse eid="2TH 3:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="2TH 3:6" />Now we charge you, comrades, in <char style="it">the</char> name of our Lord Jesus Christ (i.e., by the
+        authority given to us by Jesus Christ) to stay away from all comrades who conduct themselves with a blatant
+        disregard for the rules which have been set in place and not according to the bylaws, code of conduct,
+        and best-practices established in perpetuity<char style="sup">[d]</char> which you received from us.<verse eid="2TH 3:6" />
+      <verse number="7" style="v" sid="2TH 3:7" />In this regard you know in yourselves from first-hand experience how necessary it is for you to follow
+        our example, since we didn’t disregard the rules <char style="it">when we were</char> among you, <verse eid="2TH 3:7" />
+      <verse number="8" style="v" sid="2TH 3:8" />nor did we mooch any meals from anyone<char style="sup">[e]</char>—uh-uh—we were toiling day and night
+        doing back-breaking labor so we wouldn’t be a burden on any of you— <verse eid="2TH 3:8" />
+      <verse number="9" style="v" sid="2TH 3:9" />Not that we don’t have the right <char style="it">to make you provide boarding for us</char>, but <char
+        style="it">we choose to do what we did</char> instead so that we could offer ourselves to you as an example
+        for you to imitate.<verse eid="2TH 3:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="2TH 3:10" />And in fact, when we were with you, we kept telling you to obey this rule: If a given person doesn’t
+        want to work <char style="it">then </char>don’t let him have a meal at mealtime<char style="sup">[A]</char>.<verse eid="2TH 3:10" />
+      <verse number="11" style="v" sid="2TH 3:11" />In fact we hear that there are some people among you going about not following the rules, not doing any
+        work but goofing off<char style="sup">[B]</char> instead. <verse eid="2TH 3:11" />
+      <verse number="12" style="v" sid="2TH 3:12" />To such people we charge and advise in <char style="it">the </char>Lord Jesus Christ <char style="it">certain
+        admonishments </char>so that by keeping quiet while working they would eat their own meal (i.e., would
+        be entitled to receive a meal).<verse eid="2TH 3:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="2TH 3:13" />But you, comrades—don’t get tired of doing good. <verse eid="2TH 3:13" />
+      <verse number="14" style="v" sid="2TH 3:14" />But if someone won’t obey the message <char style="it">we’re giving you </char>by <char style="it">this
+        </char>letter <char style="it">were sending</char>, take note of this <char style="it">guy</char>: don’t
+        associate with or get mixed up with him, so that he’ll be put to shame. <verse eid="2TH 3:14" />
+      <verse number="15" style="v" sid="2TH 3:15" />And don’t think of <char style="it">him </char>as an enemy, but warn and admonish <char style="it">him</char>
+        as a comrade instead.<verse eid="2TH 3:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="2TH 3:16" />May the Lord of Peace himself grant you the peace throughout every <char style="it">circumstance </char>in
+        every place<char style="sup">[f]</char>.</para>
+    <para style="p" vid="2TH 3:16"><char style="it">May </char>the Lord <char style="it">be </char>with you all.<verse eid="2TH 3:16"/>
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="2TH 3:17" />The greeting <char style="it">written here is in </char>Paul’s<char style="it"> handwriting</char>, which
+        is a distinguishing feature of every letter <char style="it">I write</char>:</para>
+    <para style="p" vid="2TH 3:17"><char style="sc">THIS IS THE WAY I WRITE</char><char style="sup">[C]</char>.<verse eid="2TH 3:17"/>
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="2TH 3:18" />The grace of our Lord Jesus Christ <char style="it">be </char>with you all.<verse eid="2TH 3:18" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">spread rapidly</char>…Lit: <char style="it">run</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">perverse</char>…Lit: <char style="it">not in place</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">bylaws, code of conduct, and best-practices established in perpetuity</char>…Lit: traditions</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">mooch any meals from anyone</char>…Lit: <char style="it">ate a gift-bread from anyone</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">throughout every circumstance in every place</char>…Lit: <char style="it">through all
+        in all place</char>. The GT is more poetic.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">have a meal at mealtime</char>…Lit: <char style="it">eat</char>. When people congregated,
+        they had a couple people cook for the entire group, because that was the most efficient way of handling
+        food preparation up until modern times. Everyone would sit down at a table together at the same time,
+        the food would be passed around, and it would all be shared. This proscription is to forbid a person
+        from having a seat at the table and share in the meal if he didn’t share in the common work also.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">goofing off</char>…Lit: <char style="it">being a busybody; meddling</char>. The Gk.
+        word literally means “to go around the periphery of work.” The picture is of someone going here or there
+        when working—or supposedly working. Instead, he’s bothering other people who are working, striking up
+        non-work-related conversations, instead of getting his own work done. The assertion that this is what
+        this Gk. means is confirmed by the statement in v. 12 which says to “keeping quiet while working.” Nothing
+        has changed since ancient times!</char>
+    </note>
+  <chapter eid="2TH 3" />
+</usx>

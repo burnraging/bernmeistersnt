@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1TH" style="id">The Bernmeister's NT</book>
+  <para style="h">1 Thessalonians</para>
+  <para style="toc1">The Epistle of 1 Thessalonians</para>
+  <para style="toc2">1 Thessalonians</para>
+  <para style="toc3">1 Thess.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 THESSALONIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1TH 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 1:1" />From Paul, Silas, and Timothy:
+    </para>
+    <para style="p" vid="1TH 1:1">To the church of Thessalonica in the Father-God and the Lord Jesus Christ:</para>
+    <para style="p" vid="1TH 1:1">Grace to you and peace.<verse eid="1TH 1:1"/>
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1TH 1:2" />We’re always thanking God for all of you, bringing you up in prayer, continuously <verse eid="1TH 1:2" />
+      <verse number="3" style="v" sid="1TH 1:3" />remembering your work of the Faith, your toil of the Love of God, and your steadfastness of the hope
+        of our Lord Jesus Christ in the sight of our God and Father, <verse eid="1TH 1:3" />
+      <verse number="4" style="v" sid="1TH 1:4" />knowing full-well, comrades loved by God, your selection (i.e., God’s selection of you to be His), <verse eid="1TH 1:4" />
+      <verse number="5" style="v" sid="1TH 1:5" />that our Gospel, the glad-tidings message which drew us together, did not present itself to us in word
+        only but also in supernatural power and in the Holy Spirit and with much conviction, just as you know
+        full-well what sort of men we turned out to be while among you throughout our stay with you.<verse eid="1TH 1:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 1:6" />And you became people who imitate us and the Lord, having received (i.e., having fully embraced) the
+        word in the midst of a good deal of tribulation but with the joy of the Holy Spirit, <verse eid="1TH 1:6" />
+      <verse number="7" style="v" sid="1TH 1:7" />so much so that you turned out to be a role-model for all the believers in Macedonia and in the Roman
+        province of Asia.<verse eid="1TH 1:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1TH 1:8" />In fact the word of the Lord sounded forth from you (i.e., you loudly and thoroughly announced, advertised,
+        and disseminated the word of the Lord) not just in Macedonia and in Asia but in every place your faith
+        in God went out, so much so that there’s no need for us to be doing any more talking. <verse eid="1TH 1:8" />
+      <verse number="9" style="v" sid="1TH 1:9" />Furthermore, the Macedonians and Asians personally are letting everyone know what an impact we’ve had
+        on you, and how you turned to God, having turned from the idols you were serving to serve a living and
+        true God <verse eid="1TH 1:9" />
+      <verse number="10" style="v" sid="1TH 1:10" />and to wait for His son to come out of heaven, whom He raised from the dead, Jesus who’s rescuing us
+        from the coming wrath.<verse eid="1TH 1:10" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TH 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1TH 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 2:1" />In fact you yourselves know full-well, comrades, that the impact we had on you wasn’t a waste of time,<verse eid="1TH 2:1" />
+      <verse number="2" style="v" sid="1TH 2:2" />rather, having suffered before and having been treated with insolence (as you’re well aware), in Philippi
+        we were emboldened in our God to tell you God’s good-news message, the Gospel, while in the face of a
+        lot of opposition. <verse eid="1TH 2:2" />
+      <verse number="3" style="v" sid="1TH 2:3" />In fact, our encouragement was not from us being in error or from an uncleanness (i.e., something dirty,
+        impure, or something one should stay away from), nor did it exist in deceit or guile, <verse eid="1TH 2:3" />
+      <verse number="4" style="v" sid="1TH 2:4" />but instead it’s in line with the way we’ve been granted by God to be entrusted with the Gospel—that’s
+        the way we speak, not like we’re speaking to people in a way where we’re trying to make them happy but
+        like we’re speaking to God in a way to make Him happy instead, Who approves or disapproves of what’s
+        in our hearts. <verse eid="1TH 2:4" />
+      <verse number="5" style="v" sid="1TH 2:5" />For there was never a time when we showed up with a flattering message (as you’re well aware), nor did
+        we show up having a pretext for covetousness—so help me God— <verse eid="1TH 2:5" />
+      <verse number="6" style="v" sid="1TH 2:6" />nor did we show up seeking prestige or fame, not from you or from anyone else, <verse eid="1TH 2:6" />
+      <verse number="7" style="v" sid="1TH 2:7" />though, as Christ’s apostles, we’re capable of throwing our weight around. Instead, we became infants
+        while in your midst. The way a nursing mother cherishes her own children <verse eid="1TH 2:7" />
+      <verse number="8" style="v" sid="1TH 2:8" />is the same way that we, having a strong yearning for you, thought it well to share not only the Gospel
+        of God but also the things that make us live and breathe themselves. Therefore, you became dear to us.<verse eid="1TH 2:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TH 2:9" />Furthermore, recollect, comrades, our back-breaking labor and toil: we worked day and night so that we
+        wouldn’t be a burden on any of you. Under these circumstances we preached the Gospel of God to you. <verse eid="1TH 2:9" />
+      <verse number="10" style="v" sid="1TH 2:10" />You—and God—can attest to just how pious, correct, and faultless the demeanor was that we presented to
+        you who are believers. <verse eid="1TH 2:10" />
+      <verse number="11" style="v" sid="1TH 2:11" />Just as you know from experience that we treated each one of you like a father treats his own children,<verse eid="1TH 2:11" />
+      <verse number="12" style="v" sid="1TH 2:12" />we were comforting, exhorting, advising, consoling, cheering, and issuing statements for you to conduct
+        your day to day lives in a manner worthy of God, Who calls us to His Own kingdom and glory.<verse eid="1TH 2:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TH 2:13" />And we thank God continuously because of this as well, since, having received (i.e., wholeheartedly embraced)
+        God’s message (His systematic reasoning; His word) verbally communicated from us to you, you didn’t receive
+        a man-made message but instead you received it just as it actually is: God’s true message, a message
+        which is also at work in you who believe.<verse eid="1TH 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TH 2:14" />You see comrades, you followed the pattern set by the churches of God in Christ Jesus which are in Judea,
+        in that you too suffered the same things done to you by your own countrymen like what was done to them
+        by their fellow Judeans, <verse eid="1TH 2:14" />
+      <verse number="15" style="v" sid="1TH 2:15" />who also killed the Lord Jesus and the Old Testament prophets and persecuted us. These countrymen live
+        lives which are not pleasing to God; they are against all of humanity, <verse eid="1TH 2:15" />
+      <verse number="16" style="v" sid="1TH 2:16" />hindering us from getting to speak to the Gentiles so that they could be saved (i.e., receive Christ
+        as savior), the end-result being that every time they commit sin, they do it to the maximum extent; the
+        wrath of God came upon them to the utmost.<verse eid="1TH 2:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TH 2:17" />But we, comrades, bereft of you for a short while—bereft from being there in person with you and not
+        bereft of heart—with tremendous desire we all the more hastened to see your faces. <verse eid="1TH 2:17" />
+      <verse number="18" style="v" sid="1TH 2:18" />Therefore we wanted to visit you—certainly I did, Paul—I started making arrangements once or twice but
+        Satan thwarted us.<verse eid="1TH 2:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TH 2:19" />The fact of the matter is this: Who is our hope, our joy, or trophy which we beam with pride over—if
+        not you—yes you—joy of you being in the presence of our Lord with his coming? <verse eid="1TH 2:19" />
+      <verse number="20" style="v" sid="1TH 2:20" />You are our pride and joy, you see.<verse eid="1TH 2:20" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TH 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1TH 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 3:1" />In light of this, as we could no longer stand it, we thought it best to stay behind in Athens by ourselves,<verse eid="1TH 3:1" />
+      <verse number="2" style="v" sid="1TH 3:2" />and so we sent Timothy, our comrade and fellow-worker of God in the Gospel (i.e. the good-news message)
+        of Christ, for the purpose of getting you to stand on your own two feet and encouraging, advising, and
+        comforting you in regard to your faith <verse eid="1TH 3:2" />
+      <verse number="3" style="v" sid="1TH 3:3" />so as to not be agitated or emotionally upset in these times of distress; in fact, you yourselves know
+        full-well that this is our fate in life. <verse eid="1TH 3:3" />
+      <verse number="4" style="v" sid="1TH 3:4" />Furthermore, when we were with you, we kept telling you ahead of the fact that hard times are coming,
+        just as it both happened and you know for a fact that it did. <verse eid="1TH 3:4" />
+      <verse number="5" style="v" sid="1TH 3:5" />Because of this and because I couldn’t stand it any longer, I made inquiries to ascertain your faith,
+        lest somehow the Temptor tempted you and our labor turned out to be for nothing.<verse eid="1TH 3:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 3:6" />Just now Timothy arrived here at our place coming from your place and gave us good news in regard to
+        your faith and your love and gave us the good news that you always remember us in a good way, longing
+        to see us just we long to see you. <verse eid="1TH 3:6" />
+      <verse number="7" style="v" sid="1TH 3:7" />Because of this we were encouraged and comforted, comrades, in what we hear about you on account of your
+        faith while staring point-blank at all our needs and afflictions, <verse eid="1TH 3:7" />
+      <verse number="8" style="v" sid="1TH 3:8" />because we’re infused with life and vitality now if it is the case that you stand in the Lord. <verse eid="1TH 3:8" />
+      <verse number="9" style="v" sid="1TH 3:9" />In fact, how can we possibly thank God enough for you for all the joy we’ve been elated with in the presence
+        of God because of you, <verse eid="1TH 3:9" />
+      <verse number="10" style="v" sid="1TH 3:10" />day and night begging in prayer over and beyond the point of excess to see your face and repair the deficiencies
+        of your faith?<verse eid="1TH 3:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1TH 3:11" />May our God and our Father and our Lord Jesus set us on a straight course to see you.<verse eid="1TH 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TH 3:12" />May the Lord cause you to abound and increase in the love which you show to one another and to all people,
+        just as we also show to you, <verse eid="1TH 3:12" />
+      <verse number="13" style="v" sid="1TH 3:13" />with the end-goal of establishing your hearts blameless in holiness under the scrutiny of our God and
+        Father in the coming of our Lord Jesus with all his saints (i.e., his followers).<verse eid="1TH 3:13" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TH 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1TH 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 4:1" />In conclusion, comrades, we ask you in the Lord—plead with you—that you go to higher and higher levels
+        in your being pleasing to God in your day to day lives in a way which is consistent with the instructions
+        you received from us (which is consistent with the way you are currently living your lives). <verse eid="1TH 4:1" />
+      <verse number="2" style="v" sid="1TH 4:2" />The fact of the matter is that you know some of the instructions we gave you through the Lord Jesus.<verse eid="1TH 4:2" />
+      <verse number="3" style="v" sid="1TH 4:3" />In fact, this is the will of God (your holiness is the will of God!): it is for you to abstain from the
+        fornication you’re surrounded by (i.e., by the loose sexual morals we all know about); <verse eid="1TH 4:3" />
+      <verse number="4" style="v" sid="1TH 4:4" />for each of you to know how to gain possession and keep possession of his own personal container (i.e.,
+        his body, the container for his soul and spirit) in holiness and dignity, <verse eid="1TH 4:4" />
+      <verse number="5" style="v" sid="1TH 4:5" />not in an intense, all-consuming feeling of lust (just like the Gentiles who don’t know God) <verse eid="1TH 4:5" />
+      <verse number="6" style="v" sid="1TH 4:6" />but in not stepping out of line and taking advantage of or defrauding his fellow-comrade in the matter
+        of sexual morality. Because of this the Lord takes vengeance in issues pertaining to these transgressions,
+        consistent with the way we told you previously, telling it in a dead-serious manner. <verse eid="1TH 4:6" />
+      <verse number="7" style="v" sid="1TH 4:7" />The fact of the matter is that God has not called you to uncleanness (i.e., God’s intention for your
+        life in His kingdom was not to commit filthy, disgusting deeds) but rather to live in holiness. <verse eid="1TH 4:7" />
+      <verse number="8" style="v" sid="1TH 4:8" />Consequently, he who disregards this command isn’t disregarding a human being but is disregarding God
+        instead, Who gives His Holy Spirit to you.<verse eid="1TH 4:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1TH 4:9" />Now about brotherly-love (i.e., having strong likings for other comrades): you don’t need to have any
+        instruction or advice written to you on this subject, seeing that you yourselves are God-instructed in
+        the love one should have for another. <verse eid="1TH 4:9" />
+      <verse number="10" style="v" sid="1TH 4:10" />In fact, you also extend the same practices to all the comrades all over Macedonia. We beg you, comrades,
+        to do even more <verse eid="1TH 4:10" />
+      <verse number="11" style="v" sid="1TH 4:11" />and make it a goal to be still (i.e., not be stirred by loud, negative emotions), to do your own things
+        (i.e., concentrate on your own lives), and to work with your own hands (i.e., don’t rely on others to
+        do your work), and do these things in line with the way we recommended, <verse eid="1TH 4:11" />
+      <verse number="12" style="v" sid="1TH 4:12" />so that the way you conduct your lives would leave a good impression on those on the outside and so that
+        you won’t need anything.<verse eid="1TH 4:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1TH 4:13" />We don’t want you to be kept in the dark, comrades, about those who sleep (i.e., the believers who are
+        already dead), so that you won’t grieve like the others, the ones who have no hope. <verse eid="1TH 4:13" />
+      <verse number="14" style="v" sid="1TH 4:14" />To this point, if we believe that Jesus died and rose from the dead, then we are also entitled to believe
+        that God will take those who sleep through Jesus (i.e., those who died trusting in Jesus) along together
+        with him the same way. <verse eid="1TH 4:14" />
+      <verse number="15" style="v" sid="1TH 4:15" />In fact, we’re telling you this in a word of the Lord (i.e., in a prophetic message from the Lord): you
+        the living who remain on the Earth until the coming of the Lord will absolutely not arrive at the destination
+        before those who sleep, <verse eid="1TH 4:15" />
+      <verse number="16" style="v" sid="1TH 4:16" />because the Lord himself—with the shout of a command by the voice of an archangel and by God’s bugle
+        call—will come down from heaven, and first the dead in Christ will be resurrected (i.e., brought back
+        to life), <verse eid="1TH 4:16" />
+      <verse number="17" style="v" sid="1TH 4:17" />then you who are alive who remain on the Earth will be taken together with them as a single unit into
+        the clouds to a meeting with the Lord in the air—And that’s the way we’ll always be with the Lord.<verse eid="1TH 4:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TH 4:18" />The bottom line is that we should comfort and exhort each other with these words.<verse eid="1TH 4:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1TH 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1TH 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1TH 5:1" />Concerning the times (i.e., the year, day, or month significant events will occur) and the seasons (i.e.,
+        the atmosphere that defines the era events occur in; the climate the events occur in), comrades, you
+        don’t need for me to write to you anything; <verse eid="1TH 5:1" />
+      <verse number="2" style="v" sid="1TH 5:2" />the fact is that you know full well in yourselves and to a tee that the nature of the day of the Lord
+        is that it comes in the same way as a thief in the night hits and runs. <verse eid="1TH 5:2" />
+      <verse number="3" style="v" sid="1TH 5:3" />When they (i.e., everybody out there) are saying, “Peace and security,” then suddenly and unexpectedly
+        destruction and ruin are perched on top of them staring down on them just like labor pains suddenly come
+        upon a pregnant woman and there’s no way she can run away at that point and escape them. <verse eid="1TH 5:3" />
+      <verse number="4" style="v" sid="1TH 5:4" />But you, comrades, aren’t in darkness (i.e., you aren’t being kept in the dark about this) so that that
+        day would overwhelm you like a thief would; <verse eid="1TH 5:4" />
+      <verse number="5" style="v" sid="1TH 5:5" />for you all are sons of (i.e., you adopt the characteristics of) light and sons of day—We aren’t sons
+        of night or sons of darkness.<verse eid="1TH 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1TH 5:6" />So then don’t sleep (i.e., becoming spiritually dormant) like everyone else, but be watchful (i.e., stay
+        focused) and sober (i.e., don’t let anything degrade your heightened state of alertness) instead. <verse eid="1TH 5:6" />
+      <verse number="7" style="v" sid="1TH 5:7" />You see, those who sleep do their sleeping at night, and those who are drunkards do their drinking at
+        night. <verse eid="1TH 5:7" />
+      <verse number="8" style="v" sid="1TH 5:8" />But you’re in a state where you’re sober during the day, now that you’ve put on a breast-plate of faith
+        and love and a helmet that is the hope of salvation (i.e., of escaping destruction, in this context the
+        wrath of God), <verse eid="1TH 5:8" />
+      <verse number="9" style="v" sid="1TH 5:9" />because God didn’t put us in a position that’s towards wrath but He put us in a position that’s headed
+        towards acquiring salvation (i.e., acquiring a means of escape, in this context from the wrath of God)
+        through our Lord Jesus Christ, <verse eid="1TH 5:9" />
+      <verse number="10" style="v" sid="1TH 5:10" />who died for us so that whether we happen to watch (i.e., remain alive and stay focused) or whether we
+        happen to sleep (i.e., die) we would live together in the same time and place with him. <verse eid="1TH 5:10" />
+      <verse number="11" style="v" sid="1TH 5:11" />In light of this, comfort one another and edify each other one-on-one just like you’re already doing.<verse eid="1TH 5:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1TH 5:12" />We ask you, comrades, to know from first-hand observation those among you who do hard work and who have
+        stepped forward to stand in leadership positions in the Lord and who advise, warn, admonish, and instruct
+        you, <verse eid="1TH 5:12" />
+      <verse number="13" style="v" sid="1TH 5:13" />and to have a superabundant high regard for them in love on account of their work.
+    </para>
+    <para style="p" vid="1TH 5:13">Keep the peace among yourselves.<verse eid="1TH 5:13"/>
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.
+    </para>
+    <para style="p" vid="1TH 5:14">Cheer up those who are discouraged.</para>
+    <para style="p" vid="1TH 5:14">Take a strong interest in and help those who are weak (i.e., those who are unwell; worn out with a sickness;
+        too physically weak to take care of themselves; powerless to do anything about their circumstances).
+    </para>
+    <para style="p" vid="1TH 5:14">Exercise patience with everyone.<verse eid="1TH 5:14"/>
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1TH 5:15" />See that no one, when somebody does something bad to them, retaliates by doing something bad back to
+        them, but instead pursues the common good and the general good at all times.<verse eid="1TH 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="1TH 5:16" />Rejoice all the time.<verse eid="1TH 5:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1TH 5:17" />Pray incessantly.<verse eid="1TH 5:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1TH 5:18" />Give thanks in the midst of all circumstances; you see, this is the will of God for you in Christ Jesus.<verse eid="1TH 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1TH 5:19" />Do not extinguish or put out the Holy Spirit when he’s burning. Do not quench, stifle, or suppress the
+        Holy Spirit.<verse eid="1TH 5:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1TH 5:20" />Do not despise, treat with contempt, or have utter disdain for prophesy, <verse eid="1TH 5:20" />
+      <verse number="21" style="v" sid="1TH 5:21" />but examine all things including prophesies instead and accept the good and reject the bad and hold onto
+        the good.<verse eid="1TH 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="1TH 5:22" />Stay away from any appearance of evil or wrong-doing.<verse eid="1TH 5:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1TH 5:23" />Now may the God of peace Himself set you apart so that you’re complete in all respects and so that you
+        meet all expectations; may your spirit, soul, and body be blameless at the coming of our Lord Jesus Christ.<verse eid="1TH 5:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="1TH 5:24" />Faithful is He Who calls us; He will do it.<verse eid="1TH 5:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="1TH 5:25" />Comrades, pray for us too.<verse eid="1TH 5:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="1TH 5:26" />Greet all the comrades with a holy hug.<verse eid="1TH 5:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="1TH 5:27" />Make a promise to the Lord to have this letter read aloud to all the comrades, so everyone gets the chance
+        to hear it.<verse eid="1TH 5:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="1TH 5:28" />The grace of our Lord Jesus Christ be with you.<verse eid="1TH 5:28" />
+    </para>
+  <chapter eid="1TH 5" />
+</usx>

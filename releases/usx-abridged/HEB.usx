@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="HEB" style="id">The Bernmeister's NT</book>
+  <para style="h">Hebrews</para>
+  <para style="toc1">The Epistle of Hebrews</para>
+  <para style="toc2">Hebrews</para>
+  <para style="toc3">Heb.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">HEBREWS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="HEB 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 1:1" />t was one piece at a time and it was in many ways that God spoke long ago to the Ancestors by means of
+        the prophets, <verse eid="HEB 1:1" />
+      <verse number="2" style="v" sid="HEB 1:2" />but during this time—a time in which we see His long-awaited promises coming to pass—He spoke to us in
+        a son whom He positioned to be the heir of everything, through whom He also made the ages (i.e., the
+        epochs of time; the periods of history); <verse eid="HEB 1:2" />
+      <verse number="3" style="v" sid="HEB 1:3" />and who is the brightness and radiance which is emitted and beams forth from His glory and is a carbon-copy
+        of His being, His undergirding reality, and who carries any and every thing on his shoulders by the word
+        of God spoken into action and having His power as its instrument. After he performed an act of cleansing
+        for the sins of mankind, he sat at the right hand (i.e., he assumed the position of chief executive officer)
+        of the Majesty in the Highest, <verse eid="HEB 1:3" />
+      <verse number="4" style="v" sid="HEB 1:4" />having become so much better than the angels because he has inherited a name (i.e., a title; a position
+        of authority; a statement of who he is; a reputation) which makes him more excellent, more distinguished
+        than they. <verse eid="HEB 1:4" />
+      <verse number="5" style="v" sid="HEB 1:5" />Furthermore, to which of the angels did He say:
+    </para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="pi" vid="HEB 1:5">You are my son,</para>
+    <para style="pi" vid="HEB 1:5">Today I have begotten you</para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="m" vid="HEB 1:5">Plus another verse,</para>
+    <para style="pi" vid="HEB 1:5"></para>
+    <para style="pi" vid="HEB 1:5">I will be a Father to him,</para>
+    <para style="pi" vid="HEB 1:5">And he will be a son to Me<verse eid="HEB 1:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 1:6" />Take this for instance: when He does in fact bring the firstborn, the rightful heir, into the civilized
+        world again, He says:</para>
+    <para style="pi" vid="HEB 1:6"></para>
+    <para style="pi" vid="HEB 1:6">Have all the angels worship him<verse eid="HEB 1:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 1:7" />Contrast that to this: He says this directing it to the angels,
+    </para>
+    <para style="pi" vid="HEB 1:7"></para>
+    <para style="pi" vid="HEB 1:7">The One Who makes His angels spirits,</para>
+    <para style="pi" vid="HEB 1:7">And makes those who serve Him</para>
+    <para style="pi" vid="HEB 1:7">As attendants in the ritual of His worship</para>
+    <para style="pi" vid="HEB 1:7">A flame of fire<verse eid="HEB 1:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 1:8" />And contrast that to this: in regard to the son He says,
+    </para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">Your throne, God, will persist out to forever and ever,</para>
+    <para style="pi" vid="HEB 1:8">And the scepter of straightness</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">(i.e., decrees and edicts which are based on</para>
+    <para style="pi" vid="HEB 1:8">moral integrity, righteousness,</para>
+    <para style="pi" vid="HEB 1:8">and an absence of guile, duplicity, or corruption)</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">Is the scepter of your kingdom</para>
+    <para style="pi" vid="HEB 1:8"></para>
+    <para style="pi" vid="HEB 1:8">(i.e., is the way in which you run your kingdom).<verse eid="HEB 1:8"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 1:9" />You loved righteousness and hated lawlessness
+    </para>
+    <para style="pi" vid="HEB 1:9">(i.e., You hated those who refuse to be restrained</para>
+    <para style="pi" vid="HEB 1:9">By the laws of God and of man).</para>
+    <para style="pi" vid="HEB 1:9">Because of this God—your God—anointed you</para>
+    <para style="pi" vid="HEB 1:9">(i.e., singled you out and specially chose you)</para>
+    <para style="pi" vid="HEB 1:9"></para>
+    <para style="pi" vid="HEB 1:9">With an anointing oil derived from exhilaration,</para>
+    <para style="pi" vid="HEB 1:9">Which picks you out from among your peers</para>
+    <para style="pi" vid="HEB 1:9">And elevates you from them.<verse eid="HEB 1:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="10" style="v" sid="HEB 1:10" />And not only that passage, but this one too:
+    </para>
+    <para style="pi" vid="HEB 1:10"></para>
+    <para style="pi" vid="HEB 1:10">In reference to the beginning,</para>
+    <para style="pi" vid="HEB 1:10">You, Lord, laid the foundation of the Earth,</para>
+    <para style="pi" vid="HEB 1:10">And the sky, the atmosphere, and outer space</para>
+    <para style="pi" vid="HEB 1:10">Are Your handiwork.<verse eid="HEB 1:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 1:11" />These very things will be destroyed;
+    </para>
+    <para style="pi" vid="HEB 1:11">You, though, will still be there.</para>
+    <para style="pi" vid="HEB 1:11">Everything will grow old and eventually wear out</para>
+    <para style="pi" vid="HEB 1:11">Like shirts, pants, and capes do.<verse eid="HEB 1:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="HEB 1:12" />Like You would do to a cape
+    </para>
+    <para style="pi" vid="HEB 1:12">When it’s too old to be worn anymore,</para>
+    <para style="pi" vid="HEB 1:12">You will roll them up or fold them,</para>
+    <para style="pi" vid="HEB 1:12">Put them away,</para>
+    <para style="pi" vid="HEB 1:12">And exchange them for new ones.</para>
+    <para style="pi" vid="HEB 1:12">But You are always the same,</para>
+    <para style="pi" vid="HEB 1:12">And Your years of continuous existence</para>
+    <para style="pi" vid="HEB 1:12">Won’t come to an end.<verse eid="HEB 1:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 1:13" />To which of the angels did He direct this verse which He has spoken in the past:
+    </para>
+    <para style="pi" vid="HEB 1:13"></para>
+    <para style="pi" vid="HEB 1:13">Assume the position as My chief executive</para>
+    <para style="pi" vid="HEB 1:13">Until such a time that your enemies</para>
+    <para style="pi" vid="HEB 1:13">Are completely squashed and enslaved<verse eid="HEB 1:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="14" style="v" sid="HEB 1:14" />Are not all of the angels spirits which serve as attendants to the ritual of His worship and who are
+        being dispatched for the purpose of being an assistant to those who are about to be receiving the relief
+        which is rightfully theirs?<verse eid="HEB 1:14" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="HEB 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 2:1" />Because of this confusion between angels and the Son of God, it’s even more necessary for us to pay attention
+        to, follow, concern ourselves with, and devote ourselves to what we heard, lest those things slip through
+        the cracks. <verse eid="HEB 2:1" />
+      <verse number="2" style="v" sid="HEB 2:2" />The fact is, if the word of God spoken to the human race by angels was enforced, and every infraction,
+        violation, and act of willful disobedience got a just punishment as a payback, <verse eid="HEB 2:2" />
+      <verse number="3" style="v" sid="HEB 2:3" />how will we evade a just punishment after neglecting so great a salvation (i.e., an entire program of
+        keeping all dimensions of calamity and disaster away from us) as the salvation we have in Christ? A salvation
+        which was accepted and wholeheartedly embraced way back then by those who listened to it as it was being
+        spoken by the Lord resulting in us making it effective and enforcing it, <verse eid="HEB 2:3" />
+      <verse number="4" style="v" sid="HEB 2:4" />a message which was accompanied by a conformational-attestation to its truthfulness consisting of signs
+        (i.e., miracles whose purpose is to confirm that the one performing them is authentic) and not just by
+        signs but by wonders (i.e., awe-inspiring miracles), by a variety of miracles, and by bits and pieces
+        of supernatural manifestations of the Holy Spirit which were done according to His will.<verse eid="HEB 2:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 2:5" />But returning to this topic about angels we’ve been talking about here: the fact of the matter is that
+        He didn’t subordinate to angels the civilized world which was to come, <verse eid="HEB 2:5" />
+      <verse number="6" style="v" sid="HEB 2:6" />but somebody somewhere solemnly delivered a truthful statement to the contrary saying,
+    </para>
+    <para style="pi" vid="HEB 2:6"></para>
+    <para style="pi" vid="HEB 2:6">What is man, that You would remember him,</para>
+    <para style="pi" vid="HEB 2:6">(i.e., give a hoot about him)</para>
+    <para style="pi" vid="HEB 2:6">Or the son of man</para>
+    <para style="pi" vid="HEB 2:6">(i.e., the ultimate human being)</para>
+    <para style="pi" vid="HEB 2:6">That You would visit him?</para>
+    <para style="pi" vid="HEB 2:6">(i.e., check on him with a purpose in mind)<verse eid="HEB 2:6"/>
+    </para>
+    <para style="pi">
+      <verse number="7" style="v" sid="HEB 2:7" />You demoted him to a position
+    </para>
+    <para style="pi" vid="HEB 2:7">Which is somewhat lower than the angels;</para>
+    <para style="pi" vid="HEB 2:7">You crowned him in glory and honor;<verse eid="HEB 2:7"/>
+    </para>
+    <para style="pi">
+      <verse number="8" style="v" sid="HEB 2:8" />You subordinated all things to him,
+    </para>
+    <para style="pi" vid="HEB 2:8">Putting them under his feet</para>
+    <para style="pi" vid="HEB 2:8">(i.e., completely squashed and enslaved</para>
+    <para style="pi" vid="HEB 2:8">everything to him).</para>
+    <para style="pi" vid="HEB 2:8"></para>
+    <para style="m" vid="HEB 2:8">In this regard, in the process of subordinating all things to him, nothing evaded him and consequently
+        has not been subordinated to him. But at the present time we do not yet see that all things have been
+        subordinated to him. <verse eid="HEB 2:8"/>
+      <verse number="9" style="v" sid="HEB 2:9" />But we see him who’s been “demoted somewhat lower than the angels” (we’re referring to Jesus here) because
+        of the suffering of death “crowned in glory and honor,” so that by the grace of God he would taste death
+        for everyone.<verse eid="HEB 2:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="HEB 2:10" />You see, it was appropriate for Him—Whom all things are because of and Whom all things are by—after leading
+        many sons to glory, to complete what was demanded of the originator of their salvation by various sufferings.<verse eid="HEB 2:10" />
+      <verse number="11" style="v" sid="HEB 2:11" />And, you see, the one who’s making others holy and those who are being made holy both come out of one
+        God; for this reason he’s not ashamed to call those being made holy “brothers” (i.e., comrades), <verse eid="HEB 2:11" />
+      <verse number="12" style="v" sid="HEB 2:12" />saying,
+    </para>
+    <para style="pi" vid="HEB 2:12"></para>
+    <para style="pi" vid="HEB 2:12">I’ll spread the word about Your excellent title</para>
+    <para style="pi" vid="HEB 2:12">To my brothers.</para>
+    <para style="pi" vid="HEB 2:12">I will sing praises to you</para>
+    <para style="pi" vid="HEB 2:12">In the midst of the congregation.<verse eid="HEB 2:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 2:13" />Plus another verse,
+    </para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="pi" vid="HEB 2:13">I will reach the point</para>
+    <para style="pi" vid="HEB 2:13">Where I have complete confidence in him</para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="m" vid="HEB 2:13">Plus another verse,</para>
+    <para style="pi" vid="HEB 2:13"></para>
+    <para style="pi" vid="HEB 2:13">Take a look:</para>
+    <para style="pi" vid="HEB 2:13">The children that God gave me and I are together<verse eid="HEB 2:13"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 2:14" />So since the children have flesh and blood in common and share in it, just the same he also partook of
+        the same flesh and blood so that by the death on the cross he would render him who has the power of death
+        (the devil, that is) powerless <verse eid="HEB 2:14" />
+      <verse number="15" style="v" sid="HEB 2:15" />and would set them free, namely every and anybody who was subject to slavery throughout his entire life
+        by the fear of death.<verse eid="HEB 2:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="HEB 2:16" />Furthermore, angels of course didn’t take it upon themselves to die on the cross, but instead the seed
+        (i.e., the direct-descendant) of Abraham took it upon himself. <verse eid="HEB 2:16" />
+      <verse number="17" style="v" sid="HEB 2:17" />The reason he had to be made into a person who’s just like all of his brothers is so that he would become
+        a merciful, faithful, and reliable high priest in things that are relevant to or which involve God, leading
+        to atoning for the sins of the folk-people. <verse eid="HEB 2:17" />
+      <verse number="18" style="v" sid="HEB 2:18" />In this regard, by the thing in which he has suffered, being subjected to a trial consisting of a test
+        he had to pass, he is able to come to the rescue of those who, on an ongoing basis, are subjected to
+        trials, tests, and temptations.<verse eid="HEB 2:18" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="HEB 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 3:1" />For this reason, brothers (i.e., fellow comrades), saints (i.e., those God has separated to Himself),
+        partakers of a heaven-calling (i.e., those summoned from heaven to be Christians), consider for a moment
+        the apostle (i.e., the trail-blazer) and high priest (i.e., our primary representative to God; the one
+        who stands between us and God) of our confession of faith, Jesus, <verse eid="HEB 3:1" />
+      <verse number="2" style="v" sid="HEB 3:2" />being faithful to Him who appointed him as was also Moses faithful as one chosen from among his entire
+        house (i.e., all his kinsmen). <verse eid="HEB 3:2" />
+      <verse number="3" style="v" sid="HEB 3:3" />Furthermore, this fellow Jesus is worthy of even more glory (i.e., praise, esteem, honor, and adulation)
+        than Moses consistent with how much more value and honor the one who built, landscaped, and furnished
+        a house has than the house itself. <verse eid="HEB 3:3" />
+      <verse number="4" style="v" sid="HEB 3:4" />You see, every house has a person who builds, landscapes, and furnishes it, but God is the builder, landscaper,
+        and furnisher of everything. <verse eid="HEB 3:4" />
+      <verse number="5" style="v" sid="HEB 3:5" />And while, yes, Moses, was faithful to his entire house as a servant (more specifically, an earthly servant
+        who waited for God to speak then obeyed) resulting in his service being an attestation to the truthfulness
+        of the things which will be spoken of, <verse eid="HEB 3:5" />
+      <verse number="6" style="v" sid="HEB 3:6" />but Christ was faithful as a son over his house, a house we are a part of, should we adhere to hope’s
+        confidence and to its boasting (i.e., what we beam with pride over when we talk).<verse eid="HEB 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 3:7" />In light of this, it’s just like the Holy Spirit says in the Old Testament,
+    </para>
+    <para style="pi" vid="HEB 3:7"></para>
+    <para style="pi" vid="HEB 3:7">If you happen to hear His voice today,<verse eid="HEB 3:7"/>
+    </para>
+    <para style="pi">
+      <verse number="8" style="v" sid="HEB 3:8" />Don’t harden your hearts like they did in the
+    </para>
+    <para style="pi" vid="HEB 3:8">Went-Over-the-Edge-and-Rebelled episode,</para>
+    <para style="pi" vid="HEB 3:8">Like when they were hardened according to the time</para>
+    <para style="pi" vid="HEB 3:8">When they put Me through a test</para>
+    <para style="pi" vid="HEB 3:8">In the wilderness of Sinai,<verse eid="HEB 3:8"/>
+    </para>
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 3:9" />A test in which your predecessors
+    </para>
+    <para style="pi" vid="HEB 3:9">Put Me through to see if I would pass.</para>
+    <para style="pi" vid="HEB 3:9">And they saw the things I did <verse eid="HEB 3:9"/>
+      <verse number="10" style="v" sid="HEB 3:10" />Over a forty year period.
+    </para>
+    <para style="pi" vid="HEB 3:10">In light of this, I was provoked to anger</para>
+    <para style="pi" vid="HEB 3:10">By that generation and said,</para>
+    <para style="pi" vid="HEB 3:10">“They always wander off the true path</para>
+    <para style="pi" vid="HEB 3:10">By what is in their heart;</para>
+    <para style="pi" vid="HEB 3:10">They did not know, recognize or understand My ways.”<verse eid="HEB 3:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 3:11" />As I swore I would do in My outburst of wrath:
+    </para>
+    <para style="pi" vid="HEB 3:11">“There’s not a chance that they’ll enter My rest”.<verse eid="HEB 3:11"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 3:12" />Be on the lookout, comrades, lest there be an evil, unbelieving (i.e., stubbornly refusing to believe)
+        heart in any of you which revolts against and departs from the Living God, <verse eid="HEB 3:12" />
+      <verse number="13" style="v" sid="HEB 3:13" />no—instead stave off such apostasy, encourage yourselves day in, day out, as long as the word “today”
+        (which I used in the previous quotation) still applies, so that none of you would be hardened by the
+        tendency of sin to cause a person to become delusional. <verse eid="HEB 3:13" />
+      <verse number="14" style="v" sid="HEB 3:14" />The fact of the matter is that we have become partakers of Christ if we happen to firmly adhere from
+        beginning to end to that which is of the undergirding reality <verse eid="HEB 3:14" />
+      <verse number="15" style="v" sid="HEB 3:15" />by what we’re being told:
+    </para>
+    <para style="pi" vid="HEB 3:15"></para>
+    <para style="pi" vid="HEB 3:15">If you happen to hear His voice today,</para>
+    <para style="pi" vid="HEB 3:15">Don’t harden your hearts like they did in the</para>
+    <para style="pi" vid="HEB 3:15">Went-Over-the-Edge-and-Rebelled episode<verse eid="HEB 3:15"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="16" style="v" sid="HEB 3:16" />In this regard, which of the people who heard this went over the edge and rebelled?—It wasn’t everyone
+        who left Egypt via Moses, was it? <verse eid="HEB 3:16" />
+      <verse number="17" style="v" sid="HEB 3:17" />Whom was He angry with for forty years? Was it not with those who sinned, who dropped dead in the wilderness
+        and whose corpses were left lying there? <verse eid="HEB 3:17" />
+      <verse number="18" style="v" sid="HEB 3:18" />Whom did He swear wouldn’t “enter into His rest”?—It was none other than the disobedient. <verse eid="HEB 3:18" />
+      <verse number="19" style="v" sid="HEB 3:19" />We see that they were not able to enter because of unbelief (i.e., their stubborn refusal to believe
+        what God said).<verse eid="HEB 3:19" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="HEB 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 4:1" />So let us fear lest any one of you seem to come up short while there lingers a promise to enter His rest.<verse eid="HEB 4:1" />
+      <verse number="2" style="v" sid="HEB 4:2" />You see, we too were given a good news message (the Gospel) just as those people were, but no—the verbally-given
+        message from God did not benefit those people, not having been blended with faith by those who heard
+        it. <verse eid="HEB 4:2" />
+      <verse number="3" style="v" sid="HEB 4:3" />The fact of the matter is that those who believed the message enter into the rest that we’re discussing
+        here indicated by what He has stated:</para>
+    <para style="pi" vid="HEB 4:3"></para>
+    <para style="pi" vid="HEB 4:3">As I swore I would do in My outburst of wrath: </para>
+    <para style="pi" vid="HEB 4:3">“There’s not a chance that they’ll enter My rest.”</para>
+    <para style="pi" vid="HEB 4:3"></para>
+    <para style="m" vid="HEB 4:3">…Referring to another rest even though the result of the things which were done during creation has been
+        in existence since the world was initially created. <verse eid="HEB 4:3"/>
+      <verse number="4" style="v" sid="HEB 4:4" />To elaborate on this point, somewhere in the Old Testament (in a place we’re all too familiar with) He
+        made a statement about Saturday that goes like this:</para>
+    <para style="pi" vid="HEB 4:4"></para>
+    <para style="pi" vid="HEB 4:4">And God rested on the seventh day from all of His works<verse eid="HEB 4:4"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="5" style="v" sid="HEB 4:5" />Plus what’s in this verse:
+    </para>
+    <para style="pi" vid="HEB 4:5"></para>
+    <para style="pi" vid="HEB 4:5">There’s not a chance that they’ll enter My rest<verse eid="HEB 4:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 4:6" />So since what’s left over after all of this (and has yet to be dealt with) is for some people to enter
+        His rest, and since the previous group of people who were told about the good things God intended for
+        them didn’t enter any rest because of disobedience, <verse eid="HEB 4:6" />
+      <verse number="7" style="v" sid="HEB 4:7" />this topic is addressed again in the Old Testament: After this huge gap in time, a specific day referred
+        to as “today” is defined by David according to the way it’s spoken of in Psalms:</para>
+    <para style="pi" vid="HEB 4:7"></para>
+    <para style="pi" vid="HEB 4:7">If you happen to hear His voice today,</para>
+    <para style="pi" vid="HEB 4:7">Don’t harden your hearts<verse eid="HEB 4:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 4:8" />You see, if Joshua gave them a rest of any sort, he wouldn’t have been talking about another time after
+        this period of time. <verse eid="HEB 4:8" />
+      <verse number="9" style="v" sid="HEB 4:9" />Therefore, what’s left on the table is a Sabbath observance for God’s people. <verse eid="HEB 4:9" />
+      <verse number="10" style="v" sid="HEB 4:10" />The fact is, he who entered into (i.e., joined in body, mind, and spirit) His rest is also the same person
+        who rested from his works just as God rested from His own work of creation. <verse eid="HEB 4:10" />
+      <verse number="11" style="v" sid="HEB 4:11" />So let’s be eager and in a hurry to enter into that rest, so that no one will fail by the same pattern
+        of disobedience.<verse eid="HEB 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 4:12" />You see, the word of God is living, active and effective, and sharper than any double-edged sword and
+        is able to penetrate to the extent of separating soul (i.e., the mind, will, and emotions) and spirit
+        into different parts, and of separating joint and marrow, and is able to judge, deciding between right
+        and wrong, the thoughts, reflections, and thinking processes of a heart. <verse eid="HEB 4:12" />
+      <verse number="13" style="v" sid="HEB 4:13" />There’s no kind of person, no person anywhere, who’s invisible or undetectable when subjected to His
+        intense gaze, but everyone is stripped naked and cracked wide open under His scrutiny, with which this
+        same statement applies to us.<verse eid="HEB 4:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 4:14" />So having a great high priest who has traversed the sky and outer space and reached heaven, Jesus the
+        son of God, let us adhere to the articles of the confession. <verse eid="HEB 4:14" />
+      <verse number="15" style="v" sid="HEB 4:15" />You see, we don’t have a high priest who’s unable to sympathize with our weaknesses, but one who has
+        been tested, tempted, and pushed to the breaking point in every category and in identical ways apart
+        from sin. <verse eid="HEB 4:15" />
+      <verse number="16" style="v" sid="HEB 4:16" />So let us approach the throne of grace with boldness to receive mercy and find grace, the end result
+        being help at the right time.<verse eid="HEB 4:16" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="HEB 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 5:1" />The fact of the matter is that every high priest drawn from the pool of human beings for the benefit
+        of mankind is appointed to a position in regard to those things pertaining to God in order to offer offerings,
+        plus sacrifices on top of that, on behalf of sinners, <verse eid="HEB 5:1" />
+      <verse number="2" style="v" sid="HEB 5:2" />being able to moderate his feelings, restrain himself, and be gentle to the ignorant, to those who lack
+        understanding, to those who are mistaken, and to those who’ve gone astray, since he too is engulfed in
+        human frailty, <verse eid="HEB 5:2" />
+      <verse number="3" style="v" sid="HEB 5:3" />and because of this same frailty, just like what affects the folk-people, he’s obliged just the same
+        to offer up offerings over and over again in matters where his own sins are involved.<verse eid="HEB 5:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 5:4" />Furthermore, any-old person can’t do the honor and appoint himself to the position of high priest, but
+        instead the one called by God to be a high priest gets to be appointed just like Aaron was appointed.<verse eid="HEB 5:4" />
+      <verse number="5" style="v" sid="HEB 5:5" />In the same way Christ didn’t become a high priest in a self-aggrandizing manner—uh-uh—his appointment
+        was in line with what was spoken to him:</para>
+    <para style="pi" vid="HEB 5:5"></para>
+    <para style="pi" vid="HEB 5:5">You are My son</para>
+    <para style="pi" vid="HEB 5:5">Today I have begotten you<verse eid="HEB 5:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 5:6" />This is also consistent with what a different verse says:
+    </para>
+    <para style="pi" vid="HEB 5:6"></para>
+    <para style="pi" vid="HEB 5:6">You are a priest and will be one forevermore</para>
+    <para style="pi" vid="HEB 5:6">According to the order of Melchizedek<verse eid="HEB 5:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 5:7" />Who, during the time when he had a human body, offered up an offering of prayers plus humble, earnest,
+        urgent requests for protection on top of that to the One having the power to continually rescue and protect
+        him from death, praying with loud crying and tears, and he was listened to and heeded because of the
+        reverent awe he had in the presence of God. <verse eid="HEB 5:7" />
+      <verse number="8" style="v" sid="HEB 5:8" />Although he was a son, he learned the obedience required of him from the things he suffered, <verse eid="HEB 5:8" />
+      <verse number="9" style="v" sid="HEB 5:9" />and once the items of obedience that were required of him were finished, he became a source of eternal
+        salvation, <verse eid="HEB 5:9" />
+      <verse number="10" style="v" sid="HEB 5:10" />designated by God to be a high priest after the order of Melchizedek.<verse eid="HEB 5:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 5:11" />There’s a lot we were wanting to go over with you on this topic, and it’s difficult to explain anything
+        to you since you’ve gotten to where you don’t listen very well. <verse eid="HEB 5:11" />
+      <verse number="12" style="v" sid="HEB 5:12" />In fact, you should be teachers by this time, but instead you need to have someone come and teach you
+        the fundamentals of the word of God all over again, and have gotten to where you require milk and can’t
+        handle solid food. <verse eid="HEB 5:12" />
+      <verse number="13" style="v" sid="HEB 5:13" />You see, anyone who’s on a milk-only diet has not demonstrated competency in those things which have
+        their origin in the subject of righteousness: he’s an infant, you see. <verse eid="HEB 5:13" />
+      <verse number="14" style="v" sid="HEB 5:14" />But solid food is for grown-ups, who in the course of their maturity have developed and trained their
+        faculties of perception to distinguish both good and bad.<verse eid="HEB 5:14" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="HEB 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 6:1" />In light of this, putting aside the subject material of the fundamental doctrines of Christ, let us forge
+        ahead, not again laying a foundation comprised of repentance (i.e., a change in practice in moving away
+        from one thing to another) from dead works and of faith in God; <verse eid="HEB 6:1" />
+      <verse number="2" style="v" sid="HEB 6:2" />the doctrine of baptisms, the doctrine of the laying on of hands, and the doctrine of the resurrection
+        of the dead (i.e., life after death) and eternal judgment. <verse eid="HEB 6:2" />
+      <verse number="3" style="v" sid="HEB 6:3" />We will do this if indeed we secure God’s permission.<verse eid="HEB 6:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 6:4" />But the fact is, those who were enlightened at one time and tasted (i.e., experienced) of the Heaven-Gift
+        and became partakers of the Holy Spirit <verse eid="HEB 6:4" />
+      <verse number="5" style="v" sid="HEB 6:5" />and tasted that the word of God in action is splendid and tasted of the powers of the coming age, <verse eid="HEB 6:5" />
+      <verse number="6" style="v" sid="HEB 6:6" />and then fall to the side (i.e., fail to follow through with the commitment) are unable to engage again
+        in the process of renewing themselves with the goal of repentance in mind, deciding, as far as their
+        own lives are concerned, to have absolutely nothing to do with the son of God and to expose him to public
+        ridicule. <verse eid="HEB 6:6" />
+      <verse number="7" style="v" sid="HEB 6:7" />You see, a piece of soil which drinks the rain which frequently comes down on it and generates food useful
+        to those who farm it receives for itself blessing and praise from God; <verse eid="HEB 6:7" />
+      <verse number="8" style="v" sid="HEB 6:8" />but a piece of soil that bears thorns and thistles gets rejected and a curse looms over it, a piece of
+        soil that what eventually ends up happening to it is that everything on it is burned to the ground.<verse eid="HEB 6:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 6:9" />But in your case, beloved, we’re convinced you’ll produce things which are better and are in sync with
+        salvation, in spite of us talking like this. <verse eid="HEB 6:9" />
+      <verse number="10" style="v" sid="HEB 6:10" />The fact is that God is not unfair in that He’ll not overlook your accomplishments and the love you demonstrated,
+        a love directed towards who He is, in your having served the saints (i.e., the people of God) and in
+        your serving them at this time. <verse eid="HEB 6:10" />
+      <verse number="11" style="v" sid="HEB 6:11" />We strongly desire that each of you demonstrate the same eagerness and intensity towards the certitude
+        of hope until the ends are obtained <verse eid="HEB 6:11" />
+      <verse number="12" style="v" sid="HEB 6:12" />so that you won’t become lazy, but will become imitators of those who through faith and patience inherit
+        the promises.<verse eid="HEB 6:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="HEB 6:13" />You see, God made a promise to Abraham, and since He didn’t have anyone better to swear by swore by Himself<verse eid="HEB 6:13" />
+      <verse number="14" style="v" sid="HEB 6:14" />saying,
+    </para>
+    <para style="pi" vid="HEB 6:14"></para>
+    <para style="pi" vid="HEB 6:14">I’m absolutely going to bless your socks off</para>
+    <para style="pi" vid="HEB 6:14">And grow your numbers in spades<verse eid="HEB 6:14"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="15" style="v" sid="HEB 6:15" />The way he obtained what was promised to him is that he patiently and persistently endured. <verse eid="HEB 6:15" />
+      <verse number="16" style="v" sid="HEB 6:16" />Along these lines, people swear by someone who’s great, and the oath put forth for the purpose of confirming
+        that what was promised will be done puts an end to any disagreement that might’ve existed between the
+        parties involved. <verse eid="HEB 6:16" />
+      <verse number="17" style="v" sid="HEB 6:17" />In this regard God, wanting all the more to demonstrate to the recipients of the promise the immutability
+        and resoluteness of His will, intervened with an oath, <verse eid="HEB 6:17" />
+      <verse number="18" style="v" sid="HEB 6:18" />so that through two immutable matters of business (namely a promise and an oath), in both of which it
+        is impossible for God to lie, we would have tremendous encouragement, we who have run for cover by taking
+        hold of the hope set before us, <verse eid="HEB 6:18" />
+      <verse number="19" style="v" sid="HEB 6:19" />a hope which is like an anchor to the soul, both secure and firm, and which enters the inside room, the
+        one behind the curtain (i.e., enters into the most secret and holiest room in the temple, the Holy of
+        Holies), <verse eid="HEB 6:19" />
+      <verse number="20" style="v" sid="HEB 6:20" />where a trailblazer entered on our behalf—Jesus—now that he forever became a high priest in the priestly
+        order of Melchizedek.<verse eid="HEB 6:20" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="HEB 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 7:1" />You see, this Melchizedek, king of Jerusalem, priest of God the Highest, who met with Abraham when he
+        was returning from the Battle of Siddim and blessed him, <verse eid="HEB 7:1" />
+      <verse number="2" style="v" sid="HEB 7:2" />to whom Abraham gave ten percent of everything he owned, whose name is first and foremost translated
+        “King of Righteousness” then subsequent to that “King of Salem” (that is King of Peace), <verse eid="HEB 7:2" />
+      <verse number="3" style="v" sid="HEB 7:3" />who’s described in the Bible as being fatherless, motherless, having no genealogy, having no period of
+        time which was early-on for him nor an end-of-life period but made to resemble the son of God, remains
+        a priest into perpetuity.<verse eid="HEB 7:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 7:4" />Observe how great this fellow is whom the patriarch Abraham gave ten percent of the spoils from that
+        battle to. <verse eid="HEB 7:4" />
+      <verse number="5" style="v" sid="HEB 7:5" />Those who are included in the family tree of the sons of Levi, being endowed with the priesthood, indeed
+        possess a commandment from the Law of Moses to receive tithes (i.e., ten percent) from the folk-people
+        (their kinsmen in other words), although they had yet to leave the loins of Abraham (i.e., they had yet
+        to be born). <verse eid="HEB 7:5" />
+      <verse number="6" style="v" sid="HEB 7:6" />But he who’s not descended from them or is included in their genealogy collected a tithe from Abraham
+        and blessed the one in possession of the promises. <verse eid="HEB 7:6" />
+      <verse number="7" style="v" sid="HEB 7:7" />Indisputably, the inferior person was blessed by the superior. <verse eid="HEB 7:7" />
+      <verse number="8" style="v" sid="HEB 7:8" />In this case people who die receive tithe payments, but in that case a statement of fact is on record
+        that he who receives tithe payments is alive and continues to live. <verse eid="HEB 7:8" />
+      <verse number="9" style="v" sid="HEB 7:9" />A comment can be made along these lines that the tithe-receiving sons of Levi pay a tithe through Abraham.<verse eid="HEB 7:9" />
+      <verse number="10" style="v" sid="HEB 7:10" />You see they were in the loins of the patriarch yet to be born when Melchizedek met him.<verse eid="HEB 7:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 7:11" />So if the Levitical priesthood really was the end-all (the folk-people, you see, based their system of
+        religious regulations on it), why was there a need for another priest to come to prominence, one who’s
+        described as belonging to the order of Melchizedek and not to Aaron’s order? <verse eid="HEB 7:11" />
+      <verse number="12" style="v" sid="HEB 7:12" />The fact is, a changing of the priesthood necessitates a change in law (i.e., a change to the rules which
+        govern religious observance and as part of that the establishment a priesthood). <verse eid="HEB 7:12" />
+      <verse number="13" style="v" sid="HEB 7:13" />You see, the person whom these things address belongs to another tribe, a tribe for which there is no
+        mention of attending to the altar (i.e., of any priestly duties). <verse eid="HEB 7:13" />
+      <verse number="14" style="v" sid="HEB 7:14" />In this regard, it’s clear that our Lord broke through like the sun peering over the horizon in the morning
+        in the tribe of Judah, a tribe for which the Law of Moses has no mention of priesthood. <verse eid="HEB 7:14" />
+      <verse number="15" style="v" sid="HEB 7:15" />It’s even more clear that that there’s another priest coming to prominence, one who resembles Melchizedek,<verse eid="HEB 7:15" />
+      <verse number="16" style="v" sid="HEB 7:16" />a priest who has not come into being according to a law of commandment of flesh (i.e., according to rules
+        which require you to be of a certain lineage) but rather according to the power of an indestructible
+        life. <verse eid="HEB 7:16" />
+      <verse number="17" style="v" sid="HEB 7:17" />In this regard, this statement of truth is declared in the Old Testament:
+    </para>
+    <para style="pi" vid="HEB 7:17"></para>
+    <para style="pi" vid="HEB 7:17">You are a priest and will be one forevermore</para>
+    <para style="pi" vid="HEB 7:17">According to the order of Melchizedek<verse eid="HEB 7:17"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="18" style="v" sid="HEB 7:18" />The cancellation of a previously-instituted commandment which established a priesthood certainly occurs
+        on account of said-commandment’s frailty and uselessness. <verse eid="HEB 7:18" />
+      <verse number="19" style="v" sid="HEB 7:19" />You see, the Law of Moses isn’t the end-all but is a gateway to a better hope, a hope by which we draw
+        near to God. <verse eid="HEB 7:19" />
+      <verse number="20" style="v" sid="HEB 7:20" />To the extent that those who are designated by the Law to be priests are priests apart from there being
+        any oath…</para>
+    <para style="p" vid="HEB 7:20">And the fact is, those who are designated by the Law to be priests have become priests apart from there
+        being an oath, <verse eid="HEB 7:20"/>
+      <verse number="21" style="v" sid="HEB 7:21" />but on the other hand, the priesthood which replaces it was established with an oath by means of what
+        was spoken to him, “The Lord God swore an oath and won’t rescind it: ‘You are a priest and will be one
+        forevermore’.”<verse eid="HEB 7:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 7:22" />…To that extent Jesus has become a guarantee of a better covenant. <verse eid="HEB 7:22" />
+      <verse number="23" style="v" sid="HEB 7:23" />And while there have been many priests who have come and gone over the years, death preventing them from
+        continuing on in their role as priest, <verse eid="HEB 7:23" />
+      <verse number="24" style="v" sid="HEB 7:24" />on the other hand, because he’ll stay unchanged forever, he retains the true priesthood in perpetuity.<verse eid="HEB 7:24" />
+      <verse number="25" style="v" sid="HEB 7:25" />As a result, he’s also able to totally, completely, and continually save (i.e., to protect, preserve,
+        and prevent from harm) those who come to God through him, always alive and ready to intercede for them.<verse eid="HEB 7:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="HEB 7:26" />You see, such as I described is what we have: a fitting, appropriate, relevant high priest, one who is
+        holy, innocent, and unsullied, separated from the sinners he intercedes for and situated higher than
+        the sky, the spiritual world, and heaven itself; <verse eid="HEB 7:26" />
+      <verse number="27" style="v" sid="HEB 7:27" />one who doesn’t need (like the high priests need) to offer up a sacrifice each day for his own sins first,
+        then and only then to offer sacrifices for the sins of the people, since he did this one time when he
+        offered up himself as a sacrifice for sin and is done with it. <verse eid="HEB 7:27" />
+      <verse number="28" style="v" sid="HEB 7:28" />You see, the Law put men who have a weakness (i.e., limitations; shortcomings) in place as high priests;
+        but the message contained in the oath, a message which was made after the Law established its priesthood,
+        forevermore established as high priest a son who has been made to be the end-all and who has been made
+        complete ad-infinitum.<verse eid="HEB 7:28" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="HEB 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 8:1" />The crux of the argument given here is this: we have such a high priest, a priest who sat down at the
+        right hand (i.e., was appointed chief executive) of the throne of the Majesty in heaven, <verse eid="HEB 8:1" />
+      <verse number="2" style="v" sid="HEB 8:2" />one who’s a servant who performs the rituals that involve the holy things, places, and observances and
+        the rituals of the True Tabernacle, a tabernacle which the Lord erected, and not a human being. <verse eid="HEB 8:2" />
+      <verse number="3" style="v" sid="HEB 8:3" />You see, every high priest is appointed to go about offering offerings plus sacrifices on top of that;
+        as a result, it’s necessary for this person to have some offering to offer. <verse eid="HEB 8:3" />
+      <verse number="4" style="v" sid="HEB 8:4" />So if he were on the Earth, he would not be a priest of any sort, there being others whose job is to
+        offer offerings according to law (i.e., in accordance with the rules that had been laid down, specifically
+        rules in the Law of Moses), <verse eid="HEB 8:4" />
+      <verse number="5" style="v" sid="HEB 8:5" />those in particular who serve as copies and representations of what goes on in the spiritual world and
+        in heaven, like in the word of caution Moses had been given when he was intending to erect the tabernacle
+        in the wilderness of Sinai,</para>
+    <para style="pi" vid="HEB 8:5"></para>
+    <para style="pi" vid="HEB 8:5">See to it that all things are made to reflect</para>
+    <para style="pi" vid="HEB 8:5">The blueprint shown to you on the mountain<verse eid="HEB 8:5"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="6" style="v" sid="HEB 8:6" />But now he’s at the point where he’s obtained a ritualistic-service which is a quantum leap improvement,
+        which is in proportion to him being the mediator of a better covenant, one which has been enacted on
+        the basis of better promises.<verse eid="HEB 8:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 8:7" />You see, if the first covenant had no defects or problems, there would be no basis for going about seeking
+        a second covenant. <verse eid="HEB 8:7" />
+      <verse number="8" style="v" sid="HEB 8:8" />In this regard, in pointing out problems He tells them,
+    </para>
+    <para style="pi" vid="HEB 8:8"></para>
+    <para style="pi" vid="HEB 8:8">Here now—“A time is coming,” says the Lord,</para>
+    <para style="pi" vid="HEB 8:8">“A time in which I will cause a new covenant</para>
+    <para style="pi" vid="HEB 8:8">To take shape and assume its final form</para>
+    <para style="pi" vid="HEB 8:8">Where the nations of Israel and Judah are concerned—<verse eid="HEB 8:8"/>
+    </para>
+    <para style="pi">
+      <verse number="9" style="v" sid="HEB 8:9" />A covenant that isn’t modeled after 
+    </para>
+    <para style="pi" vid="HEB 8:9">The covenant I made with your ancestors</para>
+    <para style="pi" vid="HEB 8:9">During the time I put My hand on them</para>
+    <para style="pi" vid="HEB 8:9">(i.e., supernaturally intervened in their lives)</para>
+    <para style="pi" vid="HEB 8:9">In order to lead them out of Egypt.</para>
+    <para style="pi" vid="HEB 8:9">Since they wouldn’t remain in My covenant,</para>
+    <para style="pi" vid="HEB 8:9">I paid no more attention to them,” says the Lord.<verse eid="HEB 8:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="10" style="v" sid="HEB 8:10" />”Because the very covenant I will enter into
+    </para>
+    <para style="pi" vid="HEB 8:10">With the nation of Israel after that period of time,”</para>
+    <para style="pi" vid="HEB 8:10">Says the Lord,</para>
+    <para style="pi" vid="HEB 8:10">“Is a covenant where I will go about delivering</para>
+    <para style="pi" vid="HEB 8:10">My laws to their minds.</para>
+    <para style="pi" vid="HEB 8:10">I will write them upon their hearts.</para>
+    <para style="pi" vid="HEB 8:10">I will assume the role of being their God,</para>
+    <para style="pi" vid="HEB 8:10">And they will assume the role of being my people.<verse eid="HEB 8:10"/>
+    </para>
+    <para style="pi">
+      <verse number="11" style="v" sid="HEB 8:11" />There is no conceivable scenario where each person
+    </para>
+    <para style="pi" vid="HEB 8:11">Will have to teach his fellow citizen or his comrade</para>
+    <para style="pi" vid="HEB 8:11">Telling them how to know the Lord,</para>
+    <para style="pi" vid="HEB 8:11">Since everyone will know Me directly</para>
+    <para style="pi" vid="HEB 8:11">From those of them who are insignificant</para>
+    <para style="pi" vid="HEB 8:11">To those who of them who are great,<verse eid="HEB 8:11"/>
+    </para>
+    <para style="pi">
+      <verse number="12" style="v" sid="HEB 8:12" />Because I will treat their wrong-doings with mercy,
+    </para>
+    <para style="pi" vid="HEB 8:12">And I will absolutely not remember their sins anymore.”<verse eid="HEB 8:12"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="13" style="v" sid="HEB 8:13" />By saying the word “new” in conjunction with this other covenant, He obsoleted the first covenant. But
+        whatever thing is growing old and becoming obsolete has nearly faded into obscurity.<verse eid="HEB 8:13" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="HEB 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 9:1" />Now the first covenant regulated and maintained a service of religious rituals and the systematic order
+        of what is deemed holy. <verse eid="HEB 9:1" />
+      <verse number="2" style="v" sid="HEB 9:2" />You see, the outer sanctuary was prepared in such a way that it contained the menorah and the Table of
+        Showbread. This outer sanctuary is called the Holy Place. <verse eid="HEB 9:2" />
+      <verse number="3" style="v" sid="HEB 9:3" />But behind a curtain is the second sanctuary, which is called the Holy of Holies, <verse eid="HEB 9:3" />
+      <verse number="4" style="v" sid="HEB 9:4" />having a golden incense altar and the ark of the covenant, the ark being completely wrapped in a gold
+        covering. Inside the ark is a golden vase which contained the sample of manna saved from the time of
+        wandering in the wilderness, Aaron’s rod which budded, and the stone tablets of the Ten Commandments,<verse eid="HEB 9:4" />
+      <verse number="5" style="v" sid="HEB 9:5" />and situated above the ark overshadowing the mercy seat were cherubim of God’s glory—things we won’t
+        go into a piece-by-piece description of at this time.<verse eid="HEB 9:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="HEB 9:6" />Now things were set up this way: throughout the year, the priests periodically entered the outer sanctuary
+        in order to make sure the required rituals were done, <verse eid="HEB 9:6" />
+      <verse number="7" style="v" sid="HEB 9:7" />but just one time a year the high priest entered the inner sanctuary, but not without taking blood with
+        him, blood that he offered on behalf of himself and on behalf of the sins that the folk-people unknowingly
+        committed. <verse eid="HEB 9:7" />
+      <verse number="8" style="v" sid="HEB 9:8" />This is what the Holy Spirit is signifying: while the outer sanctuary still exists and is being actively
+        used, the way into the Holy of Holies has not yet been revealed, <verse eid="HEB 9:8" />
+      <verse number="9" style="v" sid="HEB 9:9" />a particular concept which is analogous to the period of time which has arrived and is presently in operation,
+        which according to this analogy means that the offering up of offerings and sacrifices is powerless to
+        bring those performing the rituals to completeness along the lines of conscience; <verse eid="HEB 9:9" />
+      <verse number="10" style="v" sid="HEB 9:10" />the regulations involved with eating, drinking, various kinds of ceremonial washings were physical and
+        self-originated acts only, imposed until a period of reform happened to arrive and change things.<verse eid="HEB 9:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 9:11" />Christ showed up as a high priest of the good things which came into being because of the greater and
+        more perfect tabernacle, which is not hand-made (in other words, not of this planet). <verse eid="HEB 9:11" />
+      <verse number="12" style="v" sid="HEB 9:12" />It was not by the blood of goats and calves but by his own blood that he entered once and for all into
+        the Holy of Holies and obtained eternal release and deliverance from sin. <verse eid="HEB 9:12" />
+      <verse number="13" style="v" sid="HEB 9:13" />You see, if the blood of bulls and goats and the sprinkling of the ashes of an incinerated heifer make
+        those who’ve been defiled pristine and undefiled again to the producing of the purity of the flesh, <verse eid="HEB 9:13" />
+      <verse number="14" style="v" sid="HEB 9:14" />how much more will the blood of Christ, who through the Eternal Spirit offered himself without blemish
+        to God, cleanse your conscience from dead works resulting in you serving the Living God?<verse eid="HEB 9:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="HEB 9:15" />Because of this, he’s the mediator of a new covenant, so that, considering that a death occurred for
+        the redemption (i.e., the settling of something; fixing what’s broken) of the transgressions which were
+        committed under the first covenant, those who’ve been called to be God’s people would partake of the
+        eternal inheritance (i.e., the things God has immutably and irrevocably reserved for them and intended
+        for them to have). <verse eid="HEB 9:15" />
+      <verse number="16" style="v" sid="HEB 9:16" />The fact of the matter is that where a last will and testament (which is what a covenant is) is concerned,
+        it’s necessary that the death of the will’s testator be proven legally. <verse eid="HEB 9:16" />
+      <verse number="17" style="v" sid="HEB 9:17" />You see, upon the death of the testator the will is frozen as-is and can no longer be amended in any
+        way; it never has that immutability-strength while the testator is still alive and therefore able to
+        amend it at any time. <verse eid="HEB 9:17" />
+      <verse number="18" style="v" sid="HEB 9:18" />Hence, the first covenant was not instituted apart from the inclusion of blood. <verse eid="HEB 9:18" />
+      <verse number="19" style="v" sid="HEB 9:19" />In fact, once every commandment in the Law was spoken to all the people by Moses, taking the blood of
+        calves and goats mixed with water, red wool, and hyssop, he sprinkled the scroll he read from itself
+        and all the people <verse eid="HEB 9:19" />
+      <verse number="20" style="v" sid="HEB 9:20" />while saying, “This is the blood of the covenant which God commanded you to keep.&quot; <verse eid="HEB 9:20" />
+      <verse number="21" style="v" sid="HEB 9:21" />In addition he sprinkled the tabernacle and all the serving vessels used in the rituals in blood the
+        same way. <verse eid="HEB 9:21" />
+      <verse number="22" style="v" sid="HEB 9:22" />It’s almost as though it’s an Old Testament axiom that according to the Law of Moses everything is purified
+        and cleansed by blood, and apart from the shedding of blood any sort of forgiveness of sin doesn’t happen.<verse eid="HEB 9:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="HEB 9:23" />While the copies of the things in the spirit-world (i.e., the copies being the earthly tabernacle and
+        items in it) need to be cleansed by these things (i.e., by the blood of calves, of goats, etc.), but
+        the actual things in the spirit-world that the earthly things are a copy of require better sacrifices
+        than the ones offered on earth. <verse eid="HEB 9:23" />
+      <verse number="24" style="v" sid="HEB 9:24" />You see, Christ didn’t enter a Holy of Holies that was created by human hands, these man-made things
+        merely being symbolic representations and mirror-copies of the real things, but instead entered into
+        the same thing (i.e., the thing which the symbolic representations are based on) which is in the spirit-world,
+        to be seen by, to be known by, and to be subjected to God’s intense scrutiny on our behalf. <verse eid="HEB 9:24" />
+      <verse number="25" style="v" sid="HEB 9:25" />Nor is it the case that he repetitively brings himself into this Holy of Holies in the spirit-world just
+        like the high priest enters the earthly Holy of Holies each year with another batch of blood to be sprinkled.<verse eid="HEB 9:25" />
+      <verse number="26" style="v" sid="HEB 9:26" />If that were the case, he would have to suffer and die on the cross many times starting the moment the
+        human race began; but at this this critical moment in the annuls of history, he appeared this once for
+        the obliteration of the sin of mankind because of his sacrifice having been disclosed and made known
+        to everyone. <verse eid="HEB 9:26" />
+      <verse number="27" style="v" sid="HEB 9:27" />And reflective of the fact that it’s been allocated that every person in the human race undergo death
+        once and only once and after this undergo judgment, <verse eid="HEB 9:27" />
+      <verse number="28" style="v" sid="HEB 9:28" />in the same way as this, Christ, having been brought forth one time only for the purpose of being offered
+        up for the sins of the many, will be seen a second time apart from sin (i.e., he’ll make a second appearance,
+        and this appearance will have nothing to do with atoning for sins) by those who assiduously and eagerly
+        look to him for salvation (i.e., look to him to protect them from potential harm, whatever that might
+        be).<verse eid="HEB 9:28" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="HEB 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 10:1" />You see, the Law, containing a shadow of the good things to come and not itself the form which casts
+        the things’ shadow, by the same sacrifices that are continuously being offered year after year can never
+        complete or perfect those who approach God in this way; <verse eid="HEB 10:1" />
+      <verse number="2" style="v" sid="HEB 10:2" />otherwise, wouldn’t these sacrifices ceased to have been offered because those performing the rituals
+        would have no more sins on their consciences once they had been cleansed? <verse eid="HEB 10:2" />
+      <verse number="3" style="v" sid="HEB 10:3" />No—in doing those things year after year, there’s a reminder of sins that need to be cleansed. <verse eid="HEB 10:3" />
+      <verse number="4" style="v" sid="HEB 10:4" />The fact of the matter is that it’s impossible for the blood of bulls and goats to take away sins. <verse eid="HEB 10:4" />
+      <verse number="5" style="v" sid="HEB 10:5" />In this light, while entering the world Jesus said,
+    </para>
+    <para style="pi" vid="HEB 10:5"></para>
+    <para style="pi" vid="HEB 10:5">“Sacrifice and offering was not what You wanted;</para>
+    <para style="pi" vid="HEB 10:5">Instead, You prepared a body for me.<verse eid="HEB 10:5"/>
+    </para>
+    <para style="pi">
+      <verse number="6" style="v" sid="HEB 10:6" />You were not pleased
+    </para>
+    <para style="pi" vid="HEB 10:6">With the usual burnt offerings</para>
+    <para style="pi" vid="HEB 10:6">And the like surrounding sin.”<verse eid="HEB 10:6"/>
+    </para>
+    <para style="pi">
+      <verse number="7" style="v" sid="HEB 10:7" />Then I said, “Hey, I have come—
+    </para>
+    <para style="pi" vid="HEB 10:7">If you rummage through the right scroll</para>
+    <para style="pi" vid="HEB 10:7">You’ll find this written about me—</para>
+    <para style="pi" vid="HEB 10:7">‘I have come to do Your will, O God.’”<verse eid="HEB 10:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="8" style="v" sid="HEB 10:8" />He was saying in the above quotation that “sacrifice and offering” and “the usual burnt offerings and
+        the like surrounding sin” were “not what You wanted” nor were You “pleased” with them, the very offerings
+        which are offered as prescribed by the Law; <verse eid="HEB 10:8" />
+      <verse number="9" style="v" sid="HEB 10:9" />Then he said, “‘Hey, I have come…to do Your will.” He gets the first (i.e., the sacrifices, offerings,
+        and burnt offerings) out of the way so that the second (i.e., Jesus’s coming to do God’s will) would
+        stand in its place. <verse eid="HEB 10:9" />
+      <verse number="10" style="v" sid="HEB 10:10" />By the will of God referred to in this passage, we will be sanctified (i.e., set apart from sin and made
+        holy) through the offering of the body of Jesus Christ once and for all.<verse eid="HEB 10:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 10:11" />Day after day every priest has taken a stand performing the ritualistic service of worship, serving the
+        same sacrifices which have been offered many a time, things in particular which can never remove sins.<verse eid="HEB 10:11" />
+      <verse number="12" style="v" sid="HEB 10:12" />But after this fellow Jesus offered one sacrifice for sins that would last ad infinitum, he sat down
+        at the right hand of God (i.e., assumed the position of God’s chief executive), <verse eid="HEB 10:12" />
+      <verse number="13" style="v" sid="HEB 10:13" />from that point onwards waiting until such a time that his enemies be placed under his feet (i.e., that
+        they be completely squashed and enslaved). <verse eid="HEB 10:13" />
+      <verse number="14" style="v" sid="HEB 10:14" />You see, by the offering up of one offering he has perpetually completed, finished, and perfected those
+        being sanctified.<verse eid="HEB 10:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="HEB 10:15" />But on this topic the Holy Spirit also gives us supporting evidence; you see, he has stated afterwards,<verse eid="HEB 10:15" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="16" style="v" sid="HEB 10:16" />”This is the very covenant
+    </para>
+    <para style="pi" vid="HEB 10:16">Which I will make with them after that period of time,”</para>
+    <para style="pi" vid="HEB 10:16">Says the Lord,</para>
+    <para style="pi" vid="HEB 10:16">“Granting My laws to be upon their heart and upon their mind,</para>
+    <para style="pi" vid="HEB 10:16">As I grant, so will I write them.<verse eid="HEB 10:16"/>
+    </para>
+    <para style="pi">
+      <verse number="17" style="v" sid="HEB 10:17" />And as far as their sins and of their lawlessness
+    </para>
+    <para style="pi" vid="HEB 10:17">(i.e., things that have their origin in the refusal to</para>
+    <para style="pi" vid="HEB 10:17">Be restrained by the rules of God and of man)</para>
+    <para style="pi" vid="HEB 10:17">And things that have their origin in the same:</para>
+    <para style="pi" vid="HEB 10:17">By no means will I remember them any further.”<verse eid="HEB 10:17"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="18" style="v" sid="HEB 10:18" />Where one finds these sins removed, any offering pertaining to sin is no longer relevant.<verse eid="HEB 10:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="HEB 10:19" />So comrades, having boldness by the blood of Jesus to enter the Holy of Holies, <verse eid="HEB 10:19" />
+      <verse number="20" style="v" sid="HEB 10:20" />an entrance which he newly made available to us, a way through the curtain which is brand-new and living
+        (in other words, a way through his flesh), <verse eid="HEB 10:20" />
+      <verse number="21" style="v" sid="HEB 10:21" />and having such a great priest as this over the house of God, <verse eid="HEB 10:21" />
+      <verse number="22" style="v" sid="HEB 10:22" />let us approach the Holy of Holies with a true heart and in an assurance which is of faith, our hearts
+        having been sprinkled (analogous to the mixture of blood, water, and hyssop which the priest sprinkled
+        over the people) purging us from a conscience haunted by evil deeds and our body washed (analogous to
+        the ceremonial washings that were done under the Law) in clean water. <verse eid="HEB 10:22" />
+      <verse number="23" style="v" sid="HEB 10:23" />Let us resolutely hold on to hope’s confession, for He Who promised is faithful. <verse eid="HEB 10:23" />
+      <verse number="24" style="v" sid="HEB 10:24" />And let us consider, take notice of, and study one another for the purpose of agitating or provoking
+        love and good works, <verse eid="HEB 10:24" />
+      <verse number="25" style="v" sid="HEB 10:25" />not abandoning the practice of gathering ourselves at one place, like some people are in the habit of
+        doing—no, we should be encouraging each other instead, even more so seeing the day of the Lord fast approaching.<verse eid="HEB 10:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="HEB 10:26" />In fact, for those of us who deliberately sin after obtaining the recognition of or the precise understanding
+        of the truth, there’s no longer a sacrifice pertaining to sin left in place that can cleanse us of our
+        sin, <verse eid="HEB 10:26" />
+      <verse number="27" style="v" sid="HEB 10:27" />but there’s an air of a dreadful expectation of judgment and of a raging fire which are coming to consume
+        those who set themselves in opposition. <verse eid="HEB 10:27" />
+      <verse number="28" style="v" sid="HEB 10:28" />Anyone who remorselessly set aside an individual law in the Law of Moses would be killed upon the testimony
+        of two or three witnesses. <verse eid="HEB 10:28" />
+      <verse number="29" style="v" sid="HEB 10:29" />How much worse of a punishment do you think the one who tramples under foot (i.e., completely trashes,
+        treats with utter contempt, and completely disavows himself from) the son of God, and deems the blood
+        of the covenant which we were sanctified with unclean (i.e., vile and dirty), and insults the Spirit
+        of Grace will deserve? <verse eid="HEB 10:29" />
+      <verse number="30" style="v" sid="HEB 10:30" />In this regard, we’re quite familiar with the verse which says, “Vengeance is mine, I will repay,” plus
+        the verse, “The Lord will judge His people.” <verse eid="HEB 10:30" />
+      <verse number="31" style="v" sid="HEB 10:31" />It’s dreadful to fall into the hands of the Living God (i.e., to reach the point where God will act in
+        judgment and cause something to happen to you).<verse eid="HEB 10:31" />
+    </para>
+    <para style="p">
+      <verse number="32" style="v" sid="HEB 10:32" />Think back over the early days, when you were first enlightened. Back then you endured a huge bout of
+        sufferings. <verse eid="HEB 10:32" />
+      <verse number="33" style="v" sid="HEB 10:33" />While the vilification, vituperation, and reviling plus persecution made you a public spectacle, you
+        became fellow participants of those who are regularly made to live their lives this way. <verse eid="HEB 10:33" />
+      <verse number="34" style="v" sid="HEB 10:34" />In this regard, you shared in the same sufferings of those who are in jail, and you took the looting
+        of your possessions with joy, knowing that you own a possession which is better, one that can’t be taken
+        away from you. <verse eid="HEB 10:34" />
+      <verse number="35" style="v" sid="HEB 10:35" />So don’t get rattled or lose your nerve; there’s a huge benefit of having such confidence, <verse eid="HEB 10:35" />
+      <verse number="36" style="v" sid="HEB 10:36" />seeing that you need endurance, so that, having done the will of God, you would get ahold of the promise
+        for yourself.<verse eid="HEB 10:36" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="37" style="v" sid="HEB 10:37" />The fact of the matter is that
+    </para>
+    <para style="pi" vid="HEB 10:37">In just a little, little while now</para>
+    <para style="pi" vid="HEB 10:37">He who’s coming will come and won’t delay any further.<verse eid="HEB 10:37"/>
+    </para>
+    <para style="pi">
+      <verse number="38" style="v" sid="HEB 10:38" />But the person I deem righteous
+    </para>
+    <para style="pi" vid="HEB 10:38">Will live out of faith,</para>
+    <para style="pi" vid="HEB 10:38">But if he shirks his faith,</para>
+    <para style="pi" vid="HEB 10:38">My soul will take no pleasure in him.<verse eid="HEB 10:38"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="39" style="v" sid="HEB 10:39" />But you don’t have the characteristics of a shirker whose actions result in destruction, but rather you
+        have the characteristics of a person of faith whose actions result in the acquisition and securing of
+        the soul (i.e., the part of you that makes you unique).<verse eid="HEB 10:39" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="HEB 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 11:1" />Faith is the undergirding of what’s hoped for, the proof of things not seen (which includes all things
+        for which there is no physical evidence); <verse eid="HEB 11:1" />
+      <verse number="2" style="v" sid="HEB 11:2" />by this, you see, those we hold in esteem from long ago had an official account, a favorable mention,
+        of their actions recorded for posterity.<verse eid="HEB 11:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="HEB 11:3" />By faith our mind understands that the world was set in order by a sentence spoken by God, resulting
+        in what we see coming into being out of what hasn’t been manifested.<verse eid="HEB 11:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 11:4" />By faith Abel offered God a much better sacrifice than Cain, through which an attestation to him being
+        righteous was entered into the official record, the record specifying the gifts he offered to God, and
+        through his faith, though he’s dead he’s still speaking.<verse eid="HEB 11:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 11:5" />By faith Enoch was instantaneously transported from one place to another for the purpose of not experiencing
+        death; “There was no trace of him to be found because God had transported him.” You see, before he was
+        transported, it had been stated for the record that he had pleased God quite well.<verse eid="HEB 11:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="HEB 11:6" />Now apart from faith it’s impossible to be well-pleasing to God, for he who approaches God must believe
+        (and have already believed ahead of time) that He is the Great I Am and that a reward manifests itself
+        and is awarded to those who seek Him out.<verse eid="HEB 11:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 11:7" />By faith Noah, having been warned by God about things that had not yet been seen, in piety and in the
+        fear of God built and provisioned an ark for the purpose of preserving his family and keeping it safe,
+        through which faith he condemned the world (i.e., consigned the world to punishment) and became an heir
+        of the righteousness which comes from faith.<verse eid="HEB 11:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="HEB 11:8" />By faith Abraham obeyed when he was summoned to leave the place he lived and go to the place which he
+        was going to receive as an inheritance (i.e., a place which was reserved for him exclusively and in perpetuity),
+        and he departed having no idea where he was going. <verse eid="HEB 11:8" />
+      <verse number="9" style="v" sid="HEB 11:9" />By faith he emigrated and became a foreign resident in the land of promise, living in tents with Isaac
+        and Jacob, joint-heirs of the same promise. <verse eid="HEB 11:9" />
+      <verse number="10" style="v" sid="HEB 11:10" />You see, he anticipated, expected, and was eagerly awaiting the city which is not a rickety-rackety,
+        makeshift one but is built to last, whose builder and architect is God.<verse eid="HEB 11:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="HEB 11:11" />By faith, even Sarah, who couldn’t have children, got the ability to conceive in her old age, since she
+        considered the One Who had promised to be faithful. <verse eid="HEB 11:11" />
+      <verse number="12" style="v" sid="HEB 11:12" />As this was the case, one man (and this fellow was debilitated) sired a nation as innumerable as the
+        stars in the sky and the grains of sand on the beach.<verse eid="HEB 11:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="HEB 11:13" />All these people died in sync with faith, not having received the promises, but having seen and greeted
+        them from afar instead, and having confessed that they were foreigners on this planet. <verse eid="HEB 11:13" />
+      <verse number="14" style="v" sid="HEB 11:14" />The fact is, those who say such things make it evident that they seek their native country. <verse eid="HEB 11:14" />
+      <verse number="15" style="v" sid="HEB 11:15" />If they kept on rehashing memories of fondness for that ungodly place they ventured forth from, they
+        would have found an opportunity or made an excuse to return; <verse eid="HEB 11:15" />
+      <verse number="16" style="v" sid="HEB 11:16" />but as it stands, they aspire for better, that is to say, for something from the spiritual domain or
+        from heaven. In light of this, God is not ashamed to be called their God, for He has prepared a city
+        for them.<verse eid="HEB 11:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="HEB 11:17" />By faith Abraham, while being tested, offered up Isaac—he who gladly received the promises offered up
+        his one and only son, <verse eid="HEB 11:17" />
+      <verse number="18" style="v" sid="HEB 11:18" />to whom it was spoken, “The descendants who will perpetuate your family tree will be designated as coming
+        through Isaac.” <verse eid="HEB 11:18" />
+      <verse number="19" style="v" sid="HEB 11:19" />Abraham figured that, in addition to the promises He already made, God is able to raise someone from
+        the dead. As a result of this, he recovered Isaac from the dead in an analogous fashion.<verse eid="HEB 11:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="HEB 11:20" />Also by faith Isaac pronounced blessings over Jacob and Esau in regard to what would happen to them in
+        the future.<verse eid="HEB 11:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="HEB 11:21" />By faith Jacob while on his death bed pronounced blessings over the sons of Joseph, and “bowed down in
+        worship leaning on top of his staff.”<verse eid="HEB 11:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 11:22" />By faith Joseph, nearing the end, left a reminder about the Exodus with the descendants of Israel and
+        left orders about his bones (i.e., orders that they take his bones with them when they leave).<verse eid="HEB 11:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="HEB 11:23" />By faith Moses was hidden by his parents after he was born out of a reverential fear because they saw
+        that the boy had charisma, and they didn’t fear the king’s decree. <verse eid="HEB 11:23" />
+      <verse number="24" style="v" sid="HEB 11:24" />By faith Moses grew up and became a great man and renounced his claim of being the son of Pharaoh’s daughter,<verse eid="HEB 11:24" />
+      <verse number="25" style="v" sid="HEB 11:25" />having chosen to endure the hardship with God’s folk rather than to retain the pleasures of sin for a
+        brief span of time, <verse eid="HEB 11:25" />
+      <verse number="26" style="v" sid="HEB 11:26" />considering the vilification and reviling of Christ to be greater riches than the treasures of Egypt;
+        for he was focused on the reward.<verse eid="HEB 11:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="HEB 11:27" />By faith he left Egypt, unafraid of the wrath of Pharaoh the king, for he endured as one seeing the Unseen-One.<verse eid="HEB 11:27" />
+      <verse number="28" style="v" sid="HEB 11:28" />By faith he observed the Passover and the marking of the blood, done so that the Destroyer wouldn’t touch
+        any of their firstborn sons. <verse eid="HEB 11:28" />
+      <verse number="29" style="v" sid="HEB 11:29" />By faith he crossed the Red Sea as if it was dry land; when the Egyptians tried to cross it, they were
+        drowned.<verse eid="HEB 11:29" />
+    </para>
+    <para style="p">
+      <verse number="30" style="v" sid="HEB 11:30" />By faith the walls of Jericho fell after being marched around in a circle for seven days.<verse eid="HEB 11:30" />
+    </para>
+    <para style="p">
+      <verse number="31" style="v" sid="HEB 11:31" />By faith, the prostitute Rahab wasn’t wiped out with those who were disobedient after extending a welcome
+        to the spies and taking them in.<verse eid="HEB 11:31" />
+    </para>
+    <para style="p">
+      <verse number="32" style="v" sid="HEB 11:32" />And what more will I say? For there’s not enough time to go into detail about Gideon, Barak, Samson,
+        Jephthah, David, plus Solomon and the prophets, <verse eid="HEB 11:32" />
+      <verse number="33" style="v" sid="HEB 11:33" />who through faith conquered kingdoms, put into practice standards of fairness while ruling, obtained
+        promises, shut the mouths of lions, <verse eid="HEB 11:33" />
+      <verse number="34" style="v" sid="HEB 11:34" />extinguished intense heat-generating fires, escaped the sword’s edge, got their strength back from weakness,
+        became mighty men in war, routed foreign armies in battle. <verse eid="HEB 11:34" />
+      <verse number="35" style="v" sid="HEB 11:35" />Women got members of their family who died to come back to life. Others were tortured but refused the
+        chance to get out of it, so that they would be better off in their life after death. <verse eid="HEB 11:35" />
+      <verse number="36" style="v" sid="HEB 11:36" />Others experienced jeering and whipping; still others experienced being chained up and locked up. <verse eid="HEB 11:36" />
+      <verse number="37" style="v" sid="HEB 11:37" />They were stoned to death, they were sawn in two, they were tempted and brought to the breaking point,
+        they were slain by the sword, they wandered about in sheepskins, in goatskins, while being impoverished,
+        afflicted, distressed, mistreated— <verse eid="HEB 11:37" />
+      <verse number="38" style="v" sid="HEB 11:38" />people whom the world is not worthy of—They lived in deserts, on mountains, in caves, in underground
+        tunnels—<verse eid="HEB 11:38" />
+    </para>
+    <para style="p">
+      <verse number="39" style="v" sid="HEB 11:39" />Because of their faith all of these people had a favorable account of their exploits recorded for posterity’s
+        sake but did not obtain the promise, <verse eid="HEB 11:39" />
+      <verse number="40" style="v" sid="HEB 11:40" />God having provided something better for us, so that their ranks would not be complete without us added.<verse eid="HEB 11:40" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="HEB 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 12:1" />For this very reason, we too, surrounded by such a cluster of tremendous witnesses, let us lay aside
+        every burden and the sin which entangles us and run with endurance the up-and-coming race we’re entered
+        in, <verse eid="HEB 12:1" />
+      <verse number="2" style="v" sid="HEB 12:2" />setting our undivided attention on Jesus, the originator and perfector of our faith, who, instead of
+        giving up because of the task he was assigned to do, endured the cross, disregarding and having contempt
+        for the shame associated with it ,and has sat down at the right hand of God’s throne (i.e., he took up
+        the position of God’s chief executive). <verse eid="HEB 12:2" />
+      <verse number="3" style="v" sid="HEB 12:3" />Furthermore, consider for a moment that he has endured such extreme opposition from sinners, so that
+        you not grow weary in the depths of your souls and capitulate— <verse eid="HEB 12:3" />
+      <verse number="4" style="v" sid="HEB 12:4" />You have yet to resist to the point of bloodshed, <verse eid="HEB 12:4" />
+      <verse number="5" style="v" sid="HEB 12:5" />and you’ve completely forgotten the encouragement which addresses you as sons:
+    </para>
+    <para style="pi" vid="HEB 12:5"></para>
+    <para style="pi" vid="HEB 12:5">My son, do not take lightly the discipline of the Lord</para>
+    <para style="pi" vid="HEB 12:5">As he molds you into the person you need to be</para>
+    <para style="pi" vid="HEB 12:5">Nor capitulate when corrected by Him.<verse eid="HEB 12:5"/>
+    </para>
+    <para style="pi">
+      <verse number="6" style="v" sid="HEB 12:6" />You see, whom the Lord loves He disciplines,
+    </para>
+    <para style="pi" vid="HEB 12:6">And He thrashes every son</para>
+    <para style="pi" vid="HEB 12:6">Whom He has whole-heartedly welcomed as His own.<verse eid="HEB 12:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="7" style="v" sid="HEB 12:7" />You endure for the purpose of being molded by discipline into the person you need to become: God treats
+        you like you are His son. In this regard, can you think of any son whom his father doesn’t discipline?<verse eid="HEB 12:7" />
+      <verse number="8" style="v" sid="HEB 12:8" />But if you live in absence of discipline, which you all get your fair share of now, then you’re children
+        some strange woman had out of wedlock and not sons who are included in the family.<verse eid="HEB 12:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 12:9" />Furthermore, we had fathers in the natural who disciplined us time and time again, and we gave them our
+        respect; how much more should we submit to the Father of our spirits and live this way? <verse eid="HEB 12:9" />
+      <verse number="10" style="v" sid="HEB 12:10" />You see, while it’s true that for a brief period our natural fathers disciplined us the way they personally
+        thought discipline ought to be done, but He, though, disciplines us for our own benefit, for the purpose
+        of us being able to partake of His holiness on an ongoing basis. <verse eid="HEB 12:10" />
+      <verse number="11" style="v" sid="HEB 12:11" />While any discipline at the time it’s occurring is not considered to be a bundle of joy, but instead
+        is painful, later on it yields a peaceful result, namely righteousness, to those who have been trained
+        by the discipline they received.<verse eid="HEB 12:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="HEB 12:12" />In light of this, put the hands that lie idle at your side and the knees which have become weak back
+        in the position where they’re poised for action, <verse eid="HEB 12:12" />
+      <verse number="13" style="v" sid="HEB 12:13" />and clear out a straight path for your feet, so that the hip joint, knee joint, etc. which is preventing
+        you from walking not be dislocated any more, but rather be healed.<verse eid="HEB 12:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 12:14" />Pursue peace with all people, and pursue holiness, without which no one will see the Lord. <verse eid="HEB 12:14" />
+      <verse number="15" style="v" sid="HEB 12:15" />Check up on any person who might lack the grace of God (i.e., who needs to receive mercy, kindness, or
+        forgiveness from God) and help them in whatever situation they’re in which is causing this, lest some
+        root of bitterness grow up and become a source of irritation, annoyance, or trouble, and many people
+        would be tainted by this root; <verse eid="HEB 12:15" />
+      <verse number="16" style="v" sid="HEB 12:16" />lest there be some fornicator metaphorically speaking (i.e., someone who’s immoral in a way which is
+        analogous to sexually immorality) or someone who’s profane or has no piety like Esau, who sold what was
+        rightfully his by birth for one meal. <verse eid="HEB 12:16" />
+      <verse number="17" style="v" sid="HEB 12:17" />In fact, you know the story, how afterwards, while wanting to receive his inheritance through the blessing
+        bestowed by Isaac, he was rejected; the simple fact is that there was no way he could turn the situation
+        around, although with tears on his face he tried.<verse eid="HEB 12:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="HEB 12:18" />The fact of the matter is that you haven’t come to a physically tangible mountain like Mount Sinai, to
+        one which is on fire, and to darkness and to gloom and to a whirlwind <verse eid="HEB 12:18" />
+      <verse number="19" style="v" sid="HEB 12:19" />and to the sound of a trumpet and to a voice speaking words, a voice which those who heard it begged
+        that not another word be spoken to them; <verse eid="HEB 12:19" />
+      <verse number="20" style="v" sid="HEB 12:20" />you see, they couldn’t take it anymore, couldn’t stand the order, “If so much as an animal happens to
+        touch the mountain, it will be stoned to death.” <verse eid="HEB 12:20" />
+      <verse number="21" style="v" sid="HEB 12:21" />The scene was so terrifying that Moses said, “I’m terrified and shaking all over”—<verse eid="HEB 12:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 12:22" />—No, you’ve come to Mount Zion and to the city of the Living God, the Jerusalem in heaven, and to a myriad
+        of angels, <verse eid="HEB 12:22" />
+      <verse number="23" style="v" sid="HEB 12:23" />to the mother of all church gatherings of the firstborn who’s registered in heaven, and to God the judge
+        of all, and to spirits of upright, decent people who’ve been made perfect, <verse eid="HEB 12:23" />
+      <verse number="24" style="v" sid="HEB 12:24" />and to Jesus the mediator of a new covenant and to the true sprinkling-blood, which calls for better
+        things than the blood of Abel which cried out from the ground.<verse eid="HEB 12:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="HEB 12:25" />See to it that no one disregards or rejects what’s being called for. You see, if those people who disregarded
+        or rejected what was called for couldn’t escape after He warned them when they were on the Earth, how
+        much more will they not escape, they who refuse Him Who warns from heaven? <verse eid="HEB 12:25" />
+      <verse number="26" style="v" sid="HEB 12:26" />That voice shook the Earth back then, but at the present time there’s a promise which He has given which
+        says, “I will yet cause the Earth to shake one more time, and not just shake the Earth but the sky, outer
+        space, and the spirit-world too.” <verse eid="HEB 12:26" />
+      <verse number="27" style="v" sid="HEB 12:27" />But the phrase “yet one more time” insinuates the removal of those things which are shaken, as they are
+        things which have been created, so that what would remain would be the things which can’t be shaken.<verse eid="HEB 12:27" />
+    </para>
+    <para style="p">
+      <verse number="28" style="v" sid="HEB 12:28" />In light of this, as we heartily embrace a kingdom which can’t be shaken, let us maintain an attitude
+        of thankfulness, one in which we serve God in a way that pleases Him, keeping it with reverence and awe:<verse eid="HEB 12:28" />
+      <verse number="29" style="v" sid="HEB 12:29" />For our God is a consuming fire.<verse eid="HEB 12:29" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="HEB 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="HEB 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="HEB 13:1" />Continue in your love for your fellow comrade, loving the fellowship you have with them. <verse eid="HEB 13:1" />
+      <verse number="2" style="v" sid="HEB 13:2" />Don’t neglect to extend a hearty friendship-welcome to those who are new to a church, new to the area,
+        or who are just plain different than yourselves. In doing this, some have unwittingly welcomed angels.<verse eid="HEB 13:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="HEB 13:3" />Remember those who are in prison as though you’re fellow inmates, and remember those who are ill-treated
+        as though you have to live in their shoes.<verse eid="HEB 13:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="HEB 13:4" />Be sure to honor the institution of marriage and be sure that what you do in bed is morally pure; for
+        God will judge fornicators and adulterers.<verse eid="HEB 13:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="HEB 13:5" />Be sure that the kind of life you live is absent the love of money; He himself said, “There’s no way
+        I’ll ever leave you or forsake you.” <verse eid="HEB 13:5" />
+      <verse number="6" style="v" sid="HEB 13:6" />This gives us confidence so much so that we perk up and have the gumption to say,
+    </para>
+    <para style="pi" vid="HEB 13:6"></para>
+    <para style="pi" vid="HEB 13:6">The Lord is my helper; I will not fear.</para>
+    <para style="pi" vid="HEB 13:6">What can a person do to me?<verse eid="HEB 13:6"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="7" style="v" sid="HEB 13:7" />Remember your leaders, the very people who spoke the word of God to you, closely observe on a continual
+        basis the end-result of their manner of life—mimic their faith.<verse eid="HEB 13:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="HEB 13:8" />Jesus Christ is the same yesterday, today, and forever.<verse eid="HEB 13:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="HEB 13:9" />Don’t get sidetracked by different and novel teachings; you see, it’s good that the heart be established
+        by grace, not by teachings about what food we should or shouldn’t eat. These teachings haven’t benefited
+        those who have changed their lifestyles to follow them. <verse eid="HEB 13:9" />
+      <verse number="10" style="v" sid="HEB 13:10" />We have a spiritual altar, and they who serve by performing the religious rituals in the physical tabernacle
+        are not entitled to eat the food which is a byproduct of the sacrifices offered upon it. <verse eid="HEB 13:10" />
+      <verse number="11" style="v" sid="HEB 13:11" />In fact, the carcasses of the animals whose blood is brought by the high priest into the Holy of Holies
+        are incinerated outside the camp, out away from where everybody lived. <verse eid="HEB 13:11" />
+      <verse number="12" style="v" sid="HEB 13:12" />In light of this, Jesus also, so that through his own blood he would purify, sanctify, and make the folk-people
+        holy, suffered outside of the gates of the city away from where everybody lived. <verse eid="HEB 13:12" />
+      <verse number="13" style="v" sid="HEB 13:13" />So then, let’s go outside the camp where everybody lives and go to him, pick up his vilification, vituperation,
+        and reviling, and carry it ourselves.<verse eid="HEB 13:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="HEB 13:14" />You see, here on this planet we don’t have a city for us to live in which is going to last into eternity,
+        but we’re seeking after the city to come instead. <verse eid="HEB 13:14" />
+      <verse number="15" style="v" sid="HEB 13:15" />Through him let us continuously offer up to God a sacrificial offering consisting of praise, in other
+        words, the fruit of lips which confess words in his name and to his name (i.e., by his authority and
+        to his glory). <verse eid="HEB 13:15" />
+      <verse number="16" style="v" sid="HEB 13:16" />And don’t neglect to do acts of kindness and to help others financially; for God is quite pleased with
+        sacrificial offerings such as these.<verse eid="HEB 13:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="HEB 13:17" />Be persuaded by your leaders to the point of obeying them and submit to them; you see, they keep watch
+        over your very lives, as they’ll be held accountable for them. But submit so that they may do their job
+        with joy and not regress into grumbling; it just isn’t worth it.<verse eid="HEB 13:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="HEB 13:18" />Pray for us, and keep on praying for us. We believe that we have a good conscience (i.e., we’re not involved
+        in any wrongdoing; there’s nothing we feel guilty about) in that we are wanting to maintain a lifestyle
+        of excellence in every respect. <verse eid="HEB 13:18" />
+      <verse number="19" style="v" sid="HEB 13:19" />But more importantly, I encourage you to pray so that I’ll be restored to you (i.e., be reinstated and
+        continue doing with you what I was doing) as soon as possible.<verse eid="HEB 13:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="HEB 13:20" />Now may the God of peace, Who brought the Great Shepherd of the Sheep back from the dead by means of
+        the blood of the eternal covenant—our Lord Jesus Christ— <verse eid="HEB 13:20" />
+      <verse number="21" style="v" sid="HEB 13:21" />in every good way put you into proper order and prepare you for a purpose, doing this with the goal of
+        accomplishing His will, working in us what from His point of view is very pleasing through Jesus Christ,
+        to whom be the glory forever and ever. Let us pause for a moment to let that sink in.<verse eid="HEB 13:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="HEB 13:22" />Bear with me, comrades, as I encourage you with this word of encouragement. You see, I’ve only briefly
+        written to you about my personal affairs. <verse eid="HEB 13:22" />
+      <verse number="23" style="v" sid="HEB 13:23" />Just so you know, our fellow comrade Timothy has been let out of jail. If he can manage to come over
+        to where I am in a hurry, I’ll take him with me when I visit you.<verse eid="HEB 13:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="HEB 13:24" />Extend my greetings to all those in leadership positions and to all the saints (i.e., all the other believers).
+        Those from the Roman province of Italy greet you.<verse eid="HEB 13:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="HEB 13:25" />May the grace of God be with you all.<verse eid="HEB 13:25" />
+    </para>
+  <chapter eid="HEB 13" />
+</usx>

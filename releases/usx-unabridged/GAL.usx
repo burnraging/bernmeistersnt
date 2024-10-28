@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="GAL" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Galatians</para>
+  <para style="toc1">The Epistle of Galatians</para>
+  <para style="toc2">Galatians</para>
+  <para style="toc3">Gal.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">GALATIANS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">After Paul’s usual long-winded introduction, he curtly states the reason he’s writing, namely that the
+    Galatians have abandoned the Gospel for some other gospel. This is the subject of the book. The issue
+    at hand was whether a person could believe in Jesus directly without the additional constraint of becoming
+    Jewish and following all the requirements found in the Law of Moses. An important aspect of Paul’s message
+    was that one could believe in Jesus and remain a Gentile. This in fact is the definition of Christianity
+    as qualified by the New Testament, and equipped with this teaching, Paul went about spreading Christianity
+    throughout the Roman Empire.</para>
+  <para style="ipi">But there remained a faction of Jews who, though they accepted Jesus as the Messiah and believed in him,
+    insisted that adherence to the practices of Judaism was necessary, and therefore rejected Christianity
+    as defined as believing in Jesus without having to follow Jewish practices. The Book of Galatians is
+    Paul refuting and thwarting this heresy. Had he not done so, Christianity as we know it might have died
+    off in the first century.</para>
+  <para style="ipi">Galatians is Paul’s thesis of why the Gentiles have access to the promises of God, and not just the Jews.
+    Paul demonstrates that this was God’s plan all along, that the Old Testament promises that this will
+    one day take place, that faith is—and always was—the key to accessing justification, that the Law of
+    Moses is just one step in God’s long-term plan for mankind, that it was at best a stop-gap anyways and
+    at worst an obstacle if approached apart from faith. If Judaism were a house, then Christianity would
+    be an addition built on top of it.</para>
+  <para style="ipi">Most of the Greek text is simpler than—say—2 Corinthians, about on par with Romans, but there a few passages
+    which are tricky (4:12–16 for one). The subject material can be difficult to grasp, but once understood,
+    it comes together into a nice, logical framework.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="GAL 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 1:1" /><char style="it">From </char>the Apostle (i.e., missionary; pioneer of new churches; worker of miracles<char
+        style="sup">[a]</char>) Paul, who’s not an apostle <char style="it">created </char>from human agency
+        nor <char style="it">an apostle who exists </char>through human agency but through Jesus Christ and God,
+        the Father Who raised him from the dead, <verse eid="GAL 1:1" />
+      <verse number="2" style="v" sid="GAL 1:2" />and <char style="it">from</char> those who are together with me—not just physically but are joint participants
+        in my endeavors—<char style="it">namely</char> all <char style="it">of the </char>comrades<char style="sup">[b]</char>:</para>
+    <para style="p" vid="GAL 1:2">To the churches of Galatia:<verse eid="GAL 1:2"/>
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="GAL 1:3" />Grace to you and peace from God our Father and the Lord Jesus Christ, <verse eid="GAL 1:3" />
+      <verse number="4" style="v" sid="GAL 1:4" />who gave his own self for our sins, and gave himself so he could yank us out of this evil day-and-age
+        we live in, according to the will of our God and Father: <verse eid="GAL 1:4" />
+      <verse number="5" style="v" sid="GAL 1:5" />to Him <char style="it">be </char>the glory forever and ever (and let us pause a moment for that to sink
+        in<char style="sup">[c]</char>):<verse eid="GAL 1:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="GAL 1:6" />I’m astounded that you’re setting aside and replacing <char style="it">the Gospel (i.e., the good-news
+        message we preach) which came </char>from the One Who called us (i.e., summoned us to believe) by <char
+        style="it">the </char>grace of Christ in exchange for another <char style="it">so-called </char>gospel—<verse eid="GAL 1:6" />
+      <verse number="7" style="v" sid="GAL 1:7" />not that there’s another gospel <char style="it">to be had</char>—<char style="it">but I’m astounded
+        at how this could possibly happen </char>except <char style="it">for the fact that </char>there are certain
+        individuals among you who are trouble-makers, wanting to distort the Gospel, the message of what Christ
+        did. <verse eid="GAL 1:7" />
+      <verse number="8" style="v" sid="GAL 1:8" />Never mind that for a moment: if even we or an angel <char style="it">who came down</char> from heaven
+        were to evangelize to you something different than what we evangelized to you, let him be accursed. <verse eid="GAL 1:8" />
+      <verse number="9" style="v" sid="GAL 1:9" />I said it before and I’ll say it again: if someone evangelizes you with something different than what
+        you received and took to heart already, let him be accursed.<verse eid="GAL 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="GAL 1:10" />Furthermore, am I trying to win people or God over to my side now? Or am I <char style="it">just </char>trying
+        to please people? If I was still going about pleasing people, I wouldn’t be a slave of Christ.<verse eid="GAL 1:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 1:11" />Just to let you know, comrades, the Gospel which was evangelized by me: it’s not a man-made contrivance<char
+        style="sup">[d]</char>, <verse eid="GAL 1:11" />
+      <verse number="12" style="v" sid="GAL 1:12" />nor were we taught it <char style="it">by anyone</char>, but rather <char style="it">we were taught it
+        </char>through a Jesus Christ-revelation.<verse eid="GAL 1:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="GAL 1:13" />In fact, you heard about the way I used to live back then when I lived as a <char style="it">strict </char>Jew,
+        that I was caught up in persecuting God’s church to an inordinate degree and in wreaking havoc on it,<verse eid="GAL 1:13" />
+      <verse number="14" style="v" sid="GAL 1:14" />and I was getting deeper and deeper<char style="sup">[e]</char> into <char style="it">the stricter practices
+        of</char> Judaism, well beyond many of my peers, as I had become even more fanatical about all the man-made
+        rules and regulations that were passed down to me from my ancestors. <verse eid="GAL 1:14" />
+      <verse number="15" style="v" sid="GAL 1:15" />But when God, Who set me apart from the time I was in my mother’s womb and called me through His grace,
+        was pleased <verse eid="GAL 1:15" />
+      <verse number="16" style="v" sid="GAL 1:16" />to reveal His son in me so I’d evangelize him to the Gentiles, I didn’t drop everything I was doing and
+        see what the experts had to say about it<char style="sup">[f]</char>, <verse eid="GAL 1:16" />
+      <verse number="17" style="v" sid="GAL 1:17" />nor did I go down<char style="sup">[g]</char> to Jerusalem to <char style="it">secure the approval of
+        </char>the founding apostles<char style="sup">[A]</char>, <char style="it">who are my superiors by default,</char>
+        but went over to Arabia instead and returned to Damascus.<verse eid="GAL 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 1:18" />Then after three years I went down to Jerusalem to visit Peter and stayed with him for fifteen days.<verse eid="GAL 1:18" />
+      <verse number="19" style="v" sid="GAL 1:19" />But I didn’t see the other apostles except for the Lord’s brother James. <verse eid="GAL 1:19" />
+      <verse number="20" style="v" sid="GAL 1:20" />(What I’m writing here for you—look—I swear to God I’m not lying.) <verse eid="GAL 1:20" />
+      <verse number="21" style="v" sid="GAL 1:21" />Then I went to the districts of Syria and Cilicia. <verse eid="GAL 1:21" />
+      <verse number="22" style="v" sid="GAL 1:22" />But I had no direct interaction or encounter with<char style="sup">[h]</char> the special assemblies<char
+        style="sup">[i]</char> of Judea who are in Christ, <verse eid="GAL 1:22" />
+      <verse number="23" style="v" sid="GAL 1:23" />and <char style="it">the </char>only <char style="it">information they had about me was that</char> they
+        kept hearing that the guy who was persecuting them before is now evangelizing the Faith which he was
+        wreaking havoc on, <verse eid="GAL 1:23" />
+      <verse number="24" style="v" sid="GAL 1:24" />and they glorified the God <char style="it">who is</char> with me.<verse eid="GAL 1:24" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">worker of miracles</char>…Ref. 2 Cor. 12:12</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">and let us pause a moment for that to sink in</char>…Lit: <char style="it">amen. </char>Ref.
+        note of Rev. 19:4.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">man-made contrivance</char>…Lit: <char style="it">according to man</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">deeper and deeper</char>…Lit: <char style="it">more advanced</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">see what the experts had to say about it</char>…Lit: <char style="it">consult with flesh
+        and blood</char>. <char style="it">Flesh and blood</char> is a NT idiom (ref. Matt. 16:17; 1 Cor. 15:50),
+        and it refers to the best that human reasoning, ability, etc. can bring to bear on the issue at hand.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">down</char>…Lit: <char style="it">up</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">had no direct interaction or encounter with</char>…Lit: <char style="it">was unknown
+        to the face</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">special assemblies</char>…Lit: <char style="it">churches</char>. Using the literal meaning
+        of <char style="it">church, </char>which is those who are called out, as Paul seems to think there are
+        other “special congregations” of those who aren’t believers in Christ.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">the founding apostles…</char>Lit: <char style="it">those who were apostles before me</char>.
+        In ancient Jewish culture, the default leadership structure was one of seniority, hence the elders of
+        the Sanhedrin. In keeping with this, the original apostles would outrank Paul in seniority, and by this
+        human reasoning, Paul should’ve submitted to them. But that wasn’t God’s plan.</char>
+    </note>
+  <chapter eid="GAL 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="GAL 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 2:1" />Then after spending fourteen years <char style="it">away</char>, I went back down to Jerusalem with Barnabas,
+        taking Titus along as well. <verse eid="GAL 2:1" />
+      <verse number="2" style="v" sid="GAL 2:2" />I went down there <char style="it">to discuss</char> <char style="it">my</char> conformance <char style="it">to</char>
+        a revelation, and laid out in front of them the glad-tidings message—the Gospel—which I preach among
+        the Gentiles. But <char style="it">I submitted this</char> in private to those who’re considered to be
+        the leading figures <char style="it">of the movement</char>, lest somehow all of this be a huge waste
+        of time on my part<char style="sup">[a]</char>—and has been all along. <verse eid="GAL 2:2" />
+      <verse number="3" style="v" sid="GAL 2:3" />No, uh-uh—not even my companion Titus was required to be circumcised (<char style="it">the act of circumcision
+        being the initiation rite whereby one adopts Judaism as his own religion and begins following its myriad
+        rules and traditions</char>), seeing that he’s Greek (i.e., a Westerner, far from being Jewish).<verse eid="GAL 2:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="GAL 2:4" />But because of the bogus comrades<char style="sup">[b]</char> who infiltrated <char style="it">our movement</char>,
+        those in particular who slipped in under the radar to gain intelligence about the freedom which we possess
+        in Christ Jesus, those whose aim is to enslave us— <verse eid="GAL 2:4" />
+      <verse number="5" style="v" sid="GAL 2:5" />We didn’t knuckle under<char style="sup">[c]</char> to them for even a moment<char style="sup">[d]</char>,
+        so that the truth of the Gospel remain in effect with us. <verse eid="GAL 2:5" />
+      <verse number="6" style="v" sid="GAL 2:6" />But <char style="it">the decision </char>from those who are considered to be of some importance—just
+        how important they were makes no difference to me: God doesn’t give a hoot about a person’s status, outward
+        appearance, or public persona<char style="sup">[e]</char>—in fact, the important people don’t score any
+        points with me <char style="it">simply because they’re “important”…</char><verse eid="GAL 2:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 2:7" />—Enough of that.
+    </para>
+    <para style="p" vid="GAL 2:7">On the contrary seeing that I had been entrusted with the Gospel of uncircumcision (i.e., the glad-tidings
+        message that one can come to God through Christ as a Gentile without converting to Judaism and without
+        following the Jewish rules and traditions) just as Peter<char style="sup">[A]</char> <char style="it">was
+        entrusted with the Gospel </char>of circumcision (i.e., the glad-tidings message to the Jews that the
+        Messiah promised by the Old Testament has come in the person of Jesus Christ), <verse eid="GAL 2:7"/>
+      <verse number="8" style="v" sid="GAL 2:8" /><char style="it">and </char>in this regard he who’s been active in Peter for <char style="it">him to
+        be</char> an apostle of the circumcised is also active for <char style="it">me to be the same </char>to
+        the Gentiles. <verse eid="GAL 2:8" />
+      <verse number="9" style="v" sid="GAL 2:9" />Recognizing and understanding the grace (i.e., the special gift and calling given to me, and not earned
+        by me) that was given to me, James, Peter, and John (those considered to be the key players and head
+        honchos<char style="sup">[f]</char>) were in total agreement with us giving their unequivocal endorsement
+        and full support<char style="sup">[g]</char> to me and Barnabas, so that we <char style="it">would continue
+        as apostles </char>to the Gentile and they to the circumcised (i.e., the Jews). <verse eid="GAL 2:9" />
+      <verse number="10" style="v" sid="GAL 2:10" />They only <char style="it">asked that we </char>remember the poor, the very same thing I too had been
+        eager to get done.<verse eid="GAL 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 2:11" />Now when Peter came to Antioch, I confronted him point-blank because he was in the wrong. <verse eid="GAL 2:11" />
+      <verse number="12" style="v" sid="GAL 2:12" />You see, prior to when select individuals from <char style="it">the churches under </char>James’s <char
+        style="it">authority </char>arrived, he partook of meals with the Gentiles, but when they arrived, he
+        withdrew <char style="it">from the Gentiles</char> and kept himself at a distance <char style="it">from
+        them</char><char style="sup">[B]</char>, fearing those from the circumcision (i.e., those who believe
+        that one must obey the Law of Moses and adopt Jewish rules and restrictions in order to be accepted by
+        God; those who say that believing in Christ but not following the Law is not acceptable to God). <verse eid="GAL 2:12" />
+      <verse number="13" style="v" sid="GAL 2:13" />The other Jews joined him in his hypocrisy, so that even Barnabas was caught up<char style="sup">[h]</char>
+        in the hypocrisy…<verse eid="GAL 2:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="GAL 2:14" />—Not a chance.
+    </para>
+    <para style="p" vid="GAL 2:14">When I saw that he was disingenuous about the truth of the Gospel, I told Peter in front of everybody,
+        “If you being a Jew live as a Gentile and not as a Jew, how can you get away with<char style="sup">[i]</char>
+        requiring that the Gentiles be Jewish?”<verse eid="GAL 2:14"/>
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="GAL 2:15" />”We ourselves are Jews by nature and not sinners from<char style="it"> far-away</char>, Gentile nations<char
+        style="sup">[C]</char>, <verse eid="GAL 2:15" />
+      <verse number="16" style="v" sid="GAL 2:16" />having reached the point where we know for certain that a person isn’t justified (i.e., God examining
+        a person’s righteousness like a judge would and declaring them to be righteous) as a result of works
+        of law (i.e., obeying the commandments of the Law of Moses, or following the do’s and don’ts of any godly
+        list of rules for that matter) if it happens to not be through Christ Jesus-faith. We believed in Christ
+        Jesus so that we would be justified as a result of Christ-faith and not as a result of works of law,
+        since all flesh (i.e., any human endeavor and all human effort apart from God) won’t be justified as
+        a result of works of law. <verse eid="GAL 2:16" />
+      <verse number="17" style="v" sid="GAL 2:17" />But if in the process of seeking justification in Christ, it’s been determined that even we are sinners,
+        you can’t seriously believe that Christ has been delegated the responsibility of caring for and promoting
+        sin<char style="sup">[D]</char>?—No way<char style="sup">[j]</char>.<verse eid="GAL 2:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 2:18" />”Furthermore, if I rebuild the things that I demolished, I demonstrate conclusively that I’m a transgressor.<verse eid="GAL 2:18" />
+      <verse number="19" style="v" sid="GAL 2:19" />You see, because of law I died to law (i.e., because of the failure in trying to live up to the requirements
+        of the Law of Moses—which can be said of any set of rules and not just the Law of Moses—and thereby earning
+        righteousness, I ceased all attempts and completely severed myself from earning righteousness through
+        the Law), so that I would live to God. I’ve been crucified in unison, in joint participation, with Christ;<verse eid="GAL 2:19" />
+      <verse number="20" style="v" sid="GAL 2:20" />I no longer live, but Christ lives in me. What I now live in flesh (i.e., in my physical body, with my
+        human ability, and in contention with my carnal nature), I live by faith for the son of God who loved
+        me and gave himself for me. <verse eid="GAL 2:20" />
+      <verse number="21" style="v" sid="GAL 2:21" />I’m not nullifying the grace of God: if <char style="it">one </char>is justified through law, Christ
+        really did die for nothing.“<verse eid="GAL 2:21" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">all of this be a huge waste of time on my part</char>…Lit: <char style="it">I am running
+        in vain</char>. An expression.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">bogus comrades</char>…Lit: <char style="it">false brothers</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">knuckle under</char>…Lit: <char style="it">yield in subjection; yield meekly</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">for even a moment</char>…Lit: <char style="it">with an hour</char>. Ref. note of Matt.
+        26:40.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">God doesn’t give a hoot about a person’s status, outward appearance, or public persona</char>…Lit:
+        <char style="it">God doesn’t receive</char> [<char style="it">take to heart</char>] <char style="it">the
+        face of a man</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">key players and head honchos</char>…Lit: <char style="it">pillars</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">were in total agreement with us giving their unequivocal endorsement and full support</char>…Lit:
+        <char style="it">gave their right hand of fellowship</char>. An idiom.</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">caught up</char>…Lit<char style="it">: lead away with them</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">how can you get away with</char>…Lit: <char style="it">how do you</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">no way</char>…Lit: <char style="it">let it not happen</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Peter</char>…Note that in the GT Paul refers to him as <char style="it">Cephas </char>in
+        1:18, but here and in v. 8 also he’s referred to as <char style="it">Petros </char>(Peter); in vv. 9,11
+        he’s <char style="it">Cephas </char>again. Paul’s use of the name <char style="it">Petros </char>over
+        <char style="it">Cephas </char>is his acknowledgement of the authority given to him by Jesus himself,
+        as he’s using the name Jesus gave to him. Paul’s use of <char style="it">Cephas </char>is the recognition
+        that Peter is a human like everyone else.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">withdrew from the Gentiles and kept himself at a distance from them</char>…Jews were
+        forbidden to mingle with Gentiles. He was a hypocrite because he had been sharing meals with the Gentiles
+        prior to that.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">sinners from far-away, Gentile nations</char>…The assumption among Jews was that anyone
+        who wasn’t Jewish was a de facto sinner, was unclean (despicable), and had no relationship with God—nor
+        could they. Of course, the latter assertion, that a Gentile couldn’t have a relationship with God, is
+        refuted by the OT itself in the persons of Rahab and Ruth. What Jesus said in Matt. 15:26 summarizes
+        this preconception—but at the same time Jesus makes an exception for the Gentile Canaanite woman on account
+        of her faith.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">has been delegated the responsibility of caring for and promoting sin</char>…Lit: <char
+        style="it">a deacon of sin</char>. Note the Gk. word for <char style="it">deacon </char>is used here
+        and not the Gk. word for <char style="it">servant</char> or <char style="it">slave. </char>A survey of
+        the NT shows that a deacon is one who’s been entrusted with an area of responsibility. A servant or slave,
+        on the other hand, follows orders.</char>
+    </note>
+  <chapter eid="GAL 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="GAL 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 3:1" />Oh, brainless, short-sighted Galatians, who cast an evil spell over you<char style="sup">[a]</char>,
+        you whom eye-witness accounts of Jesus Christ were previously written for, <char style="it">accounts
+        describing his </char>being crucified? <verse eid="GAL 3:1" />
+      <verse number="2" style="v" sid="GAL 3:2" />The only thing I want to ascertain from you is <char style="it">this</char>: Did you receive the Spirit<char
+        style="sup">[A]</char> from the works of law (i.e., following the do’s and don’ts of the Law of Moses,
+        or any other list of rules for that matter) or from hearing a particular message <char style="it">from
+        the vantage point</char> of faith?<verse eid="GAL 3:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="GAL 3:3" />You’re brainless this way. Having begun in spirit<char style="sup">[b]</char> (i.e., living a spiritual
+        life; a life where your regenerate, human spirit, one filled with fruit, dominates your carnal nature),
+        are you now continuously improving yourselves<char style="sup">[c]</char> in flesh (i.e., by your own
+        ability apart from God; not living a spiritual life; trying to please God by adhering to the Law of Moses,
+        Jewish tradition, or other rules)? <verse eid="GAL 3:3" />
+      <verse number="4" style="v" sid="GAL 3:4" /><char style="it">And are you </char>so far <char style="it">off course </char>that you suffered <char
+        style="it">living this way </char>for nothing?—If you really was for nothing. <verse eid="GAL 3:4" />
+      <verse number="5" style="v" sid="GAL 3:5" />So does he who supplies you with the Spirit and makes power (including supernatural power and the miraculous)
+        happen in you do so from works of law or from a particular message you heard <char style="it">from the
+        vantage point</char> of faith? <verse eid="GAL 3:5" />
+      <verse number="6" style="v" sid="GAL 3:6" />It’s just like <char style="it">the Old Testament verse says,</char> “Abraham had faith in God, and it
+        was credited to him as righteousness.”<verse eid="GAL 3:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 3:7" />You really need to understand that they <char style="it">who live </char>from <char style="it">the vantage
+        point of</char> faith—those are the ones who are sons of Abraham (i.e., imitate and duplicate Abraham;
+        carry on Abraham’s legacy). <verse eid="GAL 3:7" />
+      <verse number="8" style="v" sid="GAL 3:8" />Now the Scriptures anticipated the justification (i.e. clearing of one’s record so he’s considered to
+        be righteous) of the Gentiles <char style="it">who live </char>from <char style="it">the vantage point
+        of </char>faith—Before it was made widely known, God announced the good news to Abraham, <char style="it">telling
+        him </char>that, “In you a blessing will be imparted to all the Gentiles,” <verse eid="GAL 3:8" />
+      <verse number="9" style="v" sid="GAL 3:9" />so that they <char style="it">who live </char>from <char style="it">the vantage point of </char>faith
+        are jointly blessed with Abraham by means of faith. <verse eid="GAL 3:9" />
+      <verse number="10" style="v" sid="GAL 3:10" />You see, every last person without exception<char style="sup">[d]</char> who <char style="it">seeks justification</char>
+        from works of law is subject to a curse because of what is written <char style="it">in</char> <char style="it">the
+        Law Moses</char>:<char style="it"> </char></para>
+    <para style="pi" vid="GAL 3:10"></para>
+    <para style="pi" vid="GAL 3:10">Cursed is everyone who doesn’t carry through</para>
+    <para style="pi" vid="GAL 3:10">With accomplishing the doing of everything</para>
+    <para style="pi" vid="GAL 3:10">Which has been written in the official, authoritative</para>
+    <para style="pi" vid="GAL 3:10">Version of the Law <char style="it">of Moses</char><char style="sup">[B]</char><verse eid="GAL 3:10"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 3:11" />That no one is justified with God (i.e., has had God officially clear their record of wrong-doing and
+        declared them to be righteous) by law (i.e., by an attempt to strictly follow the Law of Moses or by
+        any list or rules, code of ethics, etc. for that matter) is obvious<char style="sup">[e]</char>, since
+        <char style="it">the Law of Moses says,</char> “The righteous individual will live from <char style="it">the
+        vantage point</char> <char style="it">of</char> faith.” <verse eid="GAL 3:11" />
+      <verse number="12" style="v" sid="GAL 3:12" />But the Law <char style="it">of Moses </char>isn’t from <char style="it">the vantage point of </char>faith,
+        but instead, “He who does the very things <char style="it">commanded here</char> shall live in them (i.e.,
+        shall live with the consequences one way or another).” <verse eid="GAL 3:12" />
+      <verse number="13" style="v" sid="GAL 3:13" />Christ redeemed us from (i.e., got us out from under) the curse of the Law <char style="it">of Moses,
+        </char>having become a curse for us (because it’s written, “Everyone who’s hung on a tree is accursed”)<verse eid="GAL 3:13" />
+      <verse number="14" style="v" sid="GAL 3:14" />so that the blessing of Abraham would appear to the Gentiles in Christ Jesus, so that we’d receive the
+        promise of the Spirit through the faith <char style="it">we’re talking about</char>.<verse eid="GAL 3:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="GAL 3:15" />Comrades<char style="sup">[f]</char>, let me state this in terms of human <char style="it">contractual
+        law</char>. If a person has gone ahead and had a will drawn up and has had it signed, witnessed, and
+        notarized<char style="sup">[g]</char>, <char style="it">if he were to die, </char>no one can void it,
+        disregard it, or amend it by tacking an addendum onto it. <verse eid="GAL 3:15" />
+      <verse number="16" style="v" sid="GAL 3:16" />Now the promises were given to Abraham and to his father-to-son direct descendant<char style="sup">[h]</char>.
+        <char style="it">The Old Testament</char> doesn’t say “and to his direct descendants” (in the plural)
+        but “to his direct descendant” (in the singular) instead.<verse eid="GAL 3:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 3:17" />What I’m getting at is this<char style="sup">[i]</char>: A will was drafted, signed, witnessed, and notarized
+        by God, one that can’t be invalidated by a law-code which came into being 430 years after <char style="it">the
+        will was notarized</char> resulting in cancelling the promise. <verse eid="GAL 3:17" />
+      <verse number="18" style="v" sid="GAL 3:18" />Along these same lines, if the <char style="it">beneficiaries‘</char> inheritance were to be based on
+        a law-code, <char style="it">then </char>it would no longer be based on a promise. But God, in an act
+        of mercy and kindness, has granted <char style="it">the inheritance </char>to Abraham by staking it on<char
+        style="it"> </char>a promise.<verse eid="GAL 3:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="GAL 3:19" />So where does the Law <char style="it">of Moses </char>fit in <char style="it">to all of this</char>?
+        It was added as an agency of grace and mercy which overlooks the transgressions <char style="it">which
+        would inevitably occur</char>, until the time when the father-to-son direct descendant happens to arrive,
+        the one whom the promise was given to. <char style="it">The Law was </char>ordained, established, and
+        set in order through angels <char style="it">and physically carried out </char>by the<char style="it">
+        </char>hand of a <char style="it">priest acting</char> <char style="it">in the role of </char>intermediary
+        <char style="it">between man and God.</char> <verse eid="GAL 3:19" />
+      <verse number="20" style="v" sid="GAL 3:20" />But the intermediary is not one, but God is One<char style="sup">[j]</char> (i.e., the intermediary isn’t
+        an incomparable, all-wise, all-encompassing, single-minded being, one who is the end-all of everything,
+        but God is just that).<verse eid="GAL 3:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="GAL 3:21" />So is the Law <char style="it">of Moses </char>compatible with the promises?—Don’t even think such a
+        thought<char style="sup">[k]</char>. You see, if a law-code which has the power to make a person alive
+        was given, the righteousness <char style="it">we live in </char>would actually be from a law-code. <verse eid="GAL 3:21" />
+      <verse number="22" style="v" sid="GAL 3:22" />Not a chance—the Scripture locked every last thing<char style="sup">[l]</char> down tight under sin so
+        that the promise would be given from <char style="it">the vantage point of </char>faith to those who
+        believe in Jesus Christ.<verse eid="GAL 3:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="GAL 3:23" />Before the Faith came, we were kept under guard, locked down with the end-goal in mind of the revealing
+        of faith which was on its way, <verse eid="GAL 3:23" />
+      <verse number="24" style="v" sid="GAL 3:24" />done in a way that the Law <char style="it">of Moses </char>has become our tutor with the end-goal of
+        Christ in mind, so that we would be justified from <char style="it">the vantage point of </char>faith.<verse eid="GAL 3:24" />
+      <verse number="25" style="v" sid="GAL 3:25" /><char style="it">Now that </char>the Faith has come, we are no longer <char style="it">sitting</char>
+        under a tutor.<verse eid="GAL 3:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="GAL 3:26" />The fact is that all of you are sons of God through the Faith <char style="it">which is</char> in Christ
+        Jesus. <verse eid="GAL 3:26" />
+      <verse number="27" style="v" sid="GAL 3:27" />In fact, without exception every last one of you<char style="sup">[d]</char> who’s been baptized into
+        Christ (i.e., has fully accepted and been initiated into Christ and the Christian faith) has put on Christ
+        like they’ve put on a piece of clothing. <verse eid="GAL 3:27" />
+      <verse number="28" style="v" sid="GAL 3:28" />There is neither Jew nor Westerner<char style="sup">[m]</char>, there is neither slave nor person freed
+        from slavery, there is neither male nor female, for all of you are in Christ Jesus (i.e., are melded
+        with Christ). <verse eid="GAL 3:28" />
+    </para>
+    <para style="p">
+      <verse number="29" style="v" sid="GAL 3:29" />Now if you <char style="it">are </char>derived from<char style="sup">[n]</char> Christ, you certainly
+        are father-to-son direct descendants of Abraham, heirs according to <char style="it">the guarantee that
+        a </char>promise <char style="it">provides</char>.<verse eid="GAL 3:29" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">cast an evil spell over you</char>…A metaphor</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">spirit</char>…This doesn’t refer to the Holy Spirit per se, as the definite article
+        is missing from <char style="it">spirit</char> here but precedes <char style="it">spirit </char>in vv.
+        2,5. (Nor is there a preceding preposition which might hide the article).</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">continuously improving yourselves</char>…Lit: <char style="it">being perfected</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">every last person without exception…without exception every last one of you</char>…Lit:
+        <char style="it">as many as</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">obvious</char>…Lit: <char style="it">evident</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">signed, witnessed, and notarized</char>…Some liberties taken</char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">father-to-son direct descendant</char>…Lit: <char style="it">seed</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">What I’m getting at is this</char>…Lit: <char style="it">Now this I say</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">God is One</char>…Ref. note of James 2:19</char>
+    </note>
+    <note caller="[k]" style="f">
+      <char style="fk">[k]</char>
+      <char style="ft"><char style="it">Don’t even think such a thought</char>…Lit: <char style="it">let it not be</char></char>
+    </note>
+    <note caller="[l]" style="f">
+      <char style="fk">[l]</char>
+      <char style="ft"><char style="it">every last thing</char>…Lit: <char style="it">the alls</char> [<char style="it">all
+        things</char>]. Common expression, used as a figure of speech, encompassing not just people but things</char>
+    </note>
+    <note caller="[m]" style="f">
+      <char style="fk">[m]</char>
+      <char style="ft"><char style="it">Westerner</char>…Lit: <char style="it">Greek</char></char>
+    </note>
+    <note caller="[n]" style="f">
+      <char style="fk">[n]</char>
+      <char style="ft"><char style="it">derived from</char>…Lit: <char style="it">of</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">receive the Spirit</char>…Same wording used in John 20:22; Acts 8:15, 19; 19:2. Since
+        what Jesus did in John 20:22 is a one-off where his disciples were born again at that moment, what Paul’s
+        referring to here in Galatians is the baptism in the Holy Spirit, what’s in Acts 8:15, etc. This verse
+        gives insight into how one receives the baptism of the Holy Spirit: it’s by “a particular message you
+        heard from the vantage point of faith.”</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">official, authoritative version of the Law of Moses</char>…Lit: <char style="it">the
+        scroll of the Law</char>. An expression used throughout the Bible (Josh. 1:8, 8:34; Heb. 10:7; 2 Kings
+        22:8,11; Deut. 31:26, etc.). This refers to the master scroll, the agreed-upon definitive copy, the original
+        scroll of an ancient book, in this case the Law of Moses. It’s probable that, at least some of the time,
+        it refers to the entire set of the Torah, not just one of its five scrolls. There was originally only
+        one copy of the Torah, and as time went by, more copies were made, but there was only one copy (the “control
+        copy”) which was considered the authoritative one, as the others were potentially flawed to a small degree.
+        In addition to this meaning, <char style="it">book of the Law</char> (scroll of the Law) also serves
+        as a figure of speech which emphasizes the accuracy of a verse or passage which has been quoted and its
+        authority as having come directly from the hand of God.</char>
+    </note>
+  <chapter eid="GAL 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="GAL 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 4:1" />This is what I have to say: The heir <char style="it">of a great estate</char> is a minor for a long
+        but fixed time interval, <char style="it">and during that time </char>he’s <char style="it">treated </char>no
+        differently than a <char style="it">household </char>slave, while <char style="it">at the same time</char>
+        being an owner of the estate. <verse eid="GAL 4:1" />
+      <verse number="2" style="v" sid="GAL 4:2" />Anyways, he’s <char style="it">kept under the supervision of </char>a governess<char style="sup">[a]</char>
+        and a butler until the predetermined-date set by the <char style="it">minor’s </char>father. <verse eid="GAL 4:2" />
+      <verse number="3" style="v" sid="GAL 4:3" />The same thing applies to us: When we were minors, we were subject to the elementary principles of the
+        world (i.e., subject to the premise of God accepting you based on how well you follow the list of do’s
+        and don’ts<char style="sup">[A]</char>), having reached the point where we were enslaved. <verse eid="GAL 4:3" />
+      <verse number="4" style="v" sid="GAL 4:4" />But when the interval was up, God sent His son forth and from out of a woman he appeared <char style="it">into
+        this world</char>, and once he appeared he was subjected to a set of dictates in the form of the Law
+        of Moses, <verse eid="GAL 4:4" />
+      <verse number="5" style="v" sid="GAL 4:5" />so that he would redeem those (i.e., get them out from under) who are subjected to the Law, so that he
+        would assume<char style="sup">[b]</char> the authority and privileges entailed upon a son when he reaches
+        adulthood. <verse eid="GAL 4:5" />
+      <verse number="6" style="v" sid="GAL 4:6" />Since you’re sons, God sent forth the Spirit of his son into our hearts crying, “Papa<char style="sup">[c]</char>,
+        Father!”, <verse eid="GAL 4:6" />
+      <verse number="7" style="v" sid="GAL 4:7" />so that one<char style="sup">[d]</char> is no longer a slave but a son; and if <char style="it">such
+        person is</char> a son, <char style="it">then</char> <char style="it">he </char>too is an heir through
+        God.<verse eid="GAL 4:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="GAL 4:8" />Anyways, having not reached the point back then where you had a first-hand knowledge of God, as slaves
+        you served things that don’t have God-like characteristics by nature. <verse eid="GAL 4:8" />
+      <verse number="9" style="v" sid="GAL 4:9" />But knowing God now (or more <char style="it">accurately, </char>being known by God) how is that you’re
+        once again directing your main focus to the weak and poor elementary principles which you want to serve
+        again from the top down? <verse eid="GAL 4:9" />
+      <verse number="10" style="v" sid="GAL 4:10" />You observe <char style="it">special religious </char>days, seasons, and years<char style="it"> that</char>
+        <char style="it">the Law of Moses says are mandatory</char>. <verse eid="GAL 4:10" />
+      <verse number="11" style="v" sid="GAL 4:11" />I’m worried<char style="sup">[e]</char> that all the hard work I invested<char style="it"> </char>in
+        you was somehow for nothing.<verse eid="GAL 4:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="GAL 4:12" />Put yourselves in my shoes, since I’m putting myself in your shoes, comrades<char style="sup">[C]</char>;
+        I’m asking you to do this. You didn’t do me any wrong or cause me any harm. <verse eid="GAL 4:12" />
+      <verse number="13" style="v" sid="GAL 4:13" />But you know for a fact that I evangelized the Gospel to you a while back through <char style="it">the</char>
+        weakness of the flesh (i.e., engulfed in the limitations inherent in all humans), <verse eid="GAL 4:13" />
+      <verse number="14" style="v" sid="GAL 4:14" />and you didn’t despise nor disdain your testing<char style="sup">[D]</char> in my flesh (i.e., it wasn’t
+        beneath you to see if I would break under pressure while being pushed to the limits of my human abilities).
+        That aside, you received me as though <char style="it">I were </char>an angel of God, as though <char
+        style="it">I were</char> Christ Jesus. <verse eid="GAL 4:14" />
+      <verse number="15" style="v" sid="GAL 4:15" />So where <char style="it">is </char>your blessing (i.e., why aren’t you wishing us well anymore)? In
+        fact, I swear I’m telling you the truth, because, if possible, you plucked out your eyes and gave them
+        to me<char style="sup">[E]</char> (i.e., because, had it been possible, you would’ve forced me to agree
+        with your point of view). <verse eid="GAL 4:15" />
+      <verse number="16" style="v" sid="GAL 4:16" />So this means that I’ve become your enemy by telling you the truth?<verse eid="GAL 4:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 4:17" /><char style="it">Those who are spreading heresy among you </char>are eager <char style="it">to convert</char>
+        you, <char style="it">but </char>they’re up to no good. Forget that—they wish to prevent you from<char
+        style="sup">[f]</char> <char style="it">believing in the truth</char>, so that you would be their devotees,
+        their fan-boys. <verse eid="GAL 4:17" />
+      <verse number="18" style="v" sid="GAL 4:18" />But it’s always good to be eagerly sought after <char style="it">to be converted</char> in a positive
+        way, and not just when I’m with you in person, <verse eid="GAL 4:18" />
+      <verse number="19" style="v" sid="GAL 4:19" />my children, concerning whom I suffer labor pains again until such time that Christ be formed in you.<verse eid="GAL 4:19" />
+      <verse number="20" style="v" sid="GAL 4:20" />I kept wanting just now to be with you in person and <char style="it">discover something about you which
+        would cause me </char>to change my tone of voice <char style="it">when addressing you</char>, since I
+        don’t know what to make of you.<verse eid="GAL 4:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="GAL 4:21" />Tell me, you who are wanting to follow the dictates of <char style="it">the </char>Law <char style="it">of
+        Moses</char>: haven’t you heard what the Law teaches<char style="sup">[g]</char>? <verse eid="GAL 4:21" />
+      <verse number="22" style="v" sid="GAL 4:22" />You see, it’s recorded <char style="it">in the Law </char>that Abraham had two sons, one from the female-slave
+        and one from the free woman. <verse eid="GAL 4:22" />
+      <verse number="23" style="v" sid="GAL 4:23" />Anyways, on the one hand he<char style="sup">[h]</char> who was birthed from the female-slave was according
+        to flesh (i.e., was brought into the world through Abraham’s human ability apart from God), but on the
+        other hand he who was birthed from the free woman was <char style="it">brought into the world </char>through
+        <char style="it">the guarantee that a </char>promise <char style="it">provides</char>.<verse eid="GAL 4:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="GAL 4:24" />These women are allegories: these <char style="it">women </char>are two covenants. One<char style="it">
+        originated </char>from Mt. Sinai was born into slavery and is personified by Hagar. <verse eid="GAL 4:24" />
+      <verse number="25" style="v" sid="GAL 4:25" />But Hagar/Mt. Sinai is in Arabia and corresponds to the present-day Jerusalem; she—Jerusalem—is serving
+        as a slave along with the carbon-copies of herself which she’s spawned<char style="sup">[i]</char>.<verse eid="GAL 4:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="GAL 4:26" />Now the Jerusalem above<char style="sup">[F]</char>, who’s our mother, the one who’s spawned us<char
+        style="sup">[j]</char>, is free. <verse eid="GAL 4:26" />
+      <verse number="27" style="v" sid="GAL 4:27" />In this regard, it’s written,
+    </para>
+    <para style="pi" vid="GAL 4:27"></para>
+    <para style="pi" vid="GAL 4:27">Rejoice, barren woman, who isn’t birthing children—</para>
+    <para style="pi" vid="GAL 4:27">Let loose and cry out,</para>
+    <para style="pi" vid="GAL 4:27">You woman who isn’t suffering labor pains,</para>
+    <para style="pi" vid="GAL 4:27">Since the children of the free woman</para>
+    <para style="pi" vid="GAL 4:27"><char style="it">Are</char> more numerous</para>
+    <para style="pi" vid="GAL 4:27">Than the one who<char style="it"> </char>has</para>
+    <para style="pi" vid="GAL 4:27"><char style="it">Garnered the attention of </char>the husband<verse eid="GAL 4:27"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="28" style="v" sid="GAL 4:28" />But you, comrades, are children derived from promise according to <char style="it">the precedent set
+        with</char> Isaac. <verse eid="GAL 4:28" />
+      <verse number="29" style="v" sid="GAL 4:29" />That aside, just as it was back then, that he who was born into this world according to flesh (i.e.,
+        according to a human attempt to accomplish something apart from God) persecuted he who was <char style="it">born
+        into this world </char>according to <char style="it">the </char>Spirit, it’s the same way now. <verse eid="GAL 4:29" />
+      <verse number="30" style="v" sid="GAL 4:30" />Anyways, what does the Bible <char style="it">have to </char>say <char style="it">about this</char>?
+    </para>
+    <para style="pi" vid="GAL 4:30"></para>
+    <para style="pi" vid="GAL 4:30">Kick the female-servant and her son to the curb.</para>
+    <para style="pi" vid="GAL 4:30">Fact is, there’s not a chance at all</para>
+    <para style="pi" vid="GAL 4:30">That the son of the female-servant</para>
+    <para style="pi" vid="GAL 4:30">Will split the inheritance</para>
+    <para style="pi" vid="GAL 4:30">With the son of the free woman.<verse eid="GAL 4:30"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="31" style="v" sid="GAL 4:31" />In light of this, comrades, we are not the female-servant’s children but the free woman’s children instead.<verse eid="GAL 4:31" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">governess</char>…Lit: <char style="it">guardian</char>. Some liberties taken.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">assume</char>…Lit: <char style="it">take from another</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">Papa</char>…Lit: <char style="it">Abba</char>. Ref. note of Rom. 8:15.</char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">one</char>…Lit: <char style="it">you</char> (singular). Paul always uses the plural
+        form (an example is in v.6) of you in his letters when referring to the Galatians, Corinthians, etc.
+        And also, Paul sometimes uses <char style="it">you </char>(singular) as <char style="it">one</char>,
+        as it is in this case.</char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">worried</char>…Lit: <char style="it">fear</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">prevent you</char> …Lit: <char style="it">lock you out of</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">haven’t you heard what the Law teaches</char>…Lit: <char style="it">you didn’t hear
+        the Law</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">he</char>…Lit: <char style="it">it or that</char>. It’s commonplace for nouns describing
+        children or infants to be neuter rather than masculine.</char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">the carbon-copies of herself which she’s spawned</char>…Lit: <char style="it">her children</char></char>
+    </note>
+    <note caller="[j]" style="f">
+      <char style="fk">[j]</char>
+      <char style="ft"><char style="it">the one who’s spawned us</char>…Lit: <char style="it">who’s our mother</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">subject to the prevalent idea of God accepting you based on how well you follow the
+        list of do’s and don’ts</char>…This phrase <char style="it">elementary principles </char>is used here
+        and also in Col 2:8,20. The meaning of <char style="it">elementary principles</char> should be determined
+        by the context of its appearances in the NT.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">the authority and privileges entailed upon a son when he reaches adulthood</char>…The
+        Gk. word for this is usually translated <char style="it">adoption </char>but literally means <char style="it">son-placement.
+        </char>In this context, it’s referring to Jesus coming into the rights and privileges which were reserved
+        for him. This passage starting from v. 1 draws an analogy between a child who is born the son of the
+        lord of a great estate but is raised no differently than a household slave. Once he reaches an age of
+        maturity, he joins his father and becomes a joint-owner of the estate. Jesus underwent this process by
+        being born into this world and having to live under the dictates of the Law—but only for a fixed time
+        interval. The interval expired when he was raised from the dead. At that time he assumed his full privileges
+        as Son of God. This is also what Heb. 1:5 refers to.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">Put yourselves in my shoes, since I’m putting myself in your shoes, comrades</char>…Lit:
+        <char style="it">become as me, since I become as you, brothers</char>. I’m guessing that this is what
+        Paul meant. Same applies for the next few verses.</char>
+    </note>
+    <note caller="[D]" style="f">
+      <char style="fk">[D]</char>
+      <char style="ft"><char style="it">your testing</char>…Or: <char style="it">your temptation</char>. Though some manuscripts
+        read <char style="it">my testing</char> instead, the consensus favors the former over the latter. The
+        redacting of the manuscripts in this area goes to show how difficult vv. 12–16 are to make sense of.</char>
+    </note>
+    <note caller="[E]" style="f">
+      <char style="fk">[E]</char>
+      <char style="ft"><char style="it">because, if possible, you plucked out your eyes and gave them to me</char>…Some claim
+        that the “weakness of the flesh” Paul spoke about in v. 13 was a seeing disorder, and that the Galatians
+        wanted to pluck out their eyes and give them to Paul out of sympathy. As difficult as the passage of
+        vv. 12–16 is to interpret, a healthy skepticism is in order. But the context of this passage doesn’t
+        confirm this dubious claim. Verse 15 begins, “why aren’t you happy anymore?”, while verse 16 begins,
+        “So this means I’ve become your enemy…?” No concurrence is found ; the context suggests that this is
+        an idiom.</char>
+    </note>
+    <note caller="[F]" style="f">
+      <char style="fk">[F]</char>
+      <char style="ft"><char style="it">Jerusalem above</char>…Paul refers to a concept, also called the New Jerusalem, which
+        has its origins in the OT, in Ezekiel, Jeremiah, and Isaiah, and appears in the NT in Rev. 21:12. In
+        the Bible, cities are metonymies for a concentration of those who intensely believe and put into practice
+        a particular doctrine, religion, etc. The present-day Jerusalem of v. 25 is a metonymy for those who
+        expect to obtain righteousness by adhering to the Law, whereas the Jerusalem above represents righteousness
+        through faith in Christ.</char>
+    </note>
+  <chapter eid="GAL 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="GAL 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 5:1" />Christ set us free by means of the freedom <char style="it">of the Spirit</char>, so make your stand
+        and don’t be subject to a yoke of bondage again. <verse eid="GAL 5:1" />
+      <verse number="2" style="v" sid="GAL 5:2" />See here: I—Paul—tell you, if you were to be circumcised (i.e., if you were to commit yourselves to following
+        the Law of Moses and seek righteousness from God based on your adherence to it), Christ won’t benefit
+        you in any way. <verse eid="GAL 5:2" />
+      <verse number="3" style="v" sid="GAL 5:3" />Again, I swear I’m telling the truth as I solemnly declare to every circumcised person (i.e., every person
+        who’s attempting to earn righteousness by following the Law) that there’s an obligation to put into practice
+        every aspect, every mandate, every requirement, and every last proscription of the Law. <verse eid="GAL 5:3" />
+      <verse number="4" style="v" sid="GAL 5:4" />You’ve been split off from Christ and have had all ties with him severed, you the very people who expect
+        justification<char style="sup">[a]</char> by <char style="it">following a code of </char>law; you fell
+        out of grace. <verse eid="GAL 5:4" />
+      <verse number="5" style="v" sid="GAL 5:5" />You see, we in spirit<char style="sup">[b]</char> (i.e., our human spirit in communion with the Holy
+        Spirit) from a perspective of faith eagerly await a hope of righteousness. <verse eid="GAL 5:5" />
+      <verse number="6" style="v" sid="GAL 5:6" />You see, in Christ Jesus circumcision (i.e., committed to following the Law) isn’t a factor that carries
+        any weight<char style="sup">[c]</char> nor is uncircumcision (i.e., not committed to following the Law),
+        but rather faith in action through love.<verse eid="GAL 5:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="GAL 5:7" />You were on the right track—who derailed you to where you became unconvinced of and disobedient to the
+        truth? <verse eid="GAL 5:7" />
+      <verse number="8" style="v" sid="GAL 5:8" />Whatever form of persuasion this manifested itself as<char style="sup">[d]</char> is not from Him Who
+        called you (i.e., from God who summoned you to believe in Him). <verse eid="GAL 5:8" />
+      <verse number="9" style="v" sid="GAL 5:9" /><char style="it">Just </char>a tiny amount of yeast will spread to the entire batch of dough, converting
+        all the dough to yeast. <verse eid="GAL 5:9" />
+      <verse number="10" style="v" sid="GAL 5:10" />I’m satisfied in the Lord that you won’t arrive at any other conclusion <char style="it">than the truth</char>,
+        but the troublemaker who’s causing you problems will suffer the consequences<char style="sup">[e]</char>,
+        whoever he happens to be. <verse eid="GAL 5:10" />
+      <verse number="11" style="v" sid="GAL 5:11" />But in my case, comrades—if I <char style="it">happened to</char> still <char style="it">be </char>preaching
+        circumcision (i.e., preaching that one must obey the Law of Moses and seek righteousness by following
+        it), why <char style="it">would</char> I continue to be persecuted? Has the point of contention and the
+        offensiveness<char style="sup">[f]</char> of the cross really been abolished? <verse eid="GAL 5:11" />
+      <verse number="12" style="v" sid="GAL 5:12" />Would that those who are agitating you go on to be castrated!<char style="sup">[A]</char><verse eid="GAL 5:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="GAL 5:13" />The fact of the matter is that you were called (i.e., became believers) <char style="it">to be </char>at
+        a place of freedom, comrades: just don’t <char style="it">turn </char>the freedom <char style="it">in
+        Christ</char> into a pretext for flesh (i.e., a pretext to act apart from God or to indulge your carnal
+        nature), but serve one another as slaves through the love <char style="it">God has put in us </char>instead.<verse eid="GAL 5:13" />
+      <verse number="14" style="v" sid="GAL 5:14" />You see, the entirety of <char style="it">what</char> the Law <char style="it">teaches</char> is summarized
+        in one sentence: “You shall love your neighbor as yourself”; <verse eid="GAL 5:14" />
+      <verse number="15" style="v" sid="GAL 5:15" />but if you’re vicious towards one another, aggressive, and take advantage of each other or have total
+        disregard for each other, be careful that you don’t rip each other to shreds.<verse eid="GAL 5:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="GAL 5:16" />I’ll say this: conduct your lives<char style="sup">[h]</char> in a spiritual manner<char style="sup">[b]</char>
+        (i.e., by your spirit in communion with the Holy Spirit) and you won’t carry out the desires of the flesh
+        (i.e., the carnal nature)—not a chance. <verse eid="GAL 5:16" />
+      <verse number="17" style="v" sid="GAL 5:17" />The flesh, you see, has intense, sexual-like desires contrary to the Spirit, and the Spirit <char style="it">is
+        </char>contrary to the flesh: in fact these <char style="it">two</char> are pitted against each other,
+        so that that which you happen to be wanting, those are the things you won’t be doing. <verse eid="GAL 5:17" />
+      <verse number="18" style="v" sid="GAL 5:18" />But if you are led in a spiritual manner<char style="sup">[b]</char>, you are not under law (i.e., you’re
+        not subordinated to a set of rules to how to run your life, in particular to the Law).<verse eid="GAL 5:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="GAL 5:19" />Now the works of the flesh are obvious as they’re out in the open and plain for everyone to see: in particular
+        there is fornication (i.e., sexual immorality of any sort); uncleanness (i.e., filthy, nasty, disgusting
+        behavior of any sort; lewd, crude, crass, foul-mouthed, disgusting untidiness, abject neglect of personal
+        hygiene; disgusting references to or treatment of bodily functions); licentiousness (i.e., strong, out-of-control
+        desire which drives you to do that which is immoral); <verse eid="GAL 5:19" />
+      <verse number="20" style="v" sid="GAL 5:20" />idolatry (i.e., replacing God with something else; looking for something else to do what God promised
+        He’d do for you; taking what God did for you and attributing it to something else); recreational drug
+        use, drug abuse, drug dealing, dabbling in the occult, or extreme types of manipulation and control<char
+        style="sup">[B]</char>; enmity (i.e., animosity; mutual hatred; continual hostility); quarrelling and
+        strife; emulation (i.e., rivalry driven by jealousy; envy; competing in an unhealthy way to outdo someone
+        else); wrath (i.e., a hot, out-of-control temper; unwarranted outbursts of anger); selfish ambition,
+        playing politics, or manipulating those around you for your own selfish ends; seditions (i.e., dissensions,
+        unresolved disputes); factions (i.e., the formation and perpetuation of groups hostile to each other);<verse eid="GAL 5:20" />
+      <verse number="21" style="v" sid="GAL 5:21" />jealousy (i.e., envious of someone else who does well; hatred of someone simply because they’re doing
+        well or are good at doing something); drunkenness and out-of-control drinking; carousing (i.e., loud
+        partying; hell-raising for the fun of it); etc., etc.—I told you before and I’ll tell you again<char
+        style="sup">[i]</char>: those who do such things will not inherit the kingdom of God (i.e., they will
+        have no interaction with God; God will not be involved in their lives).<verse eid="GAL 5:21" />
+    </para>
+    <para style="p">
+      <verse number="22" style="v" sid="GAL 5:22" />But the fruit of the Spirit is love, joy, peace, patience, kindness and mercy and forgiveness, inner-goodness,
+        faithfulness, <verse eid="GAL 5:22" />
+      <verse number="23" style="v" sid="GAL 5:23" />meekness (i.e., a gentleness which comes from restraint); no law (i.e., no list of do’s and don’ts) is
+        against such things. <verse eid="GAL 5:23" />
+      <verse number="24" style="v" sid="GAL 5:24" />But those <char style="it">who are a part </char>of Christ Jesus crucified the flesh (i.e., the carnal
+        nature) together with its passions and desires. <verse eid="GAL 5:24" />
+      <verse number="25" style="v" sid="GAL 5:25" />If we aspire to live in a spiritual manner<char style="sup">[b]</char>, let us also adhere to standards
+        of a human spirit in communion with the Holy Spirit. <verse eid="GAL 5:25" />
+      <verse number="26" style="v" sid="GAL 5:26" />Let us not acquire an overrated opinion of ourselves, become conceited, or become filled with hubris,
+        provoking one another, envying one another.<verse eid="GAL 5:26" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">expect justification</char>…Lit<char style="it">: are justified</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">in spirit</char>…<char style="it">in a spiritual manner</char>…Or: <char style="it">in
+        the Spirit</char>. Although there is ambiguity, the lack of the definite article tilts in favor of this
+        not referring to the Holy Spirit exclusively</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">a factor that carries any weight</char>…Lit: <char style="it">something strong</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">whatever form of persuasion this manifested itself as</char>…Lit: <char style="it">the
+        persuasion</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">suffer the consequences</char>…Lit: <char style="it">bear the judgment</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">point of contention and offensiveness</char>…Lit: <char style="it">stumbling block</char>.
+        Ref. note of Matt. 18:6.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">vicious towards one another, aggressive, and take advantage of each other or have total
+        disregard for one another</char>…Lit: <char style="it">you bite and devour</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">conduct your lives</char>…Lit: <char style="it">walk about</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">I told you before and I’ll tell you again</char>…Lit: <char style="it">that which I’m
+        telling you beforehand is the same way I told you before</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">Would that those who are agitating you go on to be castrated</char>…Perhaps Paul is
+        wishing that those who are advocating circumcision would, while being circumcised themselves, have an
+        accident and cut off more than just the foreskin.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">recreational drug use, drug abuse, drug dealing, dabbling in the occult, or extreme
+        types of manipulation and control</char>…The Gk. word used here is <char style="it">pharmakeia </char><char
+        style="w" strong="G05331">φαρμακεία</char>), from where the words <char style="it">pharmacy </char>and
+        <char style="it">pharmaceutical </char>are derived. This comes from ancient practices of making potions
+        from exotic plants and using such potions in occult-like practices, often to control others. The ancients
+        didn’t understand drugs per-se, the only understood that certain plants had magical powers. They were
+        effectively using these plants for the drugs found in them. Also ref. Rev. 22:15.</char>
+    </note>
+  <chapter eid="GAL 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="GAL 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="GAL 6:1" />Comrades<char style="sup">[a]</char>, if a person happens to inadvertently be caught in some transgression,
+        you the spiritual ones put such a person back on his feet in a prevailing attitude<char style="sup">[b]</char>
+        of gentleness, taking a good, hard look at yourself lest you too be tempted. <verse eid="GAL 6:1" />
+      <verse number="2" style="v" sid="GAL 6:2" />Bear each other’s burdens; this is the way you meet the requirements of the Law of Christ. <verse eid="GAL 6:2" />
+      <verse number="3" style="v" sid="GAL 6:3" />Furthermore, if someone thinks he’s something when he’s nothing, he’s full of baloney<char style="sup">[c]</char>.<verse eid="GAL 6:3" />
+      <verse number="4" style="v" sid="GAL 6:4" />But let each person decide if his own personal conduct is up to a satisfactory level, and then he’ll
+        be entitled to speak proudly<char style="sup">[d]</char>, <char style="it">but</char> only to himself
+        and not to somebody else. <verse eid="GAL 6:4" />
+      <verse number="5" style="v" sid="GAL 6:5" />In this regard, each person will bear his own load.<verse eid="GAL 6:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="GAL 6:6" />Now have the person who’s having the Word taught to him in a classroom environment share all <char style="it">sorts
+        of </char>good things<char style="sup">[e]</char> (<char style="it">materially speaking</char>) with
+        the teacher. <verse eid="GAL 6:6" />
+      <verse number="7" style="v" sid="GAL 6:7" />Don’t kid yourselves, God won’t let anyone get away with turning his nose up at Him or sneering at Him;
+        in this context, what a person sows, this he also reaps, <verse eid="GAL 6:7" />
+      <verse number="8" style="v" sid="GAL 6:8" />since the one who sows into his flesh will reap corruption from the flesh <char style="it">he sowed into</char>,
+        but he who sows into the Spirit will reap eternal life (i.e., that special fullness of life) from the
+        Spirit <char style="it">he sowed into</char>. <verse eid="GAL 6:8" />
+      <verse number="9" style="v" sid="GAL 6:9" />But <char style="it">on the other hand, </char>the one who continues to do good <char style="it">mustn’t</char>
+        lose heart, for when the time’s right<char style="sup">[f]</char> we will reap <char style="it">from
+        the good we’ve sown </char>if we don’t grow weary <char style="it">and quit</char>. <verse eid="GAL 6:9" />
+      <verse number="10" style="v" sid="GAL 6:10" />So then, while we still have a chance<char style="sup">[g]</char>, let us continue to do good things
+        for everyone, but most of all <char style="it">continue to do good things </char>for the households of
+        <char style="it">those who are of </char>the Faith.<verse eid="GAL 6:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="GAL 6:11" />Pay attention to the capital letters<char style="sup">[A]</char> I’m using here as I write this in my
+        own handwriting:<verse eid="GAL 6:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="GAL 6:12" />THE VERY PEOPLE WHO WANT TO MAKE THEMSELVES APPEAR ON THE OUTSIDE AS THOUGH THEY’RE GOOD—THEY’RE THE
+        ONES WHO REQUIRE YOU TO BE CIRCUMCISED (i.e., to formally adopt the Law of Moses in the rite of circumcision,
+        thereby committing to following it) FOR THE SOLE REASON THAT THEY WON’T BE PERSECUTED FOR<char style="sup">[h]</char>
+        THE CROSS OF CHRIST. <verse eid="GAL 6:12" />
+      <verse number="13" style="v" sid="GAL 6:13" />IN FACT, THOSE WHO PROMOTE CIRCUMCISION DON’T EVEN KEEP LAW (i.e., keep the Law of Moses or any code
+        of conduct for that matter) THEMSELVES. ON THE CONTRARY, THEY WANT YOU TO BE CIRCUMCISED SO THEY CAN
+        BRAG IN YOUR FLESH (i.e., can brag about the amount of personal effort you’re putting into following
+        the Law).<verse eid="GAL 6:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="GAL 6:14" />But far be it for me to brag or beam with pride except in the cross of our Lord Jesus Christ, through
+        whom the world is crucified to me and I to the world (i.e., the ungodly established order of mankind
+        has completely disavowed and shunned me, wanting nothing to do with me, and I have done the same to it).<verse eid="GAL 6:14" />
+      <verse number="15" style="v" sid="GAL 6:15" />Neither circumcision nor uncircumcision is of any significance, but a new creation <char style="it">is
+        the only thing which is significant</char>. <verse eid="GAL 6:15" />
+      <verse number="16" style="v" sid="GAL 6:16" />And whosever conforms to this standard: peace <char style="it">be </char>upon him and mercy, and <char
+        style="it">may it also be </char>upon God’s <char style="it">people </char>Israel.<verse eid="GAL 6:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="GAL 6:17" />Henceforth, let no one try to hassle me<char style="sup">[i]</char>, for I bear the marks of Jesus in
+        my body<char style="it"> as though I’m trudging about carrying a weight</char>.<verse eid="GAL 6:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="GAL 6:18" />The grace of our Lord Jesus Christ <char style="it">be </char>with your spirit, comrades.
+    </para>
+    <para style="p" vid="GAL 6:18">Amen (<char style="it">so be it</char>).<verse eid="GAL 6:18"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">comrades</char>…Lit: <char style="it">brothers</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">a prevailing attitude</char>…Lit: <char style="it">a spirit</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">full of baloney</char>…Lit<char style="it">: self-deluded</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">he’ll be entitled to speak proudly</char>…Lit: <char style="it">he will have the boast</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">all sorts of good things</char>…Lit: <char style="it">in all intrinsically-good things</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">when the time’s right</char>…Lit: <char style="it">in its own season</char></char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">we still have a chance</char>…Lit: <char style="it">we have a season</char></char>
+    </note>
+    <note caller="[h]" style="f">
+      <char style="fk">[h]</char>
+      <char style="ft"><char style="it">for</char>…Lit: <char style="it">in</char></char>
+    </note>
+    <note caller="[i]" style="f">
+      <char style="fk">[i]</char>
+      <char style="ft"><char style="it">try to hassle me</char>…Lit: <char style="it">offer me trouble</char>. A figure of speech.</char>
+      <char style="fp"></char>
+    </note>
+  <chapter eid="GAL 6" />
+</usx>

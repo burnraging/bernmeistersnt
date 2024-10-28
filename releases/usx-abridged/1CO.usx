@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Abridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="1CO" style="id">The Bernmeister's NT</book>
+  <para style="h">1 Corinthians</para>
+  <para style="toc1">The Epistle of 1 Corinthians</para>
+  <para style="toc2">1 Corinthians</para>
+  <para style="toc3">1 Cor.</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">1 CORINTHIANS</para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="1CO 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 1:1" />From Paul, who has the calling of an apostle (a missionary) of Christ Jesus through the will of God,
+        and his comrade Sosthenes—<verse eid="1CO 1:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1CO 1:2" />To God’s church which exists in Corinth, those set apart by Christ Jesus from the unbelievers in this
+        world, those called to be holy in unison with those everywhere who are calling upon the name of our Lord
+        Jesus Christ (i.e., those invoking Jesus’s promises, his authority, and his favorable disposition)—<verse eid="1CO 1:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1CO 1:3" />Grace and peace to you from God our Father and the Lord Jesus Christ.<verse eid="1CO 1:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 1:4" />When it comes to you, I’m always thanking my God for the grace He’s given you in Christ Jesus, <verse eid="1CO 1:4" />
+      <verse number="5" style="v" sid="1CO 1:5" />because in him you’ve been enriched in all things, in every concept imaginable and in all sorts of knowledge
+        and understanding, <verse eid="1CO 1:5" />
+      <verse number="6" style="v" sid="1CO 1:6" />just as the testimony of Christ (i.e., the official statement about Christ) has been both made firm and
+        has been confirmed in you, <verse eid="1CO 1:6" />
+      <verse number="7" style="v" sid="1CO 1:7" />so that you’re not lacking in any Holy Spirit-generated gift, ministry, or manifestation of the Holy
+        Spirit, eagerly awaiting the revelation of Christ Jesus our Lord, <verse eid="1CO 1:7" />
+      <verse number="8" style="v" sid="1CO 1:8" />who will also establish us until the end of time so that we’re blameless in the day of our Lord Jesus
+        Christ. <verse eid="1CO 1:8" />
+      <verse number="9" style="v" sid="1CO 1:9" />Faithful is the God through whom we’ve been called into the fellowship of His son Jesus Christ our Lord.<verse eid="1CO 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="1CO 1:10" />I appeal to you, comrades, through the name (i.e., the authority) of our Lord Jesus Christ, pleading
+        to you that you would always be on the same page and that there not be divisions among you, but that
+        you’d be fitted and mended together with the same mind and with the same knowledge and understanding.<verse eid="1CO 1:10" />
+      <verse number="11" style="v" sid="1CO 1:11" />In this regard and concerning you, it’s been made clear to me by Chloe’s family and her servants, my
+        dear comrades, that there’s strife going on between you. <verse eid="1CO 1:11" />
+      <verse number="12" style="v" sid="1CO 1:12" />I’ll say this: some of you say “I’m Paul’s devotee exclusively” while others say “I’m Apollos’s devotee
+        exclusively” or “I’m Peter’s devotee exclusively”, or “I’m Christ’s devotee exclusively.” <verse eid="1CO 1:12" />
+      <verse number="13" style="v" sid="1CO 1:13" />Has Christ been divided up into pieces? Paul wasn’t crucified on your behalf, was he? Or, were you baptized
+        (i.e., initiated into the Christian faith) on Paul’s sole authority to be a member of Paul’s camp? <verse eid="1CO 1:13" />
+      <verse number="14" style="v" sid="1CO 1:14" />Thank God I didn’t baptize any of you except Crispus and Gaius, <verse eid="1CO 1:14" />
+      <verse number="15" style="v" sid="1CO 1:15" />lest anyone say that they were baptized on my sole authority to be a member of my camp. <verse eid="1CO 1:15" />
+      <verse number="16" style="v" sid="1CO 1:16" />Now I did baptize Stephanas’s family and servants, but as far as the rest of you, I’m not absolutely
+        sure if I baptized anyone else. <verse eid="1CO 1:16" />
+      <verse number="17" style="v" sid="1CO 1:17" />You see, Christ didn’t send me to go about baptizing in order to build a camp of my own followers but
+        to go about evangelizing instead, not in wisdom which comes out of a message, so that the cross of Christ
+        wouldn’t be rendered ineffectual.<verse eid="1CO 1:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1CO 1:18" />The message of the cross, you see, is stupidity to those who are lost and dying on the one hand, but
+        to those who are being saved (i.e., being rescued from spiritual, moral, and physical calamity), it’s
+        the power of God. <verse eid="1CO 1:18" />
+      <verse number="19" style="v" sid="1CO 1:19" />For it’s written in the Old Testament:
+    </para>
+    <para style="pi" vid="1CO 1:19"></para>
+    <para style="pi" vid="1CO 1:19">I’ll destroy the wisdom of the wise,</para>
+    <para style="pi" vid="1CO 1:19">And I’ll annul the understanding of those who understand<verse eid="1CO 1:19"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="20" style="v" sid="1CO 1:20" />Where’s the wise man? Where’s the scholar? Where’s this generation’s premier debater? Hasn’t God turned
+        this world’s wisdom into stupidity?<verse eid="1CO 1:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1CO 1:21" />You see, by the wisdom of God, since the world through its wisdom didn’t come to recognize, discern,
+        understand, or know God, God was more than happy through the stupidity of what was preached to save those
+        who made the decision to believe. <verse eid="1CO 1:21" />
+      <verse number="22" style="v" sid="1CO 1:22" />Forasmuch as Jews chase after stupendous miracles and Westerners chase after wisdom, <verse eid="1CO 1:22" />
+      <verse number="23" style="v" sid="1CO 1:23" />we, on the other hand, preach a crucified-Christ; for Jews it’s the root-cause of the failure caused
+        by disobedience on the one end of the stick, on the other end of the stick, for Westerners it’s stupidity,<verse eid="1CO 1:23" />
+      <verse number="24" style="v" sid="1CO 1:24" />but to them who are “the Called” (i.e., those whom God has summoned to be His people and who have heeded
+        the summons), Jews and Westerners alike, Christ is God’s power and God’s wisdom, <verse eid="1CO 1:24" />
+      <verse number="25" style="v" sid="1CO 1:25" />since the “stupidity” of God is wiser than the wisdom to be found in mankind, and the “weakness” of God
+        is stronger than the strength to be found in mankind.<verse eid="1CO 1:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="1CO 1:26" />To this point, consider your group “the Called”: if one looks at their backgrounds only, not very many
+        of them are wise, not many powerful, not many from high-society families or nobility. <verse eid="1CO 1:26" />
+      <verse number="27" style="v" sid="1CO 1:27" />No, God’s chosen the stupid things of the world to put to shame the wise things, and the weak things
+        of the world to put to shame the strong, <verse eid="1CO 1:27" />
+      <verse number="28" style="v" sid="1CO 1:28" />and God’s chosen the lowly born and those things which are contemptuous—He’s chosen the things that don’t
+        exist to abolish what does, <verse eid="1CO 1:28" />
+      <verse number="29" style="v" sid="1CO 1:29" />so that any and every human endeavor or accomplishment apart from God can’t be presented proudly before
+        Him in the statement, “See—look what I did!” <verse eid="1CO 1:29" />
+      <verse number="30" style="v" sid="1CO 1:30" />But what’s come out of Him is that you’re melded with Christ Jesus, who became to us wisdom from God,
+        righteousness, and likewise holiness and redemption (i.e., the recovery of what you once had), <verse eid="1CO 1:30" />
+      <verse number="31" style="v" sid="1CO 1:31" />so it’d turn out just like it’s written in the Old Testament, “Let the one who brags about his accomplishments
+        brag in the Lord.”<verse eid="1CO 1:31" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="1CO 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 2:1" />When I went and visited you, comrades, I didn’t go there and use heady, intellectual language and sublime
+        speech while telling you about the mystery of God. <verse eid="1CO 2:1" />
+      <verse number="2" style="v" sid="1CO 2:2" />You see, I decided that when among you I’d appear as though I knew no other facts whatsoever except things
+        about Jesus Christ and the fact that this fellow was crucified. <verse eid="1CO 2:2" />
+      <verse number="3" style="v" sid="1CO 2:3" />I appeared to you as one lacking vigor and strength and as downright fearful, and was frequently trembling,<verse eid="1CO 2:3" />
+      <verse number="4" style="v" sid="1CO 2:4" />and my message and my preaching weren’t in words that were wise and persuasive but were accompanied by
+        a powerful demonstration of the Spirit that’s difficult to describe if you’ve never experienced it, <verse eid="1CO 2:4" />
+      <verse number="5" style="v" sid="1CO 2:5" />so that your faith wouldn’t be a faith grounded in human wisdom but would be in the power of God instead.<verse eid="1CO 2:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1CO 2:6" />Now we speak words of wisdom among those who are mature, a wisdom, however, not of this age nor of the
+        rulers of this age (i.e., the demon spirits which have controlling influence over this world), rulers
+        who are being rendered ineffective and brought to nothing— <verse eid="1CO 2:6" />
+      <verse number="7" style="v" sid="1CO 2:7" />instead we speak words of God’s wisdom in a mystery, a wisdom which has been hidden up to this point,
+        a wisdom which God knew beforehand in eternity past and intended for our glory, <verse eid="1CO 2:7" />
+      <verse number="8" style="v" sid="1CO 2:8" />a wisdom which none of the rulers of this age knew, understood, or recognized, for if they had, they
+        wouldn’t have crucified the Lord of Glory. <verse eid="1CO 2:8" />
+      <verse number="9" style="v" sid="1CO 2:9" />No, the wisdom isn’t like that, it’s like it’s written instead:
+    </para>
+    <para style="pi" vid="1CO 2:9"></para>
+    <para style="pi" vid="1CO 2:9">That which eye hasn’t seen and ear hasn’t heard</para>
+    <para style="pi" vid="1CO 2:9">And hasn’t arisen and come to rest upon any human heart—</para>
+    <para style="pi" vid="1CO 2:9">That which God prepared for those who love Him<verse eid="1CO 2:9"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="10" style="v" sid="1CO 2:10" />God revealed it to us through the Spirit: for the Spirit thoroughly searches and investigates everything,
+        even the deep things of God. <verse eid="1CO 2:10" />
+      <verse number="11" style="v" sid="1CO 2:11" />For what person knows firsthand the intimate details and intentions of a given person except for that
+        person’s spirit that’s in him? In the same way, no one has known, understood, or recognized the intimate
+        details and intentions of God except the Spirit of God.<verse eid="1CO 2:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1CO 2:12" />Now we have not received the spirit of the world but rather the Spirit who proceeds out of God, so that
+        we would know firsthand what God has given to us as an expression of His grace— <verse eid="1CO 2:12" />
+      <verse number="13" style="v" sid="1CO 2:13" />and what was given to us is also that which we speak, not speaking in human teachings consisting of words
+        of wisdom but rather in teachings of the Spirit consisting of the fitting together nicely of Holy Spirit-related
+        content with other Holy Spirit-related content. <verse eid="1CO 2:13" />
+      <verse number="14" style="v" sid="1CO 2:14" />A person who’s dominated by his mind, intellect, or emotions instead of by his spirit won’t receive the
+        things of the Spirit of God; in fact, to him such things are stupid, and he cannot know, understand,
+        or recognize them because such things are spiritually examined and decided as a result. <verse eid="1CO 2:14" />
+      <verse number="15" style="v" sid="1CO 2:15" />But the spiritual person examines and decides all things, but he himself isn’t examined and his life
+        decided by anyone.<verse eid="1CO 2:15" />
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="16" style="v" sid="1CO 2:16" />Who has known, understood, or recognized the Lord’s mind?
+    </para>
+    <para style="pi" vid="1CO 2:16">Who mentors Him?</para>
+    <para style="pi" vid="1CO 2:16"></para>
+    <para style="m" vid="1CO 2:16">We, however, have a mind which is of Christ.<verse eid="1CO 2:16"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="1CO 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 3:1" />But I, comrades, wasn’t able to speak to you like I would to people attuned to and dominated by spiritual
+        things but rather like I would to people attuned to and dominated by fleshly things (i.e., things that
+        have to do with our lives in the natural, even touching our carnal appetites), same as I would to those
+        who are babies in Christ. <verse eid="1CO 3:1" />
+      <verse number="2" style="v" sid="1CO 3:2" />I fed you milk, not solid food, as you were not yet able to digest solid food, having not been weaned
+        off milk—but even now you still can’t handle solid food; <verse eid="1CO 3:2" />
+      <verse number="3" style="v" sid="1CO 3:3" />You’re still fleshly, you see: where there’s jealousy and strife still found among you, are you not fleshly,
+        and do you not leads lives dictated by the undesirable human tendencies?<verse eid="1CO 3:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 3:4" />For example, when one of you says, “I’m Paul’s devotee exclusively,” and another of you says, “I’m Apollos’s
+        devotee exclusively,” are you not being dominated by your undesirable human tendencies? <verse eid="1CO 3:4" />
+      <verse number="5" style="v" sid="1CO 3:5" />So who is Apollos? Who is Paul—they’re ministers, and you came to believe in Christ through their ministries,
+        and all the steps involved and the ministries that were a part of leading you to Christ happened to each
+        person as the Lord granted that it happen. <verse eid="1CO 3:5" />
+      <verse number="6" style="v" sid="1CO 3:6" />I planted the seed, Apollos watered it, but it was God who made it grow, <verse eid="1CO 3:6" />
+      <verse number="7" style="v" sid="1CO 3:7" />so that neither the one doing the planting nor the one doing the watering is the most important part
+        of the process, but God who makes things grow is the most important. <verse eid="1CO 3:7" />
+      <verse number="8" style="v" sid="1CO 3:8" />The one who does the planting and the one who does the watering are on the same team, and each will receive
+        an individual-specific wage according to his own individual labor.<verse eid="1CO 3:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1CO 3:9" />We’re God’s coworkers, you see, laboring together in God’s field, whereas you’re the building-project
+        which God’s constructing, <verse eid="1CO 3:9" />
+      <verse number="10" style="v" sid="1CO 3:10" />being constructed according to the grace of God which was given to me as a judicious chief architect
+        and principal contractor. Accordingly, I laid the foundation, and another subcontractor came after me
+        and built the structure on top of the foundation, but let each subcontractor look over what he built,
+        to ensure that it was done correctly. <verse eid="1CO 3:10" />
+      <verse number="11" style="v" sid="1CO 3:11" />The fact of the matter is that no one can lay any other foundation other than the one which has been
+        laid, which foundation is Jesus Christ. <verse eid="1CO 3:11" />
+      <verse number="12" style="v" sid="1CO 3:12" />Now if some subcontractor builds upon the foundation by putting in place gold, silver, gemstones (i.e.,
+        the subcontractor did a high-quality job), wood, hay, or straw (i.e., the subcontractor did a low-quality
+        job) structures upon that foundation, <verse eid="1CO 3:12" />
+      <verse number="13" style="v" sid="1CO 3:13" />the quality of the work that that particular subcontractor did will become apparent to everyone, since
+        some cataclysmic event will eventually occur that is enormously stressful to the structure, making its
+        true strengths and deficiencies abundantly clear to everyone, since these true strengths and weaknesses
+        are revealed by fire (i.e., intense stress), and the fire will determine what kind of job was done by
+        putting it through the wringer. <verse eid="1CO 3:13" />
+      <verse number="14" style="v" sid="1CO 3:14" />If any of the built-up construction remains, the subcontractor will get paid; <verse eid="1CO 3:14" />
+      <verse number="15" style="v" sid="1CO 3:15" />if any of the built-up construction is burned up, he’ll lose money on the project, but he’ll be spared
+        of personal ruin, but he’ll lose his entire investment through the ordeal.<verse eid="1CO 3:15" />
+    </para>
+    <para style="p">
+      <verse number="16" style="v" sid="1CO 3:16" />Don’t you know that you are a temple of God and that the Spirit of God has taken up residence in you?<verse eid="1CO 3:16" />
+      <verse number="17" style="v" sid="1CO 3:17" />If someone trashes, ruins, or destroys the temple of God, God will trash that guy. The temple of God—the
+        very thing that you are—is holy, you see.<verse eid="1CO 3:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1CO 3:18" />Let no one fool himself utterly in this regard: if any of you considers himself to be wise in this age,
+        let him become stupid, so that he would become wise; <verse eid="1CO 3:18" />
+      <verse number="19" style="v" sid="1CO 3:19" />for the wisdom of this world is stupidity to God. In fact, it’s written in the Old Testament:
+    </para>
+    <para style="pi" vid="1CO 3:19"></para>
+    <para style="pi" vid="1CO 3:19">He’s catching the wise in their subtle trickery<verse eid="1CO 3:19"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="20" style="v" sid="1CO 3:20" />And another verse says,
+    </para>
+    <para style="pi" vid="1CO 3:20"></para>
+    <para style="pi" vid="1CO 3:20">The Lord understands the arguments of the wise—</para>
+    <para style="pi" vid="1CO 3:20">He knows that they’re futile<verse eid="1CO 3:20"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="21" style="v" sid="1CO 3:21" />So then, let no one be charged up and beam with pride over people that they’re devotees of. The fact
+        of the matter is, all of you— <verse eid="1CO 3:21" />
+      <verse number="22" style="v" sid="1CO 3:22" />whether we’re referring to Paul, Apollos, or Peter—or whether we’re talking about life, death, the past,
+        or the future— <verse eid="1CO 3:22" />
+      <verse number="23" style="v" sid="1CO 3:23" />are Christ’s devotees, and Christ is a devotee of God.<verse eid="1CO 3:23" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 3" />
+  <!--   **********   -->
+  <!--   Chapter  4   -->
+  <!--   **********   -->
+  <chapter number="4" style="c" sid="1CO 4" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 4:1" />Let a person frame his perception of us this way: that we’re attendants of Christ and stewards of the
+        mystery of God. <verse eid="1CO 4:1" />
+      <verse number="2" style="v" sid="1CO 4:2" />In regard to stewardship, it’s a minimum requirement that a person who’s a steward be found faithful.<verse eid="1CO 4:2" />
+      <verse number="3" style="v" sid="1CO 4:3" />But it’s not a big deal for me to be examined and then judged by you or by any human tribunal for that
+        matter, nor do I judge myself in self-examination. <verse eid="1CO 4:3" />
+      <verse number="4" style="v" sid="1CO 4:4" />In fact, I’m not self-conscious about anything I might’ve done wrong, but—no—I haven’t been exonerated
+        of all wrong-doing in this stewardship of mine, but the Lord is the one who examines and judges me, <verse eid="1CO 4:4" />
+      <verse number="5" style="v" sid="1CO 4:5" />so that you won’t judge me before the timeframe set aside for judgment, that is until the Lord happens
+        to come, who in the course of judging will also will illuminate the hidden things of darkness and will
+        put the plans, strategies, intentions, and collaborations of the hearts out in the open, and at that
+        time the praise from God to each person for what he did right will appear.<verse eid="1CO 4:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1CO 4:6" />But because of you, comrades, I made the change and applied these things to Apollos and me, so that through
+        our example you would learn the meaning of “Don’t be so high-and-mighty that the stuff that’s written
+        in the Bible somehow doesn’t apply to you,” so that your egos don’t become overly-inflated, with one
+        person thinking himself to be superior in understanding something to the one who explained that something
+        to him in the first place, both opposed to someone who has a different opinion. <verse eid="1CO 4:6" />
+      <verse number="7" style="v" sid="1CO 4:7" />Furthermore, who determines what all the different points of view are among you and sorts you into categories
+        based on viewpoint?</para>
+    <para style="p" vid="1CO 4:7">What do you have that you didn’t go out and get? And if you got the things you decided to get, why do
+        you carry on like you never got them? <verse eid="1CO 4:7"/>
+      <verse number="8" style="v" sid="1CO 4:8" />You’ve already gotten plenty enough—you’re already rich—you live like kings when you’re apart from us—it
+        sure would be great if you actually became kings, so that we could live like kings together with you.<verse eid="1CO 4:8" />
+      <verse number="9" style="v" sid="1CO 4:9" />You see, I’m thinking that God made an exhibit out of us—the apostles, the lowliest of people—putting
+        us on display, making us appear to everyone as though we’re men who’re condemned to death, since we became
+        a spectacle to the world, to angels, and to all of mankind. <verse eid="1CO 4:9" />
+      <verse number="10" style="v" sid="1CO 4:10" />We are idiots on account of Christ, but you are logical and sensible in Christ; we are weak, you are
+        strong; we are glorious, you are dishonored. <verse eid="1CO 4:10" />
+      <verse number="11" style="v" sid="1CO 4:11" />Up until this very moment in time, we went hungry and thirsty, had no clothes to wear, were beaten, were
+        homeless, <verse eid="1CO 4:11" />
+      <verse number="12" style="v" sid="1CO 4:12" />and toiled doing hard manual labor. While being abused, we bless; while being persecuted, we endure;<verse eid="1CO 4:12" />
+      <verse number="13" style="v" sid="1CO 4:13" />while being slandered, we speak softly. Up until now, we’ve been treated like we’re the scum of the world;
+        like we’re everyone’s garbage.<verse eid="1CO 4:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1CO 4:14" />I’m not writing these things to shame you or to put you on a guilt trip, rather I’m writing to you as
+        though you’re my children, ones who are dear to me, and I’m admonishing, warning, and instructing you
+        as such. <verse eid="1CO 4:14" />
+      <verse number="15" style="v" sid="1CO 4:15" />You see, even if you had a million tutors in Christ, you still wouldn’t have many fathers (i.e., those
+        who were instrumental in your conversion) in Christ, seeing that I begot you in Christ Jesus through
+        the Gospel. <verse eid="1CO 4:15" />
+      <verse number="16" style="v" sid="1CO 4:16" />So I’m pleading with you: get to where you imitate me. <verse eid="1CO 4:16" />
+      <verse number="17" style="v" sid="1CO 4:17" />Because of this desire on my part, I sent you Timothy, who is my dear child in Christ and who’s faithful
+        in the Lord, who’ll remind you to imitate the way I do things in Christ Jesus, just like I teach everyone
+        in churches everywhere.<verse eid="1CO 4:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1CO 4:18" />As I’m not heading in your direction to visit you at the moment, some of you have acquired inflated egos.<verse eid="1CO 4:18" />
+      <verse number="19" style="v" sid="1CO 4:19" />But if it was the Lord’s will, I’d leave immediately and travel as quickly as possible to visit you,
+        and I’ll recognize and discern not the message of those who’ve reached the point where their egos are
+        inflated but rather their power; <verse eid="1CO 4:19" />
+      <verse number="20" style="v" sid="1CO 4:20" />for the kingdom of God (i.e., God’s interaction with mankind) is not in a message but in power. <verse eid="1CO 4:20" />
+      <verse number="21" style="v" sid="1CO 4:21" />Which would you rather have? That I’d take a staff with me to correct you with when I go visit you, or
+        that I’d visit you in a love-spirit and with soft-spoken gentleness?<verse eid="1CO 4:21" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 4" />
+  <!--   **********   -->
+  <!--   Chapter  5   -->
+  <!--   **********   -->
+  <chapter number="5" style="c" sid="1CO 5" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 5:1" />News is going around that there’s actually fornication (i.e., sexual immorality) among you, the sort
+        of fornication that you don’t even find among the heathens, to the effect that someone’s having sex with
+        his stepmother. <verse eid="1CO 5:1" />
+      <verse number="2" style="v" sid="1CO 5:2" />You’ve become smug over this and what’s the more haven’t mourned (i.e., prayed deep, heart-felt prayers
+        of grieving and sorrow) in order that the one who’s committed this atrocity be removed from your midst.<verse eid="1CO 5:2" />
+      <verse number="3" style="v" sid="1CO 5:3" />To address this topic, although away physically-speaking but present spiritually-speaking, I have already
+        judged the one who’s doing this as if I was present <verse eid="1CO 5:3" />
+      <verse number="4" style="v" sid="1CO 5:4" />by the authority vested in me by our Lord Jesus Christ, my spirit having gathered together with you all
+        in the power of the our Lord Jesus <verse eid="1CO 5:4" />
+      <verse number="5" style="v" sid="1CO 5:5" />to hand a person such as him over to Satan (and to hand him over once and be done with it) for the destruction
+        of the flesh, so that the spirit will avoid utter calamity when the Lord “settles all Family business”
+        so-to-speak.<verse eid="1CO 5:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1CO 5:6" />You talking a big talk doesn’t make you look good—Don’t you know that a tiny pinch of yeast when placed
+        in a batch of dough will spread to the entire batch, causing every last bit of it to ferment? <verse eid="1CO 5:6" />
+      <verse number="7" style="v" sid="1CO 5:7" />Scrub every bowl and utensil that came in contact with the old yeast thoroughly, so that you’d be a fresh
+        batch of dough the way that you really are: yeast-free dough. Add to this the fact that Christ was slaughtered
+        and offered as our Passover lamb sacrifice, <verse eid="1CO 5:7" />
+      <verse number="8" style="v" sid="1CO 5:8" />so that we would not partake of the Passover meal with bread contaminated by yeast from the previous
+        batch nor contaminated by the yeast of unfathomably-wicked evil, but with the yeast-free bread of sincerity
+        and truth instead.<verse eid="1CO 5:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1CO 5:9" />In the previous letter I wrote that you shouldn’t associate with fornicators, <verse eid="1CO 5:9" />
+      <verse number="10" style="v" sid="1CO 5:10" />but I didn’t mean not to associate with any fornicator who’s a part of this corrupt society we live in,
+        or with the greedy and rapacious or with idolaters; otherwise, if that were the case, you’d have to leave
+        this corrupt society and shun it forever. <verse eid="1CO 5:10" />
+      <verse number="11" style="v" sid="1CO 5:11" />I wrote to you just now not to associate with someone if that someone who goes by the name “comrade”
+        were to be a fornicator, or someone who’s greedy, or an idolater, or someone who cusses or uses abusive
+        language, or a drunkard, or someone who’s rapacious—don’t share a meal with them either. <verse eid="1CO 5:11" />
+      <verse number="12" style="v" sid="1CO 5:12" />Furthermore, why should I care about judging those on the outside? Aren’t you the ones who judge those
+        on the inside? <verse eid="1CO 5:12" />
+      <verse number="13" style="v" sid="1CO 5:13" />God judges those on the outside. The Old Testament says, “Get rid of your evil person.”<verse eid="1CO 5:13" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 5" />
+  <!--   **********   -->
+  <!--   Chapter  6   -->
+  <!--   **********   -->
+  <chapter number="6" style="c" sid="1CO 6" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 6:1" />Does any one of you have the audacity to have a civil dispute which you’re having with another comrade
+        arbitrated by those who are unrighteous, and not by the saints (i.e., your fellow-believers)? <verse eid="1CO 6:1" />
+      <verse number="2" style="v" sid="1CO 6:2" />Or are you simply unaware of the fact that the saints will judge the world? If the world is to be judged
+        by you, you’re capable of forming arbitration panels for settling petty disputes. <verse eid="1CO 6:2" />
+      <verse number="3" style="v" sid="1CO 6:3" />Don’t you know that we’ll judge angels?—We’re that much more capable then of judging day-to-day affairs.<verse eid="1CO 6:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 6:4" />So when you do happen to form a panel for arbitrating day-to-day affairs, you put those in the church
+        who are despised and lowly-esteemed on the panel. <verse eid="1CO 6:4" />
+      <verse number="5" style="v" sid="1CO 6:5" />Shame on you—Isn’t there even one of you who has wisdom when it comes to this sort of thing, someone
+        who can straighten out a situation his comrade is in? <verse eid="1CO 6:5" />
+      <verse number="6" style="v" sid="1CO 6:6" />Instead, a comrade takes another comrade to court, and the court consists of unbelievers. <verse eid="1CO 6:6" />
+      <verse number="7" style="v" sid="1CO 6:7" />You’re already undergoing a complete moral breakdown indeed by taking each other to court: why don’t
+        you just be wronged? Why don’t you just be cheated? <verse eid="1CO 6:7" />
+      <verse number="8" style="v" sid="1CO 6:8" />Instead of enduring being wronged, you’re wronging and cheating others, and you’re doing this to fellow
+        comrades. <verse eid="1CO 6:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1CO 6:9" />Don’t you know that those who wrong others won’t inherit the kingdom of God (i.e., won’t have a relationship
+        with God; have Him involved with their lives)? Don’t be fooled: neither fornicators nor idolaters nor
+        adulterers nor catamites nor homosexuals <verse eid="1CO 6:9" />
+      <verse number="10" style="v" sid="1CO 6:10" />nor thieves nor the greedy—there’ll be no drunkards, none of those who cuss and use abusive language,
+        none of those who are rapacious—these people won’t inherit the kingdom of God. <verse eid="1CO 6:10" />
+      <verse number="11" style="v" sid="1CO 6:11" />And that’s what some of you were—but no more: you were washed, you were sanctified (i.e., separated,
+        set apart, and declared holy), you were justified (i.e. examined by a judge and cleared of any charges)
+        by the authority of our Lord Jesus Christ and in the Spirit of our God.<verse eid="1CO 6:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1CO 6:12" />To me, everything is permissible but not everything is beneficial. To me, everything’s permissible, but
+        I’ll not be put under the control of anything. <verse eid="1CO 6:12" />
+      <verse number="13" style="v" sid="1CO 6:13" />Food is meant for the stomach, and the stomach is meant for food, but God will do away with food and
+        stomach both. The body’s not meant for fornication but for the Lord, and the Lord is meant for the body.<verse eid="1CO 6:13" />
+      <verse number="14" style="v" sid="1CO 6:14" />God both raised the Lord from the dead and will raise us from the dead through His power.<verse eid="1CO 6:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1CO 6:15" />Don’t you know that our bodies are a piece of Christ’s body? Shall I take these things—shall I take a
+        piece of Christ’s body and make it a piece which is a part of a prostitute?—Don’t even think about it.<verse eid="1CO 6:15" />
+      <verse number="16" style="v" sid="1CO 6:16" />Don’t you know that he who unites with a prostitute or a woman who’s a fornicator becomes a single body
+        with her through the bond of sex? “For,” He says, “the two will be made into one flesh.” <verse eid="1CO 6:16" />
+      <verse number="17" style="v" sid="1CO 6:17" />The one who unites with the Lord becomes a single spirit with him. <verse eid="1CO 6:17" />
+      <verse number="18" style="v" sid="1CO 6:18" />Run as fast as you can away from fornication (i.e., sexual acts which are immoral): all sins that a person
+        happens to commit are done outside the body, but the fornicator commits a sin which is done to (or even
+        into) his own body. <verse eid="1CO 6:18" />
+      <verse number="19" style="v" sid="1CO 6:19" />Don’t you know that our collective-body is a temple which is a dwelling-place for the Holy Spirit to
+        dwell in, thereby living among us, the Spirit which you have from God, and that you don’t own yourselves?<verse eid="1CO 6:19" />
+      <verse number="20" style="v" sid="1CO 6:20" />You’ve been bought at a high price; therefore, glorify God with your collective-body.<verse eid="1CO 6:20" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 6" />
+  <!--   **********   -->
+  <!--   Chapter  7   -->
+  <!--   **********   -->
+  <chapter number="7" style="c" sid="1CO 7" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 7:1" />To elaborate on what I wrote to you in the previous letter, it’s good for a man not to go about touching
+        a woman for the purpose of instigating sexual arousal. <verse eid="1CO 7:1" />
+      <verse number="2" style="v" sid="1CO 7:2" />But because of the variety and volume of the fornications (i.e., sexual acts which are immoral) taking
+        place around you, let each man have his own woman to be his wife, and likewise let each woman have her
+        own man to be her husband. <verse eid="1CO 7:2" />
+      <verse number="3" style="v" sid="1CO 7:3" />Let the husband fulfill his obligation of having sex with his wife; likewise, let the wife do the same
+        with her husband. <verse eid="1CO 7:3" />
+      <verse number="4" style="v" sid="1CO 7:4" />The wife doesn’t get to dictate what goes on with her own body, but the husband does; likewise, the husband
+        doesn’t get to dictate what goes on with his own body, but the wife does. <verse eid="1CO 7:4" />
+      <verse number="5" style="v" sid="1CO 7:5" />Don’t deprive each other of sex, unless it’s for an agreed-upon time in order to devote yourselves to
+        prayer, and get back at it (i.e., back to having sex) so that Satan not tempt you because of your lack
+        of self-control. <verse eid="1CO 7:5" />
+      <verse number="6" style="v" sid="1CO 7:6" />In saying this, I’m offering you a concession and not giving you a command. <verse eid="1CO 7:6" />
+      <verse number="7" style="v" sid="1CO 7:7" />I want all men to be like me, but each has his own gift from God instead, one person this way, the other
+        person that way.<verse eid="1CO 7:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1CO 7:8" />I’m telling those who aren’t married or who are widows that it would be good if they would stay the way
+        I am. <verse eid="1CO 7:8" />
+      <verse number="9" style="v" sid="1CO 7:9" />But if they can’t control themselves, have them get married; it’s better to marry than to burn with sexual
+        desire, you see. <verse eid="1CO 7:9" />
+      <verse number="10" style="v" sid="1CO 7:10" />To those who are already married, I’m having the wives take a command (not me giving the command but
+        the Lord) for them not to leave their husbands. <verse eid="1CO 7:10" />
+      <verse number="11" style="v" sid="1CO 7:11" />Now if she happens to leave him anyways, have her remain single or be reconciled with her husband. And
+        I’m having the husbands take a command to not divorce their wives. <verse eid="1CO 7:11" />
+      <verse number="12" style="v" sid="1CO 7:12" />I’m telling the rest of you (me talking, not the Lord) this: if some man has a wife who’s an unbeliever,
+        and she consents to live with him, don’t have him divorce her; <verse eid="1CO 7:12" />
+      <verse number="13" style="v" sid="1CO 7:13" />if some wife has a husband who’s an unbeliever, and this fellow consents to live with her, don’t have
+        her divorce him. <verse eid="1CO 7:13" />
+      <verse number="14" style="v" sid="1CO 7:14" />You see, the unbelieving-husband is set apart to God as holy and specially protected by Him by the believing
+        wife, and the unbelieving-wife is set apart as holy and specially protected by the comrade who is her
+        husband; if that were not the case, their children would be unholy, spiritually contaminated, and not
+        set apart to God, but now that there’s a believing spouse in the picture, they’re holy and specially
+        protected. <verse eid="1CO 7:14" />
+      <verse number="15" style="v" sid="1CO 7:15" />Now if an unbelieving husband or wife leaves his believing spouse, let him or her part ways: the comrade,
+        whether man or woman, isn’t under any obligation in such case. God has called us to live in peace (i.e.,
+        live free of the conflict, duress, or affliction that many unbelieving spouse brings) whatever our situation
+        might be; <verse eid="1CO 7:15" />
+      <verse number="16" style="v" sid="1CO 7:16" />in this regard, how do you know, wives, if you’ll succeed in rescuing your unbelieving husbands from
+        spiritual and moral calamity? Or how do you know, husbands, if you’ll succeed in rescuing your unbelieving
+        wives from spiritual and moral calamity?<verse eid="1CO 7:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1CO 7:17" />Moving on to topics relevant to every person…Have each person lead his life in the way that the Lord
+        deems appropriate for the particular situation he was in when he became a believer. I’m giving the same
+        command to all the churches which I started. <verse eid="1CO 7:17" />
+      <verse number="18" style="v" sid="1CO 7:18" />Had you already been circumcised when called (i.e., had you made a vow to obey the Law of Moses prior
+        to becoming a believer )?—Don’t obliterate the effects of circumcision (i.e., don’t obliterate the effects
+        of this vow). Was anyone called when they were uncircumcised (i.e., did anyone become a believer but
+        at no time ever made a vow to obey the Law of Moses)?—Don’t get circumcised (i.e., don’t make such a
+        vow). <verse eid="1CO 7:18" />
+      <verse number="19" style="v" sid="1CO 7:19" />The circumcision in the case of the believer who was circumcised already is irrelevant and not an issue
+        whatsoever, and the uncircumcision in the case of the believer who wasn’t circumcised already is irrelevant
+        and not an issue whatsoever, but the keeping of God’s commandments is the real issue instead. <verse eid="1CO 7:19" />
+      <verse number="20" style="v" sid="1CO 7:20" />Whatever situation or set of circumstances a person was in when he was called (i.e., when he became a
+        believer), he should stay in that situation or set of circumstances. <verse eid="1CO 7:20" />
+      <verse number="21" style="v" sid="1CO 7:21" />Were you called when you were a slave?—Don’t worry about it; instead, if you get the chance to gain your
+        freedom, by all means take advantage of the opportunity. <verse eid="1CO 7:21" />
+      <verse number="22" style="v" sid="1CO 7:22" />Furthermore, the person who was called by the Lord (i.e., became a believer) while a slave is the Lord’s
+        freeman; in the same way, he who was called while free is Christ’s slave. <verse eid="1CO 7:22" />
+      <verse number="23" style="v" sid="1CO 7:23" />You’ve been bought at a high price: don’t become other peoples’ slaves. <verse eid="1CO 7:23" />
+      <verse number="24" style="v" sid="1CO 7:24" />Whatever situation and circumstances each person was in when he was called, comrades, have him remain
+        in this situation when he gets with God.<verse eid="1CO 7:24" />
+    </para>
+    <para style="p">
+      <verse number="25" style="v" sid="1CO 7:25" />About the young ladies who have never been married: I don’t have a command from the Lord, but I’ll give
+        an opinion as one who’s been shown mercy by the Lord enabling me to be reliable. <verse eid="1CO 7:25" />
+      <verse number="26" style="v" sid="1CO 7:26" />These are my thoughts about living through the difficulties of the present time, namely that it’s good
+        for a person to live the following way: <verse eid="1CO 7:26" />
+      <verse number="27" style="v" sid="1CO 7:27" />Are you bound by commitment to a wife?—Don’t try to separate from her. Separated from a wife?—Don’t go
+        looking for another woman. <verse eid="1CO 7:27" />
+      <verse number="28" style="v" sid="1CO 7:28" />But if you do happen to get married, you haven’t sinned. And if the typical young lady in the church
+        happens to get married, she hasn’t sinned. Folks such as these will face hard times in their natural
+        lives; I’m trying to spare you this grief.<verse eid="1CO 7:28" />
+    </para>
+    <para style="p">
+      <verse number="29" style="v" sid="1CO 7:29" />Let me tell you what, comrades, a compressed window of time is all that remains of our lives, so that
+        those who have wives should live as though they don’t have wives, <verse eid="1CO 7:29" />
+      <verse number="30" style="v" sid="1CO 7:30" />and those who weep as though they don’t weep, and those who rejoice as though they don’t rejoice, and
+        those who deal in business as though they’ve halted trading, <verse eid="1CO 7:30" />
+      <verse number="31" style="v" sid="1CO 7:31" />and those using the world as though they don’t use it; when you get right down to it, the world we live
+        in in its present form is passing away. <verse eid="1CO 7:31" />
+      <verse number="32" style="v" sid="1CO 7:32" />I don’t want you to be consumed by or worry about the trivial day-to-day affairs of life. He who’s not
+        married is consumed by and worries about the things of the Lord, how he might be pleasing to him, <verse eid="1CO 7:32" />
+      <verse number="33" style="v" sid="1CO 7:33" />but he who’s married is consumed by and worries about things of the world we live in and the people we
+        live around, how he might use these things to be pleasing to the wife he has, <verse eid="1CO 7:33" />
+      <verse number="34" style="v" sid="1CO 7:34" />and he reaches the point where he’s constantly consumed by these and worries about them continually.
+        Both the woman who’s single and the young lady who’s never been married are consumed by and worry about
+        the things of the Lord, so they would be holy both in body and in spirit. But she who’s married is consumed
+        by and worries about the things of the world, how she’s going to please her husband. <verse eid="1CO 7:34" />
+      <verse number="35" style="v" sid="1CO 7:35" />I’m telling you this for your own benefit—not so I can put you on a leash, but so it would result in
+        a seemly, undistracted devotion to the Lord.<verse eid="1CO 7:35" />
+    </para>
+    <para style="p">
+      <verse number="36" style="v" sid="1CO 7:36" />Now if someone’s behaving inappropriately towards the young lady he’s in a relationship with, and he
+        thinks she might be “overly-ripe” in such a way that he’s obliged to make something happen (i.e., she’s
+        pregnant, he thinks it might be too hard to hide anymore, and he’ll have to do something about it), let
+        him do what he wants to do—he’s not committing a sin in doing so—let them get married. <verse eid="1CO 7:36" />
+      <verse number="37" style="v" sid="1CO 7:37" />But he who has taken a firm stand in his heart, not having to act out of necessity but has the upper-hand
+        over his individual sexual desire, and has decided in his own heart to stay a virgin rather than sleep
+        with his girlfriend or fiancée, does well, <verse eid="1CO 7:37" />
+      <verse number="38" style="v" sid="1CO 7:38" />with the result that both he who waits until marriage handles his virginity well, but he who remains
+        single will do better, as he’ll be spared the difficulties I wrote about here.<verse eid="1CO 7:38" />
+    </para>
+    <para style="p">
+      <verse number="39" style="v" sid="1CO 7:39" />The wife is morally bound to her husband as long as her husband lives, but if her husband were to pass
+        away, she’s free to marry whom she wants, only she must marry in the Lord (i.e., marry in such a way
+        that’s pleasing to the Lord; marry another believer). <verse eid="1CO 7:39" />
+      <verse number="40" style="v" sid="1CO 7:40" />But in my opinion she’d be happier if she were to stay the way she is (i.e., stay unmarried after becoming
+        a widow), and I think I have the agreement of the Spirit of God too.<verse eid="1CO 7:40" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 7" />
+  <!--   **********   -->
+  <!--   Chapter  8   -->
+  <!--   **********   -->
+  <chapter number="8" style="c" sid="1CO 8" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 8:1" />Now about the issue of eating meat sacrificed to idols, every one of us has our own understanding of
+        how this ought to be handled. The understanding a person has on a given issue makes him rather full of
+        himself, but the love shown in the handling of said issue edifies. <verse eid="1CO 8:1" />
+      <verse number="2" style="v" sid="1CO 8:2" />If any given person thinks he’s reached the point where he’s acquired some level of understanding, he
+        has not yet understood the matter as it must be understood. <verse eid="1CO 8:2" />
+      <verse number="3" style="v" sid="1CO 8:3" />If someone loves God, this individual has been known and understood by Him.<verse eid="1CO 8:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 8:4" />So now, about the consumption of food offered to idols: we know for a fact that the idols in the world
+        don’t amount to a hill of beans, and no person or thing is God except for One being only. <verse eid="1CO 8:4" />
+      <verse number="5" style="v" sid="1CO 8:5" />Now, granted, there are those who claim there are gods, whether they be in the sky, in the atmosphere,
+        among the stars, in a spiritual world beyond that, or on the earth, so that there’re many gods and many
+        lords, <verse eid="1CO 8:5" />
+      <verse number="6" style="v" sid="1CO 8:6" />but from our point of view there’s one God the Father, out of Whom are all things, and we are returned
+        to Him and to the Lord Jesus Christ, through whom are all things, and we are through him.<verse eid="1CO 8:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1CO 8:7" />That aside, we are not on the same level in every aspect of understanding. Up until now some people have
+        been in the habit of eating food sacrificed to idols, and since their consciences are weak (i.e., their
+        consciences prod them with pangs of guilt over matters they have a deficient understanding of, in this
+        case in regard to food sacrificed to idols), they violate their consciences. <verse eid="1CO 8:7" />
+      <verse number="8" style="v" sid="1CO 8:8" />Eating or not eating this food doesn’t get us anywhere with God: we’re neither worse off if we were to
+        not eat it nor are we better off if we were to eat it.<verse eid="1CO 8:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1CO 8:9" />See to it that the right you have to eat such food doesn’t somehow in and of itself become a stumbling
+        block (i.e., an influence for causing sin) for those who have a weak conscience. <verse eid="1CO 8:9" />
+      <verse number="10" style="v" sid="1CO 8:10" />You see, if someone with a weak conscience were to watch you, a person who has the correct understanding
+        on this issue, sitting at the dinner table with food sacrificed to idols lying on the plate in front
+        of you, wouldn’t his conscience, because it’s in a state of weakness, being built up in regard to the
+        eating of foods sacrificed to idols (i.e., because of an incorrect understanding in regard to this issue
+        of food sacrificed to idols, his conscience has been conditioned to respond with guilt when it ought
+        not)? <verse eid="1CO 8:10" />
+      <verse number="11" style="v" sid="1CO 8:11" />You see, he who’s weak—the comrade whom Christ died for—is being destroyed by your correct understanding.<verse eid="1CO 8:11" />
+      <verse number="12" style="v" sid="1CO 8:12" />In the way that you sin against the comrades and beat on their weak consciences, you sin against Christ.<verse eid="1CO 8:12" />
+      <verse number="13" style="v" sid="1CO 8:13" />That’s why if food causes my comrade to stumble, there’s no way whatsoever that I’ll ever eat sacrificial
+        meat again, so that I won’t be a stumbling block to my brother.<verse eid="1CO 8:13" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 8" />
+  <!--   **********   -->
+  <!--   Chapter  9   -->
+  <!--   **********   -->
+  <chapter number="9" style="c" sid="1CO 9" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 9:1" />Am I not a freeman? Am I not an apostle (i.e., have I not been sent by God to pioneer the spread of Christianity)?
+        Have I not seen our Lord Jesus with my own eyes? Are you not my accomplishment in the Lord? <verse eid="1CO 9:1" />
+      <verse number="2" style="v" sid="1CO 9:2" />If I’m not an apostle sent to root others in Christianity, at least I’m an apostle sent to root you;
+        in fact, you’re my certificate of authenticity of my having been sent by the Lord. <verse eid="1CO 9:2" />
+      <verse number="3" style="v" sid="1CO 9:3" />My rebuttal to those examining me for the purpose of judging and condemning me is the same.<verse eid="1CO 9:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 9:4" />Do we not have the right to be hosted in such a way that we eat and drink for free? <verse eid="1CO 9:4" />
+      <verse number="5" style="v" sid="1CO 9:5" />Do we not have the right to have a fellow-comrade-wife accompany us as she follows our lead on our journeys
+        and have her hosted as well, as all the other apostles of the Lord and Peter do?— <verse eid="1CO 9:5" />
+      <verse number="6" style="v" sid="1CO 9:6" />Or is it just Barnabas and I who don’t have the right to not have to work to support ourselves? <verse eid="1CO 9:6" />
+      <verse number="7" style="v" sid="1CO 9:7" />When did any soldier ever serve in the army and have to pay for his own rations? Who plants a vineyard
+        and doesn’t feed off what it produces? Or who cares for a ewe and doesn’t feed off the sheep’s milk?<verse eid="1CO 9:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1CO 9:8" />I’m not talking from a human perspective, or talking about concepts that the Law does not also talk about.<verse eid="1CO 9:8" />
+      <verse number="9" style="v" sid="1CO 9:9" />The fact of the matter is, in the Law of Moses it’s written, “Don’t put a muzzle on an oxen while it’s
+        threshing wheat.” You don’t think God cares about the welfare of the oxen when it’s threshing, do you?<verse eid="1CO 9:9" />
+      <verse number="10" style="v" sid="1CO 9:10" />Or is it that the Law’s addressing this topic for our benefit? Furthermore, it’s written in the Law for
+        our benefit that the sower ought to sow and the thresher to thresh with the hope of getting a percentage
+        of the harvest. <verse eid="1CO 9:10" />
+      <verse number="11" style="v" sid="1CO 9:11" />If we sowed into you the Holy Spirit-related things which are the backbone of your spiritual lives, is
+        it a big deal if we reap the physical things we need to live by from you? <verse eid="1CO 9:11" />
+      <verse number="12" style="v" sid="1CO 9:12" />If others have the right of taking a percentage from you, don’t we all the more so?
+    </para>
+    <para style="p" vid="1CO 9:12">No, we’re not asserting this right; instead we put up with all kinds of things so that nothing would
+        hinder the Gospel, the good-news message of Christ. <verse eid="1CO 9:12"/>
+      <verse number="13" style="v" sid="1CO 9:13" />Don’t you know that they who work the sacred duties in the temple feed on the sacrifices offered at the
+        temple; that they who attend to the altar divide the spoils of the altar among themselves? <verse eid="1CO 9:13" />
+      <verse number="14" style="v" sid="1CO 9:14" />In the same way the Lord planned for and commanded those who proclaim the Gospel to make their living
+        from the Gospel. <verse eid="1CO 9:14" />
+      <verse number="15" style="v" sid="1CO 9:15" />I have not used any of these mandates. I didn’t write about these things to make them happen to me; in
+        fact, I’d rather die than have someone invalidate the proud assertions which I openly pride myself in.<verse eid="1CO 9:15" />
+      <verse number="16" style="v" sid="1CO 9:16" />Should I proclaim the Gospel, it’s not my place to make proud assertions, you see: by necessity they’re
+        imposed on me. I’ll be in deep trouble, you see, should I not proclaim the Gospel. <verse eid="1CO 9:16" />
+      <verse number="17" style="v" sid="1CO 9:17" />If I put this into practice voluntarily, you see, I’ll earn my pay. If I do this voluntarily, I’ve reached
+        the point where I can be entrusted with a managerial position. <verse eid="1CO 9:17" />
+      <verse number="18" style="v" sid="1CO 9:18" />So what’s my pay rate? I’m not getting paid a penny so that I can present the Gospel free of charge with
+        a view towards me not exercising my right to receive financial support as one who proclaims the Gospel.<verse eid="1CO 9:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1CO 9:19" />Being a freeman, freed from all things, in all things I made myself a slave, so that I’d win over the
+        many. <verse eid="1CO 9:19" />
+      <verse number="20" style="v" sid="1CO 9:20" />I became a Jew to the Jews so that I would win over Jews: to those who live under the Law of Moses, I
+        let myself be under the Law (though as far as my own personal life is concerned, I’m not under the Law),
+        so that I would win over those under the Law. <verse eid="1CO 9:20" />
+      <verse number="21" style="v" sid="1CO 9:21" />I became lawless (i.e., not living under the Law of Moses or under any God-based set of rules for that
+        matter) to the lawless (though not living lawlessly apart from God, but being law-bound as a part of
+        Christ) in order to win over the lawless. <verse eid="1CO 9:21" />
+      <verse number="22" style="v" sid="1CO 9:22" />I became powerless to control my own circumstances to those who are powerless over their circumstances
+        so that I would win over the powerless. I became all things to all people so I’d save (i.e., rescue from
+        calamity, spiritual, moral, and otherwise) some. <verse eid="1CO 9:22" />
+      <verse number="23" style="v" sid="1CO 9:23" />But everything I do, I do for the sake of the proclamation of the Gospel so I’d become a workman who
+        specializes in it.<verse eid="1CO 9:23" />
+    </para>
+    <para style="p">
+      <verse number="24" style="v" sid="1CO 9:24" />Don’t you know that those who compete in track &amp; field run races but only one of them gets the first-place
+        trophy? Play to win—that’s the way you compete. <verse eid="1CO 9:24" />
+      <verse number="25" style="v" sid="1CO 9:25" />Everyone who competes in athletics trains, and those folks do so in order to get a trophy which can and
+        undoubtedly will lose its prestige over time, but we train to win a trophy which will always remain prestigious;<verse eid="1CO 9:25" />
+      <verse number="26" style="v" sid="1CO 9:26" />hence, as far as I’m concerned, I don’t train for the race without setting any specific personal goals
+        to meet. I train to box in such a way that in the ring I’ll land punches and not wind up with fistfuls
+        of air. <verse eid="1CO 9:26" />
+      <verse number="27" style="v" sid="1CO 9:27" />Uh-uh—I apply strict, punishing disciple to my body (i.e., to my carnal nature in particular), treating
+        it roughly and wearing it down; I subdue it and make it my slave, lest I, having proclaimed the Gospel
+        to others, should somehow or someway fail to live up to the standard it sets.<verse eid="1CO 9:27" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 9" />
+  <!--   **********   -->
+  <!--   Chapter 10   -->
+  <!--   **********   -->
+  <chapter number="10" style="c" sid="1CO 10" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 10:1" />I don’t want you to fail to understand this, comrades, the fact that our forefathers—all of them—were
+        always under the cloud which they followed after leaving Egypt, and all of them passed through the Red
+        Sea, <verse eid="1CO 10:1" />
+      <verse number="2" style="v" sid="1CO 10:2" />and every one of them was initiated into and joined up with Moses in totality by virtue of the cloud
+        and the sea, <verse eid="1CO 10:2" />
+      <verse number="3" style="v" sid="1CO 10:3" />and every one of them was fed from the same spiritual food, <verse eid="1CO 10:3" />
+      <verse number="4" style="v" sid="1CO 10:4" />and every one of them drank from the same spiritual source: they drank out of the Spiritual Trailing
+        Rock (and the rock was Christ).<verse eid="1CO 10:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1CO 10:5" />But God was not pleased with many of them; their dead bodies were strewn about the wilderness as we see.<verse eid="1CO 10:5" />
+      <verse number="6" style="v" sid="1CO 10:6" />Now the lives these people led is an example, a pattern, a parallel of our own lives, so that we not
+        have strong yearnings bordering on sensual passions for evil, just as some of them had. <verse eid="1CO 10:6" />
+      <verse number="7" style="v" sid="1CO 10:7" />Neither become idolaters, just as some of them did, as it’s written in the Old Testament,
+    </para>
+    <para style="pi" vid="1CO 10:7"></para>
+    <para style="pi" vid="1CO 10:7">The folk-people sat down to eat and drink</para>
+    <para style="pi" vid="1CO 10:7">And when they were done got up to play<verse eid="1CO 10:7"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="p">
+      <verse number="8" style="v" sid="1CO 10:8" />Nor commit fornication (i.e., behave in a sexually immoral way), just as some of them committed fornication,
+        and as a result twenty-three thousand dropped dead in one day. <verse eid="1CO 10:8" />
+      <verse number="9" style="v" sid="1CO 10:9" />Nor test Christ (i.e., use a circumstance as a test to see if Christ will pass from your point of view),
+        just as some of them tested him and as a result were destroyed by serpents. <verse eid="1CO 10:9" />
+      <verse number="10" style="v" sid="1CO 10:10" />Nor grumble, murmur, or complain just as some of them grumbled and as a result were destroyed by the
+        Destroyer.<verse eid="1CO 10:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="1CO 10:11" />Now those things that happened to them turned out to be an example, a pattern, a parallel of our own
+        lives, and it was recorded in the Bible to make us aware that this applies to us, whom the ends of the
+        ages have arrived at and are staring us in the face, <verse eid="1CO 10:11" />
+      <verse number="12" style="v" sid="1CO 10:12" />so that the one who thinks he stands (i.e., the one who thinks he’s immune to sin) should see to it that
+        he doesn’t fall (i.e., fall to sin). <verse eid="1CO 10:12" />
+      <verse number="13" style="v" sid="1CO 10:13" />No temptation has been taken hold of by the person being tempted if it were not for the fact that humans
+        are susceptible to it. But God is faithful, Who won’t permit us to be tempted beyond what we’re capable
+        of. No, He’ll make an exit strategy consisting of the ability to bear the temptation while under the
+        weight of it.<verse eid="1CO 10:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="1CO 10:14" />Therefore, my dear comrades, get as far away from the idolatry you’re surrounded with as fast as you
+        can. <verse eid="1CO 10:14" />
+      <verse number="15" style="v" sid="1CO 10:15" />I’m talking to you as though I’m speaking to sensible people. You decide the sensibility of what I’m
+        saying. <verse eid="1CO 10:15" />
+      <verse number="16" style="v" sid="1CO 10:16" />The cup of blessing (i.e., the cup of communion wine) which we pronounce a blessing with, is it not an
+        intimate association with the blood of Christ? The loaf of bread which we break during communion, is
+        it not an intimate association with the body of Christ? <verse eid="1CO 10:16" />
+      <verse number="17" style="v" sid="1CO 10:17" />Because the loaf is a single entity, we the many are one body; we all partake of pieces which come out
+        of the one loaf, you see. <verse eid="1CO 10:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1CO 10:18" />Take a look at Israel, physically speaking: don’t they who feed themselves with the meat of the sacrificial
+        animals have an intimate association with the altar and share in the work which goes on there? <verse eid="1CO 10:18" />
+      <verse number="19" style="v" sid="1CO 10:19" />So what exactly am I trying to tell you? That idolatry is something which needs to be taken seriously?
+        Or that food sacrificed to an idol is something which needs to be taken seriously? <verse eid="1CO 10:19" />
+      <verse number="20" style="v" sid="1CO 10:20" />Uh-uh—What they sacrifice they sacrifice to demons and not to God; I don’t want an intimate association
+        between you and demons to form. <verse eid="1CO 10:20" />
+      <verse number="21" style="v" sid="1CO 10:21" />You can’t be drinking from the Lord’s cup (i.e., following the Lord’s plan for your lives) and from demons’
+        cup; you can’t be partaking of the Lord’s table (i.e., receiving the Lord’s provision for your nourishment,
+        and for all of your needs for that matter) and of the demons’ table. <verse eid="1CO 10:21" />
+      <verse number="22" style="v" sid="1CO 10:22" />Or do you intend to provoke the Lord to wrath? We aren’t more powerful than he, are we?<verse eid="1CO 10:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1CO 10:23" />Everything is permissible, but not everything is beneficial. Everything is permissible, but not everything
+        edifies. <verse eid="1CO 10:23" />
+      <verse number="24" style="v" sid="1CO 10:24" />Let no one pursue his own interests exclusively but the next person’s as well. <verse eid="1CO 10:24" />
+      <verse number="25" style="v" sid="1CO 10:25" />Eat any sort of meat which is sold at the marketplace without any qualms; the Bible says, <verse eid="1CO 10:25" />
+      <verse number="26" style="v" sid="1CO 10:26" />“The abundant, splendid variety of things that the earth contains was put there by the Lord’s doing,”
+        you see. <verse eid="1CO 10:26" />
+      <verse number="27" style="v" sid="1CO 10:27" />If someone who’s an unbeliever invites you over to his house and you want to go, eat everything that’s
+        laid out on the table or put on your plate without having any qualms about eating any of it. <verse eid="1CO 10:27" />
+      <verse number="28" style="v" sid="1CO 10:28" />If someone were to tell you, “This is meat which was sacrificed in a pagan ritual,” don’t eat it on account
+        of that person who pointed it out and because of the misgivings surrounding it—<verse eid="1CO 10:28" />
+      <verse number="29" style="v" sid="1CO 10:29" />I don’t mean because of your own misgivings but because of the other person’s. Now just why is what I’m
+        free to do or not do decided by another person’s misgivings? <verse eid="1CO 10:29" />
+      <verse number="30" style="v" sid="1CO 10:30" />If I partake in the eating of certain foods by means of grace (i.e., using the license I’ve been given),
+        why are terrible things said about me in connection with He Whom I offer up thanksgiving to? <verse eid="1CO 10:30" />
+      <verse number="31" style="v" sid="1CO 10:31" />So whether you eat or don’t eat something or whether you drink or don’t drink something or whether you
+        do or don’t do anything else, everything you end up doing, do to God’s glory. <verse eid="1CO 10:31" />
+      <verse number="32" style="v" sid="1CO 10:32" />Get to where you’re not inadvertently causing a Jew or Westerner or anyone in God’s church to get offended
+        or to fall to temptation, <verse eid="1CO 10:32" />
+      <verse number="33" style="v" sid="1CO 10:33" />just as I too try to fit in with everyone by not offending them or causing alarm among them, not pursuing
+        my own interests but rather the interests of the majority, so that they might be saved.<verse eid="1CO 10:33" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 10" />
+  <!--   **********   -->
+  <!--   Chapter 11   -->
+  <!--   **********   -->
+  <chapter number="11" style="c" sid="1CO 11" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 11:1" />Imitate me, just as I too imitate Christ.<verse eid="1CO 11:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="1CO 11:2" />I applaud you since you keep in the front of your mind my entire collection of teaching and you firmly
+        adhere to the instruction as I presented and entrusted it to you. <verse eid="1CO 11:2" />
+      <verse number="3" style="v" sid="1CO 11:3" />I want you to know for certain that Christ is the head of every man; the man which God created is the
+        head of woman; God is the head of Christ. <verse eid="1CO 11:3" />
+      <verse number="4" style="v" sid="1CO 11:4" />Any man who has something down over his head while praying or prophesying disgraces his head. <verse eid="1CO 11:4" />
+      <verse number="5" style="v" sid="1CO 11:5" />Any woman who’s praying or prophesying with her head unveiled disgraces her head: it’s the same thing
+        as having her hair cut off, in fact; <verse eid="1CO 11:5" />
+      <verse number="6" style="v" sid="1CO 11:6" />for if a woman isn’t veiled, have her cut her hair off too. If it’s disgraceful for a woman to have her
+        hair cut off or her head shaved, have her put a veil on.<verse eid="1CO 11:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="1CO 11:7" />In regard to this topic, a man certainly doesn’t have to put a veil over his head, as his very existence
+        is as God’s image and glory (i.e., His crowning achievement in creation; His pride and joy; what He treasures
+        the most; His complement), but the woman is man’s glory (i.e., man’s pride and joy; what he treasures
+        above all else; the reflection of the finest in him; his complement). <verse eid="1CO 11:7" />
+      <verse number="8" style="v" sid="1CO 11:8" />You see, man isn’t derived from woman, but the other way around: woman is derived from man. <verse eid="1CO 11:8" />
+      <verse number="9" style="v" sid="1CO 11:9" />Also, taking a closer look at this, man wasn’t created because of the woman, but rather woman was created
+        because of the man. <verse eid="1CO 11:9" />
+      <verse number="10" style="v" sid="1CO 11:10" />Because of this the woman ought to have control over her head because of the angels. <verse eid="1CO 11:10" />
+      <verse number="11" style="v" sid="1CO 11:11" />Nevertheless in the Lord neither does woman exist apart from man nor does man exist apart from woman;<verse eid="1CO 11:11" />
+      <verse number="12" style="v" sid="1CO 11:12" />for just as the woman was created out of the man, in the same way as that the man too is birthed through
+        the woman, and all the things we see in creation come out of God.<verse eid="1CO 11:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1CO 11:13" />Decide among yourselves: is it fitting for a woman to pray to God while unveiled? <verse eid="1CO 11:13" />
+      <verse number="14" style="v" sid="1CO 11:14" />Doesn’t even nature itself teach you that if a man were to wear his hair long, it would surely be dishonorable
+        for him to do so? <verse eid="1CO 11:14" />
+      <verse number="15" style="v" sid="1CO 11:15" />But if a woman were to wear her hair long, it would be glory to her (i.e., it would magnify her, highlighting
+        and complementing her; it would be a point of pride for her)? Because the long hair has been given to
+        her as a substitute for an article of clothing she would wrap around herself. <verse eid="1CO 11:15" />
+      <verse number="16" style="v" sid="1CO 11:16" />But in case someone’s thinking about starting an argument over this, we don’t have such a custom, nor
+        do any one of the other of God’s churches.<verse eid="1CO 11:16" />
+    </para>
+    <para style="p">
+      <verse number="17" style="v" sid="1CO 11:17" />While preparing the command I’m about to give you, I didn’t have anything good to say about you, since
+        your getting together as a group is not for the better but for the worse. <verse eid="1CO 11:17" />
+      <verse number="18" style="v" sid="1CO 11:18" />More to the point, at the head of the list is the reports that I hear that there are divisions which
+        constantly exist among you when you get together as a church, and I believe that at least some of it
+        is true. <verse eid="1CO 11:18" />
+      <verse number="19" style="v" sid="1CO 11:19" />Furthermore, there has got to be factions among you, where each faction consists of the people who share
+        the same opinion about something, so that it’s become evident that those who decide what does or doesn’t
+        fly have come to the forefront among you.<verse eid="1CO 11:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1CO 11:20" />So your coming together at the same gatherings isn’t to partake of the Lord’s meal, is it? <verse eid="1CO 11:20" />
+      <verse number="21" style="v" sid="1CO 11:21" />At the meal served at the gathering, each person in fact gets a head-start on his eating with the idea
+        of getting more than the next guy, and as a result one fellow goes hungry on the one hand, while one
+        fellow gets drunk on the other. <verse eid="1CO 11:21" />
+      <verse number="22" style="v" sid="1CO 11:22" />Furthermore, don’t you have pubs and restaurants for eating and drinking at? Or do you have contempt
+        for the church of God and humiliate those who don’t have enough to get by on? What was I supposed to
+        tell you? Was I supposed to applaud you for doing this? I don’t have any applause in this particular
+        case.<verse eid="1CO 11:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1CO 11:23" />Delving into this topic more deeply, I received from the Lord and took to heart that which I also presented
+        and entrusted to you, that the night the Lord Jesus was betrayed and arrested, he took a loaf, <verse eid="1CO 11:23" />
+      <verse number="24" style="v" sid="1CO 11:24" />prayed, broke it, and said,
+    </para>
+    <para style="pi" vid="1CO 11:24"></para>
+    <para style="pi" vid="1CO 11:24"><char style="wj">This is my body which is</char></para>
+    <para style="pi" vid="1CO 11:24"><char style="wj">Lifted up, broken, and distributed for your sakes.</char></para>
+    <para style="pi" vid="1CO 11:24"><char style="wj">Do this for the purpose of refreshing your memories of me.</char><verse eid="1CO 11:24"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="25" style="v" sid="1CO 11:25" />In the same fashion he also took the cup while dining, saying,
+    </para>
+    <para style="pi" vid="1CO 11:25"></para>
+    <para style="pi" vid="1CO 11:25"><char style="wj">This cup is the new covenant ratified by means of my blood.</char></para>
+    <para style="pi" vid="1CO 11:25"><char style="wj">As often as you choose to or happen to drink from the cup,</char></para>
+    <para style="pi" vid="1CO 11:25"><char style="wj">Do this for the purpose of refreshing your memories of me.</char><verse eid="1CO 11:25"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="26" style="v" sid="1CO 11:26" />For as often as you happen to or choose to eat this bread and drink this cup, you proclaim the death
+        of the Lord until whatever time he ends up coming, <verse eid="1CO 11:26" />
+      <verse number="27" style="v" sid="1CO 11:27" />so that he who perchance eats the bread or drinks the cup of the Lord unworthily will be culpable of
+        the body and the blood of the Lord. <verse eid="1CO 11:27" />
+      <verse number="28" style="v" sid="1CO 11:28" />Have a person examine and test himself and prove to himself and approve of himself, and have him eat
+        from the loaf and drink from the cup in this manner; <verse eid="1CO 11:28" />
+      <verse number="29" style="v" sid="1CO 11:29" />you see, he who eats and drinks the communion meal unworthily eats and drinks judgment (i.e., a guilty
+        verdict) upon himself by not evaluating the body. <verse eid="1CO 11:29" />
+      <verse number="30" style="v" sid="1CO 11:30" />For this reason many of you are weak and frail (i.e., are run down with a long-running illness or have
+        maladies), and a good number of you are in the process of dying. <verse eid="1CO 11:30" />
+      <verse number="31" style="v" sid="1CO 11:31" />If we were to examine and judge ourselves (i.e., examine ourselves and acknowledge our own guilt), we
+        would not be judged and pronounced guilty. <verse eid="1CO 11:31" />
+      <verse number="32" style="v" sid="1CO 11:32" />Being judged by the Lord, you are disciplined, trained, and corrected, so that you won’t be condemned
+        together with the world (i.e., with the unbelievers and the entire ungodly system they created). <verse eid="1CO 11:32" />
+      <verse number="33" style="v" sid="1CO 11:33" />Rember this, my comrades, so that when gathering together for the purpose of eating, wait for one another
+        rather than getting a head-start on eating. <verse eid="1CO 11:33" />
+      <verse number="34" style="v" sid="1CO 11:34" />If someone’s famished, have him eat in a pub or restaurant, so that he won’t join in on one of your meal
+        gatherings in such a way that it results in him being judged and pronounced guilty.</para>
+    <para style="p" vid="1CO 11:34">Now as far as the other issues I mean to address, I’ll settle these whenever I happen to come visit.<verse eid="1CO 11:34"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 11" />
+  <!--   **********   -->
+  <!--   Chapter 12   -->
+  <!--   **********   -->
+  <chapter number="12" style="c" sid="1CO 12" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 12:1" />Concerning spirituals (things which are of nature related to the Holy Spirit: i.e., spiritual gifts,
+        ministries, and extraordinary manifestations of the Holy Spirit), comrades, I don’t want you to fail
+        to understand this. <verse eid="1CO 12:1" />
+      <verse number="2" style="v" sid="1CO 12:2" />You know for a fact that when you were pagans in close contact with the mute and dumb idols, as long
+        as you kept on being led by the evil spirits those idols attracted, you were being led astray. <verse eid="1CO 12:2" />
+      <verse number="3" style="v" sid="1CO 12:3" />This is why I’m making you understand that no one while speaking by means of the Spirit of God says “Jesus
+        is accursed,” and no one when speaking by the influence of a spirit can say “Jesus is Lord” except if
+        the influence is by the Holy Spirit.<verse eid="1CO 12:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 12:4" />Now there’s a variety of gifts, gifts which are freely given by God as an act of grace and not as something
+        which have been earned by the recipient, but the same Spirit. <verse eid="1CO 12:4" />
+      <verse number="5" style="v" sid="1CO 12:5" />And there are a variety of ministries, but the same Spirit still. <verse eid="1CO 12:5" />
+      <verse number="6" style="v" sid="1CO 12:6" />And there are a variety of effects produced by the Holy Spirit, but the same God Who works every little
+        piece of everything. <verse eid="1CO 12:6" />
+      <verse number="7" style="v" sid="1CO 12:7" />To each is given the manifestation of the Spirit for the common good. <verse eid="1CO 12:7" />
+      <verse number="8" style="v" sid="1CO 12:8" />In this regard, through the Spirit is given to one person the word of wisdom, but on the other hand to
+        another person the word of knowledge according to the same Spirit, <verse eid="1CO 12:8" />
+      <verse number="9" style="v" sid="1CO 12:9" />to another special faith by the same Spirit, but to another gifts of healings by the same Spirit, <verse eid="1CO 12:9" />
+      <verse number="10" style="v" sid="1CO 12:10" />but to another the working of miracles, but to another prophecy, but to another the discerning of spirits,
+        but to another a different kind of tongue, to another the interpretation of tongues. <verse eid="1CO 12:10" />
+      <verse number="11" style="v" sid="1CO 12:11" />The one-in-the-same Spirit works all of these gifts, ministries, and effects, divvying them up and parceling
+        them out to each individual just the way He wants.<verse eid="1CO 12:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1CO 12:12" />In fact, just as the body is a single unit and has many parts, and all the parts, even though there’s
+        many of them, comprise one body, it’s the same way with Christ. <verse eid="1CO 12:12" />
+      <verse number="13" style="v" sid="1CO 12:13" />You see, every one of us was inducted into one body by one Spirit, whether a given person was Jewish,
+        was a Westerner, whether a slave or freeman—all of us have been made to drink of the water of life from
+        one Spirit; <verse eid="1CO 12:13" />
+      <verse number="14" style="v" sid="1CO 12:14" />for the body does not consist of one part only but of many parts. <verse eid="1CO 12:14" />
+      <verse number="15" style="v" sid="1CO 12:15" />If the foot were to say, “I’m not a hand—I’m not one of the parts the body has,” then because of this
+        claim it’s not a constituent body part? <verse eid="1CO 12:15" />
+      <verse number="16" style="v" sid="1CO 12:16" />And if the ear were to say, “I’m not an eye, I’m not part of the body,” because of saying this, it’s
+        not part of the body? <verse eid="1CO 12:16" />
+      <verse number="17" style="v" sid="1CO 12:17" />If the entire body was just one giant eye, how would you hear? If the entire body was just one giant
+        ear, how could you smell anything?<verse eid="1CO 12:17" />
+    </para>
+    <para style="p">
+      <verse number="18" style="v" sid="1CO 12:18" />So as it turns out God put every one of the parts into position just the way He wanted. <verse eid="1CO 12:18" />
+      <verse number="19" style="v" sid="1CO 12:19" />If every little piece was one type of part only, where would that leave the body? <verse eid="1CO 12:19" />
+      <verse number="20" style="v" sid="1CO 12:20" />It turns out that while there’re many parts indeed, there’s but one body. <verse eid="1CO 12:20" />
+      <verse number="21" style="v" sid="1CO 12:21" />The eye can’t get away with telling the hand “I don’t need you”; furthermore, the head can’t tell the
+        feet “I don’t need you” either. <verse eid="1CO 12:21" />
+      <verse number="22" style="v" sid="1CO 12:22" />No—the parts of the body which seem to be weaker are more necessary than they appear to be. <verse eid="1CO 12:22" />
+      <verse number="23" style="v" sid="1CO 12:23" />We assign a greater value to the parts of the body we deem to be of little value, and we put a greater
+        amount of clothing over our private parts to ensure that they’re well-hidden, <verse eid="1CO 12:23" />
+      <verse number="24" style="v" sid="1CO 12:24" />but the valuable parts have no need of that. No—God composed—He blended together and mixed—the body by
+        having given more value to those parts lacking it <verse eid="1CO 12:24" />
+      <verse number="25" style="v" sid="1CO 12:25" />so there wouldn’t be division in the body, but that the members would care for each other treating each
+        other the same way. <verse eid="1CO 12:25" />
+      <verse number="26" style="v" sid="1CO 12:26" />If a single member happens to suffer, all the members suffer along with it. If a single member is glorified,
+        all the members are glorified along with it.<verse eid="1CO 12:26" />
+    </para>
+    <para style="p">
+      <verse number="27" style="v" sid="1CO 12:27" />Now you all are Christ’s body, and you as the individual members populate the various body parts. <verse eid="1CO 12:27" />
+      <verse number="28" style="v" sid="1CO 12:28" />God has indeed placed in the church first apostles (i.e., missionaries sent out to pioneer new Christian
+        works), second prophets, third teachers, those who perform miracles, gifts of healings, those who help
+        in any of a multitude of ways, administrations (i.e., guidance, governorship: literally the one who steers
+        the ship), various tongues. <verse eid="1CO 12:28" />
+      <verse number="29" style="v" sid="1CO 12:29" />Not everyone’s an apostle, are they? Not everyone’s a prophet, are they? Not everyone’s a teacher, are
+        they? Not everyone performs miracles, do they? <verse eid="1CO 12:29" />
+      <verse number="30" style="v" sid="1CO 12:30" />Not everyone has one of the various gifts of healings, do they? Not everyone speaks in tongues, do they?
+        Not everyone interprets messages in tongues, do they? <verse eid="1CO 12:30" />
+      <verse number="31" style="v" sid="1CO 12:31" />But maintain a burning desire for the greater gifts.
+    </para>
+    <para style="p" vid="1CO 12:31">Yet I’ll show you a road to take which is superior to this…<verse eid="1CO 12:31"/>
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 12" />
+  <!--   **********   -->
+  <!--   Chapter 13   -->
+  <!--   **********   -->
+  <chapter number="13" style="c" sid="1CO 13" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 13:1" />If I were to speak in tongues of men and of angels but not have love, I will have become a blaring brass
+        instrument or clanging cymbal. <verse eid="1CO 13:1" />
+      <verse number="2" style="v" sid="1CO 13:2" />If I were to have a prophecy and that prophecy would give me the answers to life’s questions so I would
+        know for certain all the mysteries and all the knowledge and understanding, or if I were to have all
+        the faith so as to move mountains from place to place, but not have love, I am nothing. <verse eid="1CO 13:2" />
+      <verse number="3" style="v" sid="1CO 13:3" />And if I were to sell everything I own and tender my body to be burned, but not have love, it is helping
+        me nothing.<verse eid="1CO 13:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="1CO 13:4" />The love of which I speak is patient, the love is kind, isn’t jealous and doesn’t cause rivalry, doesn’t
+        vaunt itself and act as a show-off, isn’t full of itself, <verse eid="1CO 13:4" />
+      <verse number="5" style="v" sid="1CO 13:5" />doesn’t act unseemly or indecently, doesn’t seek its self-interest, doesn’t gaslight others, doesn’t
+        keep a mental scorecard of the bad things done to it, <verse eid="1CO 13:5" />
+      <verse number="6" style="v" sid="1CO 13:6" />doesn’t rejoice at the wrongdoing of others but joins in the rejoicing in the truth; <verse eid="1CO 13:6" />
+      <verse number="7" style="v" sid="1CO 13:7" />it endures all things, believes all things, hopes all things, endures all things.<verse eid="1CO 13:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="1CO 13:8" />The love of which we speak never breaks down. Should there be prophecies, they’ll be done away with;
+        should there be tongues, they’ll cease; should there be knowledge and understanding, it’ll be done away
+        with. <verse eid="1CO 13:8" />
+      <verse number="9" style="v" sid="1CO 13:9" />The fact of the matter is that we know and understand from the perspective of a part of the whole and
+        we prophecy from the perspective of a part, <verse eid="1CO 13:9" />
+      <verse number="10" style="v" sid="1CO 13:10" />but when the Complete comes, the Partial will be done away with. <verse eid="1CO 13:10" />
+      <verse number="11" style="v" sid="1CO 13:11" />When I was a child, I was talking like a child, was thinking like a child, was reasoning like a child—when
+        I became a man, I did away with the things of childhood. <verse eid="1CO 13:11" />
+      <verse number="12" style="v" sid="1CO 13:12" />Furthermore, at the moment we’re seeing life as though we’re looking at the vague reflection cast by
+        a mirror, but some time in the future we’ll look at life as though we’re looking at it face-to-face;
+        at the moment my knowing and understanding comes out of a single part of the whole, but some time in
+        the future I’ll know and understand life exactly just as I have been known and understood by God exactly.<verse eid="1CO 13:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1CO 13:13" />At the present time faith, hope, and love remain—these three—but the greatest of them is love.<verse eid="1CO 13:13" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 13" />
+  <!--   **********   -->
+  <!--   Chapter 14   -->
+  <!--   **********   -->
+  <chapter number="14" style="c" sid="1CO 14" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 14:1" />Pursue love and have a burning desire for the spirituals (i.e., spiritual gifts and manifestations of
+        the Holy Spirit), but more so that you would prophesy than speak in tongues. <verse eid="1CO 14:1" />
+      <verse number="2" style="v" sid="1CO 14:2" />You see, the one who speaks in tongues isn’t talking to people when he’s speaking in tongues but is talking
+        to God instead. In fact no one hears him speak intelligibly: he speaks mysteries by his spirit. <verse eid="1CO 14:2" />
+      <verse number="3" style="v" sid="1CO 14:3" />Converseley, the one who prophesies speaks edification; exhortation, encouragement, comfort, advice;
+        and consolation to people. <verse eid="1CO 14:3" />
+      <verse number="4" style="v" sid="1CO 14:4" />The one who speaks in tongues edifies himself (i.e., builds himself up); the one who prophesies edifies
+        the church. <verse eid="1CO 14:4" />
+      <verse number="5" style="v" sid="1CO 14:5" />I want all of you to speak in tongues and speak in tongues, but more so that you would prophesy and prophesy.
+        The one who prophesies is more important than the one who speaks in tongues, unless he were to interpret
+        what was spoken in tongues, so that the church would receive edification.<verse eid="1CO 14:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="1CO 14:6" />So now, comrades, if I were to go up to you and proceed to speak in tongues, how would it benefit you,
+        except if I were to convey a revelation, an understanding, a prophecy, or a teaching? <verse eid="1CO 14:6" />
+      <verse number="7" style="v" sid="1CO 14:7" />Nevertheless the inanimate objects which are designed to produce specific, coherent sound patterns, whether
+        we’re talking about a flute or a harp—if one of them were to not put out distinct musical notes, how
+        will the flute-playing or harp-playing be comprehensible? <verse eid="1CO 14:7" />
+      <verse number="8" style="v" sid="1CO 14:8" />Furthermore, if a bugle were to play an indistinguishable tune, who would get into position for battle?<verse eid="1CO 14:8" />
+      <verse number="9" style="v" sid="1CO 14:9" />Similarly, if you were to not form intelligible words in whatever language you speak in, how would what’s
+        spoken be comprehensible? The fact of the matter is that you would just be wasting your breath. <verse eid="1CO 14:9" />
+      <verse number="10" style="v" sid="1CO 14:10" />Who knows just how many different languages there are worldwide, and none of them consists of a set of
+        incomprehensible sounds. <verse eid="1CO 14:10" />
+      <verse number="11" style="v" sid="1CO 14:11" />So if I were to not have the voice-control to utter words correctly in a given language, from the perspective
+        of the person I’m speaking to, I’ll appear to whomever I’m speaking to as though I’m a person from another
+        country who can’t speak the native language, and he’ll appear the same way to me. <verse eid="1CO 14:11" />
+      <verse number="12" style="v" sid="1CO 14:12" />Likewise, you too, since you are zealous of spirituals (i.e., manifestations of the Holy Spirit), seek
+        that which furthers the edification of the church.<verse eid="1CO 14:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1CO 14:13" />In light of this, let the one speaking in tongues pray that he would interpret what he’s speaking. <verse eid="1CO 14:13" />
+      <verse number="14" style="v" sid="1CO 14:14" />You see, if I were to pray in tongues, my spirit would be praying but my mind wouldn’t be involved in
+        the production of the words. <verse eid="1CO 14:14" />
+      <verse number="15" style="v" sid="1CO 14:15" />So what’s the conclusion? I will pray in the Spirit, but I will pray also with the mind. I will sing
+        a song of praise to the Lord in the Spirit, but I will also sing a song with the mind. <verse eid="1CO 14:15" />
+      <verse number="16" style="v" sid="1CO 14:16" />Otherwise, if you were to give a praise, blessing, or consecration with the spirit, a person who isn’t
+        versed in the things of the Spirit and doesn’t speak in tongues—how will he say “amen” (i.e., speak a
+        verbal affirmation) upon hearing Your Blessing, since he doesn’t know what you’re saying? <verse eid="1CO 14:16" />
+      <verse number="17" style="v" sid="1CO 14:17" />For you certainly give a blessing well, but the other person who’s not versed in the things of the Spirit
+        doesn’t get anything out of it. <verse eid="1CO 14:17" />
+      <verse number="18" style="v" sid="1CO 14:18" />I give God thanks that I speak in tongues more than you all, <verse eid="1CO 14:18" />
+      <verse number="19" style="v" sid="1CO 14:19" />but putting that to the side, when I’m in a church I want to speak five words or so using my mind so
+        that I would pass on instruction to others, rather than a million words in an unknown language.<verse eid="1CO 14:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1CO 14:20" />Comrades, don’t become children in your thought processes, but instead, act like toddlers with the evil
+        you’re inundated with and become adults in your thought processes. <verse eid="1CO 14:20" />
+      <verse number="21" style="v" sid="1CO 14:21" />It’s written in the Old Testament:
+    </para>
+    <para style="pi" vid="1CO 14:21"></para>
+    <para style="pi" vid="1CO 14:21">“In different tongues</para>
+    <para style="pi" vid="1CO 14:21">And by the lips of different people</para>
+    <para style="pi" vid="1CO 14:21">I will speak to this folk,</para>
+    <para style="pi" vid="1CO 14:21">And they won’t even hear and obey Me</para>
+    <para style="pi" vid="1CO 14:21">As I speak in this way,” says the Lord<verse eid="1CO 14:21"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="22" style="v" sid="1CO 14:22" />This is the case so much so that the tongues referred to by this Old Testament passage are intended to
+        be a sign (i.e., a miracle God performed, done in such a way to demonstrate beyond any doubt that He
+        did it) not to those who believe but rather to those who refuse to believe. <verse eid="1CO 14:22" />
+      <verse number="23" style="v" sid="1CO 14:23" />So if the entire church were to gather together in one place and everyone were to speak in tongues and
+        a person who isn’t versed in the things of the Spirit or speak in tongues or an unbeliever were to enter,
+        they’d come to the conclusion that you all are insane, wouldn’t they? <verse eid="1CO 14:23" />
+      <verse number="24" style="v" sid="1CO 14:24" />But if everyone were to prophecy and some unbeliever or someone who’s not versed in the Spirit were to
+        enter, everything inside of him will be exposed by everyone, he’ll be examined by everyone, <verse eid="1CO 14:24" />
+      <verse number="25" style="v" sid="1CO 14:25" />the secrets of his heart will get to where they’re out in the open for everyone to see, so that he’ll
+        worship God as he falls on his face, telling everyone that God really is among you.<verse eid="1CO 14:25" />
+    </para>
+    <para style="p">
+      <verse number="26" style="v" sid="1CO 14:26" />What’s the bottom line, comrades? When you get together as a group, each has a hymn, each has a teaching,
+        each has a revelation, each has a message in tongues, each has an interpretation of a message in tongues.
+        Let everything that happens serve the purpose of edification— <verse eid="1CO 14:26" />
+      <verse number="27" style="v" sid="1CO 14:27" />Should someone speak in tongues, let there be two or at the most three messages given at a time one after
+        the other and let one person interpret each message. <verse eid="1CO 14:27" />
+      <verse number="28" style="v" sid="1CO 14:28" />Now if there’s no interpreter, have him remain silent in church, but let him speak in tongues to himself
+        and to God.<verse eid="1CO 14:28" />
+    </para>
+    <para style="p">
+      <verse number="29" style="v" sid="1CO 14:29" />Let a handful of prophets speak, and let the others go through what they prophesy and judge it piece
+        by piece. <verse eid="1CO 14:29" />
+      <verse number="30" style="v" sid="1CO 14:30" />Now if something were to be revealed to another person seated nearby or in the congregation, have the
+        first one silence himself. <verse eid="1CO 14:30" />
+      <verse number="31" style="v" sid="1CO 14:31" />The fact is all of you can prophecy one after another, so that everyone would learn and be exhorted,
+        comforted, counseled, and advised; <verse eid="1CO 14:31" />
+      <verse number="32" style="v" sid="1CO 14:32" />the spirits of prophets are subordinate to and take directions from prophets. <verse eid="1CO 14:32" />
+      <verse number="33" style="v" sid="1CO 14:33" />You see, God is not a product of confusion but of peace.
+    </para>
+    <para style="p" vid="1CO 14:33">As in all the congregations of those who believe in Christ, <verse eid="1CO 14:33"/>
+      <verse number="34" style="v" sid="1CO 14:34" />have the women in the churches keep silent. The fact of the matter is, I don’t allow them to speak aloud
+        addressing the entire congregation, but have them submit instead, just as the Old Testament concurs.<verse eid="1CO 14:34" />
+      <verse number="35" style="v" sid="1CO 14:35" />If they want to learn something in particular, let them ask their husbands at home; it’s disgraceful
+        for a woman to speak aloud in a disrupting way in church you see— <verse eid="1CO 14:35" />
+      <verse number="36" style="v" sid="1CO 14:36" />Or did the word of God issue forth from you? Or are you the only ones it came down and met?<verse eid="1CO 14:36" />
+    </para>
+    <para style="p">
+      <verse number="37" style="v" sid="1CO 14:37" />If someone is considered to be a prophet or spiritual (i.e., the Holy Spirit manifests spiritual gifts
+        through him), let him come to recognize and understand that what I’m writing to you is a commandment
+        from the Lord. <verse eid="1CO 14:37" />
+      <verse number="38" style="v" sid="1CO 14:38" />But if someone will not understand, let him remain without understanding. <verse eid="1CO 14:38" />
+      <verse number="39" style="v" sid="1CO 14:39" />So then, my comrades, seek to prophesy and prophesy and to speak and speak in tongues, not preventing
+        speaking in tongues— <verse eid="1CO 14:39" />
+      <verse number="40" style="v" sid="1CO 14:40" />But let everything be done properly and orderly.<verse eid="1CO 14:40" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 14" />
+  <!--   **********   -->
+  <!--   Chapter 15   -->
+  <!--   **********   -->
+  <chapter number="15" style="c" sid="1CO 15" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 15:1" />I’m making you understand, comrades, the Gospel (i.e., the good-news message) which was evangelized to
+        you, which in addition you received (i.e., took hold of in your hearts and applied to your own selves),
+        and in which you stand (i.e., in this you are established, you remain stable and steadfast, and in this
+        you withstand the pressures of life), <verse eid="1CO 15:1" />
+      <verse number="2" style="v" sid="1CO 15:2" />and through which you are being saved (i.e., time after time being rescued from life’s calamities) by
+        some concept evangelized to you if you keep a tight grip on what you received, unless of course you weren’t
+        serious when you made the decision to believe (i.e., you frivolously, heedlessly, inconsiderately, without
+        purpose, without just cause, without careful thought, without due consideration, or haphazardly made
+        the decision).<verse eid="1CO 15:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="1CO 15:3" />You see, I gave the highest priority to putting into you what I too received, namely that Christ died
+        on behalf of us sinners according to the Scriptures, <verse eid="1CO 15:3" />
+      <verse number="4" style="v" sid="1CO 15:4" />that he was buried, that he rose on the Third Day, <verse eid="1CO 15:4" />
+      <verse number="5" style="v" sid="1CO 15:5" />and that he was seen by Peter, and then after that by the twelve disciples. <verse eid="1CO 15:5" />
+      <verse number="6" style="v" sid="1CO 15:6" />After that he was seen by over five-hundred people at the same time, the majority of whom have stayed
+        alive until now, but some of them have passed away. <verse eid="1CO 15:6" />
+      <verse number="7" style="v" sid="1CO 15:7" />After that, he was seen by James and then by all of the apostles. <verse eid="1CO 15:7" />
+      <verse number="8" style="v" sid="1CO 15:8" />Last of all he was seen by me too, the bastard-stepchild sort of.<verse eid="1CO 15:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="1CO 15:9" />You see, I am the most insignificant of the apostles, one who is not worthy enough to be called an apostle
+        because I persecuted God’s church. <verse eid="1CO 15:9" />
+      <verse number="10" style="v" sid="1CO 15:10" />By the grace of God I am what I am, but His grace wasn’t wasted on me; instead I worked harder than all
+        of them, not me personally but rather the grace of God in conjunction with me. <verse eid="1CO 15:10" />
+      <verse number="11" style="v" sid="1CO 15:11" />So whether I’m the one doing the preaching or those other apostles are the ones doing it, we preach this
+        same message in the same fashion, and you believed this same message in the same fashion.<verse eid="1CO 15:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1CO 15:12" />Now if the belief that Christ was raised from the dead is being preached, how is it that certain individuals
+        among you claim that there is no resurrection from the dead (i.e., once a person dies, his total existence
+        ceases; there is no life after death, nor can a person return from the dead since the moment he dies
+        he ceases to exist)? <verse eid="1CO 15:12" />
+      <verse number="13" style="v" sid="1CO 15:13" />If there’s no resurrection from the dead, not even Christ has been raised from the dead. <verse eid="1CO 15:13" />
+      <verse number="14" style="v" sid="1CO 15:14" />If Christ hasn’t been raised, then our preaching of Christ is a waste of time and your faith is a waste
+        of time— <verse eid="1CO 15:14" />
+      <verse number="15" style="v" sid="1CO 15:15" />And it’ll be obvious to everyone that we lie under oath, since we swore by God under oath that He raised
+        Christ—whom He didn’t raise—from the dead, since the dead supposedly aren’t raised. <verse eid="1CO 15:15" />
+      <verse number="16" style="v" sid="1CO 15:16" />You see, if the dead aren’t raised, not even Christ has been raised. <verse eid="1CO 15:16" />
+      <verse number="17" style="v" sid="1CO 15:17" />But if Christ hasn’t been raised, your faith is pointless; you are still trapped in your sins— <verse eid="1CO 15:17" />
+      <verse number="18" style="v" sid="1CO 15:18" />and those who’ve passed away in Christ have perished too. <verse eid="1CO 15:18" />
+      <verse number="19" style="v" sid="1CO 15:19" />If we who in this life have hoped in Christ have been stranded, we are the most pathetic people of all.<verse eid="1CO 15:19" />
+    </para>
+    <para style="p">
+      <verse number="20" style="v" sid="1CO 15:20" />But it turns out that Christ has been raised from the dead, a premier of those who’ve passed away. <verse eid="1CO 15:20" />
+      <verse number="21" style="v" sid="1CO 15:21" />You see, since death came through a single, specific person, resurrection from the dead (i.e., hope of
+        existing after death; life after death; blissful existence in the afterlife) also came through a single,
+        specific person. <verse eid="1CO 15:21" />
+      <verse number="22" style="v" sid="1CO 15:22" />To this point, just as everyone died (i.e., died spiritually: underwent a stagnation of waste, joylessness,
+        futility, and destruction; eventually died physically) by means of Adam, likewise everyone in Christ
+        shall be made alive by means of Christ too. <verse eid="1CO 15:22" />
+      <verse number="23" style="v" sid="1CO 15:23" />But the resurrection will occur by each person’s ranking: Christ the premier first, then after him those
+        who are affiliated with Christ will be resurrected at his coming, <verse eid="1CO 15:23" />
+      <verse number="24" style="v" sid="1CO 15:24" />then comes the End, when the kingdom of God the Father will be transferred into his hands, entrusted
+        to him for him to do as he wills, when He’ll abolish every ruler, every authority, and every power; <verse eid="1CO 15:24" />
+      <verse number="25" style="v" sid="1CO 15:25" />you see, it’s absolutely necessary that he reign and reign until such a time that all of his enemies
+        be put under his feet (i.e., all his enemies be subjected to him: totally subdued and under his absolute
+        control). <verse eid="1CO 15:25" />
+      <verse number="26" style="v" sid="1CO 15:26" />Death will be the last enemy to be destroyed; <verse eid="1CO 15:26" />
+      <verse number="27" style="v" sid="1CO 15:27" />you see, it’s written, “He put all things under his feet.” When the circumstances arise in which He happens
+        to say “all things have been subjected,” it goes without saying that the Father’s not included in the
+        “all things.” <verse eid="1CO 15:27" />
+      <verse number="28" style="v" sid="1CO 15:28" />But when those circumstances arise when He subjects all things to him, then in addition the son himself
+        will be subjected to the One Who subjected all things to him, so that God would become every little piece
+        of everything.<verse eid="1CO 15:28" />
+    </para>
+    <para style="p">
+      <verse number="29" style="v" sid="1CO 15:29" />But if all this is not the case, what are they going to do, they who are getting themselves baptized
+        as a symbol of their resurrection from the dead? If the dead are definitely not resurrected, why are
+        they being baptized as a symbol of them not being dead? <verse eid="1CO 15:29" />
+      <verse number="30" style="v" sid="1CO 15:30" />Why do we take risks with our lives every moment? <verse eid="1CO 15:30" />
+      <verse number="31" style="v" sid="1CO 15:31" />Day after day I die by the lofty oath sworn to look after you, comrades, which I keep in Christ Jesus
+        our Lord. <verse eid="1CO 15:31" />
+      <verse number="32" style="v" sid="1CO 15:32" />That I had my back against the wall and was fighting for my life in Ephesus, what’s the point of doing
+        it all if the dead aren’t resurrected. Wouldn’t we be better off doing what Isaiah said?—</para>
+    <para style="pi" vid="1CO 15:32"></para>
+    <para style="pi" vid="1CO 15:32">Let us eat and drink and live it up,</para>
+    <para style="pi" vid="1CO 15:32">For tomorrow we shall die<verse eid="1CO 15:32"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="33" style="v" sid="1CO 15:33" />Don’t be fooled into believing that; realize this instead:
+    </para>
+    <para style="pi" vid="1CO 15:33"></para>
+    <para style="pi" vid="1CO 15:33">The wrong crowd corrupts good conduct<verse eid="1CO 15:33"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="34" style="v" sid="1CO 15:34" />Snap out of it and don’t continue in sin. In fact, some of you don’t have a knowing, recognition, or
+        understanding of God. Shame on you.<verse eid="1CO 15:34" />
+    </para>
+    <para style="p">
+      <verse number="35" style="v" sid="1CO 15:35" />Moving on though, someone’s bound to say, “How will the dead be resurrected (i.e., how’s it possible
+        for a dead person to obtain a new body)?” What kind of body will they get in the afterlife? <verse eid="1CO 15:35" />
+      <verse number="36" style="v" sid="1CO 15:36" />How brainless you are! What someone sows doesn’t spring to life unless it happens to die, <verse eid="1CO 15:36" />
+      <verse number="37" style="v" sid="1CO 15:37" />and what one sows isn’t the body (i.e., the same biological form) of what it will become. No—you sow
+        a bare seed…perhaps it’s wheat…perhaps it’s some other grain… <verse eid="1CO 15:37" />
+      <verse number="38" style="v" sid="1CO 15:38" />But God gives it a body (i.e., a plant form) the way He wanted and gives a unique, peculiar body to each
+        type of seed sown. <verse eid="1CO 15:38" />
+      <verse number="39" style="v" sid="1CO 15:39" />Not all flesh (i.e., cell and tissue composition) is the same flesh (i.e., consists of the same kind
+        of tissues, skeleton, muscle, skin, etc.). No—there’s one type of flesh which corresponds to humans,
+        another type of flesh which corresponds to farm animals, another type of flesh to birds, another type
+        of flesh to fish. <verse eid="1CO 15:39" />
+      <verse number="40" style="v" sid="1CO 15:40" />There are bodies (i.e., unique physical entities) in outer-space and bodies on Earth, but no, they’re
+        not the same: there’s one type of glory (i.e., wonder, splendor, awe, something spectacular) for the
+        entities in space vs. another type of glory for the entities on Earth; <verse eid="1CO 15:40" />
+      <verse number="41" style="v" sid="1CO 15:41" />the uniqueness of glory that the sun has is a different glory than the type that the moon has, and there’s
+        a different, unique type for the stars too: in fact one star differs in its glory from that of another
+        star.<verse eid="1CO 15:41" />
+    </para>
+    <para style="p">
+      <verse number="42" style="v" sid="1CO 15:42" />The resurrection from the dead works the same way. The body which is sown is a mortal, decaying body
+        tainted with moral corruption; it’s resurrected an immortal, non-decayable body untainted by moral corruption.<verse eid="1CO 15:42" />
+      <verse number="43" style="v" sid="1CO 15:43" />It’s sown in dishonor, it’s resurrected in glory; sown in weakness, raised in power; <verse eid="1CO 15:43" />
+      <verse number="44" style="v" sid="1CO 15:44" />sown a soul-body (i.e., a body having all the quintessential human elements: one that has a thirst for
+        the things of this life, that thinks and feels as humans do, has human frailties), raised a spiritual-body.
+        If it is a soul-body, it is also a spiritual-body: <verse eid="1CO 15:44" />
+      <verse number="45" style="v" sid="1CO 15:45" />this is also the way it’s written in the Old Testament,
+    </para>
+    <para style="pi" vid="1CO 15:45"></para>
+    <para style="pi" vid="1CO 15:45">The first man Adam became a living-soul</para>
+    <para style="pi" vid="1CO 15:45"></para>
+    <para style="m" vid="1CO 15:45">…The Last Adam became a sprung-to-life-spirit. <verse eid="1CO 15:45"/>
+      <verse number="46" style="v" sid="1CO 15:46" />No, the first Adam wasn’t the spiritual-body prototype-man rather the soul-body prototype-man, then came
+        the spiritual-body prototype-man. <verse eid="1CO 15:46" />
+      <verse number="47" style="v" sid="1CO 15:47" />The first man came out of the earth’s dirt, the second man came out of the spiritual world. <verse eid="1CO 15:47" />
+      <verse number="48" style="v" sid="1CO 15:48" />As the dirt is, so too are the dirt-creations; as the spiritual world is, so too are the spiritual-creations.<verse eid="1CO 15:48" />
+      <verse number="49" style="v" sid="1CO 15:49" />And just as we bore the image of the dirt, let us bear the image of the spiritual as well.<verse eid="1CO 15:49" />
+    </para>
+    <para style="p">
+      <verse number="50" style="v" sid="1CO 15:50" />I’ll say this, comrades, that flesh and blood (i.e., the best that human ability can muster) cannot inherit
+        the kingdom of God (i.e., cannot put you in a place where you have a relationship with God; where God
+        works in and through your life); neither does decayable mortality tainted with moral corruption inherit
+        non-decayable immortality untainted by moral corruption.<verse eid="1CO 15:50" />
+    </para>
+    <para style="p">
+      <verse number="51" style="v" sid="1CO 15:51" />Hey—I’ll tell you a mystery: we all shall not sleep (i.e., stay dead forever), but we all shall be changed<verse eid="1CO 15:51" />
+      <verse number="52" style="v" sid="1CO 15:52" />in a split-second, in the time it takes to blink an eye, at the last bugle call: the bugle shall sound
+        off, and the dead will be raised and become non-decayable immortals untainted by moral corruption. Yes,
+        we ourselves shall be changed. <verse eid="1CO 15:52" />
+      <verse number="53" style="v" sid="1CO 15:53" />You see, this decayable mortality must put on non-decayable immortality, and this mortal nature must
+        put on an immortal nature. <verse eid="1CO 15:53" />
+      <verse number="54" style="v" sid="1CO 15:54" />When this decayable mortality shall have put on non-decayable immortality, and this mortal nature shall
+        have put on an immortal nature, then the verses will come to pass which say,</para>
+    <para style="pi" vid="1CO 15:54"></para>
+    <para style="pi" vid="1CO 15:54">Death is engulfed by victory.<verse eid="1CO 15:54"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="pi">
+      <verse number="55" style="v" sid="1CO 15:55" />Death, where is your victory?
+    </para>
+    <para style="pi" vid="1CO 15:55">Death, where is your sting?<verse eid="1CO 15:55"/>
+    </para>
+    <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
+    <para style="m">
+      <verse number="56" style="v" sid="1CO 15:56" />The sting of death is sin, and the power of sin is the Law (i.e., the Law of Moses; the set of commandments
+        given by God)— <verse eid="1CO 15:56" />
+      <verse number="57" style="v" sid="1CO 15:57" />But thank-you God, Who gives us the victory through our Lord Jesus Christ.<verse eid="1CO 15:57" />
+    </para>
+    <para style="p">
+      <verse number="58" style="v" sid="1CO 15:58" />So then, my dear comrades, get to where you’re unshakeable, un-moveable, and un-perturbable, abounding
+        and proliferating in the Lord’s work at all times, knowing for certain that your work in the Lord is
+        not for nothing, is not going to waste.<verse eid="1CO 15:58" />
+    </para>
+    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+  <chapter eid="1CO 15" />
+  <!--   **********   -->
+  <!--   Chapter 16   -->
+  <!--   **********   -->
+  <chapter number="16" style="c" sid="1CO 16" />
+    <para style="p">
+      <verse number="1" style="v" sid="1CO 16:1" />Concerning the matter of taking up a collection for the poor and sending it to God’s people in Jerusalem,
+        do the same thing that I commanded the churches in Galatia to do: <verse eid="1CO 16:1" />
+      <verse number="2" style="v" sid="1CO 16:2" />Let each of you in private stash away a bit of your money every Sunday—whatever you can afford—so that
+        when I come, there won’t be any collection-taking going on then. <verse eid="1CO 16:2" />
+      <verse number="3" style="v" sid="1CO 16:3" />When I make it over to your place, whomever you happen to decide upon to write letters of recommendation
+        for, I’ll dispatch as couriers to take your gift to Jerusalem. <verse eid="1CO 16:3" />
+      <verse number="4" style="v" sid="1CO 16:4" />If there happens to be an issue of respect, they’ll come with me when I depart.<verse eid="1CO 16:4" />
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="1CO 16:5" />I’ll come your way when I pass through Macedonia; I’ll be passing through Macedonia, you see. <verse eid="1CO 16:5" />
+      <verse number="6" style="v" sid="1CO 16:6" />Perhaps I’ll stay with you a while or even spend the winter, so that you’ll send me on my way refreshed
+        and prepared for the journey wherever I happen to go; <verse eid="1CO 16:6" />
+      <verse number="7" style="v" sid="1CO 16:7" />you see, at the moment I don’t want to just stop by for a short visit while passing through the area;
+        you see, I hope to stay a while with you, if the Lord permits. <verse eid="1CO 16:7" />
+      <verse number="8" style="v" sid="1CO 16:8" />I’ll stay in Ephesus until Pentecost (i.e., until late May to early June). <verse eid="1CO 16:8" />
+      <verse number="9" style="v" sid="1CO 16:9" />In fact, a great door (i.e., a tremendous opportunity) has been opened for me and it looks promising,
+        but I’ll have to face many adversaries.<verse eid="1CO 16:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="1CO 16:10" />If Timothy happens to show up, see to it that he doesn’t get to where he’s intimidated by you; he’s doing
+        the Lord’s work like I’m doing, you see, <verse eid="1CO 16:10" />
+      <verse number="11" style="v" sid="1CO 16:11" />so don’t let anyone treat him disrespectfully or despise him. Send him forth to his next destination
+        in peace (i.e., take care of him, treat him well, and send him out prepared for the journey), so that
+        he manages to come to me, for I expect him with the group of comrades who’ll be coming.<verse eid="1CO 16:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="1CO 16:12" />Concerning Comrade Apollos…I’ve encouraged him an awful lot to pay you a visit, doing so by travelling
+        with the comrades who’ll be coming, and it wasn’t his desire altogether to go at this time, but he’ll
+        go in good time.<verse eid="1CO 16:12" />
+    </para>
+    <para style="p">
+      <verse number="13" style="v" sid="1CO 16:13" />Stay focused, take a firm stand in the faith, man up, seize control and hold on tightly. <verse eid="1CO 16:13" />
+      <verse number="14" style="v" sid="1CO 16:14" />Let everything you do manifest itself in love.<verse eid="1CO 16:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="1CO 16:15" />I appeal to you, comrades…you know first-hand Stephanas’s household, since they’re the crème de la crème
+        of the converts of Achaia and have been put in positions of deacons for God’s people, the saints…<verse eid="1CO 16:15" />
+      <verse number="16" style="v" sid="1CO 16:16" />I appeal to you that you too would submit to such fine individuals as these and to all the fellow-workers
+        and laborers. <verse eid="1CO 16:16" />
+      <verse number="17" style="v" sid="1CO 16:17" />I’m so glad that Stephanas, Fortunatus, and Achaicus showed up, that these fellows filled in the pieces
+        that you’re missing: <verse eid="1CO 16:17" />
+      <verse number="18" style="v" sid="1CO 16:18" />they gave rest to my spirit and to yours, so recognize the character and contribution of men such as
+        these.<verse eid="1CO 16:18" />
+    </para>
+    <para style="p">
+      <verse number="19" style="v" sid="1CO 16:19" />The churches in the Roman province of Asia send their greetings to you. Aquila and Priscilla send many
+        greetings to you in the Lord and are joined in their greetings with the group of Christians who meet
+        in their house. <verse eid="1CO 16:19" />
+      <verse number="20" style="v" sid="1CO 16:20" />All the comrades greet you. Give each other a hearty handshake and an affectionate hug—holy ones—for
+        me.<verse eid="1CO 16:20" />
+    </para>
+    <para style="p">
+      <verse number="21" style="v" sid="1CO 16:21" />The greeting written here is in my own handwriting, that of Paul’s. <verse eid="1CO 16:21" />
+      <verse number="22" style="v" sid="1CO 16:22" />If anyone doesn’t like the Lord a lot, let him be accursed. Maranatha (Do come Lord).<verse eid="1CO 16:22" />
+    </para>
+    <para style="p">
+      <verse number="23" style="v" sid="1CO 16:23" />The grace of the Lord Jesus be with you all. <verse eid="1CO 16:23" />
+      <verse number="24" style="v" sid="1CO 16:24" />May my love be with all of you in Christ Jesus.<verse eid="1CO 16:24" />
+    </para>
+  <chapter eid="1CO 16" />
+</usx>

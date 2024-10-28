@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Bernmeister's New Testament, Unabridged Edition -->
+<!-- Copyright © 2024 Bernard M. Woodland -->
+<!-- Version 1 -->
+<!-- Public domain -->
+<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<usx version="3.0">
+  <!--   *******************   -->
+  <!--   Titles and TOC Info   -->
+  <!--   *******************   -->
+  <book code="TIT" style="id">The Bernmeister's NT, Unabridged</book>
+  <para style="h">Titus</para>
+  <para style="toc1">The Epistle of Titus</para>
+  <para style="toc2">Titus</para>
+  <para style="toc3">Titus</para>
+  <para style="mt2">THE EPISTLE OF</para>
+  <para style="mt1">TITUS</para>
+  <!--   ************   -->
+  <!--   Introduction   -->
+  <!--   ************   -->
+  <para style="imt">Introduction</para>
+  <para style="ipi">Titus, though not mentioned by name much in the NT, was nevertheless an assistant Paul relied heavily
+    on. The amount Paul relied on such assistants (“deacons” in fact) becomes apparent from reading this
+    epistle and Paul’s epistles to Timothy, as his churches were spread out through the Roman Empire. What
+    Paul tells Titus is similar—almost exactly the same in points—to what he tells Timothy, and from this
+    we can deduce that the guidelines Paul established for running the churches were uniform.</para>
+  <para style="ipi">Though Titus is not quoted as much as other books, it is a hidden gem lying in the rough, waiting for
+    the curious treasure-seeker to spot it, pick it up, wipe the dirt off it, and place it amongst his collection.</para>
+  <para style="ib"></para>
+  <!--   **********   -->
+  <!--   Chapter  1   -->
+  <!--   **********   -->
+  <chapter number="1" style="c" sid="TIT 1" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 1:1" />Paul, a menial servant of God but <char style="it">yet</char> an apostle (i.e., a missionary) of Jesus
+        Christ according to <char style="it">the </char>Faith of God’s chosen <char style="it">people </char>and
+        <char style="it">the </char>recognition of the truth which is reflective of godliness <verse eid="TIT 1:1" />
+      <verse number="2" style="v" sid="TIT 1:2" /><char style="it">which rests </char>upon a living hope of eternal life, which the God Who Won’t Lie promised
+        before time immemorial<char style="sup">[a]</char>— <verse eid="TIT 1:2" />
+      <verse number="3" style="v" sid="TIT 1:3" />But He manifested His word in individual periods of human history<char style="sup">[b]</char> by means
+        of preaching, preaching that I was entrusted with according to the commandment of God our Savior:<verse eid="TIT 1:3" />
+    </para>
+    <para style="p">
+      <verse number="4" style="v" sid="TIT 1:4" />To Titus, a real son<char style="sup">[c]</char> according to <char style="it">the </char>common Faith:
+    </para>
+    <para style="p" vid="TIT 1:4">Grace and peace from <char style="it">the </char>Father God and Christ Jesus our savior.<verse eid="TIT 1:4"/>
+    </para>
+    <para style="p">
+      <verse number="5" style="v" sid="TIT 1:5" />The reason I left you behind in Crete is so that you would tidy up the remaining items and would <char
+        style="it">go </char>from city to city and appoint elders (i.e., church board members) like I told you
+        to do. <verse eid="TIT 1:5" />
+      <verse number="6" style="v" sid="TIT 1:6" />If a given <char style="it">candidate</char> is without moral flaws, the husband of one wife (i.e., not
+        divorced and remarried), <char style="it">the </char>children <char style="it">he has </char>are trustworthy,
+        not ones who can be fairly accused of having a reckless disregard for their own self-preservation or
+        of being rebellious, <char style="it">then he’s met the minimum qualifications to be an elder.</char><verse eid="TIT 1:6" />
+    </para>
+    <para style="p">
+      <verse number="7" style="v" sid="TIT 1:7" />The fact is, a bishop<char style="sup">[A]</char> (i.e., a head pastor), as the steward of God’s house,
+        must be without moral flaws; not stubborn or self-willed; not hot-tempered; not a heavy drinker; not
+        pugnacious or a bully; not always trying to make a fast buck through shady business practices; <verse eid="TIT 1:7" />
+      <verse number="8" style="v" sid="TIT 1:8" />but instead hospitable, able to reach out to others, one who likes and can work with people who are different
+        than himself; a lover of all things good; sensible, serious, and level-headed; just and fair; holy; self-controlled,
+        disciplined, and having one’s impulses under control; <verse eid="TIT 1:8" />
+      <verse number="9" style="v" sid="TIT 1:9" />clinging to the tried-and-true message<char style="sup">[d]</char> reflective of the doctrine <char style="it">we
+        teach</char>, so that he’d be capable of both exhorting and encouraging <char style="it">others</char>
+        in the Sound Doctrine and correcting those who oppose it.<verse eid="TIT 1:9" />
+    </para>
+    <para style="p">
+      <verse number="10" style="v" sid="TIT 1:10" />The fact of the matter is that there are those who refuse to submit to authority, those who say nothing
+        when they speak and who are deceivers, especially those<char style="it"> who came</char> out of the circumcision
+        (i.e., those whose background was that they were following the Law of Moses), <verse eid="TIT 1:10" />
+      <verse number="11" style="v" sid="TIT 1:11" />who must be silenced, people in particular who subvert entire households, teaching things they mustn’t
+        for morally unacceptable gain. <verse eid="TIT 1:11" />
+      <verse number="12" style="v" sid="TIT 1:12" />One of their own prophets said, “Cretans <char style="it">are</char> always liars, vicious brutes<char
+        style="sup">[e]</char>, <char style="it">and </char>fat blimps<char style="sup">[f]</char>.”<char style="sup">[B]</char><verse eid="TIT 1:12" />
+      <verse number="13" style="v" sid="TIT 1:13" />I’m quoting a reliable source<char style="sup">[g]</char>. You<char style="it"> must </char>severely
+        correct them for this reason: so that they’ll be healthy in the Faith; <verse eid="TIT 1:13" />
+      <verse number="14" style="v" sid="TIT 1:14" />so they won’t pay any attention to Jewish fables and to the commandments of people who are turning them
+        away from the truth.<verse eid="TIT 1:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 1:15" />All things <char style="it">are </char>clean<char style="sup">[C]</char> (i.e., according to the Law
+        of Moses, eligible to be touched, handled, and used; absent any defilement) to those who are clean; but
+        to those who have been defiled (i.e., who’ve become tainted and are no longer clean) and who refuse to
+        believe, nothing is pure—no, not a chance—both their minds and their consciences have come to be defiled.<verse eid="TIT 1:15" />
+      <verse number="16" style="v" sid="TIT 1:16" />They profess to know God, but <char style="it">their profession</char> is repudiated by <char style="it">their</char>
+        actions, <char style="it">as these people </char>are detestable, disobedient, and failures when comes
+        to any good deed.<verse eid="TIT 1:16" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">time immemorial</char>…Lit: <char style="it">eternal times</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">individual periods of human history</char>…Lit: <char style="it">their own seasons</char>.
+        Same phrase used in 1 Tim. 2:6;6:15.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">son</char>…Or: <char style="it">child</char></char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">tried-and-true message</char>…Lit: <char style="it">trustworthy word</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">vicious brutes</char>…Lit: <char style="it">evil animals</char></char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">fat blimps</char>…Lit: <char style="it">free-from-labor bellies</char>. Some liberties
+        taken. The <char style="it">Expositor’s Greek Testament</char> says, “He [the poet] has in his mind the
+        belly, as it obtrudes on the beholder and is a burden to the possessor.”</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">I’m quoting a reliable source</char>…Lit: <char style="it">the testimony itself is true</char></char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">bishop</char>…Ref. note of 1 Cor. 15:24. As vv. 5–6 address qualifications for elders
+        and v. 7 begins with a coordinating conjunction, it stands to reason that, at least for the churches
+        Titus was dealing with, elders were bishops and vice-versa. This supports the theory that the ancient
+        church was originally run by elders but later on transitioned to one which was run by bishops instead.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">”Cretans are always liars, vicious brutes, and fat blimps”</char>…From the sounds of
+        it, this prophet was parroting an outrageously false, negative ethnic stereotype about Cretans, which
+        the prophet categorically applies to all Cretans. Paul is vehemently condemning that kind of language.</char>
+    </note>
+    <note caller="[C]" style="f">
+      <char style="fk">[C]</char>
+      <char style="ft"><char style="it">clean</char>…Also: <char style="it">pure</char>. Paul’s usage of clean and defiled here
+        is a metaphor to the OT concepts of clean and unclean, concepts which are deeply rooted in the Law of
+        Moses and touch all the temple rituals and quite a lot of other things. Once something was defiled (tainted),
+        it could no longer be used in the temple service. Care had to be taken to keep or maintain people or
+        things in a state of cleanness.</char>
+      <char style="fp"></char>
+      <char style="ft">The metaphor presented here is that a person who’s clean is one who’s pure in mind and spirit, and everything
+        that person handles is automatically clean. A person who’s pure will look at any fact, teaching, philosophy,
+        etc. and come up with practical applications, anecdotes, life-lessons, analogies, etc. which are pure,
+        meaning they’ll support or complement Christian truths, principles, and values. But anyone who’s defiled,
+        any fact, teaching, philosophy, etc. will ultimately lead to something twisted, to the point of contradicting
+        Christian truths, principles, and values.</char>
+    </note>
+  <chapter eid="TIT 1" />
+  <!--   **********   -->
+  <!--   Chapter  2   -->
+  <!--   **********   -->
+  <chapter number="2" style="c" sid="TIT 2" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 2:1" />Now talk <char style="it">in a way </char>that makes sound doctrine more pronounced and more palatable<char
+        style="sup">[a]</char>.<verse eid="TIT 2:1" />
+    </para>
+    <para style="p">
+      <verse number="2" style="v" sid="TIT 2:2" /><char style="it">I expect</char> the older men<char style="sup">[b]</char> to be self-controlled and
+        to exercise moderation in vices such as drinking; to be honorable and respectable; to be sensible, serious,
+        and level-headed; healthy in faith, love, perseverance. <verse eid="TIT 2:2" />
+      <verse number="3" style="v" sid="TIT 2:3" />Likewise, older women should behave in a reverent manner; not be slanderers; not have reached the point
+        where they have a compulsion to drink a lot<char style="sup">[c]</char>; be ones who teach others to
+        strive for excellence<char style="sup">[d]</char>, <verse eid="TIT 2:3" />
+      <verse number="4" style="v" sid="TIT 2:4" />so that they could train the young women to maintain a discipline of sensibility and self-control which
+        causes them to have a strong friendship with their husbands and enjoy their companionship<char style="sup">[A]</char>,
+        and train them to do the same for their children; <verse eid="TIT 2:4" />
+      <verse number="5" style="v" sid="TIT 2:5" />to be sensible, serious, and level-headed; to be chaste<char style="sup">[B]</char>; to be good housekeepers
+        and homemakers, submitting<char style="sup">[e]</char> to their husbands, so that the word of God not
+        be spoken badly of.<verse eid="TIT 2:5" />
+    </para>
+    <para style="p">
+      <verse number="6" style="v" sid="TIT 2:6" />Likewise, I exhort and encourage the young men to be sensible, serious, and level-headed <verse eid="TIT 2:6" />
+      <verse number="7" style="v" sid="TIT 2:7" />in every aspect <char style="it">of their life</char>, putting yourself out there as an example of <char
+        style="it">a lifestyle characterized by </char>fine deeds; to be incorruptible in <char style="it">their
+        adherence to </char>the teaching <char style="it">of Christianity</char>; to be dignified; <verse eid="TIT 2:7" />
+      <verse number="8" style="v" sid="TIT 2:8" />to have wholesome speech which is unassailable to accusation, so the opposition camp would be humiliated
+        by not having anything bad to say about <char style="it">them</char>.<verse eid="TIT 2:8" />
+    </para>
+    <para style="p">
+      <verse number="9" style="v" sid="TIT 2:9" /><char style="it">I exhort and encourage </char>slaves to submit to their masters in all respects; to
+        be pleasing and to not give <char style="it">their masters </char>any backtalk; <verse eid="TIT 2:9" />
+      <verse number="10" style="v" sid="TIT 2:10" />to not go around stealing things, but to instead demonstrate that they’re good people and can be trusted
+        in every regard, so that <char style="it">slaves acting this way</char> would in every regard be a feather
+        in the cap (so to speak)<char style="sup">[f]</char> of the teaching of God our Savior.<verse eid="TIT 2:10" />
+    </para>
+    <para style="p">
+      <verse number="11" style="v" sid="TIT 2:11" />In fact, the grace of God, <char style="it">which is</char> salvation, shined to all people, <verse eid="TIT 2:11" />
+      <verse number="12" style="v" sid="TIT 2:12" />training us to deny<char style="sup">[g]</char> the ungodliness and the strong, worldly desires, so we
+        would live in the present age sensibly, with self-control, justly, and godly, <verse eid="TIT 2:12" />
+      <verse number="13" style="v" sid="TIT 2:13" />awaiting the blessed hope and the appearance of the glory of our Great God and of our savior Christ Jesus,<verse eid="TIT 2:13" />
+      <verse number="14" style="v" sid="TIT 2:14" />who gave himself for us so that he would redeem us (i.e., recover for us what we once had) from any sort
+        of wickedness and lawlessness (i.e., a refusal to be restrained by the rules of God or of man) and clean
+        and purify for himself a special people, ones who have a zeal for doing good works.<verse eid="TIT 2:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 2:15" />Communicate these things and encourage, exhort, and correct while staying in full control of the situation:
+        don’t let anyone look down on you.<verse eid="TIT 2:15" />
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">talk in a way that makes sound doctrine more pronounced and more palatable</char>…Lit:
+        <char style="it">speak that which makes sound doctrine stand out</char> [or <char style="it">becoming</char>].
+        Uncertain of the correctness of the rendering.</char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">the older men</char>…Or: <char style="it">elders</char>. The GT is ambiguous.</char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">reached the point where they have a compulsion to drink a lot</char>…Also: <char style="it">heavy-drinking
+        alcoholics</char>…Lit: having been enslaved to much wine. </char>
+    </note>
+    <note caller="[d]" style="f">
+      <char style="fk">[d]</char>
+      <char style="ft"><char style="it">be ones who teach others to strive for excellence</char>…Lit: <char style="it">excellence-teacher</char></char>
+    </note>
+    <note caller="[e]" style="f">
+      <char style="fk">[e]</char>
+      <char style="ft"><char style="it">submitting</char>…Ref. note of 1 Pet. 2:18</char>
+    </note>
+    <note caller="[f]" style="f">
+      <char style="fk">[f]</char>
+      <char style="ft"><char style="it">would be a feather in the cap (so to speak)</char>…Lit: <char style="it">would adorn</char>.
+        Some liberties taken.</char>
+    </note>
+    <note caller="[g]" style="f">
+      <char style="fk">[g]</char>
+      <char style="ft"><char style="it">deny</char>…Also: <char style="it">renounce</char>. Unexpected verb tense used here.</char>
+      <char style="fp"></char>
+    </note>
+    <note caller="[A]" style="f">
+      <char style="fk">[A]</char>
+      <char style="ft"><char style="it">have a strong friendship with their husbands and enjoy their companionship</char>…Lit:
+        <char style="it">husband-love</char>. Note the root word for <char style="it">love </char>used here is
+        not <char style="it">agapā </char><char style="w" strong="G00026">ἀγάπη</char>) but <char style="it">philo.
+        </char>Ref. note of John 12:25 and other places for differences in these words. One of the few places
+        in the NT where women are told to love their husband, and the love is a <char style="it">philo-</char>love
+        not and agapā<char style="it"> -</char>love. Contrast that to Ephesians where husbands are commanded
+        to <char style="it">agapā </char>their wives. Philo-love is an enjoyment of the fellowship and companionship
+        two people have, like when David loved Jonathan. Agapā<char style="it"> </char>-love is a love that sees
+        value in the other person, sometimes in spite of what they’re doing, or (and this is in contrast to philo-love)
+        to love them without them reciprocating. Philo-love is a reciprocating love; agapā<char style="it"> </char>-love
+        is not necessarily reciprocal. In the NT, the same root-word <char style="it">philo </char>also means
+        <char style="it">to kiss. </char>In ancient times (and even a bit in modern times), kisses were not a
+        token of romantic love, but tokens of friendship, fellowship, and personal connection. Women must be
+        taught to philo-love their husbands, because the alternative is to become bored with them. When they
+        do, they sometimes go looking for another man to bring excitement into their lives.</char>
+    </note>
+    <note caller="[B]" style="f">
+      <char style="fk">[B]</char>
+      <char style="ft"><char style="it">chaste</char>…Also: <char style="it">pure;</char> <char style="it">holy</char>. The
+        Gk. word <char style="it">hagnos </char><char style="w" strong="G00053">ἁγνός</char>), which is derived
+        from the usual word for <char style="it">holy</char> and the word for <char style="it">sanctification.
+        </char>Note that Paul used a different word for <char style="it">holy </char>[<char style="it">hosios,
+        </char><char style="w" strong="G03741">ὅσιος</char>)]in 1 Tim. 2:8, in “lifting up holy hands.” Hosios
+        also appears in 1:8 as a characteristic for bishops. One expects to find hosios used in 2:5 here, not
+        hagnos. So the words should be more closely examined. The root-meaning of hagnos is separation. In the
+        OT, things which were holy were separated from the unclean in order to preserve their holiness. This
+        is hagnos. So when hagnos is used in reference to women, it’s talking about a separation—a separation
+        even from men in a sexual way. This is how it’s acquired the means of <char style="it">chaste </char>(meaning
+        kept sexually separate) in this verse here. Paul might’ve meant chaste exclusively and not pure or holy—we
+        don’t know.</char>
+    </note>
+  <chapter eid="TIT 2" />
+  <!--   **********   -->
+  <!--   Chapter  3   -->
+  <!--   **********   -->
+  <chapter number="3" style="c" sid="TIT 3" />
+    <para style="p">
+      <verse number="1" style="v" sid="TIT 3:1" />Keep reminding them to submit to and comply with rulers who have <char style="it">legitimate</char> authority
+        <char style="it">over you</char> and to be prepared to do any sort of good deed <verse eid="TIT 3:1" />
+      <verse number="2" style="v" sid="TIT 3:2" />without saying bad things <char style="it">about what you’re having to do, </char>not being quarrelsome
+        <char style="it">when you’re doing it, </char>not being inflexible about every little detail—in every
+        way possible demonstrating a gentleness towards people borne out of self-restraint.<verse eid="TIT 3:2" />
+    </para>
+    <para style="p">
+      <verse number="3" style="v" sid="TIT 3:3" />The fact is, we were mindless back then, disobedient, deceived, enslaved to a variety of strong desires
+        (including sexual desires) and pleasures, spending our lives in malice, in envy, detestable people hating
+        each other. <verse eid="TIT 3:3" />
+      <verse number="4" style="v" sid="TIT 3:4" />But when the goodness and benevolence of God our Savior shined on us, <verse eid="TIT 3:4" />
+      <verse number="5" style="v" sid="TIT 3:5" /><char style="it">it did not originate </char>out of things we did in <char style="it">a state of </char>righteousness,
+        but He saved us instead according to His mercy on account of a<char style="it"> </char>washing of <char
+        style="it">the</char> new birth and a renewal of <char style="it">the</char> Holy Spirit, <verse eid="TIT 3:5" />
+      <verse number="6" style="v" sid="TIT 3:6" />which He poured out on us copiously through Jesus Christ our savior, <verse eid="TIT 3:6" />
+      <verse number="7" style="v" sid="TIT 3:7" />so that, having been made righteous in that grace, we heirs would be born to a hope of eternal life (i.e.,
+        that special fullness of life).<verse eid="TIT 3:7" />
+    </para>
+    <para style="p">
+      <verse number="8" style="v" sid="TIT 3:8" />You can count on <char style="it">this</char> statement being true<char style="sup">[a]</char>: I’ve
+        thought about these things, and what I want you to do is to emphasize them, so that those who have come
+        to believe in God would be intent on prioritizing good works. These things <char style="it">I’m having
+        you do </char>are good and benefit the people. <verse eid="TIT 3:8" />
+      <verse number="9" style="v" sid="TIT 3:9" />But do your best to avoid stupid debates, <char style="it">obsessions with </char>genealogies, and conflicts
+        and fights over law (i.e., from a conceptual perspective, over a codified list of God’s commandments,
+        in particular the Law of Moses), for they are useless and pointless. <verse eid="TIT 3:9" />
+      <verse number="10" style="v" sid="TIT 3:10" />Shun a heretic (i.e., a person who breaks people off from the accepted doctrine or school of thought
+        and forms a sect out of them) after giving him two clear warnings<char style="sup">[b]</char>, <verse eid="TIT 3:10" />
+      <verse number="11" style="v" sid="TIT 3:11" />knowing from firsthand experience that that kind of person is twisted, has no morals<char style="sup">[c]</char>,
+        and is sinning, being condemned for what’s going on inside of himself<char style="sup">[d]</char>.<verse eid="TIT 3:11" />
+    </para>
+    <para style="p">
+      <verse number="12" style="v" sid="TIT 3:12" />When I do send Artemis to you or <char style="it">maybe </char>Tychicus, as fast as you can come visit
+        me in Nicopolis, since I’ve decided to spend the winter there. <verse eid="TIT 3:12" />
+      <verse number="13" style="v" sid="TIT 3:13" />Send Zenas the lawyer and Apollos on their journey as soon as you can, <char style="it">and check with
+        them first </char>so that <char style="it">they don’t leave without taking something</char> they need.<verse eid="TIT 3:13" />
+    </para>
+    <para style="p">
+      <verse number="14" style="v" sid="TIT 3:14" />But let our own people also learn to emphasize good works that have the goal of meeting the needs <char
+        style="it">of others</char>, so that they’re not unproductive <char style="it">with their time and resources</char>.<verse eid="TIT 3:14" />
+    </para>
+    <para style="p">
+      <verse number="15" style="v" sid="TIT 3:15" />Everyone with me sends their greetings. Greet those who love us in faith.
+    </para>
+    <para style="p" vid="TIT 3:15">The grace <char style="it">of God be </char>with you all.<verse eid="TIT 3:15"/>
+    </para>
+  <!--   .........   -->
+  <!--   Footnotes   -->
+  <!--   .........   -->
+    <note caller="[a]" style="f">
+      <char style="fk">[a]</char>
+      <char style="ft"><char style="it">You can count on this statement being true</char>…Lit: <char style="it">The word is
+        faithful</char></char>
+    </note>
+    <note caller="[b]" style="f">
+      <char style="fk">[b]</char>
+      <char style="ft"><char style="it">after giving him two clear warnings</char>…Lit: <char style="it">with one and two warnings</char></char>
+    </note>
+    <note caller="[c]" style="f">
+      <char style="fk">[c]</char>
+      <char style="ft"><char style="it">twisted, has no morals</char>…Lit: <char style="it">turned inside out</char>. Danker
+        and Bauer says, “to turn aside from what is considered true or morally proper.”</char>
+    </note>
+  <chapter eid="TIT 3" />
+</usx>
