@@ -7,11 +7,8 @@ operator: Bernie
 
 ## Overview
 
-The file `./releases/ms-word/the-bernmeisters-new-testament-v1-unabridged.docx`
-is the translation.
-
 This GitHub is the distribution point for a translation of the New
-Testament (NT) called *The Bernmeister's New Testament *(TBNT)*. *The
+Testament (NT) called *The Bernmeister's New Testament* (TBNT). The
 control copy/master copy of this translation is 
 `./releases/ms-word/the-bernmeisters-new-testament-v1-unabridged.docx`.
 All other formats are ultimately derived from this source.
