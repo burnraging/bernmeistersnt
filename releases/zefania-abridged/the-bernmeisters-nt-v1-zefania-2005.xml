@@ -18,7 +18,7 @@
     <source>the Bible</source>
     <language>ENG</language>
   </INFORMATION>
-  <BIBLEBOOK bnumber="39" bname="Matthew" bsname="Matt.">
+  <BIBLEBOOK bnumber="40" bname="Matthew" bsname="Matt.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">A Genealogical Record of Jesus Christ, Descendent of David and of Abraham:</VERS>
       <VERS vnumber="2"><BR art="x-nl"/><BR art="x-nl"/>Abraham had Isaac, Isaac had Jacob,Jacob had
@@ -2383,7 +2383,7 @@
         present era is all wrapped up.”</STYLE></VERS>
     </CHAPTER> <!-- end of Matthew chapter 28 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="40" bname="Mark" bsname="Mark">
+  <BIBLEBOOK bnumber="41" bname="Mark" bsname="Mark">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">The Beginning of the Good News of Jesus Christ, Son of God</VERS>
       <VERS vnumber="2"><BR art="x-nl" count="2"/><BR art="x-nl"/><BR art="x-nl"/>…Just as it had been
@@ -3855,7 +3855,7 @@
         on the spot, right on their heels.</VERS>
     </CHAPTER> <!-- end of Mark chapter 16 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="41" bname="Luke" bsname="Luke">
+  <BIBLEBOOK bnumber="42" bname="Luke" bsname="Luke">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">In light of the fact that many have attempted to compose a narrative concerning
         the deeds which have been carried out to fulfillment among us,</VERS>
@@ -6469,7 +6469,7 @@
       <VERS vnumber="53">and were in the temple blessing God throughout it all.</VERS>
     </CHAPTER> <!-- end of Luke chapter 24 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="42" bname="John" bsname="John">
+  <BIBLEBOOK bnumber="43" bname="John" bsname="John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">In the beginning was the Concept, and the Concept was with God, and the Concept
         was God, having His very nature.</VERS>
@@ -8437,7 +8437,7 @@
         to store all the scrolls that would be written.</VERS>
     </CHAPTER> <!-- end of John chapter 21 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="43" bname="Acts" bsname="Acts">
+  <BIBLEBOOK bnumber="44" bname="Acts" bsname="Acts">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Indeed now—the previous composition which I drafted about everything, oh Theophilus,
         about what Jesus proceeded to do and do and teach and teach</VERS>
@@ -10800,7 +10800,7 @@
         confidence.</VERS>
     </CHAPTER> <!-- end of Acts chapter 28 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="44" bname="Romans" bsname="Rom.">
+  <BIBLEBOOK bnumber="45" bname="Romans" bsname="Rom.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, servant of Christ Jesus, called as a missionary, designated to God’s good
         news—the Gospel,</VERS>
@@ -11939,7 +11939,7 @@
       <VERS vnumber="27">to the One Wise God be glory through Jesus Christ forever. And with that I conclude.</VERS>
     </CHAPTER> <!-- end of Romans chapter 16 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="45" bname="1 Corinthians" bsname="1 Cor.">
+  <BIBLEBOOK bnumber="46" bname="1 Corinthians" bsname="1 Cor.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">From Paul, who has the calling of an apostle (a missionary) of Christ Jesus through
         the will of God, and his comrade Sosthenes—</VERS>
@@ -13042,7 +13042,7 @@
       <VERS vnumber="24">May my love be with all of you in Christ Jesus.</VERS>
     </CHAPTER> <!-- end of 1 Corinthians chapter 16 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="46" bname="2 Corinthians" bsname="2 Cor.">
+  <BIBLEBOOK bnumber="47" bname="2 Corinthians" bsname="2 Cor.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Paul, an apostle of Christ Jesus by God’s will, and his fellow
         comrade Timothy— To the church of God that is in Corinth, joined by the saints (i.e., God’s people)
@@ -13729,7 +13729,7 @@
         Holy Spirit be with you all.</VERS>
     </CHAPTER> <!-- end of 2 Corinthians chapter 13 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="47" bname="Galatians" bsname="Gal.">
+  <BIBLEBOOK bnumber="48" bname="Galatians" bsname="Gal.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">From the Apostle (i.e., missionary; pioneer of new churches; worker of miracles)
         Paul, who’s not an apostle created from human agency nor an apostle who exists through human
@@ -14147,7 +14147,7 @@
         Amen (so be it).</VERS>
     </CHAPTER> <!-- end of Galatians chapter 6 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="48" bname="Ephesians" bsname="Eph.">
+  <BIBLEBOOK bnumber="49" bname="Ephesians" bsname="Eph.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Paul, apostle (i.e., missionary) of Christ Jesus through the
         will of God— To the saints (i.e., God’s people) who are in Ephesus and to those who are faithful
@@ -14541,7 +14541,7 @@
       <VERS vnumber="24">Grace be with them who love our Lord Jesus Christ with sincerity.</VERS>
     </CHAPTER> <!-- end of Ephesians chapter 6 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="49" bname="Philippians" bsname="Phil.">
+  <BIBLEBOOK bnumber="50" bname="Philippians" bsname="Phil.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>From Paul and Timothy, slaves of Christ Jesus, To all the saints
         (i.e., believers) in Christ Jesus who live in Philippi together with the bishops (i.e., head
@@ -14780,7 +14780,7 @@
       <VERS vnumber="23">The grace of the Lord Jesus Christ be with your spirit.</VERS>
     </CHAPTER> <!-- end of Philippians chapter 4 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="50" bname="Colossians" bsname="Col.">
+  <BIBLEBOOK bnumber="51" bname="Colossians" bsname="Col.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">From Paul the apostle of Christ Jesus through the agency of the will of God and
         from Comrade Timothy,</VERS>
@@ -15034,7 +15034,7 @@
         you.</VERS>
     </CHAPTER> <!-- end of Colossians chapter 4 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="51" bname="1 Thessalonians" bsname="1 Thess.">
+  <BIBLEBOOK bnumber="52" bname="1 Thessalonians" bsname="1 Thess.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/><BR art="x-nl"/>From Paul, Silas, and Timothy: To the church
         of Thessalonica in the Father-God and the Lord Jesus Christ:Grace to you and peace.</VERS>
@@ -15260,7 +15260,7 @@
       <VERS vnumber="28">The grace of our Lord Jesus Christ be with you.</VERS>
     </CHAPTER> <!-- end of 1 Thessalonians chapter 5 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="52" bname="2 Thessalonians" bsname="2 Thess.">
+  <BIBLEBOOK bnumber="53" bname="2 Thessalonians" bsname="2 Thess.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>From Paul, Silas, and Timothy: To the church in Thessalonica
         in God our Father and the Lord Jesus Christ:</VERS>
@@ -15384,7 +15384,7 @@
       <VERS vnumber="18">The grace of our Lord Jesus Christ be with you all.</VERS>
     </CHAPTER> <!-- end of 2 Thessalonians chapter 3 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="53" bname="1 Timothy" bsname="1 Tim.">
+  <BIBLEBOOK bnumber="54" bname="1 Timothy" bsname="1 Tim.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Christ Jesus according to the command of God our savior and
         Christ Jesus our hope:</VERS>
@@ -15666,7 +15666,7 @@
         a ditch with respect to the Faith. The grace of God be with you all.</VERS>
     </CHAPTER> <!-- end of 1 Timothy chapter 6 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="54" bname="2 Timothy" bsname="2 Tim.">
+  <BIBLEBOOK bnumber="55" bname="2 Timothy" bsname="2 Tim.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, an apostle of Christ Jesus because of God’s will according to the promise
         of life which is in Christ Jesus:</VERS>
@@ -15862,7 +15862,7 @@
       <VERS vnumber="22">May the Lord be with your spirit. May the grace of the Lord be with you all.</VERS>
     </CHAPTER> <!-- end of 2 Timothy chapter 4 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="55" bname="Titus" bsname="Titus">
+  <BIBLEBOOK bnumber="56" bname="Titus" bsname="Titus">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">Paul, a menial servant of God but yet an apostle (i.e., a missionary) of Jesus
         Christ according to the Faith of God’s chosen people and the recognition of the truth which is
@@ -15981,7 +15981,7 @@
         us in faith. The grace of God be with you all.</VERS>
     </CHAPTER> <!-- end of Titus chapter 3 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="56" bname="Philemon" bsname="Philem.">
+  <BIBLEBOOK bnumber="57" bname="Philemon" bsname="Philem.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Paul, a slave of Christ Jesus, and Comrade Timothy: To Philemon,
         our dear fellow worker,</VERS>
@@ -16030,7 +16030,7 @@
       <VERS vnumber="25">The grace of the Lord Jesus Christ be with you all’s spirit.</VERS>
     </CHAPTER> <!-- end of Philemon chapter 1 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="57" bname="Hebrews" bsname="Heb.">
+  <BIBLEBOOK bnumber="58" bname="Hebrews" bsname="Heb.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">t was one piece at a time and it was in many ways that God spoke long ago to
         the Ancestors by means of the prophets,</VERS>
@@ -16860,7 +16860,7 @@
       <VERS vnumber="25">May the grace of God be with you all.</VERS>
     </CHAPTER> <!-- end of Hebrews chapter 13 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="58" bname="James" bsname="James">
+  <BIBLEBOOK bnumber="59" bname="James" bsname="James">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/><BR art="x-nl"/>James, a servant/slave of God and of the Lord
         Jesus Christ: To the blood-descendants of the twelve tribes of Israel who are among the Diaspora
@@ -17127,7 +17127,7 @@
         very life) from waste, ruin, destruction, and worthlessness and covers a multitude of sins.</VERS>
     </CHAPTER> <!-- end of James chapter 5 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="59" bname="1 Peter" bsname="1 Pet.">
+  <BIBLEBOOK bnumber="60" bname="1 Peter" bsname="1 Pet.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Peter, missionary of Jesus Christ: To the specially chosen temporary
         residents (namely, the scattered believers of Pontus, Galatia, Cappadocia, Asia, and Bithynia)</VERS>
@@ -17412,7 +17412,7 @@
         Peace to you all in Christ.</VERS>
     </CHAPTER> <!-- end of 1 Peter chapter 5 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="60" bname="2 Peter" bsname="2 Pet.">
+  <BIBLEBOOK bnumber="61" bname="2 Peter" bsname="2 Pet.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Simon Peter, servant and missionary of Jesus Christ: To you who
         received (because you had the good fortune to have God smile on you) an equivalent-status faith
@@ -17577,7 +17577,7 @@
         him be the glory from this moment to the eternal day. Amen (i.e., and with that I rest my case).</VERS>
     </CHAPTER> <!-- end of 2 Peter chapter 3 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="61" bname="1 John" bsname="1 John">
+  <BIBLEBOOK bnumber="62" bname="1 John" bsname="1 John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">That which was from day-one, that which we’ve heard, that which we’ve seen with
         our eyes, that which we’ve beheld and our hands handled concerning the word of life—</VERS>
@@ -17838,7 +17838,7 @@
         worships.</VERS>
     </CHAPTER> <!-- end of 1 John chapter 5 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="62" bname="2 John" bsname="2 John">
+  <BIBLEBOOK bnumber="63" bname="2 John" bsname="2 John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>From the distinguished, respected gentleman: To the Lady chosen
         of God and to her children, whom I love in truth, and not just me but all who’ve come to know
@@ -17872,7 +17872,7 @@
       <VERS vnumber="13">The children spiritually-speaking of your fellow-chosen-of-God-woman greet you.</VERS>
     </CHAPTER> <!-- end of 2 John chapter 1 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="63" bname="3 John" bsname="3 John">
+  <BIBLEBOOK bnumber="64" bname="3 John" bsname="3 John">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">From the distinguished, respected gentleman to the beloved Gaius, whom I love
         in truth.</VERS>
@@ -17909,7 +17909,7 @@
         greet the close friends.</VERS>
     </CHAPTER> <!-- end of 3 John chapter 1 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="64" bname="Jude" bsname="Jude">
+  <BIBLEBOOK bnumber="65" bname="Jude" bsname="Jude">
     <CHAPTER cnumber="1">
       <VERS vnumber="1"><BR art="x-nl"/>Jude, the servant of Jesus Christ and the brother of James: To
         the beloved in the Father-God and in Jesus Christ, those who have been preserved as God’s elect:</VERS>
@@ -17978,7 +17978,7 @@
         to all the ages to come. Amen (i.e., and with that I rest my case).</VERS>
     </CHAPTER> <!-- end of Jude chapter 1 -->
   </BIBLEBOOK>
-  <BIBLEBOOK bnumber="65" bname="Revelation" bsname="Rev.">
+  <BIBLEBOOK bnumber="66" bname="Revelation" bsname="Rev.">
     <CHAPTER cnumber="1">
       <VERS vnumber="1">A revelation—a revealing—by Jesus Christ of matters hidden, a revelation which
         God gave to him, to show his servants what must come to pass post-haste. He transmitted what
