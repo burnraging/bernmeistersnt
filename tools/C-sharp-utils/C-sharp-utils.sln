@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usx-gen", "usx-gen\usx-gen.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "common-dll", "common-dll\common-dll.csproj", "{28419E85-22AE-4A85-809D-CD5BEF2ACBCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usx2-to-usx3", "usx2-to-usx3\usx2-to-usx3.csproj", "{F443FEFD-98A2-4DE4-962A-08D9210E206A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usx2-to-usx3", "usx2-to-usx3\usx2-to-usx3.csproj", "{F443FEFD-98A2-4DE4-962A-08D9210E206A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usx3-to-zephania", "usx3-to-zephania\usx3-to-zephania.csproj", "{B367298D-CD99-4AA7-BFA8-473D85958EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "usx3-to-zefania", "usx3-to-zefania\usx3-to-zefania.csproj", "{B367298D-CD99-4AA7-BFA8-473D85958EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
