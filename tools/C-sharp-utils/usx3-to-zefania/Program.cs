@@ -22,20 +22,18 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 using common_dll;
 
-class ConsoleWrapper    // usx3-to-zephania
+class ConsoleWrapper    // usx3-to-zefania
 {
-    private const string USX3_TO_ZEPHANIA_VERSION = "1.0";
+    private const string USX3_TO_ZEFANIA_VERSION = "1.0";
+    private const string ZEFANIA_OUTPUT_FILE_NAME = @"the-bernmeisters-nt-v1-zefania-2005.xml";
 
-    //DELETEME public static string BASE_DIR = @"E:\Bernie\Ekklesia\the-bernmeisters-nt\C-sharp-utils";
-
-    // todo!!!:
     public static bool TOZ_SUPPRESS_PARA_BREAKS = true;
 
     private static void HelpText()
     {
-        Console.WriteLine("usx3-t-zephania version {0}", USX3_TO_ZEPHANIA_VERSION);
-        Console.WriteLine("usx3-to-zephania -i input-folder -o output-folder -f output-file-name -s info-file-name");
-        Console.WriteLine("usx3-to-zephania -h");
+        Console.WriteLine("usx3-t-zefania version {0}", USX3_TO_ZEFANIA_VERSION);
+        Console.WriteLine("usx3-to-zefania -i input-folder -o output-folder -f output-file-name -s info-file-name");
+        Console.WriteLine("usx3-to-zefania -h");
         Console.WriteLine("'info-file-name' is a text file that must be placed in the output folder before running this tool.");
         Console.WriteLine("'info-file-name' must have 5 lines. Each line is a different INFORMATION field:");
         Console.WriteLine("  line #1: Bible name");
@@ -48,10 +46,10 @@ class ConsoleWrapper    // usx3-to-zephania
 
     static void Main(string[] args)
     {
-        // folder containing usx files to be converted to Zephania
+        // folder containing usx files to be converted to Zefania
         //SusxConverter.TOZ_USX_SOURCE_FOLDER = "usx3output";
 
-        //SusxConverter.TOZ_OUTPUT_FOLDER = "zephania";
+        //SusxConverter.TOZ_OUTPUT_FOLDER = "zefania";
 
 
         SusxConverter.ZSUPPRESS_PARA_BREAKS = true;
@@ -60,10 +58,10 @@ class ConsoleWrapper    // usx3-to-zephania
         SusxConverter.PRINT_DEBUG_FILES = false;
         SusxConverter.DEBUG_PRINT_USX_FOLDER = "usxprintdebug";
 #if DEBUG
-        args = new string[] { "-i", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\usx-abridged",      // input folder, not output
-                              "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\zephania-abridged",        // output folder
-                              "-f", @"zephania-output.xml",                                                  // output file name
-                              "-s", @"zephania-info-file.txt"};                                              // information fields
+        args = new string[] { "-i", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\usx-abridged",        // input folder, not output
+                              "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\zefania-abridged",    // output folder
+                              "-f", @"the-bernmeisters-nt-v1-zefania-2005.xml",                                      // output file name
+                              "-s", @"zefania-info-file.txt"};                                                       // information fields
 #endif
 
         if (args == null || args.Length == 0)
@@ -142,7 +140,6 @@ class ConsoleWrapper    // usx3-to-zephania
 
         SusxConverter.TOZ_USX_SOURCE_FOLDER = inputFolder;
         SusxConverter.TOZ_OUTPUT_FOLDER = outputFolder;
-        // !!!!! fill in output file name !!!!!!!!!!!
 
         if (!File.Exists(fqInformationFileName))
         {
@@ -159,11 +156,6 @@ class ConsoleWrapper    // usx3-to-zephania
         }
 
         // </INFORMATION> fill-ins
-        //SusxConverter.TOZ_BIBLE_NAME = "my-bible-name";
-        //SusxConverter.TOZ_BIBLE_ABBREV = "ABC";
-        //SusxConverter.TOZ_CREATOR = "creator-name";
-        //SusxConverter.TOZ_PUBLISHER = "my-publisher";
-        //SusxConverter.TOZ_LANGUAGE_ABBREV = "ENG";
         SusxConverter.TOZ_BIBLE_NAME = allInformationLines[0];
         SusxConverter.TOZ_BIBLE_ABBREV = allInformationLines[1];
         SusxConverter.TOZ_CREATOR = allInformationLines[2];
@@ -171,8 +163,7 @@ class ConsoleWrapper    // usx3-to-zephania
         SusxConverter.TOZ_LANGUAGE_ABBREV = allInformationLines[4];
 
 
-        //????? SusxConverter.ReadBible(SusxConverter.TOZ_USX_SOURCE_FOLDER, out SusxConverter.TreeObject[][] allUsxHeaps, out BookEnum[] allBookEnums);
-        SusxConverter.ZConvert("zephania-output.xml");
+        SusxConverter.ZConvert(ZEFANIA_OUTPUT_FILE_NAME);
     }
 
 
