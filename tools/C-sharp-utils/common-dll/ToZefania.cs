@@ -228,7 +228,7 @@ namespace common_dll
             ZTreeIndex = TreeStep(ref ZTree, ZTreeIndex);
 
             Line[N++] = string.Format("{0}<BIBLEBOOK bnumber=\"{1}\" bname=\"{2}\" bsname=\"{3}\">", Indent[Lvl],
-                           (int)ZBookEnum, BibleBooks.AllBooksFullNames[(int)ZBookEnum], BibleBooks.AllBooksAbbrev[(int)ZBookEnum]);
+                           (int)ZBookEnum + 1, BibleBooks.AllBooksFullNames[(int)ZBookEnum], BibleBooks.AllBooksAbbrev[(int)ZBookEnum]);
             Lvl++;
 
             if (ZTree[ZTreeIndex].ElementType != ElementEnum.BOOK)
