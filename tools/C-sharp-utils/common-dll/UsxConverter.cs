@@ -663,11 +663,11 @@ namespace common_dll
                                  bookEnum.ToString(), chapterNumber, startVerseNumber, numberOfVerseEntries);
                     }
 
-                    Line[N++] = string.Format("{0}<para style=\"{1}\">", Indent[Lvl], styleAttrib, startVerseNumber);
+                    Line[N++] = string.Format("{0}<para style=\"{1}\">", Indent[Lvl], styleAttrib);
                 }
                 else
                 {
-                    Line[N++] = string.Format("{0}<para style=\"{1}\">", Indent[Lvl], styleAttrib, startVerseNumber);
+                    Line[N++] = string.Format("{0}<para style=\"{1}\">", Indent[Lvl], styleAttrib);
                 }
             }
 
@@ -700,8 +700,28 @@ namespace common_dll
                 }
                 else if (verse.ContinuedToNext && content.Length == 1)
                 {
-                    Line[N++] = string.Format("{0}<verse number=\"{1}\" style=\"v\" sid=\"{2} {3}:{1}\" />{4}",
-                        Indent[Lvl], verse.VerseNumber, usxStyleBookAbbrev, chapterNumber, content[0]);
+                    string paragraphClose = "";
+                    if (requiresClosingParagraphTag)
+                    {
+                        // Change this:
+                        //    <para style="pi">
+                        //      <verse number="2" style="v" sid="MAT 1:2" />Abraham had Isaac,
+                        //    </para>
+                        // To this:
+                        //    <para style="pi">
+                        //      <verse number="2" style="v" sid="MAT 1:2" />Abraham had Isaac,</para>
+                        paragraphClose = string.Format("{0}", "</para>");
+
+                        requiresClosingParagraphTag = false;
+                    }
+                    else
+                    {
+                        Utils.LogEntry("Book {0} chapter {1} verse {2}: Expecting close paragraph and found none.",
+                                  bookEnum.ToString(), chapterNumber, verse.VerseNumber);
+                    }
+
+                    Line[N++] = string.Format("{0}<verse number=\"{1}\" style=\"v\" sid=\"{2} {3}:{1}\" />{4}{5}",
+                        Indent[Lvl], verse.VerseNumber, usxStyleBookAbbrev, chapterNumber, content[0], paragraphClose);
                 }
                 else if (content.Length == 1)
                 {

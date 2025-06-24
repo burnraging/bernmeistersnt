@@ -38,7 +38,7 @@
                                         |later bring them to tears. Of interest, also, is that there are a couple of parables which are told like|
                                         |an ordinary story, no surprises. An interesting story, but one which, part way through, ceases to be|
                                         |an ordinary story and goes off the rail into something bizarre. Examples are the parable of the wheat|
-                                        |and the tares (Matth. 13), parable of the vineyard day-laborers (Matt. 20). |
+                                        |and the tares (Math. 13), parable of the vineyard day-laborers (Matt. 20). |
                  SPACER_BEFORE_CHAPTER: ||
 
   >>>>>>>>>>>>>>  MATT Chapter 1  <<<<<<<<<<<<
@@ -201,16 +201,17 @@
                                         |that the Scripture speaks of a messianic person, whom is named the <char style="it">Christ</char>, which|
                                         |is equivalent to the <char style="it">Messiah</char>.|
      E                FOOTNOTES_NORMAL: |<char style="it">Ramah…Rachel…</char>The place <char style="it">Ramah </char>and the name <char style="it">Rachel|
-                                        |</char>are metonymies , where Rachel, assumed to be a common woman’s name, personifies the suffering|
-                                        |of the average woman, and where Ramah is remotely associated with the area. To put in terms that the|
-                                        |contemporary generation understands, the name <char style="it">Rachel</char> is a meme like the name|
-                                        |<char style="it">Karen </char>is a meme for the Gen-Z’ers. To be clear, Rachel is not a Karen—i.e. both|
-                                        |are memes but characterize entirely different types of women. The place <char style="it">Ramah </char>is|
-                                        |a metonymy similar to the metonymy <char style="it">Timbuktu</char>. Ramah refers to your typical town|
-                                        |in the area, whereas Timbuktu refers to some unknown faraway place. Both were and are real places but|
-                                        |little was and is known about them, making them suitable to be used as metonymies. But one example of|
-                                        |a meme/metonymy name and place in English, one in which we refer to ordinary, arbitrary people who live|
-                                        |in an abstract and far-way place is “Every Tom, Dick, and Harry in Timbuktu…”|
+                                        |</char>are metonymies . Ramah is a suburb of Jerusalem to the north, so Ramah is a metonymy of the greater|
+                                        |metropolitan area of Jerusalem extending out to remote suburbs. Remote, because Bethlehem is a suburb|
+                                        |south of Jerusalem, whereas Ramah is a suburb to the north, making their distance even greater. Rachel|
+                                        |is an ancestor of the Benjamites who lived there. Hence Rachel, assumed to be a common woman’s name,|
+                                        |is a metonymy for the typical, child-bearing woman who lives in Jerusalem and in its far-reaching suburbs.|
+                                        |As such she personifies the suffering of the average woman who lived anywhere near Jerusalem and who|
+                                        |had infants at that time. To put these metonymies in terms that the contemporary generation understands,|
+                                        |the name <char style="it">Rachel</char> is a meme like the name <char style="it">Karen </char>is a meme|
+                                        |for the Gen-Z’ers. To be clear, Rachel is not a Karen—i.e. both are memes but characterize entirely different|
+                                        |types of women. Since <char style="it">Ramah </char>is so far from Bethlehem, it can be viewed as a metonymy|
+                                        |similar to the metonymy <char style="it">Timbuktu</char>. |
 
   >>>>>>>>>>>>>>  MATT Chapter 3  <<<<<<<<<<<<
  +   V 1              VERSES_NARRATIVE: |Now back in those days, John the Baptist appeared on the scene in the Judean countryside<char style="sup">[a]</char>|
@@ -452,9 +453,10 @@
      v17                                |style="wj">—no, not to nullify, but to fulfill. </char>|
      V18              VERSES_NARRATIVE: |<char style="wj">You can count on this: until planet Earth comes to an end, there’s no way—no way at|
      v18                                |all—that even so much as the tiniest letter or a single stroke of the pen which distinguishes one letter|
-     v18                                |from another in any of the commandments found in the </char><char style="it"><char style="wj">Old Testament</char></char><char|
-     v18                                |style="wj"> Law </char><char style="it"><char style="wj">of Moses </char></char><char style="wj">will|
-     v18                                |be disregarded or of no effect, until that day when everything finally comes to an end. </char>|
+     v18                                |from another</char><char style="sup">[G]</char><char style="wj"> in any of the commandments found in|
+     v18                                |the </char><char style="it"><char style="wj">Old Testament</char></char><char style="wj"> Law </char><char|
+     v18                                |style="it"><char style="wj">of Moses </char></char><char style="wj">will be disregarded or of no effect,|
+     v18                                |until that day when everything finally comes to an end. </char>|
      V19              VERSES_NARRATIVE: |<char style="wj">Whoever tries to disregard even the minutest commandment and instructs others to do|
      v19                                |the same thing will be ranked last in the kingdom of heaven. But whoever happens to do and teach </char><char|
      v19                                |style="it"><char style="wj">these commandments, </char></char><char style="wj">that’s the fellow who’ll|
@@ -466,27 +468,27 @@
      v21                                |style="wj">, ‘Do not murder; whoever commits murder will be pronounced guilty in that great, unseen courtroom.’|
      V22              VERSES_NARRATIVE: |<char style="wj">But what I say is this: whoever gets irate with his good friend</char><char style="sup">[j]</char><char|
      v22                                |style="wj"> will be pronounced guilty in that unseen courtroom. So whoever calls his friend an idiot</char><char|
-     v22                                |style="sup">[G]</char><char style="wj"> will be guilty enough to be sentenced to the fires of hell</char><char|
+     v22                                |style="sup">[H]</char><char style="wj"> will be guilty enough to be sentenced to the fires of hell</char><char|
      V23              VERSES_NARRATIVE: |<char style="wj">Take this to mean that if anyone is on his way to a church conference and happens to|
      v23                                |remember that his friend is holding a grudge against him, and that it’s his fault and not his friend’s,|
      v23                                |</char>|
      V24              VERSES_NARRATIVE: |<char style="wj">stop dead in your tracks and go straight to your friend and fix it with him first, then|
-     v24                                |you can go back and continue on your way to church.</char><char style="sup">[H]</char><char style="wj">|
+     v24                                |you can go back and continue on your way to church.</char><char style="sup">[I]</char><char style="wj">|
      V25              VERSES_NARRATIVE: |<char style="wj">Settle with the plaintiff out of court. Don’t let it go to trial, because when the judge|
      v25                                |swings his gavel, </char>|
-     V26              VERSES_NARRATIVE: |<char style="wj">you’re going to lose your shirt.</char><char style="sup">[I]</char>|
+     V26              VERSES_NARRATIVE: |<char style="wj">you’re going to lose your shirt.</char><char style="sup">[J]</char>|
  +   V27              VERSES_NARRATIVE: |<char style="wj">”You’ve heard the verse from the Old Testament, ‘Don’t commit adultery.’ </char>|
      V28              VERSES_NARRATIVE: |<char style="wj">But what I say is this: anyone who checks out a woman thinking what she’d be like in|
-     v28                                |bed has already committed adultery with her in his heart.</char><char style="sup">[J]</char><char style="wj">|
+     v28                                |bed has already committed adultery with her in his heart.</char><char style="sup">[K]</char><char style="wj">|
      V29              VERSES_NARRATIVE: |<char style="wj">If your right eye (that is, the object of your continual desire) is causing you to commit|
      v29                                |sin, dig it out and throw it away; you’re better off for sure losing one of your body parts and not having|
      v29                                |your whole body thrown into hell. </char>|
      V30              VERSES_NARRATIVE: |<char style="wj">If your right hand (that is, the thing you’re in the habit of doing) is causing you|
      v30                                |to commit sin, cut it off and throw it away; you’re better off for sure losing one of your body parts|
-     v30                                |and not having your whole body thrown into hell.</char><char style="sup">[K]</char>|
+     v30                                |and not having your whole body thrown into hell.</char><char style="sup">[L]</char>|
  +   V31              VERSES_NARRATIVE: |<char style="wj">”You’ve heard the verse </char><char style="it"><char style="wj">from the Old Testament</char></char><char|
      v31                                |style="wj">, ‘Whoever chooses to divorce his wife must supply her with the required divorce certificate.’</char><char|
-     v31                                |style="sup">[L]</char><char style="wj"> </char>|
+     v31                                |style="sup">[M]</char><char style="wj"> </char>|
      V32              VERSES_NARRATIVE: |<char style="wj">But what I say is this: divorcing your wife for any reason except in the case of sexual|
      v32                                |immorality</char><char style="sup">[l]</char><char style="wj"> causes her to commit adultery </char><char|
      v32                                |style="it"><char style="wj">when she remarries</char></char><char style="wj">, and whoever remarries|
@@ -505,12 +507,12 @@
      V39              VERSES_NARRATIVE: |<char style="wj">But what I say is this: don’t resist a bad person, but instead, whosoever slaps you|
      v39                                |on the right cheek, turn </char><char style="it"><char style="wj">and present</char></char><char style="wj">|
      v39                                |the other one to him also (</char><char style="it"><char style="wj">i.e., don’t change the way you treat|
-     v39                                |the person who mistreated you and seek retaliation</char></char><char style="wj">).</char><char style="sup">[M]</char><char|
+     v39                                |the person who mistreated you and seek retaliation</char></char><char style="wj">).</char><char style="sup">[N]</char><char|
      v39                                |style="wj"> </char>|
      V40              VERSES_NARRATIVE: |<char style="wj">And any person whatsoever who’s wanting to sue you for your shirt and pants, give him|
      v40                                |your overcoat also. </char>|
      V41              VERSES_NARRATIVE: |<char style="wj">And whosoever conscripts you to carry their pack for a mile, continue on with him for|
-     v41                                |two.</char><char style="sup">[N]</char><char style="wj"> </char>|
+     v41                                |two.</char><char style="sup">[O]</char><char style="wj"> </char>|
      V42              VERSES_NARRATIVE: |<char style="wj">Give to him who asks </char><char style="it"><char style="wj">something from</char></char><char|
      v42                                |style="wj"> you, and whoever wants to borrow money from you, don’t turn him down.</char>|
  +   V43              VERSES_NARRATIVE: |<char style="wj">”You’ve heard the verse, ‘You shall love your neighbor and hate your enemy.’ </char>|
@@ -524,7 +526,7 @@
      V47              VERSES_NARRATIVE: |<char style="wj">And if you greet your good friends only, how much of a better person are you by doing|
      v47                                |this? Even the Gentiles do these very things, don’t they?</char>|
  +   V48              VERSES_NARRATIVE: |<char style="wj">”To sum it all up, don’t fall short by only doing things halfway; do them all the way</char><char|
-     v48                                |style="sup">[O]</char><char style="wj">, just as your heavenly Father does things all the way.”</char>|
+     v48                                |style="sup">[P]</char><char style="wj">, just as your heavenly Father does things all the way.”</char>|
      a                FOOTNOTES_NORMAL: |<char style="it">the mountains</char>…Lit: <char style="it">the mountain. </char>Singular used as plural,|
                                         |like in Luke 1:39|
      b                FOOTNOTES_NORMAL: |<char style="it">in a long, cohesive sermon…</char>the phrase <char style="it">he opened his mouth </char>in|
@@ -570,35 +572,51 @@
                                         |by others and put in subordination to them</char>. Ref. Matt. 7:6; Luke 21:24; Rev. 11:2.|
      F                FOOTNOTES_NORMAL: |<char style="it">the Old Testament…</char>Lit:<char style="it"> The law and the prophets. </char>The|
                                         |literal reading from the GT is what they called the Old Testament in Jesus’s day|
-     G                FOOTNOTES_NORMAL: |<char style="it">idiot</char>…Lit: <char style="it">raka</char>. One of the few Aramaic words appearing|
+     G                FOOTNOTES_NORMAL: |<char style="it">the tiniest letter or a single stroke of the pen which distinguishes one letter from|
+                                        |another</char>…Lit: <char style="it">one iota or one little-horn</char>. The Greek letter <char style="it">iota|
+                                        |</char>(the smallest Gk. Letter)<char style="it"> </char>is a proxy for the Hebrew letter <char style="it">yod</char>|
+                                        |(י‎), which is a small letter resembling a backwards apostrophe, much smaller than any of the other letters|
+                                        |of the Hebrew alphabet. The Gk. word <char style="it">little-horn </char>is derived from the Gk. word|
+                                        |for <char style="it">horn</char>, perhaps a diminutive. When applied to the alphabet, the closest English|
+                                        |equivalent is <char style="it">serif</char>, but that doesn’t do the word justice, as there are several|
+                                        |sets of letters in the Hebrew alphabet which are indistinguishable except for a short stroke of the pen,|
+                                        |a small protrusion—a little horn. Here’s some pairs of Hebrew letters which are only distinguished by|
+                                        |a short stroke of the pen: gimel and nun (ג vs. נ‎); bet and kaph (ב vs. כ‎); dalet and rhesh (ד vs.|
+                                        |ר). There are other pairs. So Jesus is saying that there’ll be no small stroke of the pen which will|
+                                        |delete the letter yod or swap a letter for its similar-looking twin. Since written Hebrew doesn’t normally|
+                                        |use vowels, the changing of a single letter could more easily change an entire word than a single change|
+                                        |of a letter in English could. And, of course, a change in word could change the meaning of a verse entirely.|
+                                        |So Jesus is saying there’ll be no small stroke of the pen changes to the Law which would result in profound|
+                                        |changes to the meaning of a verse in the Law.|
+     H                FOOTNOTES_NORMAL: |<char style="it">idiot</char>…Lit: <char style="it">raka</char>. One of the few Aramaic words appearing|
                                         |in the NT. It borders on cursing.|
-     H                FOOTNOTES_NORMAL: |<char style="it">on your way to church…</char>Liberties taken in the translation to make it more relevant;|
+     I                FOOTNOTES_NORMAL: |<char style="it">on your way to church…</char>Liberties taken in the translation to make it more relevant;|
                                         |vv. 23,4 actually read, <char style="it">Therefore if anyone were to an offering upon the altar offering|
                                         |and remember that his has brother has something against you, leave the offering in front of the altar,|
                                         |turn back first and be reconciled to your brother, then come bring forth the offering</char>. Over the|
                                         |course of the year, Jews were required to journey to the temple in Jerusalem and offer up a sacrifice|
                                         |of various kinds at the altar on the temple premises. The trip to Jerusalem could take a few days, unlike|
                                         |going down the street a few blocks to get to church.|
-     I                FOOTNOTES_NORMAL: |<char style="it">you’re going to lose your shirt…</char>Liberties taken in the translation to make it|
+     J                FOOTNOTES_NORMAL: |<char style="it">you’re going to lose your shirt…</char>Liberties taken in the translation to make it|
                                         |more relevant; vv. 25,26 actually read, <char style="it">Make peace with your adversary quickly, while|
                                         |you’re still with him on the way, lest the adversary hand you over to the judge, and the judge to the|
                                         |bailiff </char>[<char style="it">attendant</char>]<char style="it">, and you will be thrown into jail.|
                                         |Verify I say to you, you will not get out until you’ve given out the last cent</char>. This describes|
                                         |a civil action decided by a judge with no jury. Back then, those who didn’t have the money to pay the|
                                         |entire settlement the judge determined would be thrown into jail immediately.|
-     J                FOOTNOTES_NORMAL: |<char style="it">has already committed adultery with her in his heart…</char>A misunderstood verse, easily|
+     K                FOOTNOTES_NORMAL: |<char style="it">has already committed adultery with her in his heart…</char>A misunderstood verse, easily|
                                         |clarified when a bit of common sense is applied. In no way is staring carnally at another woman equivalent|
                                         |to or as morally wrong as having sex with her. The point Jesus is making is that both the ogler and the|
                                         |adulterer are transgressors of the law; committing either breaks a stainless record. But the difference|
                                         |between the two is like the difference between a light misdemeanor and a high class felony—and distinctions|
                                         |in the severity of transgressions is a concept adhered to elsewhere in the Bible.|
-     K                FOOTNOTES_NORMAL: |<char style="it">if your right eye/if your right hand is causing you to commit sin…</char>In the Bible,|
+     L                FOOTNOTES_NORMAL: |<char style="it">if your right eye/if your right hand is causing you to commit sin…</char>In the Bible,|
                                         |eyes are symbolic of the heart’s desire and hands are symbolic of actions you take. The right eye is|
                                         |the principal desire of the heart, and the right hand is the most important thing that you do. This passage,|
                                         |symbolic and not literal, means to aggressively and decisively eradicate any bad desires in your heart|
                                         |or eliminate any habits, actions, involvements, etc. if any of these is a principal cause of you committing|
                                         |sin.|
-     L                FOOTNOTES_NORMAL: |<char style="it">the required divorce certificate…</char>Under OT Law/the Law of Moses, as quoted here,|
+     M                FOOTNOTES_NORMAL: |<char style="it">the required divorce certificate…</char>Under OT Law/the Law of Moses, as quoted here,|
                                         |divorce was permitted. By law, the husband could (but the wife could not) initiate the legal proceedings|
                                         |for the divorce and, if approved, was required to supply her with a divorce certificate to protect her|
                                         |reputation, her legal, and her moral standing. In this day and age, the laws for divorce are applied|
@@ -610,7 +628,7 @@
                                         |to it. Therefore, their situations are different, and Jesus speaks to both separately. In modern times,|
                                         |we would simply say, <char style="it">whoever gets a divorce and remarries (except in the case of sexual|
                                         |immorality) commits adultery</char>.|
-     M                FOOTNOTES_NORMAL: |<char style="it">whoever slaps you on the right cheek, turn and present the other one to him also</char>|
+     N                FOOTNOTES_NORMAL: |<char style="it">whoever slaps you on the right cheek, turn and present the other one to him also</char>|
                                         |<char style="it">(i.e., don’t change the way you treat them and seek retaliation)…</char>”An eye for|
                                         |an eye and a tooth for a tooth” was OT law; the same was also embedded in Hammurabi’s law code. If someone|
                                         |wrongs you, you have the legal right of retaliation, the right to get even. For mankind, this is natural|
@@ -620,19 +638,19 @@
                                         |where Paul was actually slapped on the cheek, and ask yourself, “Did Paul turn the other cheek?” Same|
                                         |thing for Acts 16:37: when Paul, a Roman citizen, had been illegally beaten, he demanded his rights.|
                                         |Also see Acts 22:25.|
-     M                FOOTNOTES_NORMAL: |Turning the other cheek is to present the same “face”—the same disposition—which you presented previously.|
+     N                FOOTNOTES_NORMAL: |Turning the other cheek is to present the same “face”—the same disposition—which you presented previously.|
                                         |Don’t change your disposition based on the way people treat you. For example, an employee is working|
                                         |at a retailer. While the employee is politely explaining a company policy, the customer behaves rudely.|
                                         |The employee turns the cheek when he continues to show politeness after the customer behaves badly. An|
                                         |example of turning the other cheek is when Joseph decided to divorce Mary (Matt. 1:19): he chose to do|
                                         |it quietly rather than to retaliate by making a stink about it.|
-     M                FOOTNOTES_NORMAL: |Turning the other cheek is not as extreme and uncommon as it appears. In fact, even non-Christians turn|
+     N                FOOTNOTES_NORMAL: |Turning the other cheek is not as extreme and uncommon as it appears. In fact, even non-Christians turn|
                                         |the other cheek from time to time. Waitresses who are treated rudely by their customers but continue|
                                         |to be polite to them are turning the other cheek.|
-     N                FOOTNOTES_NORMAL: |<char style="it">whosever conscripts you to carry their pack for a mile, go on with him for two…</char>By|
+     O                FOOTNOTES_NORMAL: |<char style="it">whosever conscripts you to carry their pack for a mile, go on with him for two…</char>By|
                                         |law, if a Roman soldier passed one going the opposite direction, by law he was permitted to force him|
                                         |to carry his pack for him for a mile.|
-     O                FOOTNOTES_NORMAL: |<char style="it">don’t fall short by only doing things halfway, do them all the way …</char>Lit: <char|
+     P                FOOTNOTES_NORMAL: |<char style="it">don’t fall short by only doing things halfway, do them all the way …</char>Lit: <char|
                                         |style="it">be perfect</char>. <char style="it">Perfect </char>is also translated <char style="it">complete</char>|
                                         |or <char style="it">finished</char>; a complete person fulfills the full intention of God’s laws and|
                                         |not just the letter of it, what appears on the surface, or what is left over when corners are cut. <char|
@@ -3444,8 +3462,9 @@
      V48              VERSES_NARRATIVE: |His betrayer arranged <char style="it">ahead of time for there to be</char> a signal saying, “Whomever|
      v48                                |I kiss, he’s the one; seize him.” |
      V49              VERSES_NARRATIVE: |He went straight over to Jesus and said, “Delighted <char style="it">to see you</char>, Teacher<char|
-     V50              VERSES_NARRATIVE: |Jesus said to him, <char style="wj">“What brings you here, bro</char><char style="sup">[n]</char><char|
-     v50                                |style="wj">?”</char> They then went over and laid their hands on Jesus and apprehended him.|
+     V50              VERSES_NARRATIVE: |Jesus said to him, <char style="wj">“What brings you here, bro (</char><char style="it"><char style="wj">spoken|
+     v50                                |sarcastically</char></char><char style="wj">)</char><char style="sup">[n]</char><char style="wj">?”</char>|
+     v50                                |They then went over and laid their hands on Jesus and apprehended him.|
  +   V51              VERSES_NARRATIVE: |And, like that, one of the people who were with Jesus drew his sword and struck the high priest’s slave,|
      v51                                |slicing his ear off. |
      V52              VERSES_NARRATIVE: |Then Jesus said to him, <char style="wj">“Put your sword back where it belongs; you see, everyone who|
@@ -3512,7 +3531,11 @@
      k                FOOTNOTES_NORMAL: |<char style="it">will fall out with me…</char>Also: <char style="it">will commit a sin by me</char>|
      l                FOOTNOTES_NORMAL: |<char style="it">ordeal</char>…Lit: <char style="it">cup</char>|
      m                FOOTNOTES_NORMAL: |<char style="it">Delighted to see you, Teacher!…</char>Lit: <char style="it">Joy, Rabbi!</char>|
-     n                FOOTNOTES_NORMAL: |<char style="it">bro…</char>Lit: <char style="it">comrade</char>|
+     n                FOOTNOTES_NORMAL: |<char style="it">bro (spoken sarcastically)…</char>Lit: <char style="it">comrade. </char>The definition|
+                                        |is more akin to <char style="it">colleague</char>. Rendered <char style="it">bro </char>to convey sarcasm,|
+                                        |not to be cheeky. Only found three times in the NT (all in Matt: here, Matt. 20:13; 22:12), and because|
+                                        |of this the meaning is influenced by  how it’s used in the other two places. Used confrontationally in|
+                                        |20:13; used sarcastically in 22:12. I chose a sarcastic usage.|
      o                FOOTNOTES_NORMAL: |<char style="it">a thug…</char>Lit: <char style="it">a robber</char>|
      p                FOOTNOTES_NORMAL: |<char style="it">Old Testament prophesies…</char>Lit: <char style="it">the prophets’ Scriptures</char>|
      q                FOOTNOTES_NORMAL: |<char style="it">designated teachers…</char>Lit: <char style="it">the Scribes</char>|
@@ -7559,7 +7582,7 @@
      v39                                |and preaching what Jesus did for him.|
  +   V40              VERSES_NARRATIVE: |While Jesus was returning, the crowd kept on welcoming him enthusiastically, beckoning him. The fact|
      v40                                |is, all of them were waiting for him <char style="it">to return</char>. |
-     V41              VERSES_NARRATIVE: |Out of nowhere, a man named Jairus, and this man was one of the leading me of the synagogue, fell at|
+     V41              VERSES_NARRATIVE: |Out of nowhere, a man named Jairus, and this man was one of the leading men of the synagogue, fell at|
      v41                                |Jesus’s feet asking him—begging him—to come to his house, |
    N V42              VERSES_NARRATIVE: |since his only daughter, who was around twelve years old, was near death.|
  +P  V42              VERSES_NARRATIVE: |While he was heading <char style="it">there</char>, the crowd kept on throttling him. |
@@ -7822,9 +7845,9 @@
      v 5                                |I extend my offer of friendship to all in this house and my willingness to get along with you</char></char><char|
      v 5                                |style="wj">). </char>|
      V 6              VERSES_NARRATIVE: |<char style="wj">If there happens to be a son of peace there (</char><char style="it"><char style="wj">i.e.,|
-     v 6                                |if the leader of the house willingly and joyfully engages in friendships and will gets along well with|
-     v 6                                |people</char></char><char style="wj">), your offer of piece will stick. Otherwise, it’ll bounce back|
-     v 6                                |to you</char><char style="sup">[A]</char><char style="wj">. </char>|
+     v 6                                |if the leader of the house willingly and joyfully engages in friendships and gets along well with people</char></char><char|
+     v 6                                |style="wj">), your offer of piece will stick. Otherwise, it’ll bounce back to you</char><char style="sup">[A]</char><char|
+     v 6                                |style="wj">. </char>|
      V 7              VERSES_NARRATIVE: |<char style="wj">Stay in that very house, eating and drinking that which they have on hand; you see,|
      v 7                                |the worker is entitled to his wage</char><char style="sup">[c]</char><char style="wj">. Don’t hop from|
      V 8              VERSES_NARRATIVE: |<char style="wj">If you happen to go into a city and they receive you—whole-heartedly welcome you and|
@@ -10398,7 +10421,7 @@
      V17              VERSES_NARRATIVE: |When you get to the bottom of it all, the <char style="it">Old Testament </char>Law was given through|
      v17                                |Moses; the grace and the truth <char style="it">which we’re talking about </char>came into being through|
      V18              VERSES_NARRATIVE: |Nobody has seen God fully; God’s only-begotten, who’s in tight with the Father<char style="sup">[E]</char>—that’s|
-     v18                                |the person who brought him out <char style="it">of obscurity</char>.”|
+     v18                                |the person who brought Him out <char style="it">of obscurity</char>.”|
  + N V19              VERSES_NARRATIVE: |John’s testimony|
  +P  V19              VERSES_NARRATIVE: |When the Judean Jews<char style="sup">[F]</char> sent priests and clergymen<char style="sup">[k]</char>|
      V20              VERSES_NARRATIVE: |he gave them a straight-up answer saying forthrightly<char style="sup">[l]</char>, “Me?—No, I’m not the|
@@ -10818,9 +10841,10 @@
      v24                                |who worship Him must worship Him the true way: in spirit</char><char style="sup">[h]</char><char style="wj">.”</char>|
  +   V25              VERSES_NARRATIVE: |The woman, whose interest hadn’t subsided, said, “I know that the Messiah, the one called ‘Christ,’ is|
      v25                                |coming. When that person finally does come, he’ll give us a rundown about everything and anything.”|
- +   V26              VERSES_NARRATIVE: |He continued and said, <char style="wj">“I am he, </char><char style="it"><char style="wj">the One-And-Only-One,|
-     v26                                |</char></char><char style="wj">the one who’s talking to you </char><char style="it"><char style="wj">this|
-     v26                                |very moment</char></char><char style="wj">.”</char>|
+ +   V26              VERSES_NARRATIVE: |He continued and said, <char style="wj">“I am </char><char style="it"><char style="wj">He,</char></char><char|
+     v26                                |style="wj"> </char><char style="it"><char style="wj">the One-And-Only-One, </char></char><char style="wj">the|
+     v26                                |one who’s talking to you </char><char style="it"><char style="wj">this very moment</char></char><char|
+     v26                                |style="wj">.”</char>|
  +   V27              VERSES_NARRATIVE: |Just then, his disciples came <char style="it">back</char>, and they were amazed that he was in the middle|
      v27                                |of speaking to a woman. But yet, nobody said, “What are you up to?<char style="sup">[i]</char>”, or,|
      V28              VERSES_NARRATIVE: |So the woman left her <char style="it">bucket of </char>water behind and departed for the city. She said|
@@ -14569,7 +14593,7 @@
      V46              VERSES_NARRATIVE: |for they heard them speaking in tongues and magnifying God. Then Peter reacted <char style="it">to what|
      V47              VERSES_NARRATIVE: |“Surely water for someone to be baptized in can’t be denied to<char style="sup">[q]</char> these people,|
      v47                                |particularly those who received the Holy Spirit just like we did?” |
-     V48              VERSES_NARRATIVE: |He commanded that they be baptized by the authority of<char style="sup">[r]</char> of Jesus Christ. After|
+     V48              VERSES_NARRATIVE: |He commanded that they be baptized by the authority of<char style="sup">[r]</char> Jesus Christ. After|
      v48                                |that, they asked him to stay for several days.|
      a                FOOTNOTES_NORMAL: |<char style="it">battalion</char>…Lit: <char style="it">cohort</char>|
      b                FOOTNOTES_NORMAL: |<char style="it">constantly praying to God</char>…Lit: <char style="it">asking of</char> [or <char style="it">from</char>]|
@@ -19679,8 +19703,8 @@
                                         |the table.|
 
   >>>>>>>>>>>>>>  COR1 Chapter 12  <<<<<<<<<<<<
- +   V 1              VERSES_NARRATIVE: |Concerning spirituals<char style="sup">[A]</char> (things which are of nature related to the Holy Spirit:|
-     v 1                                |i.e., spiritual gifts, ministries, and extraordinary manifestations of the Holy Spirit), comrades<char|
+ +   V 1              VERSES_NARRATIVE: |Concerning The Spirituals<char style="sup">[A]</char> (things which are of nature related to the Holy|
+     v 1                                |Spirit: i.e., spiritual gifts, ministries, and extraordinary manifestations of the Holy Spirit), comrades<char|
      v 1                                |style="sup">[a]</char>, I don’t want you to fail to understand this. |
      V 2              VERSES_NARRATIVE: |You know for a fact that when you were pagans in close contact with<char style="sup">[b]</char> the <char|
      v 2                                |style="it">mute and </char>dumb idols, as long as<char style="sup">[c]</char> you kept on being led<char|
@@ -19759,23 +19783,25 @@
                                         |something in place of another.</char> Also, ref. note concerning <char style="it">gifts of healings </char>in|
                                         |v. 28.|
      j                FOOTNOTES_NORMAL: ||
-     A                FOOTNOTES_NORMAL: |<char style="it">spirituals</char>…The Gk. word <char style="it">pneumatikos </char><char style="w" strong="G04152">πνευματικός</char>).<char|
-                                        |style="it"> </char>The Gk. noun <char style="it">pneuma </char>(spirit, πνεῦμα/Strong’s 4151) terminated|
-                                        |with the adjective ending <char style="it">tikos, </char>a suffix<char style="it"> </char>which “marks|
-                                        |ability or fitness” of the verb it appends according to Bullinger. The adjective, having been formed,|
-                                        |is used substantively as a noun in this verse, forming a new noun. This new Gk. noun means “belonging|
-                                        |to or of pneuma; of the pneuma.” As pneuma has multiple meanings—a spiritual being (the Holy Spirit,|
-                                        |a human spirit, a demonic spirit); related to things of the spirit; prevailing attitude—pneumatikos acquires|
-                                        |these flavors of meaning: related to or of the Holy Spirit; related to or of a human spirit; or simply|
-                                        |the word <char style="it">spiritual</char> as it’s understood in English. Though Paul didn’t invent this|
-                                        |word, he coined the usage of it in the NT. The meaning of pneumatikos in Paul’s writings is best understood|
-                                        |from the way Paul uses it and from firsthand Christian experience—not from what’s written in the lexicons.|
-                                        |When pneumatikos appears in the NT, the context will guide you as to which of these various definitions|
-                                        |to use. In v. 1 here, the context suggests things related to or pertaining to the Holy Spirit, where|
-                                        |<char style="it">Holy Spirit </char>is a synecdoche which refers to his workings, similar to the way|
-                                        |Holy Spirit is used a synecdoche to refer to the baptism in the Holy Spirit (an example being Acts 8:15).|
-                                        |So pneumatikos as used here refers to things that the Holy Spirit does and not the Holy Spirit himself|
-                                        |per se. This is not the case in other NT usages of pneumatikos, as pneumatikos’s meaning is context-dependent.|
+     A                FOOTNOTES_NORMAL: |<char style="it">The Spirituals</char>…The plural form of the Gk. word <char style="it">pneumatikos </char><char|
+                                        |style="w" strong="G04152">πνευματικός</char>) with the definite article, which isn’t ordinarily needed|
+                                        |in this case (this creates emphasis).<char style="it"> </char>The Gk. noun <char style="it">pneuma </char>(spirit,|
+                                        |πνεῦμα/Strong’s 4151) terminated with the adjective ending <char style="it">tikos, </char>a suffix<char|
+                                        |style="it"> </char>which “marks ability or fitness” of the verb it appends according to Bullinger. The|
+                                        |adjective, having been formed, is used substantively as a noun in this verse, forming a new noun. This|
+                                        |new Gk. noun means “belonging to or of pneuma; of the pneuma.” As pneuma has multiple meanings—a spiritual|
+                                        |being (the Holy Spirit, a human spirit, a demonic spirit); related to things of the spirit; prevailing|
+                                        |attitude—pneumatikos acquires these flavors of meaning: related to or of the Holy Spirit; related to|
+                                        |or of a human spirit; or simply the word <char style="it">spiritual</char> as it’s understood in English.|
+                                        |Though Paul didn’t invent this word, he coined the usage of it in the NT. The meaning of pneumatikos|
+                                        |in Paul’s writings is best understood from the way Paul uses it and from firsthand Christian experience—not|
+                                        |from what’s written in the lexicons. When pneumatikos appears in the NT, the context will guide you as|
+                                        |to which of these various definitions to use. In v. 1 here, the context suggests things related to or|
+                                        |pertaining to the Holy Spirit, where <char style="it">Holy Spirit </char>is a synecdoche which refers|
+                                        |to his workings, similar to the way Holy Spirit is used a synecdoche to refer to the baptism in the Holy|
+                                        |Spirit (an example being Acts 8:15). So pneumatikos as used here refers to things that the Holy Spirit|
+                                        |does and not the Holy Spirit himself per se. This is not the case in other NT usages of pneumatikos,|
+                                        |as pneumatikos’s meaning is context-dependent.|
      B                FOOTNOTES_NORMAL: |<char style="it">through the Spirit is given to one person</char>…The nine items listed in this passage,|
                                         |the Gifts of the Spirit, are all supernatural workings of the Holy Spirit, in spite of some of these|
                                         |item’s titles, titles which suggest that they are personal qualities. Among such titles is the first,|
@@ -19946,8 +19972,8 @@
      V16              VERSES_NARRATIVE: |Otherwise, if you were to give a praise, blessing, or consecration with <char style="it">the</char> spirit,|
      v16                                |a person who isn’t versed in the things of the Spirit and doesn’t speak in tongues<char style="sup">[B]</char>—how|
      v16                                |will he say “amen” (i.e., speak a verbal affirmation) upon <char style="it">hearing </char>Your Blessing<char|
-     V17              VERSES_NARRATIVE: |For you certainly give a blessing well, but the other <char style="it">person who’s not versed in the|
-     v17                                |things of the Spirit </char>doesn’t get anything out of it. |
+     V17              VERSES_NARRATIVE: |For you certainly give thanks well, but the other <char style="it">person who’s not versed in the things|
+     v17                                |of the Spirit </char>doesn’t get anything out of it. |
      V18              VERSES_NARRATIVE: |I give God thanks that I speak in tongues more than you all, |
      V19              VERSES_NARRATIVE: |but putting that to the side, <char style="it">when I’m</char> in a church I want to speak five words|
      v19                                |<char style="it">or so</char> using my mind so that I would pass on instruction to others, rather than|
@@ -21455,7 +21481,7 @@
      v 9                                |in addition: <char style="it">we pray </char>for you to reach maturity.|
  +   V10              VERSES_NARRATIVE: |Because of this, I write these words while absent, so that when I get there and am staying with you,|
      v10                                |I won’t be using the authority which the Lord assigned to me in a harsh manner, <char style="it">an authority|
-     v10                                |which is to be used </char>for edification and not <char style="it">is</char> <char style="it">to be|
+     v10                                |which is to be used </char>for edification and not <char style="it">to be used</char> destructively.|
  +   V11              VERSES_NARRATIVE: |One last thing, comrades<char style="sup">[d]</char>: rejoice, mend your ways, be comforted and encouraged,|
      v11                                |stay in agreement<char style="sup">[e]</char>, live in peace, and the God of that wonderful, peaceful|
  + N V12              VERSES_NARRATIVE: |Give each other a holy hug<char style="sup">[g]</char> from me.|

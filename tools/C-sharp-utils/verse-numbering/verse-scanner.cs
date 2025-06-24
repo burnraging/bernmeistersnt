@@ -68,6 +68,7 @@ namespace verse_numbering
                     if (BibleBooks.BookNameMatchBackwards(ref entireTextFile, nextChapterIndex, out BookEnum book,
                                                       out string bookText, out int matchOffset) == false)
                     {
+                        string surroundingText = entireTextFile.Substring(nextChapterIndex - 50, 50*2);
                         Utils.LogFatal("Blew up!");
                         throw new Exception("Blew up!");
                     }
@@ -352,7 +353,7 @@ namespace verse_numbering
 
                 if ((book == BookEnum.JOHN) && (chapterNumber == 16))
                 {
-                    Utils.LogEntry("Temp marker!!!");
+                    //Utils.LogEntry("Temp marker!!!");
                 }
 
                 Dictionary<char, FootnoteInfo> perChapterFootnotes = new Dictionary<char, FootnoteInfo>(50);   // key=footnote letter (case sensitive)

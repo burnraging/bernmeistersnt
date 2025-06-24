@@ -51,8 +51,21 @@ Make these destructive edits in your Word-copy
    o Run tool and anaylze results (which get saved to 'verses-by-lines.txt'
 
 Notes:
-   Will always get an error on John 8:11
-         JOHN 8: Verse 11 problem
+   These are the current errors (version 2)
+   (Will always get an error on John 8:11). The other 2 verses are bugs/limitations.
+
+**********
+**************  Missing/problematic verse number
+**********
+JOHN 8: Verse 11 problem
+**********
+**************  Footnotes
+**********
+ACTS 26: Footnote a out of sequence/missing/suspicious
+ACTS 26: Footnote 26 duplicated chapter text
+COR2 5: Footnote a out of sequence/missing/suspicious
+COR2 5: Footnote 5 duplicated chapter text
+
 
 
 Current console output

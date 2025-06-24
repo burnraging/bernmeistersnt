@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="1TH 1" />
     <para style="p">
-      <verse number="1" style="v" sid="1TH 1:1" />From Paul, Silas, and Timothy:
-    </para>
+      <verse number="1" style="v" sid="1TH 1:1" />From Paul, Silas, and Timothy:</para>
     <para style="p" vid="1TH 1:1">To the church of Thessalonica in the Father-God and the Lord Jesus Christ:</para>
     <para style="p" vid="1TH 1:1">Grace to you and peace.<verse eid="1TH 1:1"/>
     </para>
@@ -50,7 +49,6 @@
       <verse number="10" style="v" sid="1TH 1:10" />and to wait for His son to come out of heaven, whom He raised from the dead, Jesus who’s rescuing us
         from the coming wrath.<verse eid="1TH 1:10" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TH 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -111,7 +109,6 @@
         not you—yes you—joy of you being in the presence of our Lord with his coming? <verse eid="1TH 2:19" />
       <verse number="20" style="v" sid="1TH 2:20" />You are our pride and joy, you see.<verse eid="1TH 2:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TH 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -150,7 +147,6 @@
       <verse number="13" style="v" sid="1TH 3:13" />with the end-goal of establishing your hearts blameless in holiness under the scrutiny of our God and
         Father in the coming of our Lord Jesus with all his saints (i.e., his followers).<verse eid="1TH 3:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TH 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -204,7 +200,6 @@
     <para style="p">
       <verse number="18" style="v" sid="1TH 4:18" />The bottom line is that we should comfort and exhort each other with these words.<verse eid="1TH 4:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TH 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -243,13 +238,11 @@
       <verse number="12" style="v" sid="1TH 5:12" />We ask you, comrades, to know from first-hand observation those among you who do hard work and who have
         stepped forward to stand in leadership positions in the Lord and who advise, warn, admonish, and instruct
         you, <verse eid="1TH 5:12" />
-      <verse number="13" style="v" sid="1TH 5:13" />and to have a superabundant high regard for them in love on account of their work.
-    </para>
+      <verse number="13" style="v" sid="1TH 5:13" />and to have a superabundant high regard for them in love on account of their work.</para>
     <para style="p" vid="1TH 5:13">Keep the peace among yourselves.<verse eid="1TH 5:13"/>
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.
-    </para>
+      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.</para>
     <para style="p" vid="1TH 5:14">Cheer up those who are discouraged.</para>
     <para style="p" vid="1TH 5:14">Take a strong interest in and help those who are weak (i.e., those who are unwell; worn out with a sickness;
         too physically weak to take care of themselves; powerless to do anything about their circumstances).

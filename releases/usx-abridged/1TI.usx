@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -23,8 +23,7 @@
       <verse number="1" style="v" sid="1TI 1:1" />Paul, an apostle of Christ Jesus according to the command of God our savior and Christ Jesus our hope:<verse eid="1TI 1:1" />
     </para>
     <para style="p">
-      <verse number="2" style="v" sid="1TI 1:2" />To Timothy, a genuine son in the Faith:
-    </para>
+      <verse number="2" style="v" sid="1TI 1:2" />To Timothy, a genuine son in the Faith:</para>
     <para style="p" vid="1TI 1:2">Grace, mercy, peace—from God the Father and from Christ Jesus our Lord.<verse eid="1TI 1:2"/>
     </para>
     <para style="p">
@@ -75,7 +74,6 @@
       <verse number="20" style="v" sid="1TI 1:20" />among whom are Hymenaeus and Alexander, whom I’ve handed over to Satan so that he would train them (train
         them like one trains a child) not to talk trash or blaspheme.<verse eid="1TI 1:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TI 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -83,7 +81,7 @@
   <chapter number="2" style="c" sid="1TI 2" />
     <para style="p">
       <verse number="1" style="v" sid="1TI 2:1" />I urge that first above all else you offer supplications (i.e., urgent requests), prayers (i.e., generic
-        prayers), intercessions (i.e., a two-way exchange in prayer), and giving of thanks for all people, <verse eid="1TI 2:1" />
+        prayers), intercessions (i.e., a two-way exchange in prayer), and giving of thanksfor all people, <verse eid="1TI 2:1" />
       <verse number="2" style="v" sid="1TI 2:2" />for kings and for every high-ranking official, so that we may spend our time leading a quiet (i.e., free
         of disturbances, crises, unrest, etc.) and tranquil life in piety and dignity in every respect. <verse eid="1TI 2:2" />
       <verse number="3" style="v" sid="1TI 2:3" />This is a good thing to do, is acceptable, pleasing, and welcomed when examined by God our Savior, <verse eid="1TI 2:3" />
@@ -115,7 +113,6 @@
       <verse number="15" style="v" sid="1TI 2:15" />But she will be spared calamity through the childbearing years if she were to continue in faith, love,
         and holiness with good judgment combined with self-control.<verse eid="1TI 2:15" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TI 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -159,8 +156,7 @@
       <verse number="15" style="v" sid="1TI 3:15" />But in case I’m delayed, I’m writing these things to you now so that you would know for a fact how the
         house of God, which very thing is the church of the Living God, a pillar and a chief supporting base
         of the truth, must be run. <verse eid="1TI 3:15" />
-      <verse number="16" style="v" sid="1TI 3:16" />And great, admittedly, is the mystery of piety:
-    </para>
+      <verse number="16" style="v" sid="1TI 3:16" />And great, admittedly, is the mystery of piety:</para>
     <para style="pi" vid="1TI 3:16"></para>
     <para style="pi" vid="1TI 3:16">He who appeared in the flesh</para>
     <para style="pi" vid="1TI 3:16">Was declared righteous in spirit</para>
@@ -169,7 +165,6 @@
     <para style="pi" vid="1TI 3:16">Was believed by the world</para>
     <para style="pi" vid="1TI 3:16">Was taken up in glory<verse eid="1TI 3:16"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TI 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -218,7 +213,6 @@
         yourself in them. You see, by so doing, you’ll be preserving yourself, protecting yourself, and keeping
         yourself from harm, you and those who listen to you.<verse eid="1TI 4:16" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TI 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -307,7 +301,6 @@
       <verse number="25" style="v" sid="1TI 5:25" />Deeds operate the same way that I just described about sin: the deeds which are exemplary are obvious
         to everyone, but the ones which are otherwise can’t be kept hidden.<verse eid="1TI 5:25" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1TI 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -367,8 +360,7 @@
     <para style="p">
       <verse number="20" style="v" sid="1TI 6:20" />Oh, Timothy, guard what’s been entrusted to you, avoid the desecrated, profane kind of useless chatter
         and the contradictions of so-called knowledge and understanding, <verse eid="1TI 6:20" />
-      <verse number="21" style="v" sid="1TI 6:21" />which some, by professing these things, have veered off into a ditch with respect to the Faith.
-    </para>
+      <verse number="21" style="v" sid="1TI 6:21" />which some, by professing these things, have veered off into a ditch with respect to the Faith.</para>
     <para style="p" vid="1TI 6:21">The grace of God be with you all.<verse eid="1TI 6:21"/>
     </para>
   <chapter eid="1TI 6" />

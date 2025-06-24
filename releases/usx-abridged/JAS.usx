@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="JAS 1" />
     <para style="p">
-      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of the Lord Jesus Christ:
-    </para>
+      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of the Lord Jesus Christ:</para>
     <para style="p" vid="JAS 1:1">To the blood-descendants of the twelve tribes of Israel who are among the Diaspora (i.e. the scattering
         of Jews all over the world):
     </para>
@@ -98,7 +97,6 @@
         to visit orphans and widows in dire need for the purpose of helping them, while keeping oneself unstained
         from the world, i.e. the established order of humanity which wants nothing to do with God.<verse eid="JAS 1:27" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="JAS 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -169,7 +167,6 @@
       <verse number="26" style="v" sid="JAS 2:26" />For as the body is dead when it is apart from a spirit, in the same way the genuine sort of faith apart
         from works is dead too.<verse eid="JAS 2:26" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="JAS 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -184,8 +181,7 @@
         so we guide their entire bodies. <verse eid="JAS 3:3" />
       <verse number="4" style="v" sid="JAS 3:4" />Ships too, for example, are gigantic and are propelled by stiff breezes, guided by the smallest thing
         imaginable—a rudder—in whatever heading the helmsman selects. <verse eid="JAS 3:4" />
-      <verse number="5" style="v" sid="JAS 3:5" />Analogous to this, the tongue is a small part of a much larger unit and makes outrageous remarks.
-    </para>
+      <verse number="5" style="v" sid="JAS 3:5" />Analogous to this, the tongue is a small part of a much larger unit and makes outrageous remarks.</para>
     <para style="p" vid="JAS 3:5">I’m telling you what, it’s like they say: “Just a tiny flame can set even an enormous forest on fire.”<verse eid="JAS 3:5"/>
       <verse number="6" style="v" sid="JAS 3:6" />And the tongue is a flame indeed, an elaborate mechanism of wrong-doing—the tongue occupies a position
         of preeminence among our body parts—the defiler of the entire body and stoker of the Merry-go-round of
@@ -214,7 +210,6 @@
       <verse number="18" style="v" sid="JAS 3:18" />The end-result where everything turns out right has its origins in peace by those who put peace into
         practice.<verse eid="JAS 3:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="JAS 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -234,8 +229,7 @@
         and among us jealously longs and desires for hearts turned towards Him” is a waste of time?<verse eid="JAS 4:5" />
     </para>
     <para style="p">
-      <verse number="6" style="v" sid="JAS 4:6" />Now the Bible lets us off the hook all the more; owing to this it says,
-    </para>
+      <verse number="6" style="v" sid="JAS 4:6" />Now the Bible lets us off the hook all the more; owing to this it says,</para>
     <para style="pi" vid="JAS 4:6"></para>
     <para style="pi" vid="JAS 4:6">God takes a stance against the arrogant, proud, and haughty</para>
     <para style="pi" vid="JAS 4:6">But He lets the humble and abased off the hook<verse eid="JAS 4:6"/>
@@ -268,7 +262,6 @@
       <verse number="16" style="v" sid="JAS 4:16" />You’re vaunting at the present time by your pretentious, ostentatious swagger. All such vaunting is evil.<verse eid="JAS 4:16" />
       <verse number="17" style="v" sid="JAS 4:17" />So it’s a sin for him who knows to do good not to do it.<verse eid="JAS 4:17" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="JAS 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->

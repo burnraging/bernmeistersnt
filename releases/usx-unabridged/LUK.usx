@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -134,8 +134,7 @@
         God sent the angel Gabriel to a city in Galilee called Nazareth, <verse eid="LUK 1:26" />
       <verse number="27" style="v" sid="LUK 1:27" />to a young, never-married woman<char style="sup">[i]</char> engaged to a man named Joseph, who was a
         direct descendant of David—and the name of this young woman was Mary. <verse eid="LUK 1:27" />
-      <verse number="28" style="v" sid="LUK 1:28" />He entered <char style="it">the physical world </char>right in front of her and said, 
-    </para>
+      <verse number="28" style="v" sid="LUK 1:28" />He entered <char style="it">the physical world </char>right in front of her and said, </para>
     <para style="p" vid="LUK 1:28">“Greetings<char style="sup">[j]</char>, favored-one<char style="sup">[k]</char>, the Lord <char style="it">be</char>
         with you.” <verse eid="LUK 1:28"/>
       <verse number="29" style="v" sid="LUK 1:29" />Now she was deeply disturbed at the remark and was trying to figure out what the nature of the visit
@@ -180,19 +179,16 @@
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="47" style="v" sid="LUK 1:47" />”My life-being<char style="sup">[p]</char> extols the Lord
-    </para>
+      <verse number="47" style="v" sid="LUK 1:47" />”My life-being<char style="sup">[p]</char> extols the Lord</para>
     <para style="pi" vid="LUK 1:47">And my spirit has heaped exultation upon God my Savior<char style="sup">[G]</char><verse eid="LUK 1:47"/>
     </para>
     <para style="pi">
-      <verse number="48" style="v" sid="LUK 1:48" />Because He took interest in the abasement of his slave.
-    </para>
+      <verse number="48" style="v" sid="LUK 1:48" />Because He took interest in the abasement of his slave.</para>
     <para style="pi" vid="LUK 1:48">Yes indeed—and—hey—from now on</para>
     <para style="pi" vid="LUK 1:48">All generations will call me blessed<verse eid="LUK 1:48"/>
     </para>
     <para style="pi">
-      <verse number="49" style="v" sid="LUK 1:49" />Because he has done great things for me, the Capable One,
-    </para>
+      <verse number="49" style="v" sid="LUK 1:49" />Because he has done great things for me, the Capable One,</para>
     <para style="pi" vid="LUK 1:49">And holy is His name<char style="sup">[G]</char>,<verse eid="LUK 1:49"/>
     </para>
     <para style="pi">
@@ -202,8 +198,7 @@
     <para style="pi" vid="LUK 1:50">For generation upon generation<verse eid="LUK 1:50"/>
     </para>
     <para style="pi">
-      <verse number="51" style="v" sid="LUK 1:51" />The One exuding power intervened
-    </para>
+      <verse number="51" style="v" sid="LUK 1:51" />The One exuding power intervened</para>
     <para style="pi" vid="LUK 1:51">In the affairs of man<char style="sup">[G]</char> and did this:</para>
     <para style="pi" vid="LUK 1:51">He<char style="sup">[G]</char> routed<char style="sup">[G]</char><char style="sup">[r]</char> those who
         are high-and-mighty
@@ -211,24 +206,20 @@
     <para style="pi" vid="LUK 1:51">Where the intention of their heart is concerned<char style="sup">[G]</char>.<verse eid="LUK 1:51"/>
     </para>
     <para style="pi">
-      <verse number="52" style="v" sid="LUK 1:52" />He pulled down rulers from <char style="it">their </char>thrones
-    </para>
+      <verse number="52" style="v" sid="LUK 1:52" />He pulled down rulers from <char style="it">their </char>thrones</para>
     <para style="pi" vid="LUK 1:52">And exalted the abased.<verse eid="LUK 1:52"/>
     </para>
     <para style="pi">
-      <verse number="53" style="v" sid="LUK 1:53" />From out of good things He filled the hungry up,
-    </para>
+      <verse number="53" style="v" sid="LUK 1:53" />From out of good things He filled the hungry up,</para>
     <para style="pi" vid="LUK 1:53">And He punted the rich,</para>
     <para style="pi" vid="LUK 1:53">Sending them away empty-handed.<verse eid="LUK 1:53"/>
     </para>
     <para style="pi">
-      <verse number="54" style="v" sid="LUK 1:54" />He took the responsibility of caring for Israel, his child,
-    </para>
+      <verse number="54" style="v" sid="LUK 1:54" />He took the responsibility of caring for Israel, his child,</para>
     <para style="pi" vid="LUK 1:54">To <char style="it">take heed and </char>remember mercy,<verse eid="LUK 1:54"/>
     </para>
     <para style="pi">
-      <verse number="55" style="v" sid="LUK 1:55" />In accordance to what he said to our ancestors,
-    </para>
+      <verse number="55" style="v" sid="LUK 1:55" />In accordance to what he said to our ancestors,</para>
     <para style="pi" vid="LUK 1:55">To Abraham and to his descendants until the end of time.”<verse eid="LUK 1:55"/>
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
@@ -239,8 +230,7 @@
         joy and congratulated her. <verse eid="LUK 1:58" />
       <verse number="59" style="v" sid="LUK 1:59" />When the eighth day <char style="it">after birth </char>came, they went to circumcise the child, and
         they were thinking of naming him after his father Zechariah. <verse eid="LUK 1:59" />
-      <verse number="60" style="v" sid="LUK 1:60" />His mother spoke up and said,
-    </para>
+      <verse number="60" style="v" sid="LUK 1:60" />His mother spoke up and said,</para>
     <para style="p" vid="LUK 1:60">“No—he’ll be named John instead.”<verse eid="LUK 1:60"/>
     </para>
     <para style="p">
@@ -263,69 +253,58 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="68" style="v" sid="LUK 1:68" />Blessed <char style="it">is </char>the Lord God of Israel,
-    </para>
+      <verse number="68" style="v" sid="LUK 1:68" />Blessed <char style="it">is </char>the Lord God of Israel,</para>
     <para style="pi" vid="LUK 1:68">Because He showed up and did a spiritual service for His people<verse eid="LUK 1:68"/>
     </para>
     <para style="pi">
-      <verse number="69" style="v" sid="LUK 1:69" />And got a horn ready, a horn
-    </para>
+      <verse number="69" style="v" sid="LUK 1:69" />And got a horn ready, a horn</para>
     <para style="pi" vid="LUK 1:69">Which signals security and the end to our misery<char style="sup">[v]</char>,</para>
     <para style="pi" vid="LUK 1:69">Ready to blow, to be a cue for us</para>
     <para style="pi" vid="LUK 1:69">By means of the lineage of David, His son<verse eid="LUK 1:69"/>
     </para>
     <para style="pi">
-      <verse number="70" style="v" sid="LUK 1:70" />In accordance to what He spoke
-    </para>
+      <verse number="70" style="v" sid="LUK 1:70" />In accordance to what He spoke</para>
     <para style="pi" vid="LUK 1:70">Through the mouth of the holy people <char style="it">who lived long ago</char></para>
     <para style="pi" vid="LUK 1:70">Prophesying about him from the beginning of time:<verse eid="LUK 1:70"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="71" style="v" sid="LUK 1:71" />”Security and the end to our misery from our enemies
-    </para>
+      <verse number="71" style="v" sid="LUK 1:71" />”Security and the end to our misery from our enemies</para>
     <para style="pi" vid="LUK 1:71">And from the ability of those who hate us to do us harm:<verse eid="LUK 1:71"/>
     </para>
     <para style="pi">
-      <verse number="72" style="v" sid="LUK 1:72" />To perform an act of mercy in the company of our ancestors
-    </para>
+      <verse number="72" style="v" sid="LUK 1:72" />To perform an act of mercy in the company of our ancestors</para>
     <para style="pi" vid="LUK 1:72">And to remember His holy covenant,<verse eid="LUK 1:72"/>
     </para>
     <para style="pi">
       <verse number="73" style="v" sid="LUK 1:73" />An oath which He swore to our ancestor Abraham:<verse eid="LUK 1:73" />
     </para>
     <para style="pi">
-      <verse number="74" style="v" sid="LUK 1:74" /><char style="it">The promise</char> to grant us bold raid-and-rescue <char style="it">operations</char>
-    </para>
+      <verse number="74" style="v" sid="LUK 1:74" /><char style="it">The promise</char> to grant us bold raid-and-rescue <char style="it">operations</char></para>
     <para style="pi" vid="LUK 1:74">To get us out from the clutches<char style="sup">[w]</char> of our enemies;</para>
     <para style="pi" vid="LUK 1:74">To be continuously holding <char style="it">worship</char> services dedicated to Him<verse eid="LUK 1:74"/>
     </para>
     <para style="pi">
-      <verse number="75" style="v" sid="LUK 1:75" />In piety, holiness, and correctness
-    </para>
+      <verse number="75" style="v" sid="LUK 1:75" />In piety, holiness, and correctness</para>
     <para style="pi" vid="LUK 1:75">In His midst for all the days of our lives.”<verse eid="LUK 1:75"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="76" style="v" sid="LUK 1:76" />Now you, child, will be called a prophet of the Most High
-    </para>
+      <verse number="76" style="v" sid="LUK 1:76" />Now you, child, will be called a prophet of the Most High</para>
     <para style="pi" vid="LUK 1:76">You see, you’re <char style="it">destined</char> to be a trailblazer for the Lord</para>
     <para style="pi" vid="LUK 1:76">To prepare the road that he’ll take<verse eid="LUK 1:76"/>
     </para>
     <para style="pi">
-      <verse number="77" style="v" sid="LUK 1:77" />To impart to his people
-    </para>
+      <verse number="77" style="v" sid="LUK 1:77" />To impart to his people</para>
     <para style="pi" vid="LUK 1:77">The comprehension of <char style="it">their </char>security and of an end to their misery</para>
     <para style="pi" vid="LUK 1:77">By means of the forgiveness of their sins<verse eid="LUK 1:77"/>
     </para>
     <para style="pi">
-      <verse number="78" style="v" sid="LUK 1:78" />Through deep, heartfelt mercies from our God,
-    </para>
+      <verse number="78" style="v" sid="LUK 1:78" />Through deep, heartfelt mercies from our God,</para>
     <para style="pi" vid="LUK 1:78">By which mercies a sunrise to noon<char style="it">-like epoch</char> will come visit us,<verse eid="LUK 1:78"/>
     </para>
     <para style="pi">
-      <verse number="79" style="v" sid="LUK 1:79" />To shine upon those in darkness,
-    </para>
+      <verse number="79" style="v" sid="LUK 1:79" />To shine upon those in darkness,</para>
     <para style="pi" vid="LUK 1:79">Upon those sitting under a death-shadow<char style="sup">[x]</char>,</para>
     <para style="pi" vid="LUK 1:79">To put us on the path to peace<char style="sup">[y]</char>.<verse eid="LUK 1:79"/>
     </para>
@@ -606,8 +585,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="14" style="v" sid="LUK 2:14" />Glory to God to the max,
-    </para>
+      <verse number="14" style="v" sid="LUK 2:14" />Glory to God to the max,</para>
     <para style="pi" vid="LUK 2:14">And peace <char style="it">be</char> upon the Earth among men of good intent<verse eid="LUK 2:14"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -644,8 +622,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="29" style="v" sid="LUK 2:29" />”At this time You’re releasing Your servant
-    </para>
+      <verse number="29" style="v" sid="LUK 2:29" />”At this time You’re releasing Your servant</para>
     <para style="pi" vid="LUK 2:29">From his service in peace, Master,</para>
     <para style="pi" vid="LUK 2:29"><char style="it">Just</char> like You said you would,<verse eid="LUK 2:29"/>
     </para>
@@ -653,13 +630,11 @@
       <verse number="30" style="v" sid="LUK 2:30" />Because my eyes have seen Your rescue program<char style="sup">[f]</char>,<verse eid="LUK 2:30" />
     </para>
     <para style="pi">
-      <verse number="31" style="v" sid="LUK 2:31" />That which You’ve prepared in accordance with
-    </para>
+      <verse number="31" style="v" sid="LUK 2:31" />That which You’ve prepared in accordance with</para>
     <para style="pi" vid="LUK 2:31">The disposition of the people<char style="sup">[g]</char>:<verse eid="LUK 2:31"/>
     </para>
     <para style="pi">
-      <verse number="32" style="v" sid="LUK 2:32" />A light resulting in a revelation for the nations
-    </para>
+      <verse number="32" style="v" sid="LUK 2:32" />A light resulting in a revelation for the nations</para>
     <para style="pi" vid="LUK 2:32">And resulting in your people Israel’s high regard<char style="sup">[h]</char>.”<verse eid="LUK 2:32"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -822,16 +797,14 @@
       <verse number="3" style="v" sid="LUK 3:3" />He went into all the surrounding regions of the Jordan preaching a baptism—a water immersion-type of
         initiation ceremony—signifying a total commitment to a change in conduct to live the right way <char
         style="it">and initiating</char> into <char style="it">a</char> forgiveness of sins.<char style="sup">[d]</char>,<verse eid="LUK 3:3" />
-      <verse number="4" style="v" sid="LUK 3:4" />as it’s been written in the Book of Isaiah, the prophet:
-    </para>
+      <verse number="4" style="v" sid="LUK 3:4" />as it’s been written in the Book of Isaiah, the prophet:</para>
     <para style="p" vid="LUK 3:4"></para>
     <para style="pi" vid="LUK 3:4">The sound of shouting in the countryside:</para>
     <para style="pi" vid="LUK 3:4">“Block off the road the Lord will take!</para>
     <para style="pi" vid="LUK 3:4">Barricade the streets he’ll be on!” <verse eid="LUK 3:4"/>
     </para>
     <para style="pi">
-      <verse number="5" style="v" sid="LUK 3:5" />All valleys will be filled in
-    </para>
+      <verse number="5" style="v" sid="LUK 3:5" />All valleys will be filled in</para>
     <para style="pi" vid="LUK 3:5">And all hills will be leveled;</para>
     <para style="pi" vid="LUK 3:5">All the windy roads will get straightened out</para>
     <para style="pi" vid="LUK 3:5">And all the rough roads will be resurfaced<char style="sup">[B]</char>;<verse eid="LUK 3:5"/>
@@ -850,8 +823,7 @@
         stones<char style="sup">[C]</char>. <verse eid="LUK 3:8" />
       <verse number="9" style="v" sid="LUK 3:9" />The axe is already lying next to the tree trunk <char style="it">ready to be used to cut the tree down</char>;
         in line with this, all trees not producing good fruit will be hacked out and cast into a fire.” <verse eid="LUK 3:9" />
-      <verse number="10" style="v" sid="LUK 3:10" />The crowd <char style="it">thereupon</char> asked him,
-    </para>
+      <verse number="10" style="v" sid="LUK 3:10" />The crowd <char style="it">thereupon</char> asked him,</para>
     <para style="p" vid="LUK 3:10">“How then are we supposed to conduct our lives?”<verse eid="LUK 3:10"/>
     </para>
     <para style="p">
@@ -866,8 +838,7 @@
       <verse number="13" style="v" sid="LUK 3:13" />He said, “Don’t take anything more than what the quotas and tax rates mandate.”<verse eid="LUK 3:13" />
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="LUK 3:14" />Soldiers also were questioning him, “How are we too supposed to act?”, and he said to them,
-    </para>
+      <verse number="14" style="v" sid="LUK 3:14" />Soldiers also were questioning him, “How are we too supposed to act?”, and he said to them,</para>
     <para style="p" vid="LUK 3:14">“Don’t shake people down for money or take bribes from racketeers, and be content with your wages.”<verse eid="LUK 3:14"/>
     </para>
     <para style="p">
@@ -1022,16 +993,14 @@
     <para style="m">
       <verse number="9" style="v" sid="LUK 4:9" />He led him to Jerusalem and stood him on top of the battlements of the temple roof and said to him, “If
         you enjoy the status of Son of God, jump down from here; <verse eid="LUK 4:9" />
-      <verse number="10" style="v" sid="LUK 4:10" />you see, it’s been written <char style="it">in Scripture</char>,”
-    </para>
+      <verse number="10" style="v" sid="LUK 4:10" />you see, it’s been written <char style="it">in Scripture</char>,”</para>
     <para style="pi" vid="LUK 4:10"></para>
     <para style="pi" vid="LUK 4:10">“Concerning you, His angels are commanded</para>
     <para style="pi" vid="LUK 4:10">To keep a close eye on you and protect you<verse eid="LUK 4:10"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="11" style="v" sid="LUK 4:11" />”…and, you see,”
-    </para>
+      <verse number="11" style="v" sid="LUK 4:11" />”…and, you see,”</para>
     <para style="pi" vid="LUK 4:11"></para>
     <para style="pi" vid="LUK 4:11">“They’ll snatch you out of the way with their bare<char style="it"> </char>hands<char style="sup">[b]</char></para>
     <para style="pi" vid="LUK 4:11">To prevent your foot from impacting a stone”<verse eid="LUK 4:11"/>
@@ -1059,8 +1028,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="18" style="v" sid="LUK 4:18" /><char style="wj">The Spirit of the Lord is upon me</char>
-    </para>
+      <verse number="18" style="v" sid="LUK 4:18" /><char style="wj">The Spirit of the Lord is upon me</char></para>
     <para style="pi" vid="LUK 4:18"><char style="it"><char style="wj">And He’s upon me</char></char><char style="wj"> because</char></para>
     <para style="pi" vid="LUK 4:18"><char style="wj">He’s bestowed upon me a special dispensation</char></para>
     <para style="pi" vid="LUK 4:18"><char style="wj">Of favor and power</char><char style="sup">[C]</char></para>
@@ -1075,8 +1043,7 @@
     <para style="pi" vid="LUK 4:18"><char style="wj">And by forgiving their sins;</char><verse eid="LUK 4:18"/>
     </para>
     <para style="pi">
-      <verse number="19" style="v" sid="LUK 4:19" /><char style="wj">To announce, proclaim, and preach</char>
-    </para>
+      <verse number="19" style="v" sid="LUK 4:19" /><char style="wj">To announce, proclaim, and preach</char></para>
     <para style="pi" vid="LUK 4:19"><char style="wj">A season of freedom-celebrations sponsored by the Lord</char><char style="sup">[D]</char><char
         style="wj">.</char><verse eid="LUK 4:19"/>
     </para>
@@ -1294,8 +1261,7 @@
       <verse number="3" style="v" sid="LUK 5:3" />But one of them—and this was Simon—was <char style="it">still </char>onboard one of the boats. He asked
         him to cast the boat out a bit from the shore, and he, having taken a seat <char style="it">in the boat</char>,
         began to teach the crowd from the boat. <verse eid="LUK 5:3" />
-      <verse number="4" style="v" sid="LUK 5:4" />Now as he wrapped up his talk, he said to Simon,
-    </para>
+      <verse number="4" style="v" sid="LUK 5:4" />Now as he wrapped up his talk, he said to Simon,</para>
     <para style="p" vid="LUK 5:4"><char style="wj">“Take the boat out into deep </char><char style="it"><char style="wj">waters</char></char><char
         style="wj"> and cast the nets out for a haul.”</char><verse eid="LUK 5:4"/>
     </para>
@@ -1347,8 +1313,7 @@
         got on the rooftop patio, and they lowered him down through the roof itself and put him together with
         his cot right smack in front of Jesus. <verse eid="LUK 5:19" />
       <verse number="20" style="v" sid="LUK 5:20" />Seeing their faith, he said, <char style="wj">“Fellow, your sins are forgiven.” </char><verse eid="LUK 5:20" />
-      <verse number="21" style="v" sid="LUK 5:21" />The designated teachers and the Pharisees proceeded to mull this over,
-    </para>
+      <verse number="21" style="v" sid="LUK 5:21" />The designated teachers and the Pharisees proceeded to mull this over,</para>
     <para style="p" vid="LUK 5:21">“<char style="it">Just</char> who is this guy, who speaks blasphemies? Who, except for God alone, has
         the ability to forgive sins?”<verse eid="LUK 5:21"/>
     </para>
@@ -1560,8 +1525,7 @@
     <para style="pi" vid="LUK 6:20"><char style="wj">Since God will interact with you (the kingdom of God is yours).</char><verse eid="LUK 6:20"/>
     </para>
     <para style="pi">
-      <verse number="21" style="v" sid="LUK 6:21" /><char style="wj">Blessed be they who are hungering at this moment,</char>
-    </para>
+      <verse number="21" style="v" sid="LUK 6:21" /><char style="wj">Blessed be they who are hungering at this moment,</char></para>
     <para style="p" vid="LUK 6:21"><char style="wj">Since they’ll be satiated.</char></para>
     <para style="pi" vid="LUK 6:21"><char style="wj">Blessed be they who are weeping at this moment,</char></para>
     <para style="pi" vid="LUK 6:21"><char style="wj">Since they’ll laugh.</char><verse eid="LUK 6:21"/>
@@ -1585,8 +1549,7 @@
     <para style="pi" vid="LUK 6:24"><char style="wj">You’re ever going to get.</char><verse eid="LUK 6:24"/>
     </para>
     <para style="pi">
-      <verse number="25" style="v" sid="LUK 6:25" /><char style="wj">You’re in for it, you who at this moment have reached</char>
-    </para>
+      <verse number="25" style="v" sid="LUK 6:25" /><char style="wj">You’re in for it, you who at this moment have reached</char></para>
     <para style="pi" vid="LUK 6:25"><char style="wj">The point where </char><char style="it"><char style="wj">your belly</char></char><char
         style="wj"> is stuffed,</char>
     </para>
@@ -1595,8 +1558,7 @@
     <para style="pi" vid="LUK 6:25"><char style="wj">Because you will mourn and weep.</char><verse eid="LUK 6:25"/>
     </para>
     <para style="pi">
-      <verse number="26" style="v" sid="LUK 6:26" /><char style="wj">You’re in for it when all the people speak well of you.</char>
-    </para>
+      <verse number="26" style="v" sid="LUK 6:26" /><char style="wj">You’re in for it when all the people speak well of you.</char></para>
     <para style="pi" vid="LUK 6:26"><char style="wj">The fact is, their ancestors treated</char></para>
     <para style="pi" vid="LUK 6:26"><char style="wj">The evil impersonators of prophets</char><char style="sup">[l]</char><char style="wj">
         the same way.</char><verse eid="LUK 6:26"/>
@@ -1810,8 +1772,7 @@
       <verse number="4" style="v" sid="LUK 7:4" />Approaching Jesus, they asked him—begged him—to hurry up, saying that this particular individual is worth
         him going out of his way to help, <verse eid="LUK 7:4" />
       <verse number="5" style="v" sid="LUK 7:5" />since he loves and values our people, and that he single-handedly built us a synagogue. <verse eid="LUK 7:5" />
-      <verse number="6" style="v" sid="LUK 7:6" />So Jesus proceeded to go with them.
-    </para>
+      <verse number="6" style="v" sid="LUK 7:6" />So Jesus proceeded to go with them.</para>
     <para style="p" vid="LUK 7:6">They had already made it to where they were not too far from his house, when the centurion sent some
         of his close friends telling him, “Sir, don’t put yourself out; you see, it’s not appropriate for you
         to set foot in my house for a visit<char style="sup">[b]</char>, <verse eid="LUK 7:6"/>
@@ -1865,8 +1826,7 @@
       <verse number="26" style="v" sid="LUK 7:26" /><char style="wj">Rather, what did you go out to see? A prophet?—Yes, I’m telling you, and more than </char><char
         style="it"><char style="wj">just</char></char><char style="wj"> </char><char style="it"><char style="wj">your
         run-of-the-mill</char></char><char style="wj"> prophet. </char><verse eid="LUK 7:26" />
-      <verse number="27" style="v" sid="LUK 7:27" /><char style="wj">This fellow’s been written about in Scripture,</char>
-    </para>
+      <verse number="27" style="v" sid="LUK 7:27" /><char style="wj">This fellow’s been written about in Scripture,</char></para>
     <para style="pi" vid="LUK 7:27"></para>
     <para style="pi" vid="LUK 7:27"><char style="wj">“See here, I will send my messenger</char></para>
     <para style="pi" vid="LUK 7:27"><char style="wj">To where your attention is fixated,</char></para>
@@ -1914,14 +1874,12 @@
       <verse number="38" style="v" sid="LUK 7:38" />and stood next to him, across from his feet, sobbing with tears <char style="it">all over</char>. She
         proceeded to rain tears down on his feet, wipe them down with her hair and fervently kiss them, and to
         pour myrrh all over them. <verse eid="LUK 7:38" />
-      <verse number="39" style="v" sid="LUK 7:39" />Seeing this, the Pharisee who invited him over said to himself,
-    </para>
+      <verse number="39" style="v" sid="LUK 7:39" />Seeing this, the Pharisee who invited him over said to himself,</para>
     <para style="p" vid="LUK 7:39">“If this guy were a prophet, he’d be mindful of<char style="sup">[F]</char> who <char style="it">the
         woman is </char>who’s touching him and of what sort of woman she is, since she’s a sinner.”<verse eid="LUK 7:39"/>
     </para>
     <para style="p">
-      <verse number="40" style="v" sid="LUK 7:40" />Jesus’s response to this was, <char style="wj">“Simon, I’d like to tell you something.”</char>
-    </para>
+      <verse number="40" style="v" sid="LUK 7:40" />Jesus’s response to this was, <char style="wj">“Simon, I’d like to tell you something.”</char></para>
     <para style="p" vid="LUK 7:40">“Speak up, teacher”.<verse eid="LUK 7:40"/>
     </para>
     <para style="p">
@@ -1931,8 +1889,7 @@
         now, which of them do you think will be more endeared to him?”</char><verse eid="LUK 7:42" />
     </para>
     <para style="p">
-      <verse number="43" style="v" sid="LUK 7:43" />Simon answered, “I suppose the one who had the greater amount cancelled will be.”
-    </para>
+      <verse number="43" style="v" sid="LUK 7:43" />Simon answered, “I suppose the one who had the greater amount cancelled will be.”</para>
     <para style="p" vid="LUK 7:43">He said, <char style="wj">“You’ve guessed right.”</char><verse eid="LUK 7:43"/>
     </para>
     <para style="p">
@@ -2241,10 +2198,9 @@
     <para style="p">
       <verse number="40" style="v" sid="LUK 8:40" />While Jesus was returning, the crowd kept on welcoming him enthusiastically, beckoning him. The fact
         is, all of them were waiting for him <char style="it">to return</char>. <verse eid="LUK 8:40" />
-      <verse number="41" style="v" sid="LUK 8:41" />Out of nowhere, a man named Jairus, and this man was one of the leading me of the synagogue, fell at
+      <verse number="41" style="v" sid="LUK 8:41" />Out of nowhere, a man named Jairus, and this man was one of the leading men of the synagogue, fell at
         Jesus’s feet asking him—begging him—to come to his house, <verse eid="LUK 8:41" />
-      <verse number="42" style="v" sid="LUK 8:42" />since his only daughter, who was around twelve years old, was near death.
-    </para>
+      <verse number="42" style="v" sid="LUK 8:42" />since his only daughter, who was around twelve years old, was near death.</para>
     <para style="p" vid="LUK 8:42">While he was heading <char style="it">there</char>, the crowd kept on throttling him. <verse eid="LUK 8:42"/>
       <verse number="43" style="v" sid="LUK 8:43" />A woman with a hemorrhage<char style="sup">[B]</char>, who had it for the last twelve years, and who
         spent her entire life-savings on doctors, no one being able to cure her, <verse eid="LUK 8:43" />
@@ -2371,14 +2327,12 @@
         they withdrew, he and them only, to a city called Bethsaida. <verse eid="LUK 9:10" />
       <verse number="11" style="v" sid="LUK 9:11" />Knowing this, the crowd followed him. Welcoming them, he proceeded to speak to them about God’s involvement
         with mankind (God’s kingdom) and proceeded to heal those needing a cure. <verse eid="LUK 9:11" />
-      <verse number="12" style="v" sid="LUK 9:12" />The day was winding down, so the Twelve approached him and said,
-    </para>
+      <verse number="12" style="v" sid="LUK 9:12" />The day was winding down, so the Twelve approached him and said,</para>
     <para style="p" vid="LUK 9:12">“Dismiss the crowd, so that they can go into the surrounding towns and farms, retire for the night, and
         find provision, since we’re out here in the middle of nowhere.”<verse eid="LUK 9:12"/>
     </para>
     <para style="p">
-      <verse number="13" style="v" sid="LUK 9:13" />He said to them, “You all give them something to eat.”
-    </para>
+      <verse number="13" style="v" sid="LUK 9:13" />He said to them, “You all give them something to eat.”</para>
     <para style="p" vid="LUK 9:13">They said, “We don’t have any more than five loaves of bread and two fishes, unless of course we go and
         buy food for these people.” <verse eid="LUK 9:13"/>
       <verse number="14" style="v" sid="LUK 9:14" />You see, there were around five thousand men there (<char style="it">not counting women and children</char>).
@@ -2403,8 +2357,7 @@
         who’s come back to life.”<verse eid="LUK 9:19" />
     </para>
     <para style="p">
-      <verse number="20" style="v" sid="LUK 9:20" />He said to them, <char style="wj">“Who do you all say that I am?”</char>
-    </para>
+      <verse number="20" style="v" sid="LUK 9:20" />He said to them, <char style="wj">“Who do you all say that I am?”</char></para>
     <para style="p" vid="LUK 9:20">Peter replied, “God’s Messiah, the Christ.”<verse eid="LUK 9:20"/>
     </para>
     <para style="p">
@@ -2464,8 +2417,7 @@
       <verse number="42" style="v" sid="LUK 9:42" />They then brought him over to him; the demon threw him to the ground, and convulsed him. Jesus dropped
         the hammer on the filthy, disgusting spirit , the child was cured<char style="sup">[p]</char>, and they
         gave him back to his father. <verse eid="LUK 9:42" />
-      <verse number="43" style="v" sid="LUK 9:43" />Everyone was amazed at the magnificence of God.
-    </para>
+      <verse number="43" style="v" sid="LUK 9:43" />Everyone was amazed at the magnificence of God.</para>
     <para style="p" vid="LUK 9:43">While everyone was still marveling at everything he was doing, he said to his disciples, <verse eid="LUK 9:43"/>
       <verse number="44" style="v" sid="LUK 9:44" /><char style="wj">“As far as you all are concerned, however, get this into your head</char><char style="sup">[q]</char><char
         style="wj">: the way things are headed, the Man is going to be betrayed and is going to be taken into
@@ -2685,8 +2637,7 @@
       <verse number="2" style="v" sid="LUK 10:2" />He started <char style="it">his talk by</char> saying to them, <char style="wj">“The harvest is large
         indeed, but the workers are few. Therefore, ask the Harvest Chief if he would catapult workers out</char><char
         style="sup">[b]</char><char style="wj"> into his harvest— </char><verse eid="LUK 10:2" />
-      <verse number="3" style="v" sid="LUK 10:3" /><char style="wj">Get going!</char>
-    </para>
+      <verse number="3" style="v" sid="LUK 10:3" /><char style="wj">Get going!</char></para>
     <para style="p" vid="LUK 10:3"><char style="wj">“Take note: I’m sending you out like lambs in the midst of wolves. </char><verse eid="LUK 10:3"/>
       <verse number="4" style="v" sid="LUK 10:4" /><char style="wj">Don’t carry a wallet, a travel pack, or sandals, and don’t take too kindly to anyone
         while on the road. </char><verse eid="LUK 10:4" />
@@ -2695,9 +2646,9 @@
         I extend my offer of friendship to all in this house and my willingness to get along with you</char></char><char
         style="wj">). </char><verse eid="LUK 10:5" />
       <verse number="6" style="v" sid="LUK 10:6" /><char style="wj">If there happens to be a son of peace there (</char><char style="it"><char style="wj">i.e.,
-        if the leader of the house willingly and joyfully engages in friendships and will gets along well with
-        people</char></char><char style="wj">), your offer of piece will stick. Otherwise, it’ll bounce back
-        to you</char><char style="sup">[A]</char><char style="wj">. </char><verse eid="LUK 10:6" />
+        if the leader of the house willingly and joyfully engages in friendships and gets along well with people</char></char><char
+        style="wj">), your offer of piece will stick. Otherwise, it’ll bounce back to you</char><char style="sup">[A]</char><char
+        style="wj">. </char><verse eid="LUK 10:6" />
       <verse number="7" style="v" sid="LUK 10:7" /><char style="wj">Stay in that very house, eating and drinking that which they have on hand; you see,
         the worker is entitled to his wage</char><char style="sup">[c]</char><char style="wj">. Don’t hop from
         house to house. </char><verse eid="LUK 10:7" />
@@ -2723,8 +2674,7 @@
         style="sup">[e]</char><char style="wj">. </char><verse eid="LUK 10:13" />
       <verse number="14" style="v" sid="LUK 10:14" /><char style="wj">In any event, on That Day, it will be more tolerable for Tyre and Sidon than for you.
         </char><verse eid="LUK 10:14" />
-      <verse number="15" style="v" sid="LUK 10:15" /><char style="wj">As for you, Capernaum,</char>
-    </para>
+      <verse number="15" style="v" sid="LUK 10:15" /><char style="wj">As for you, Capernaum,</char></para>
     <para style="pi" vid="LUK 10:15"></para>
     <para style="pi" vid="LUK 10:15"><char style="wj">“You won’t be elevated all the way to heaven</char></para>
     <para style="pi" vid="LUK 10:15"><char style="wj">You will descend all the way to hell</char><verse eid="LUK 10:15"/>
@@ -2764,8 +2714,7 @@
         style="it"><char style="wj">them</char></char><char style="wj">.”</char><verse eid="LUK 10:24" />
     </para>
     <para style="p">
-      <verse number="25" style="v" sid="LUK 10:25" />As chance would have it, some expert in the Law of Moses stood up and put him on the spot saying,
-    </para>
+      <verse number="25" style="v" sid="LUK 10:25" />As chance would have it, some expert in the Law of Moses stood up and put him on the spot saying,</para>
     <para style="p" vid="LUK 10:25">“Teacher, what must one do to legitimately claim and lay hold of<char style="sup">[D]</char> that special
         fullness of life (eternal life<char style="sup">[E]</char>)?”<verse eid="LUK 10:25"/>
     </para>
@@ -3015,8 +2964,7 @@
     <para style="p">
       <verse number="1" style="v" sid="LUK 11:1" />He happened to be praying somewhere, and just as he finished one of his disciples said to him, “Lord,
         teach<char style="sup">[a]</char> us how to pray, just as John taught his disciples.” <verse eid="LUK 11:1" />
-      <verse number="2" style="v" sid="LUK 11:2" />He said to them, <char style="wj">“When you pray, say,</char>
-    </para>
+      <verse number="2" style="v" sid="LUK 11:2" />He said to them, <char style="wj">“When you pray, say,</char></para>
     <para style="pi" vid="LUK 11:2"></para>
     <para style="pi" vid="LUK 11:2"><char style="wj">“Father, may You be revered for who You are</char></para>
     <para style="pi" vid="LUK 11:2"><char style="wj">And for Your reputation</char><char style="sup">[b]</char><char style="wj">.</char></para>
@@ -3026,8 +2974,7 @@
       <verse number="3" style="v" sid="LUK 11:3" /><char style="wj">Give us a meal ticket each day.</char><verse eid="LUK 11:3" />
     </para>
     <para style="pi">
-      <verse number="4" style="v" sid="LUK 11:4" /><char style="wj">Forgive our sins.</char>
-    </para>
+      <verse number="4" style="v" sid="LUK 11:4" /><char style="wj">Forgive our sins.</char></para>
     <para style="pi" vid="LUK 11:4"><char style="wj">You see, we, for our part, also forgive everyone</char></para>
     <para style="pi" vid="LUK 11:4"><char style="wj">Who has a negative score on our scorecard</char><char style="sup">[c]</char><char style="wj">.</char></para>
     <para style="pi" vid="LUK 11:4"><char style="wj">May you not transport us to temptation—</char></para>
@@ -3590,8 +3537,7 @@
       <verse number="52" style="v" sid="LUK 12:52" /><char style="wj">You see, from now on, there will be an organization</char><char style="sup">[u]</char><char
         style="wj"> of five pitted into factions: three against </char><char style="it"><char style="wj">the
         other </char></char><char style="wj">two and the two against the three. </char><verse eid="LUK 12:52" />
-      <verse number="53" style="v" sid="LUK 12:53" /><char style="wj">A father will be against his son…</char>
-    </para>
+      <verse number="53" style="v" sid="LUK 12:53" /><char style="wj">A father will be against his son…</char></para>
     <para style="pi" vid="LUK 12:53"></para>
     <para style="pi" vid="LUK 12:53"><char style="wj">“…And a son against a father,</char></para>
     <para style="pi" vid="LUK 12:53"><char style="wj">Mother against daughter,</char></para>
@@ -4140,11 +4086,9 @@
       <verse number="15" style="v" sid="LUK 14:15" />Upon hearing these things, one of the fellow guests said to him, “Blessed be whoever has a meal<char
         style="sup">[a]</char> while a participant in God’s plan (in God’s kingdom).” <verse eid="LUK 14:15" />
       <verse number="16" style="v" sid="LUK 14:16" />He said to him, <char style="wj">“Some man threw a huge dinner feast and invited many people. </char><verse eid="LUK 14:16" />
-      <verse number="17" style="v" sid="LUK 14:17" /><char style="wj">At the start of the dinner, he sent his servant and said to those invited,</char>
-    </para>
+      <verse number="17" style="v" sid="LUK 14:17" /><char style="wj">At the start of the dinner, he sent his servant and said to those invited,</char></para>
     <para style="p" vid="LUK 14:17"><char style="wj">“’Come, everything’s ready’.” </char><verse eid="LUK 14:17"/>
-      <verse number="18" style="v" sid="LUK 14:18" /><char style="wj">They began to make excuses, one after another.</char>
-    </para>
+      <verse number="18" style="v" sid="LUK 14:18" /><char style="wj">They began to make excuses, one after another.</char></para>
     <para style="p" vid="LUK 14:18"><char style="wj">“The first said to him, ‘I bought a field, and I have to go out and look it over. I
         ask to be excused.’</char><verse eid="LUK 14:18"/>
     </para>
@@ -4490,8 +4434,7 @@
         style="it"><char style="wj">and I’ll sign it</char></char><char style="wj">.’</char><verse eid="LUK 16:6"/>
     </para>
     <para style="p">
-      <verse number="7" style="v" sid="LUK 16:7" /><char style="wj">”He said to someone else, ‘How much do you owe?’</char>
-    </para>
+      <verse number="7" style="v" sid="LUK 16:7" /><char style="wj">”He said to someone else, ‘How much do you owe?’</char></para>
     <para style="p" vid="LUK 16:7"><char style="wj">“He said, ‘100 barrels</char><char style="sup">[B]</char><char style="wj"> of wheat.’</char></para>
     <para style="p" vid="LUK 16:7"><char style="wj">“He said, ‘Take your payment history, write down 80, </char><char style="it"><char style="wj">and
         I’ll sign it</char></char><char style="wj">.’</char><verse eid="LUK 16:7"/>
@@ -4551,8 +4494,7 @@
       <verse number="23" style="v" sid="LUK 16:23" /><char style="wj">In the world-to-come</char><char style="sup">[I]</char><char style="wj"> he lifted up
         his gaze, while in a state of </char><char style="it"><char style="wj">perpetual </char></char><char
         style="wj">torture, seeing Abraham at a distance and Lazarus in tight with him. </char><verse eid="LUK 16:23" />
-      <verse number="24" style="v" sid="LUK 16:24" /><char style="wj">He called over and said,</char>
-    </para>
+      <verse number="24" style="v" sid="LUK 16:24" /><char style="wj">He called over and said,</char></para>
     <para style="p" vid="LUK 16:24"><char style="wj">“‘Patriarch Abraham, have mercy on me and send Lazarus</char><char style="sup">[J]</char><char
         style="wj">, so that he would dip his fingertip in water and cool off my tongue; because I’m tormented
         in this flame.’</char><verse eid="LUK 16:24"/>
@@ -5045,8 +4987,7 @@
         it—no way at all.”</char><verse eid="LUK 18:17" />
     </para>
     <para style="p">
-      <verse number="18" style="v" sid="LUK 18:18" />One of the rulers asked him,
-    </para>
+      <verse number="18" style="v" sid="LUK 18:18" />One of the rulers asked him,</para>
     <para style="p" vid="LUK 18:18">“Good teacher, what do I need to do so that I would be guaranteed to take possession of that special
         fullness of life (eternal life)?”<verse eid="LUK 18:18"/>
     </para>
@@ -5111,8 +5052,7 @@
       <verse number="40" style="v" sid="LUK 18:40" />Jesus came to a halt and called to have him sent over to him. He came nearby, and he asked him,<verse eid="LUK 18:40" />
     </para>
     <para style="p">
-      <verse number="41" style="v" sid="LUK 18:41" /><char style="wj">”What can I do for you</char><char style="sup">[p]</char><char style="wj">?”</char>
-    </para>
+      <verse number="41" style="v" sid="LUK 18:41" /><char style="wj">”What can I do for you</char><char style="sup">[p]</char><char style="wj">?”</char></para>
     <para style="p" vid="LUK 18:41">”Lord, <char style="it">do whatever it is that you do</char> so that I would gain my sight.”<verse eid="LUK 18:41"/>
     </para>
     <para style="p">
@@ -5346,8 +5286,7 @@
       <verse number="37" style="v" sid="LUK 19:37" />By the time they’d made their way to the downward slope of the Mount of Olives, the entire multitude
         of disciples began rejoicing, that is, praising God in a loud voice about everything that was going on—the
         miracles they had seen— <verse eid="LUK 19:37" />
-      <verse number="38" style="v" sid="LUK 19:38" />saying
-    </para>
+      <verse number="38" style="v" sid="LUK 19:38" />saying</para>
     <para style="pi" vid="LUK 19:38"></para>
     <para style="pi" vid="LUK 19:38">He’s favored!</para>
     <para style="pi" vid="LUK 19:38">He’s coming!</para>
@@ -5596,8 +5535,7 @@
     </para>
     <para style="p">
       <verse number="41" style="v" sid="LUK 20:41" /><char style="wj">He said to them, “How can people say that Christ, the Messiah, is David’s son?” </char><verse eid="LUK 20:41" />
-      <verse number="42" style="v" sid="LUK 20:42" /><char style="wj">The fact is, in the Book of Psalms David personally says,</char>
-    </para>
+      <verse number="42" style="v" sid="LUK 20:42" /><char style="wj">The fact is, in the Book of Psalms David personally says,</char></para>
     <para style="pi" vid="LUK 20:42"></para>
     <para style="pi" vid="LUK 20:42"><char style="wj">“A Lord said to my Lord</char></para>
     <para style="pi" vid="LUK 20:42"><char style="wj">Sit to the right of Me </char><char style="it"><char style="wj">as my right-hand man</char></char><verse eid="LUK 20:42"/>
@@ -6100,16 +6038,14 @@
         Peter followed at a distance. <verse eid="LUK 22:54" />
       <verse number="55" style="v" sid="LUK 22:55" />A fire had been lit in the middle of the courtyard and seats were gathered around it; Peter proceeded
         to sit among them. <verse eid="LUK 22:55" />
-      <verse number="56" style="v" sid="LUK 22:56" />Some teenage servant girl saw him sitting in the light, stared at him, and said,
-    </para>
+      <verse number="56" style="v" sid="LUK 22:56" />Some teenage servant girl saw him sitting in the light, stared at him, and said,</para>
     <para style="p" vid="LUK 22:56">“This guys was with him too.”<verse eid="LUK 22:56"/>
     </para>
     <para style="p">
       <verse number="57" style="v" sid="LUK 22:57" />He denied it saying, “I don’t know him, lady.”<verse eid="LUK 22:57" />
     </para>
     <para style="p">
-      <verse number="58" style="v" sid="LUK 22:58" />A little while later, another person saw him and said, “You’re one of them too.”
-    </para>
+      <verse number="58" style="v" sid="LUK 22:58" />A little while later, another person saw him and said, “You’re one of them too.”</para>
     <para style="p" vid="LUK 22:58">But Peter said, “No I’m not, mister.”<verse eid="LUK 22:58"/>
     </para>
     <para style="p">
@@ -6117,8 +6053,7 @@
         also a Galilean.”<verse eid="LUK 22:59" />
     </para>
     <para style="p">
-      <verse number="60" style="v" sid="LUK 22:60" />Peter said, “Mister, I don’t know what you’re talking about.”
-    </para>
+      <verse number="60" style="v" sid="LUK 22:60" />Peter said, “Mister, I don’t know what you’re talking about.”</para>
     <para style="p" vid="LUK 22:60">Immediately, while he was still in the middle of saying this, a rooster crowed. <verse eid="LUK 22:60"/>
       <verse number="61" style="v" sid="LUK 22:61" />The Lord turned and looked at Peter, and Peter recalled the Lord’s statement <char style="it">just</char>
         like he spoke <char style="it">it</char> to him, <char style="wj">“Before a rooster crows today, you
@@ -6349,8 +6284,7 @@
         style="wj">, don’t cry for me. Do, however, cry for yourselves and for your children, </char><verse eid="LUK 23:28" />
       <verse number="29" style="v" sid="LUK 23:29" /><char style="wj">because—just like that—days will come in which they’ll say, ‘Blessed are the barren,
         the pregnant who never carried a child to term, the breasts that never breast-fed.’ </char><verse eid="LUK 23:29" />
-      <verse number="30" style="v" sid="LUK 23:30" /><char style="wj">Then they’ll commence going about…</char>
-    </para>
+      <verse number="30" style="v" sid="LUK 23:30" /><char style="wj">Then they’ll commence going about…</char></para>
     <para style="pi" vid="LUK 23:30"></para>
     <para style="pi" vid="LUK 23:30"><char style="wj">”…Saying to the mountains,</char></para>
     <para style="pi" vid="LUK 23:30"><char style="wj">‘Fall on us’</char></para>
@@ -6413,8 +6347,7 @@
         next day</char>, the Sabbath<char style="sup">[D]</char>. <verse eid="LUK 23:54" />
       <verse number="55" style="v" sid="LUK 23:55" />The women, those who had come down with him from Galilee, trailed behind following <char style="it">those
         who buried him</char>, saw the tomb and how his body was placed, <verse eid="LUK 23:55" />
-      <verse number="56" style="v" sid="LUK 23:56" />and returned and prepared fragrance and ointment.
-    </para>
+      <verse number="56" style="v" sid="LUK 23:56" />and returned and prepared fragrance and ointment.</para>
     <para style="p" vid="LUK 23:56">And while, yes, they were inactive on the Sabbath according to the commandment <char style="it">not to
         work on the Sabbath</char>…<char style="sup">[E]</char><verse eid="LUK 23:56"/>
     </para>
@@ -6542,16 +6475,14 @@
       <verse number="15" style="v" sid="LUK 24:15" />It came to pass while they were conversing, making points and counterpoints, that Jesus himself approached
         them and walked together with them. <verse eid="LUK 24:15" />
       <verse number="16" style="v" sid="LUK 24:16" />But their eyes were being held <char style="it">shut</char> from recognizing him<char style="sup">[e]</char>.<verse eid="LUK 24:16" />
-      <verse number="17" style="v" sid="LUK 24:17" />He said to them,
-    </para>
+      <verse number="17" style="v" sid="LUK 24:17" />He said to them,</para>
     <para style="p" vid="LUK 24:17"><char style="wj">“What’s up with these thoughts that you’ve bounced off each other while walking?”</char></para>
     <para style="p" vid="LUK 24:17">They stood still and looked depressed. <verse eid="LUK 24:17"/>
       <verse number="18" style="v" sid="LUK 24:18" />The one named Cleopas replied, “Are you the only one in Jerusalem who’s totally clueless<char style="sup">[f]</char>and
         doesn’t know what’s happened these last few days?”<verse eid="LUK 24:18" />
     </para>
     <para style="p">
-      <verse number="19" style="v" sid="LUK 24:19" />He said, <char style="wj">“Like what</char><char style="sup">[g]</char><char style="wj">?”</char>
-    </para>
+      <verse number="19" style="v" sid="LUK 24:19" />He said, <char style="wj">“Like what</char><char style="sup">[g]</char><char style="wj">?”</char></para>
     <para style="p" vid="LUK 24:19">They said, “Those things concerning Jesus of Nazareth, a man who became a mighty prophet in deed and
         in speech as considered by<char style="sup">[h]</char> God and by all the folk-people; <verse eid="LUK 24:19"/>
       <verse number="20" style="v" sid="LUK 24:20" />furthermore, how our chief priests and rulers arrested him with the goal of sentencing him to death,

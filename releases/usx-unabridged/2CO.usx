@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -745,8 +745,7 @@
     <para style="p">
       <verse number="1" style="v" sid="2CO 6:1" />Being those who work together <char style="it">to minister to others</char><char style="sup">[a]</char>,
         we do plead with you to not take in God’s grace and have nothing to show for it. <verse eid="2CO 6:1" />
-      <verse number="2" style="v" sid="2CO 6:2" />In fact, <char style="it">the Old Testament </char>says,
-    </para>
+      <verse number="2" style="v" sid="2CO 6:2" />In fact, <char style="it">the Old Testament </char>says,</para>
     <para style="pi" vid="2CO 6:2"></para>
     <para style="pi" vid="2CO 6:2">I heard you just in time</para>
     <para style="pi" vid="2CO 6:2">And I helped you</para>
@@ -798,16 +797,14 @@
     <para style="pi" vid="2CO 6:16">And they will be my folk-people.<verse eid="2CO 6:16"/>
     </para>
     <para style="pi">
-      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst
-    </para>
+      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst</para>
     <para style="pi" vid="2CO 6:17">And be separate,” Says the Lord,</para>
     <para style="pi" vid="2CO 6:17">“And don’t touch things which</para>
     <para style="pi" vid="2CO 6:17">Are vile, disgusting, and forbidden to touch<char style="sup">[h]</char>,</para>
     <para style="pi" vid="2CO 6:17">And I will receive you and take you in,<verse eid="2CO 6:17"/>
     </para>
     <para style="pi">
-      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,
-    </para>
+      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,</para>
     <para style="pi" vid="2CO 6:18">And you will be sons and daughters to Me,”</para>
     <para style="pi" vid="2CO 6:18">Says the Lord Almighty.<verse eid="2CO 6:18"/>
     </para>
@@ -902,8 +899,7 @@
         because of <char style="it">something you </char>did wrong or because of <char style="it">some </char>wrong
         done <char style="it">to us</char>, rather because of the priority and urgency at which you’ve made the
         things <char style="it">we confronted </char>you with before God materialize. <verse eid="2CO 7:12" />
-      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.
-    </para>
+      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.</para>
     <para style="p" vid="2CO 7:13">On the subject of what’s been an encouragement to us, <char style="it">hearing the news </char>that Titus
         is happy gave me even more joy, since his spirit was refreshed by you all. <verse eid="2CO 7:13"/>
       <verse number="14" style="v" sid="2CO 7:14" />I had told him a thing or two about you, telling him how proud I am of you, and I wasn’t disappointed
@@ -998,8 +994,7 @@
         done </char>out of equality. <verse eid="2CO 8:13" />
       <verse number="14" style="v" sid="2CO 8:14" />The way things stand at the moment, your abundance <char style="it">of material possessions is directed
         </char>towards their lack so that equality would take shape, <verse eid="2CO 8:14" />
-      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,
-    </para>
+      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,</para>
     <para style="pi" vid="2CO 8:15"></para>
     <para style="pi" vid="2CO 8:15">He who has much didn’t have a surplus</para>
     <para style="pi" vid="2CO 8:15">And he who has a little didn’t lack<verse eid="2CO 8:15"/>
@@ -1127,8 +1122,7 @@
       <verse number="8" style="v" sid="2CO 9:8" />In fact God is able to proliferate all <char style="it">kinds of </char>grace (i.e., good things, in
         terms of money and material goods) to us, so that in all <char style="it">situations</char> always having
         enough of everything you would exude any and every good work<char style="sup">[g]</char>, <verse eid="2CO 9:8" />
-      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:
-    </para>
+      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:</para>
     <para style="pi" vid="2CO 9:9"></para>
     <para style="pi" vid="2CO 9:9">He scattered, he gave to the needy</para>
     <para style="pi" vid="2CO 9:9">His righteousness remains <char style="it">in place </char>forever<verse eid="2CO 9:9"/>
@@ -1579,16 +1573,14 @@
       <verse number="6" style="v" sid="2CO 12:6" />You see, if I were to want to talk big, I won’t be acting like a fool <char style="it">as I talk</char>:
         in fact, I’d be telling the truth. But I’ll spare you, lest someone make <char style="it">incorrect </char>assumptions<char
         style="sup">[c]</char> based on what he sees or hears that comes from me <verse eid="2CO 12:6" />
-      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.
-    </para>
+      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.</para>
     <para style="p" vid="2CO 12:7">With this in mind, so that I not be lifted up and over<char style="sup">[B]</char> (i.e., leap over the
         hurdles of life), a “thorn in the flesh”<char style="sup">[C]</char> (<char style="it">an idiom referring
         to an antagonist which vexes and harasses continuously</char>) was given to me, an agent<char style="sup">[d]</char>
         of Satan, so that he would buffet me (i.e., strike me repeatedly and non-stop), so that I not be lifted
         up and over. <verse eid="2CO 12:7"/>
       <verse number="8" style="v" sid="2CO 12:8" />Because of this I begged the Lord three times that it be taken away from me, <verse eid="2CO 12:8" />
-      <verse number="9" style="v" sid="2CO 12:9" />and he told me,
-    </para>
+      <verse number="9" style="v" sid="2CO 12:9" />and he told me,</para>
     <para style="pi" vid="2CO 12:9"></para>
     <para style="pi" vid="2CO 12:9"><char style="wj">My grace </char><char style="it"><char style="wj">which I give </char></char><char style="wj">to
         you is sufficient,</char>
@@ -1757,8 +1749,7 @@
   <!--   **********   -->
   <chapter number="13" style="c" sid="2CO 13" />
     <para style="p">
-      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.
-    </para>
+      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.</para>
     <para style="pi" vid="2CO 13:1"></para>
     <para style="pi" vid="2CO 13:1"><char style="it">Based </char>upon <char style="it">what’s spoken from</char> the mouth</para>
     <para style="pi" vid="2CO 13:1">Of two or<char style="sup">[a]</char> <char style="it">better yet</char> three witnesses</para>
@@ -1793,8 +1784,7 @@
     <para style="p">
       <verse number="10" style="v" sid="2CO 13:10" />Because of this, I write these words while absent, so that when I get there and am staying with you,
         I won’t be using the authority which the Lord assigned to me in a harsh manner, <char style="it">an authority
-        which is to be used </char>for edification and not <char style="it">is</char> <char style="it">to be
-        used</char> destructively.<verse eid="2CO 13:10" />
+        which is to be used </char>for edification and not <char style="it">to be used</char> destructively.<verse eid="2CO 13:10" />
     </para>
     <para style="p">
       <verse number="11" style="v" sid="2CO 13:11" />One last thing, comrades<char style="sup">[d]</char>: rejoice, mend your ways, be comforted and encouraged,
@@ -1802,8 +1792,7 @@
         love<char style="sup">[f]</char> will be with you.<verse eid="2CO 13:11" />
     </para>
     <para style="p">
-      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug<char style="sup">[g]</char> from me.
-    </para>
+      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug<char style="sup">[g]</char> from me.</para>
     <para style="p" vid="2CO 13:12">All the saints (i.e., your fellow believers in all the churches) greet you.<verse eid="2CO 13:12"/>
     </para>
     <para style="p">

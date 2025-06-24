@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="2PE 1" />
     <para style="p">
-      <verse number="1" style="v" sid="2PE 1:1" />Simon Peter, servant and missionary of Jesus Christ:
-    </para>
+      <verse number="1" style="v" sid="2PE 1:1" />Simon Peter, servant and missionary of Jesus Christ:</para>
     <para style="p" vid="2PE 1:1">To you who received (because you had the good fortune to have God smile on you) an equivalent-status
         faith as ours in the righteousness of our God and savior Jesus Christ:<verse eid="2PE 1:1"/>
     </para>
@@ -80,7 +79,6 @@
       <verse number="21" style="v" sid="2PE 1:21" />the fact of the matter is, no prophecy is ever delivered by a person’s will but instead, while being
         delivered by the Holy Spirit, men spoke words that were from God.<verse eid="2PE 1:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2PE 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -145,7 +143,6 @@
       <verse number="22" style="v" sid="2PE 2:22" />In their case, all the pieces in the oh-so-true proverb fit together snugly: “A dog goes back to its
         own vomit,” and, “a pig that’s been washed down goes back to rolling in the mud.”<verse eid="2PE 2:22" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2PE 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -160,8 +157,7 @@
     <para style="p">
       <verse number="3" style="v" sid="2PE 3:3" />Firstmost, understand this: those who get a tremendous kick out of ridiculing will come at a critical
         juncture in time, going about according to their whims <verse eid="2PE 3:3" />
-      <verse number="4" style="v" sid="2PE 3:4" />saying:
-    </para>
+      <verse number="4" style="v" sid="2PE 3:4" />saying:</para>
     <para style="p" vid="2PE 3:4">“Where is the fulfillment of the promise of His coming? The fact is, starting from when it all began
         in ancient times, our ancestors have died and gone to their eternal glory and the promise of His coming
         was not fulfilled in their lifetime, and everything’s continued following this same pattern with no interruption

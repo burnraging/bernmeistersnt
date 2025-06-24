@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -47,7 +47,7 @@
     later bring them to tears. Of interest, also, is that there are a couple of parables which are told like
     an ordinary story, no surprises. An interesting story, but one which, part way through, ceases to be
     an ordinary story and goes off the rail into something bizarre. Examples are the parable of the wheat
-    and the tares (Matth. 13), parable of the vineyard day-laborers (Matt. 20). </para>
+    and the tares (Math. 13), parable of the vineyard day-laborers (Matt. 20). </para>
   <para style="ib"></para>
   <!--   **********   -->
   <!--   Chapter  1   -->
@@ -57,55 +57,46 @@
       <verse number="1" style="v" sid="MAT 1:1" />A Genealogical Record<char style="sup">[A]</char> of Jesus Christ, Descendent of David and of Abraham:<verse eid="MAT 1:1" />
     </para>
     <para style="pi">
-      <verse number="2" style="v" sid="MAT 1:2" />Abraham had Isaac,
-    </para>
+      <verse number="2" style="v" sid="MAT 1:2" />Abraham had Isaac,</para>
     <para style="pi" vid="MAT 1:2">Isaac had Jacob,</para>
     <para style="pi" vid="MAT 1:2">Jacob had Judah and his brothers,<verse eid="MAT 1:2"/>
     </para>
     <para style="pi">
-      <verse number="3" style="v" sid="MAT 1:3" />Judah had Fares and Zara from Tamar<char style="sup">[B]</char>, 
-    </para>
+      <verse number="3" style="v" sid="MAT 1:3" />Judah had Fares and Zara from Tamar<char style="sup">[B]</char>, </para>
     <para style="pi" vid="MAT 1:3">Fares had Hesrom,</para>
     <para style="pi" vid="MAT 1:3">Hesrom had Aram,<verse eid="MAT 1:3"/>
     </para>
     <para style="pi">
-      <verse number="4" style="v" sid="MAT 1:4" />Aram had Aminadab
-    </para>
+      <verse number="4" style="v" sid="MAT 1:4" />Aram had Aminadab</para>
     <para style="pi" vid="MAT 1:4">Aminadab had Naasson,</para>
     <para style="pi" vid="MAT 1:4">Naason had Salmon,<verse eid="MAT 1:4"/>
     </para>
     <para style="pi">
-      <verse number="5" style="v" sid="MAT 1:5" />Salmon &amp; Rahab had Boaz,
-    </para>
+      <verse number="5" style="v" sid="MAT 1:5" />Salmon &amp; Rahab had Boaz,</para>
     <para style="pi" vid="MAT 1:5">Boaz &amp; Ruth had Obed,</para>
     <para style="pi" vid="MAT 1:5">Obed had Jesse,<verse eid="MAT 1:5"/>
     </para>
     <para style="pi">
-      <verse number="6" style="v" sid="MAT 1:6" />Jesse had King David,
-    </para>
+      <verse number="6" style="v" sid="MAT 1:6" />Jesse had King David,</para>
     <para style="pi" vid="MAT 1:6">David got with Urriah’s wife and had Solomon,<verse eid="MAT 1:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="MAT 1:7" />Solomon had Rehoboam,
-    </para>
+      <verse number="7" style="v" sid="MAT 1:7" />Solomon had Rehoboam,</para>
     <para style="pi" vid="MAT 1:7">Rehoboam had Abia,</para>
     <para style="pi" vid="MAT 1:7">Abia had Asaf,<verse eid="MAT 1:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="MAT 1:8" />Asaf had Jehosaphat,
-    </para>
+      <verse number="8" style="v" sid="MAT 1:8" />Asaf had Jehosaphat,</para>
     <para style="pi" vid="MAT 1:8">Jehosaphat had Jeoram,</para>
     <para style="pi" vid="MAT 1:8">Jeoram had Ozias,<verse eid="MAT 1:8"/>
     </para>
     <para style="pi">
-      <verse number="9" style="v" sid="MAT 1:9" />Ozias had Jotham,
-    </para>
+      <verse number="9" style="v" sid="MAT 1:9" />Ozias had Jotham,</para>
     <para style="pi" vid="MAT 1:9">Jotham had Ahab,</para>
     <para style="pi" vid="MAT 1:9">Ahab had Hezekiah,<verse eid="MAT 1:9"/>
     </para>
     <para style="pi">
-      <verse number="10" style="v" sid="MAT 1:10" />Hezekiah had Manassah,
-    </para>
+      <verse number="10" style="v" sid="MAT 1:10" />Hezekiah had Manassah,</para>
     <para style="pi" vid="MAT 1:10">Manassah had Amos,</para>
     <para style="pi" vid="MAT 1:10">Amos had Josiah,<verse eid="MAT 1:10"/>
     </para>
@@ -113,31 +104,26 @@
       <verse number="11" style="v" sid="MAT 1:11" />Josiah had Jehonias and his brothers while in captivity in Babylon,<verse eid="MAT 1:11" />
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="MAT 1:12" />After the Babylonian captivity, Jehonias had Salathial,
-    </para>
+      <verse number="12" style="v" sid="MAT 1:12" />After the Babylonian captivity, Jehonias had Salathial,</para>
     <para style="pi" vid="MAT 1:12">Salathial had Zerubabel,<verse eid="MAT 1:12"/>
     </para>
     <para style="pi">
-      <verse number="13" style="v" sid="MAT 1:13" />Zerubabel had Abioud,
-    </para>
+      <verse number="13" style="v" sid="MAT 1:13" />Zerubabel had Abioud,</para>
     <para style="pi" vid="MAT 1:13">Abiod had Eliakim,</para>
     <para style="pi" vid="MAT 1:13">Eliakim had Azor,<verse eid="MAT 1:13"/>
     </para>
     <para style="pi">
-      <verse number="14" style="v" sid="MAT 1:14" />Azor had Zadok,
-    </para>
+      <verse number="14" style="v" sid="MAT 1:14" />Azor had Zadok,</para>
     <para style="pi" vid="MAT 1:14">Zadok had Achim,</para>
     <para style="pi" vid="MAT 1:14">Achim had Eliud,<verse eid="MAT 1:14"/>
     </para>
     <para style="pi">
-      <verse number="15" style="v" sid="MAT 1:15" />Eliud had Eleazar,
-    </para>
+      <verse number="15" style="v" sid="MAT 1:15" />Eliud had Eleazar,</para>
     <para style="pi" vid="MAT 1:15">Eleazar had Matthan,</para>
     <para style="pi" vid="MAT 1:15">Matthan had Jacob,<verse eid="MAT 1:15"/>
     </para>
     <para style="pi">
-      <verse number="16" style="v" sid="MAT 1:16" />Jacob had Joseph, Mary’s husband,
-    </para>
+      <verse number="16" style="v" sid="MAT 1:16" />Jacob had Joseph, Mary’s husband,</para>
     <para style="pi" vid="MAT 1:16">…and from her was born Jesus, who’s called “the Christ.”<verse eid="MAT 1:16"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -146,8 +132,7 @@
         David to the Babylonian captivity; there were fourteen generations from the Babylonian captivity to Jesus.<verse eid="MAT 1:17" />
     </para>
     <para style="p">
-      <verse number="18" style="v" sid="MAT 1:18" />The Way Jesus’s Birth Was
-    </para>
+      <verse number="18" style="v" sid="MAT 1:18" />The Way Jesus’s Birth Was</para>
     <para style="p" vid="MAT 1:18">After Mary was engaged but before she was officially married<char style="sup">[C]</char> to Joseph—and
         before she was intimate<char style="sup">[D]</char> with him—she found that she was pregnant, and that
         it was from the Holy Spirit. <verse eid="MAT 1:18"/>
@@ -164,8 +149,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="23" style="v" sid="MAT 1:23" />Check this out! Our virgin here will get pregnant and give birth to a son,
-    </para>
+      <verse number="23" style="v" sid="MAT 1:23" />Check this out! Our virgin here will get pregnant and give birth to a son,</para>
     <para style="pi" vid="MAT 1:23">And they’ll call him Emmanuel (which translated means “God with us”)<verse eid="MAT 1:23"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -241,8 +225,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="6" style="v" sid="MAT 2:6" />”And for you, Bethlehem, Judea, by no means
-    </para>
+      <verse number="6" style="v" sid="MAT 2:6" />”And for you, Bethlehem, Judea, by no means</para>
     <para style="pi" vid="MAT 2:6">Do you come in last place</para>
     <para style="pi" vid="MAT 2:6">In the Judean power rankings;</para>
     <para style="pi" vid="MAT 2:6">For out of you will come a ruler who’ll lead my people Israel”<verse eid="MAT 2:6"/>
@@ -277,8 +260,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="18" style="v" sid="MAT 2:18" />A sound was heard in Ramah<char style="sup">[E]</char>—
-    </para>
+      <verse number="18" style="v" sid="MAT 2:18" />A sound was heard in Ramah<char style="sup">[E]</char>—</para>
     <para style="pi" vid="MAT 2:18">Weeping and wailing—</para>
     <para style="pi" vid="MAT 2:18">Rachel<char style="sup">[E]</char> crying over her children</para>
     <para style="pi" vid="MAT 2:18">And she wasn’t wanting to be comforted,</para>
@@ -287,8 +269,7 @@
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
       <verse number="19" style="v" sid="MAT 2:19" />After Herod died—just like that—an angel sent from the Lord appeared in a dream to Joseph while in Egypt<verse eid="MAT 2:19" />
-      <verse number="20" style="v" sid="MAT 2:20" />saying,
-    </para>
+      <verse number="20" style="v" sid="MAT 2:20" />saying,</para>
     <para style="p" vid="MAT 2:20">“Get up and take the child and his mother and go to Israel, now that those who’ve been craving to snuff
         out the child’s life are finally dead.”<verse eid="MAT 2:20"/>
     </para>
@@ -345,16 +326,17 @@
     <note caller="[E]" style="f">
       <char style="fk">[E]</char>
       <char style="ft"><char style="it">Ramah…Rachel…</char>The place <char style="it">Ramah </char>and the name <char style="it">Rachel
-        </char>are metonymies , where Rachel, assumed to be a common woman’s name, personifies the suffering
-        of the average woman, and where Ramah is remotely associated with the area. To put in terms that the
-        contemporary generation understands, the name <char style="it">Rachel</char> is a meme like the name
-        <char style="it">Karen </char>is a meme for the Gen-Z’ers. To be clear, Rachel is not a Karen—i.e. both
-        are memes but characterize entirely different types of women. The place <char style="it">Ramah </char>is
-        a metonymy similar to the metonymy <char style="it">Timbuktu</char>. Ramah refers to your typical town
-        in the area, whereas Timbuktu refers to some unknown faraway place. Both were and are real places but
-        little was and is known about them, making them suitable to be used as metonymies. But one example of
-        a meme/metonymy name and place in English, one in which we refer to ordinary, arbitrary people who live
-        in an abstract and far-way place is “Every Tom, Dick, and Harry in Timbuktu…”</char>
+        </char>are metonymies . Ramah is a suburb of Jerusalem to the north, so Ramah is a metonymy of the greater
+        metropolitan area of Jerusalem extending out to remote suburbs. Remote, because Bethlehem is a suburb
+        south of Jerusalem, whereas Ramah is a suburb to the north, making their distance even greater. Rachel
+        is an ancestor of the Benjamites who lived there. Hence Rachel, assumed to be a common woman’s name,
+        is a metonymy for the typical, child-bearing woman who lives in Jerusalem and in its far-reaching suburbs.
+        As such she personifies the suffering of the average woman who lived anywhere near Jerusalem and who
+        had infants at that time. To put these metonymies in terms that the contemporary generation understands,
+        the name <char style="it">Rachel</char> is a meme like the name <char style="it">Karen </char>is a meme
+        for the Gen-Z’ers. To be clear, Rachel is not a Karen—i.e. both are memes but characterize entirely different
+        types of women. Since <char style="it">Ramah </char>is so far from Bethlehem, it can be viewed as a metonymy
+        similar to the metonymy <char style="it">Timbuktu</char>. </char>
     </note>
   <chapter eid="MAT 2" />
   <!--   **********   -->
@@ -365,8 +347,7 @@
       <verse number="1" style="v" sid="MAT 3:1" />Now back in those days, John the Baptist appeared on the scene in the Judean countryside<char style="sup">[a]</char><verse eid="MAT 3:1" />
       <verse number="2" style="v" sid="MAT 3:2" />saying, “Straighten up and change your ways<char style="sup">[b]</char>, since God’s involvement with
         mankind (the kingdom of heaven) just got here! <verse eid="MAT 3:2" />
-      <verse number="3" style="v" sid="MAT 3:3" />You see, what’s taking place here is the prophecy from Isaiah which says,
-    </para>
+      <verse number="3" style="v" sid="MAT 3:3" />You see, what’s taking place here is the prophecy from Isaiah which says,</para>
     <para style="pi" vid="MAT 3:3"></para>
     <para style="pi" vid="MAT 3:3">The sound of shouting in the countryside:</para>
     <para style="pi" vid="MAT 3:3">“Block off the road the Lord will take!</para>
@@ -515,13 +496,11 @@
       <verse number="1" style="v" sid="MAT 4:1" />Then Jesus was guided by the Spirit into the countryside<char style="sup">[a]</char> to be tempted<char
         style="sup">[A]</char> by the devil. <verse eid="MAT 4:1" />
       <verse number="2" style="v" sid="MAT 4:2" />After fasting for forty days and nights, he finally became hungry, <verse eid="MAT 4:2" />
-      <verse number="3" style="v" sid="MAT 4:3" />and the Tempter came by and said,
-    </para>
+      <verse number="3" style="v" sid="MAT 4:3" />and the Tempter came by and said,</para>
     <para style="p" vid="MAT 4:3">“If your position is <char style="it">indeed</char> Son of God, speak so that these stones become bread.”<verse eid="MAT 4:3"/>
     </para>
     <para style="p">
-      <verse number="4" style="v" sid="MAT 4:4" />But he answered him, <char style="wj">“It’s written,</char>
-    </para>
+      <verse number="4" style="v" sid="MAT 4:4" />But he answered him, <char style="wj">“It’s written,</char></para>
     <para style="pi" vid="MAT 4:4"></para>
     <para style="pi" vid="MAT 4:4"><char style="wj">Man will not live by bread only,</char></para>
     <para style="pi" vid="MAT 4:4"><char style="wj">But by every word coming out of the mouth of God”</char><verse eid="MAT 4:4"/>
@@ -530,8 +509,7 @@
     <para style="p">
       <verse number="5" style="v" sid="MAT 4:5" />So the devil then took him to the holy city, and placed him on the battlements on the temple roof<char
         style="sup">[B]</char>. <verse eid="MAT 4:5" />
-      <verse number="6" style="v" sid="MAT 4:6" />He turned and, in continuation, said,
-    </para>
+      <verse number="6" style="v" sid="MAT 4:6" />He turned and, in continuation, said,</para>
     <para style="p" vid="MAT 4:6">“If you’re <char style="it">indeed</char> God’s son, jump off. <char style="it">I mean</char>, it’s written,</para>
     <para style="pi" vid="MAT 4:6"></para>
     <para style="pi" vid="MAT 4:6">Where you are concerned,</para>
@@ -566,22 +544,19 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="15" style="v" sid="MAT 4:15" />In the land of Zebulon and in the land of Naphtali
-    </para>
+      <verse number="15" style="v" sid="MAT 4:15" />In the land of Zebulon and in the land of Naphtali</para>
     <para style="pi" vid="MAT 4:15">On the road leading to the sea, on the other side of the Jordan</para>
     <para style="pi" vid="MAT 4:15">In the region of Galilee—<verse eid="MAT 4:15"/>
     </para>
     <para style="pi">
-      <verse number="16" style="v" sid="MAT 4:16" />The folk sitting in darkness saw a great light,
-    </para>
+      <verse number="16" style="v" sid="MAT 4:16" />The folk sitting in darkness saw a great light,</para>
     <para style="pi" vid="MAT 4:16">And for the ones sitting in a region </para>
     <para style="pi" vid="MAT 4:16"><char style="it">Where they were</char> under the shadow of death<char style="sup">[C]</char></para>
     <para style="pi" vid="MAT 4:16">A light shined on them<verse eid="MAT 4:16"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="17" style="v" sid="MAT 4:17" />Starting then, Jesus began to go about and proclaim openly,
-    </para>
+      <verse number="17" style="v" sid="MAT 4:17" />Starting then, Jesus began to go about and proclaim openly,</para>
     <para style="pi" vid="MAT 4:17"></para>
     <para style="pi" vid="MAT 4:17"><char style="wj">Straighten up and change your ways</char><char style="sup">[c]</char><char style="wj">,</char></para>
     <para style="pi" vid="MAT 4:17"><char style="wj">Since God’s involvement with mankind (the kingdom of heaven)</char></para>
@@ -726,8 +701,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="4" style="v" sid="MAT 5:4" /><char style="wj">Blessed are the mourners</char><char style="sup">[B]</char><char style="wj">,</char>
-    </para>
+      <verse number="4" style="v" sid="MAT 5:4" /><char style="wj">Blessed are the mourners</char><char style="sup">[B]</char><char style="wj">,</char></para>
     <para style="pi" vid="MAT 5:4"><char style="wj">Since they shall be comforted.</char><verse eid="MAT 5:4"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -739,26 +713,22 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="6" style="v" sid="MAT 5:6" /><char style="wj">Blessed are those who hunger and thirst for righteousness,</char>
-    </para>
+      <verse number="6" style="v" sid="MAT 5:6" /><char style="wj">Blessed are those who hunger and thirst for righteousness,</char></para>
     <para style="pi" vid="MAT 5:6"><char style="wj">Since they’ll be satisfied.</char><verse eid="MAT 5:6"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="7" style="v" sid="MAT 5:7" /><char style="wj">Blessed are the merciful,</char>
-    </para>
+      <verse number="7" style="v" sid="MAT 5:7" /><char style="wj">Blessed are the merciful,</char></para>
     <para style="pi" vid="MAT 5:7"><char style="wj">Since they’ll be shown mercy.</char><verse eid="MAT 5:7"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="8" style="v" sid="MAT 5:8" /><char style="wj">Blessed are those with clean hearts,</char>
-    </para>
+      <verse number="8" style="v" sid="MAT 5:8" /><char style="wj">Blessed are those with clean hearts,</char></para>
     <para style="pi" vid="MAT 5:8"><char style="wj">Since they’ll see God.</char><verse eid="MAT 5:8"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="9" style="v" sid="MAT 5:9" /><char style="wj">Blessed are the peacemakers,</char>
-    </para>
+      <verse number="9" style="v" sid="MAT 5:9" /><char style="wj">Blessed are the peacemakers,</char></para>
     <para style="pi" vid="MAT 5:9"><char style="wj">Since they’ll be called Sons of God.</char><verse eid="MAT 5:9"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -770,15 +740,13 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="11" style="v" sid="MAT 5:11" /><char style="wj">Blessed are you when you are insulted,</char>
-    </para>
+      <verse number="11" style="v" sid="MAT 5:11" /><char style="wj">Blessed are you when you are insulted,</char></para>
     <para style="pi" vid="MAT 5:11"><char style="wj">And you are persecuted,</char></para>
     <para style="pi" vid="MAT 5:11"><char style="wj">And when they say all sorts of bad things about you</char></para>
     <para style="pi" vid="MAT 5:11"><char style="wj">On account of believing in me.</char><verse eid="MAT 5:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="MAT 5:12" /><char style="wj">Be joyful and exult in that joy</char><char style="sup">[f]</char><char style="wj">,</char>
-    </para>
+      <verse number="12" style="v" sid="MAT 5:12" /><char style="wj">Be joyful and exult in that joy</char><char style="sup">[f]</char><char style="wj">,</char></para>
     <para style="pi" vid="MAT 5:12"><char style="wj">Since your heavenly paycheck is huge—As you know,</char></para>
     <para style="pi" vid="MAT 5:12"><char style="wj">They persecuted the Former Prophets the same way.</char><verse eid="MAT 5:12"/>
     </para>
@@ -799,9 +767,10 @@
         style="wj">—no, not to nullify, but to fulfill. </char><verse eid="MAT 5:17" />
       <verse number="18" style="v" sid="MAT 5:18" /><char style="wj">You can count on this: until planet Earth comes to an end, there’s no way—no way at
         all—that even so much as the tiniest letter or a single stroke of the pen which distinguishes one letter
-        from another in any of the commandments found in the </char><char style="it"><char style="wj">Old Testament</char></char><char
-        style="wj"> Law </char><char style="it"><char style="wj">of Moses </char></char><char style="wj">will
-        be disregarded or of no effect, until that day when everything finally comes to an end. </char><verse eid="MAT 5:18" />
+        from another</char><char style="sup">[G]</char><char style="wj"> in any of the commandments found in
+        the </char><char style="it"><char style="wj">Old Testament</char></char><char style="wj"> Law </char><char
+        style="it"><char style="wj">of Moses </char></char><char style="wj">will be disregarded or of no effect,
+        until that day when everything finally comes to an end. </char><verse eid="MAT 5:18" />
       <verse number="19" style="v" sid="MAT 5:19" /><char style="wj">Whoever tries to disregard even the minutest commandment and instructs others to do
         the same thing will be ranked last in the kingdom of heaven. But whoever happens to do and teach </char><char
         style="it"><char style="wj">these commandments, </char></char><char style="wj">that’s the fellow who’ll
@@ -816,34 +785,34 @@
         </char><verse eid="MAT 5:21" />
       <verse number="22" style="v" sid="MAT 5:22" /><char style="wj">But what I say is this: whoever gets irate with his good friend</char><char style="sup">[j]</char><char
         style="wj"> will be pronounced guilty in that unseen courtroom. So whoever calls his friend an idiot</char><char
-        style="sup">[G]</char><char style="wj"> will be guilty enough to be sentenced to the fires of hell</char><char
+        style="sup">[H]</char><char style="wj"> will be guilty enough to be sentenced to the fires of hell</char><char
         style="sup">[k]</char><char style="wj">. </char><verse eid="MAT 5:22" />
       <verse number="23" style="v" sid="MAT 5:23" /><char style="wj">Take this to mean that if anyone is on his way to a church conference and happens to
         remember that his friend is holding a grudge against him, and that it’s his fault and not his friend’s,
         </char><verse eid="MAT 5:23" />
       <verse number="24" style="v" sid="MAT 5:24" /><char style="wj">stop dead in your tracks and go straight to your friend and fix it with him first, then
-        you can go back and continue on your way to church.</char><char style="sup">[H]</char><char style="wj">
+        you can go back and continue on your way to church.</char><char style="sup">[I]</char><char style="wj">
         </char><verse eid="MAT 5:24" />
       <verse number="25" style="v" sid="MAT 5:25" /><char style="wj">Settle with the plaintiff out of court. Don’t let it go to trial, because when the judge
         swings his gavel, </char><verse eid="MAT 5:25" />
-      <verse number="26" style="v" sid="MAT 5:26" /><char style="wj">you’re going to lose your shirt.</char><char style="sup">[I]</char><verse eid="MAT 5:26" />
+      <verse number="26" style="v" sid="MAT 5:26" /><char style="wj">you’re going to lose your shirt.</char><char style="sup">[J]</char><verse eid="MAT 5:26" />
     </para>
     <para style="p">
       <verse number="27" style="v" sid="MAT 5:27" /><char style="wj">”You’ve heard the verse from the Old Testament, ‘Don’t commit adultery.’ </char><verse eid="MAT 5:27" />
       <verse number="28" style="v" sid="MAT 5:28" /><char style="wj">But what I say is this: anyone who checks out a woman thinking what she’d be like in
-        bed has already committed adultery with her in his heart.</char><char style="sup">[J]</char><char style="wj">
+        bed has already committed adultery with her in his heart.</char><char style="sup">[K]</char><char style="wj">
         </char><verse eid="MAT 5:28" />
       <verse number="29" style="v" sid="MAT 5:29" /><char style="wj">If your right eye (that is, the object of your continual desire) is causing you to commit
         sin, dig it out and throw it away; you’re better off for sure losing one of your body parts and not having
         your whole body thrown into hell. </char><verse eid="MAT 5:29" />
       <verse number="30" style="v" sid="MAT 5:30" /><char style="wj">If your right hand (that is, the thing you’re in the habit of doing) is causing you
         to commit sin, cut it off and throw it away; you’re better off for sure losing one of your body parts
-        and not having your whole body thrown into hell.</char><char style="sup">[K]</char><verse eid="MAT 5:30" />
+        and not having your whole body thrown into hell.</char><char style="sup">[L]</char><verse eid="MAT 5:30" />
     </para>
     <para style="p">
       <verse number="31" style="v" sid="MAT 5:31" /><char style="wj">”You’ve heard the verse </char><char style="it"><char style="wj">from the Old Testament</char></char><char
         style="wj">, ‘Whoever chooses to divorce his wife must supply her with the required divorce certificate.’</char><char
-        style="sup">[L]</char><char style="wj"> </char><verse eid="MAT 5:31" />
+        style="sup">[M]</char><char style="wj"> </char><verse eid="MAT 5:31" />
       <verse number="32" style="v" sid="MAT 5:32" /><char style="wj">But what I say is this: divorcing your wife for any reason except in the case of sexual
         immorality</char><char style="sup">[l]</char><char style="wj"> causes her to commit adultery </char><char
         style="it"><char style="wj">when she remarries</char></char><char style="wj">, and whoever remarries
@@ -867,12 +836,12 @@
       <verse number="39" style="v" sid="MAT 5:39" /><char style="wj">But what I say is this: don’t resist a bad person, but instead, whosoever slaps you
         on the right cheek, turn </char><char style="it"><char style="wj">and present</char></char><char style="wj">
         the other one to him also (</char><char style="it"><char style="wj">i.e., don’t change the way you treat
-        the person who mistreated you and seek retaliation</char></char><char style="wj">).</char><char style="sup">[M]</char><char
+        the person who mistreated you and seek retaliation</char></char><char style="wj">).</char><char style="sup">[N]</char><char
         style="wj"> </char><verse eid="MAT 5:39" />
       <verse number="40" style="v" sid="MAT 5:40" /><char style="wj">And any person whatsoever who’s wanting to sue you for your shirt and pants, give him
         your overcoat also. </char><verse eid="MAT 5:40" />
       <verse number="41" style="v" sid="MAT 5:41" /><char style="wj">And whosoever conscripts you to carry their pack for a mile, continue on with him for
-        two.</char><char style="sup">[N]</char><char style="wj"> </char><verse eid="MAT 5:41" />
+        two.</char><char style="sup">[O]</char><char style="wj"> </char><verse eid="MAT 5:41" />
       <verse number="42" style="v" sid="MAT 5:42" /><char style="wj">Give to him who asks </char><char style="it"><char style="wj">something from</char></char><char
         style="wj"> you, and whoever wants to borrow money from you, don’t turn him down.</char><verse eid="MAT 5:42" />
     </para>
@@ -890,7 +859,7 @@
     </para>
     <para style="p">
       <verse number="48" style="v" sid="MAT 5:48" /><char style="wj">”To sum it all up, don’t fall short by only doing things halfway; do them all the way</char><char
-        style="sup">[O]</char><char style="wj">, just as your heavenly Father does things all the way.”</char><verse eid="MAT 5:48" />
+        style="sup">[P]</char><char style="wj">, just as your heavenly Father does things all the way.”</char><verse eid="MAT 5:48" />
     </para>
   <!--   .........   -->
   <!--   Footnotes   -->
@@ -1008,11 +977,30 @@
     </note>
     <note caller="[G]" style="f">
       <char style="fk">[G]</char>
-      <char style="ft"><char style="it">idiot</char>…Lit: <char style="it">raka</char>. One of the few Aramaic words appearing
-        in the NT. It borders on cursing.</char>
+      <char style="ft"><char style="it">the tiniest letter or a single stroke of the pen which distinguishes one letter from
+        another</char>…Lit: <char style="it">one iota or one little-horn</char>. The Greek letter <char style="it">iota
+        </char>(the smallest Gk. Letter)<char style="it"> </char>is a proxy for the Hebrew letter <char style="it">yod</char>
+        (י‎), which is a small letter resembling a backwards apostrophe, much smaller than any of the other letters
+        of the Hebrew alphabet. The Gk. word <char style="it">little-horn </char>is derived from the Gk. word
+        for <char style="it">horn</char>, perhaps a diminutive. When applied to the alphabet, the closest English
+        equivalent is <char style="it">serif</char>, but that doesn’t do the word justice, as there are several
+        sets of letters in the Hebrew alphabet which are indistinguishable except for a short stroke of the pen,
+        a small protrusion—a little horn. Here’s some pairs of Hebrew letters which are only distinguished by
+        a short stroke of the pen: gimel and nun (ג vs. נ‎); bet and kaph (ב vs. כ‎); dalet and rhesh (ד vs.
+        ר). There are other pairs. So Jesus is saying that there’ll be no small stroke of the pen which will
+        delete the letter yod or swap a letter for its similar-looking twin. Since written Hebrew doesn’t normally
+        use vowels, the changing of a single letter could more easily change an entire word than a single change
+        of a letter in English could. And, of course, a change in word could change the meaning of a verse entirely.
+        So Jesus is saying there’ll be no small stroke of the pen changes to the Law which would result in profound
+        changes to the meaning of a verse in the Law.</char>
     </note>
     <note caller="[H]" style="f">
       <char style="fk">[H]</char>
+      <char style="ft"><char style="it">idiot</char>…Lit: <char style="it">raka</char>. One of the few Aramaic words appearing
+        in the NT. It borders on cursing.</char>
+    </note>
+    <note caller="[I]" style="f">
+      <char style="fk">[I]</char>
       <char style="ft"><char style="it">on your way to church…</char>Liberties taken in the translation to make it more relevant;
         vv. 23,4 actually read, <char style="it">Therefore if anyone were to an offering upon the altar offering
         and remember that his has brother has something against you, leave the offering in front of the altar,
@@ -1021,8 +1009,8 @@
         of various kinds at the altar on the temple premises. The trip to Jerusalem could take a few days, unlike
         going down the street a few blocks to get to church.</char>
     </note>
-    <note caller="[I]" style="f">
-      <char style="fk">[I]</char>
+    <note caller="[J]" style="f">
+      <char style="fk">[J]</char>
       <char style="ft"><char style="it">you’re going to lose your shirt…</char>Liberties taken in the translation to make it
         more relevant; vv. 25,26 actually read, <char style="it">Make peace with your adversary quickly, while
         you’re still with him on the way, lest the adversary hand you over to the judge, and the judge to the
@@ -1031,8 +1019,8 @@
         a civil action decided by a judge with no jury. Back then, those who didn’t have the money to pay the
         entire settlement the judge determined would be thrown into jail immediately.</char>
     </note>
-    <note caller="[J]" style="f">
-      <char style="fk">[J]</char>
+    <note caller="[K]" style="f">
+      <char style="fk">[K]</char>
       <char style="ft"><char style="it">has already committed adultery with her in his heart…</char>A misunderstood verse, easily
         clarified when a bit of common sense is applied. In no way is staring carnally at another woman equivalent
         to or as morally wrong as having sex with her. The point Jesus is making is that both the ogler and the
@@ -1040,8 +1028,8 @@
         between the two is like the difference between a light misdemeanor and a high class felony—and distinctions
         in the severity of transgressions is a concept adhered to elsewhere in the Bible.</char>
     </note>
-    <note caller="[K]" style="f">
-      <char style="fk">[K]</char>
+    <note caller="[L]" style="f">
+      <char style="fk">[L]</char>
       <char style="ft"><char style="it">if your right eye/if your right hand is causing you to commit sin…</char>In the Bible,
         eyes are symbolic of the heart’s desire and hands are symbolic of actions you take. The right eye is
         the principal desire of the heart, and the right hand is the most important thing that you do. This passage,
@@ -1049,8 +1037,8 @@
         or eliminate any habits, actions, involvements, etc. if any of these is a principal cause of you committing
         sin.</char>
     </note>
-    <note caller="[L]" style="f">
-      <char style="fk">[L]</char>
+    <note caller="[M]" style="f">
+      <char style="fk">[M]</char>
       <char style="ft"><char style="it">the required divorce certificate…</char>Under OT Law/the Law of Moses, as quoted here,
         divorce was permitted. By law, the husband could (but the wife could not) initiate the legal proceedings
         for the divorce and, if approved, was required to supply her with a divorce certificate to protect her
@@ -1064,8 +1052,8 @@
         we would simply say, <char style="it">whoever gets a divorce and remarries (except in the case of sexual
         immorality) commits adultery</char>.</char>
     </note>
-    <note caller="[M]" style="f">
-      <char style="fk">[M]</char>
+    <note caller="[N]" style="f">
+      <char style="fk">[N]</char>
       <char style="ft"><char style="it">whoever slaps you on the right cheek, turn and present the other one to him also</char>
         <char style="it">(i.e., don’t change the way you treat them and seek retaliation)…</char>”An eye for
         an eye and a tooth for a tooth” was OT law; the same was also embedded in Hammurabi’s law code. If someone
@@ -1088,14 +1076,14 @@
         the other cheek from time to time. Waitresses who are treated rudely by their customers but continue
         to be polite to them are turning the other cheek.</char>
     </note>
-    <note caller="[N]" style="f">
-      <char style="fk">[N]</char>
+    <note caller="[O]" style="f">
+      <char style="fk">[O]</char>
       <char style="ft"><char style="it">whosever conscripts you to carry their pack for a mile, go on with him for two…</char>By
         law, if a Roman soldier passed one going the opposite direction, by law he was permitted to force him
         to carry his pack for him for a mile.</char>
     </note>
-    <note caller="[O]" style="f">
-      <char style="fk">[O]</char>
+    <note caller="[P]" style="f">
+      <char style="fk">[P]</char>
       <char style="ft"><char style="it">don’t fall short by only doing things halfway, do them all the way …</char>Lit: <char
         style="it">be perfect</char>. <char style="it">Perfect </char>is also translated <char style="it">complete</char>
         or <char style="it">finished</char>; a complete person fulfills the full intention of God’s laws and
@@ -1135,8 +1123,7 @@
         their prayers will be answered because of the sheer volume of words that they use. </char><verse eid="MAT 6:7" />
       <verse number="8" style="v" sid="MAT 6:8" /><char style="wj">Don’t imitate them. Indeed, your Father knows what you’re in need of before you pray
         to Him. </char><verse eid="MAT 6:8" />
-      <verse number="9" style="v" sid="MAT 6:9" /><char style="wj">So pray this way:</char>
-    </para>
+      <verse number="9" style="v" sid="MAT 6:9" /><char style="wj">So pray this way:</char></para>
     <para style="pi" vid="MAT 6:9"></para>
     <para style="pi" vid="MAT 6:9"><char style="wj">“Our Father up there</char><char style="sup">[B]</char><char style="wj">:</char></para>
     <para style="pi" vid="MAT 6:9"><char style="wj">Let Your reputation be held in reverence.</char><verse eid="MAT 6:9"/>
@@ -1151,13 +1138,11 @@
       <verse number="11" style="v" sid="MAT 6:11" /><char style="wj">Give us a meal ticket for today</char><char style="sup">[D]</char><char style="wj">,</char><verse eid="MAT 6:11" />
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="MAT 6:12" /><char style="wj">And let our debts slide</char>
-    </para>
+      <verse number="12" style="v" sid="MAT 6:12" /><char style="wj">And let our debts slide</char></para>
     <para style="pi" vid="MAT 6:12"><char style="wj">As we let slide what’s due us.</char><verse eid="MAT 6:12"/>
     </para>
     <para style="pi">
-      <verse number="13" style="v" sid="MAT 6:13" /><char style="wj">And don’t take us over into temptation</char><char style="sup">[E]</char>
-    </para>
+      <verse number="13" style="v" sid="MAT 6:13" /><char style="wj">And don’t take us over into temptation</char><char style="sup">[E]</char></para>
     <para style="pi" vid="MAT 6:13"><char style="wj">No—rather, rescue us from the bad stuff</char><char style="sup">[F]</char><char style="wj">
         that goes on</char><char style="sup">[G]</char><char style="wj">.</char><verse eid="MAT 6:13"/>
     </para>
@@ -1589,13 +1574,11 @@
   <chapter number="8" style="c" sid="MAT 8" />
     <para style="p">
       <verse number="1" style="v" sid="MAT 8:1" />After he came down out of the mountain, large crowds followed him. <verse eid="MAT 8:1" />
-      <verse number="2" style="v" sid="MAT 8:2" />Out of nowhere, a leper came up to him and started groveling in front of him,
-    </para>
+      <verse number="2" style="v" sid="MAT 8:2" />Out of nowhere, a leper came up to him and started groveling in front of him,</para>
     <para style="p" vid="MAT 8:2">“Sir<char style="sup">[A]</char>, if you so desire, you can clear me up<char style="sup">[B]</char>.”<verse eid="MAT 8:2"/>
     </para>
     <para style="p">
-      <verse number="3" style="v" sid="MAT 8:3" />He stretched out his hand and touched him saying, <char style="wj">“I do so desire; be cleared.”</char>
-    </para>
+      <verse number="3" style="v" sid="MAT 8:3" />He stretched out his hand and touched him saying, <char style="wj">“I do so desire; be cleared.”</char></para>
     <para style="m" vid="MAT 8:3">Immediately his leprosy cleared up. <verse eid="MAT 8:3"/>
       <verse number="4" style="v" sid="MAT 8:4" />Jesus then said to him, <char style="wj">“See to it that you tell no one, but rather go and show yourself
         to the priest and bring to him the offering that’s commanded by the Law of Moses, as an official submission</char><char
@@ -1635,8 +1618,7 @@
       <verse number="15" style="v" sid="MAT 8:15" />He touched her hand and the fever left her. <verse eid="MAT 8:15" />
       <verse number="16" style="v" sid="MAT 8:16" />When evening arrived, they brought to him many demon-possessed, and he cast the spirits out with a few
         words, and he treated many who had something wrong with them<char style="sup">[e]</char>, <verse eid="MAT 8:16" />
-      <verse number="17" style="v" sid="MAT 8:17" />in order that the Prophet Isaiah’s prophecy would be fulfilled,
-    </para>
+      <verse number="17" style="v" sid="MAT 8:17" />in order that the Prophet Isaiah’s prophecy would be fulfilled,</para>
     <para style="pi" vid="MAT 8:17"></para>
     <para style="pi" vid="MAT 8:17">He himself took our weaknesses</para>
     <para style="pi" vid="MAT 8:17">And bore our diseases<verse eid="MAT 8:17"/>
@@ -1644,8 +1626,7 @@
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
       <verse number="18" style="v" sid="MAT 8:18" />Now Jesus, seeing a crowd surrounding him, gave a command to hike up the mountain. <verse eid="MAT 8:18" />
-      <verse number="19" style="v" sid="MAT 8:19" />One of the designated teachers<char style="sup">[f]</char> came and said to him,
-    </para>
+      <verse number="19" style="v" sid="MAT 8:19" />One of the designated teachers<char style="sup">[f]</char> came and said to him,</para>
     <para style="p" vid="MAT 8:19">“Teacher, I’ll follow you wherever you happen to go.”<verse eid="MAT 8:19"/>
     </para>
     <para style="p">
@@ -1665,13 +1646,11 @@
       <verse number="23" style="v" sid="MAT 8:23" />Then he got into a boat and his disciples followed him in. <verse eid="MAT 8:23" />
       <verse number="24" style="v" sid="MAT 8:24" />And—like that—the sea broke into a great commotion, to the extent that the boat was overshadowed by waves.
         All the while, he was still asleep. <verse eid="MAT 8:24" />
-      <verse number="25" style="v" sid="MAT 8:25" />They came over and roused him from his sleep saying,
-    </para>
+      <verse number="25" style="v" sid="MAT 8:25" />They came over and roused him from his sleep saying,</para>
     <para style="p" vid="MAT 8:25">“Lord—Help! We’re dying here!”<verse eid="MAT 8:25"/>
     </para>
     <para style="p">
-      <verse number="26" style="v" sid="MAT 8:26" />He said to them, <char style="wj">“What a bunch of chickens you all are, you little-faith-ers,”</char>
-    </para>
+      <verse number="26" style="v" sid="MAT 8:26" />He said to them, <char style="wj">“What a bunch of chickens you all are, you little-faith-ers,”</char></para>
     <para style="m" vid="MAT 8:26">He then got up and rebuked the winds and the sea, and a great calm came over the water. <verse eid="MAT 8:26"/>
       <verse number="27" style="v" sid="MAT 8:27" />The men were amazed and said, “Just what kind of guy is this, that even the wind and the sea obey him?”<verse eid="MAT 8:27" />
     </para>
@@ -1818,8 +1797,7 @@
       <verse number="10" style="v" sid="MAT 9:10" />And when he happened to be lounging at the dinner table<char style="sup">[A]</char>, out of nowhere several
         tax collectors and <char style="it">other kinds of </char>sinners came and joined Jesus and his disciples
         at the table. <verse eid="MAT 9:10" />
-      <verse number="11" style="v" sid="MAT 9:11" />The Pharisees, seeing this, proceeded to say to his disciples,
-    </para>
+      <verse number="11" style="v" sid="MAT 9:11" />The Pharisees, seeing this, proceeded to say to his disciples,</para>
     <para style="p" vid="MAT 9:11">“Just why does your teacher eat with tax collectors and <char style="it">other kinds of </char>sinners?”<verse eid="MAT 9:11"/>
     </para>
     <para style="p">
@@ -2065,8 +2043,7 @@
         of people, I will also deny him before my heavenly Father. </char><verse eid="MAT 10:33" />
       <verse number="34" style="v" sid="MAT 10:34" /><char style="wj">Don’t think that I came to sprinkle peace all over the earth—no, I didn’t come to sprinkle
         peace, but I came to sprinkle violence</char><char style="sup">[F]</char><char style="wj">. </char><verse eid="MAT 10:34" />
-      <verse number="35" style="v" sid="MAT 10:35" /><char style="wj">Indeed, I came to divide…</char>
-    </para>
+      <verse number="35" style="v" sid="MAT 10:35" /><char style="wj">Indeed, I came to divide…</char></para>
     <para style="pi" vid="MAT 10:35"></para>
     <para style="pi" vid="MAT 10:35"><char style="wj">“A man from his father</char></para>
     <para style="pi" vid="MAT 10:35"><char style="wj">A daughter from her mother</char></para>
@@ -2267,8 +2244,7 @@
         in the neighboring cities. <verse eid="MAT 11:1" />
       <verse number="2" style="v" sid="MAT 11:2" />When John, <char style="it">who was </char>in jail, heard about Jesus’s doings, he sent word to Jesus
         by way of some of his disciples, <verse eid="MAT 11:2" />
-      <verse number="3" style="v" sid="MAT 11:3" />asking,
-    </para>
+      <verse number="3" style="v" sid="MAT 11:3" />asking,</para>
     <para style="p" vid="MAT 11:3">”Are you the Coming One, or shall we wait for somebody else?”<verse eid="MAT 11:3"/>
     </para>
     <para style="p">
@@ -2289,8 +2265,7 @@
         style="wj">. </char><verse eid="MAT 11:8" />
       <verse number="9" style="v" sid="MAT 11:9" /><char style="wj">No, not that either. What did you go out to see—a prophet? Yes—and let me tell you—the
         greatest prophet </char><char style="it"><char style="wj">ever</char></char><char style="wj">. </char><verse eid="MAT 11:9" />
-      <verse number="10" style="v" sid="MAT 11:10" /><char style="wj">He’s the one this verse talks about,</char>
-    </para>
+      <verse number="10" style="v" sid="MAT 11:10" /><char style="wj">He’s the one this verse talks about,</char></para>
     <para style="pi" vid="MAT 11:10"></para>
     <para style="pi" vid="MAT 11:10"><char style="wj">“Here now, I’ll send you my messenger—</char></para>
     <para style="pi" vid="MAT 11:10"><char style="wj">He’ll get right in your face.</char></para>
@@ -2316,8 +2291,7 @@
       <verse number="16" style="v" sid="MAT 11:16" /><char style="wj">”Just what shall I compare the prevailing Zeitgeist</char><char style="sup">[i]</char><char
         style="wj"> to? It’s like when one group of children sitting in the marketplace calls over to another
         group of children nearby </char><verse eid="MAT 11:16" />
-      <verse number="17" style="v" sid="MAT 11:17" /><char style="wj">saying…</char><char style="sup">[G]</char>
-    </para>
+      <verse number="17" style="v" sid="MAT 11:17" /><char style="wj">saying…</char><char style="sup">[G]</char></para>
     <para style="p" vid="MAT 11:17"></para>
     <para style="pi" vid="MAT 11:17"><char style="wj">“We played a catchy flute tune, but you didn’t dance.</char></para>
     <para style="pi" vid="MAT 11:17"><char style="wj">We sang a dirge, but you didn’t weep and wail</char><char style="sup">[H]</char><char
@@ -2340,8 +2314,7 @@
         style="sup">[J]</char><char style="wj">. </char><verse eid="MAT 11:21" />
       <verse number="22" style="v" sid="MAT 11:22" /><char style="wj">Because of that, the Day of Judgment will be easier on Tyre and Sidon than on you all.
         </char><verse eid="MAT 11:22" />
-      <verse number="23" style="v" sid="MAT 11:23" /><char style="wj">And as for you, Capernaum…</char>
-    </para>
+      <verse number="23" style="v" sid="MAT 11:23" /><char style="wj">And as for you, Capernaum…</char></para>
     <para style="pi" vid="MAT 11:23"></para>
     <para style="pi" vid="MAT 11:23"><char style="wj">You wouldn’t have anything to do</char></para>
     <para style="pi" vid="MAT 11:23"><char style="wj">With being raised up to heaven;</char></para>
@@ -2542,8 +2515,7 @@
     <para style="p">
       <verse number="1" style="v" sid="MAT 12:1" />During that period of time, Jesus walked through the fields on Sabbath days. The disciples were hungry
         and began to go through and strip kernels off<char style="sup">[A]</char> the wheat heads and eat them.<verse eid="MAT 12:1" />
-      <verse number="2" style="v" sid="MAT 12:2" />But the Pharisees, seeing what was happening, said to him,
-    </para>
+      <verse number="2" style="v" sid="MAT 12:2" />But the Pharisees, seeing what was happening, said to him,</para>
     <para style="p" vid="MAT 12:2">“See, look what your disciples are doing. This isn’t allowed on the Sabbath.”<verse eid="MAT 12:2"/>
     </para>
     <para style="p">
@@ -2583,20 +2555,17 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="18" style="v" sid="MAT 12:18" />Look! My chosen child,
-    </para>
+      <verse number="18" style="v" sid="MAT 12:18" />Look! My chosen child,</para>
     <para style="pi" vid="MAT 12:18">My beloved in whom My soul is pleased.</para>
     <para style="pi" vid="MAT 12:18">I’ll put My Spirit upon him</para>
     <para style="pi" vid="MAT 12:18">And announce justice to the nations.<verse eid="MAT 12:18"/>
     </para>
     <para style="pi">
-      <verse number="19" style="v" sid="MAT 12:19" />He’ll neither squabble nor scream
-    </para>
+      <verse number="19" style="v" sid="MAT 12:19" />He’ll neither squabble nor scream</para>
     <para style="pi" vid="MAT 12:19">Nor will anyone hear his voice in the town square.<verse eid="MAT 12:19"/>
     </para>
     <para style="pi">
-      <verse number="20" style="v" sid="MAT 12:20" />He won’t break a damaged twig,
-    </para>
+      <verse number="20" style="v" sid="MAT 12:20" />He won’t break a damaged twig,</para>
     <para style="pi" vid="MAT 12:20">He won’t extinguish a wick</para>
     <para style="pi" vid="MAT 12:20">Until he brings about a victory for justice,<verse eid="MAT 12:20"/>
     </para>
@@ -2886,8 +2855,7 @@
         But whoever is not acquiring, even that which he has will be taken away from him. </char><verse eid="MAT 13:12" />
       <verse number="13" style="v" sid="MAT 13:13" /><char style="wj">I speak in analogies for this reason: so that ‘while seeing they will not see, and while
         hearing they will not hear’.</char><char style="sup">[A]</char><char style="wj"> </char><verse eid="MAT 13:13" />
-      <verse number="14" style="v" sid="MAT 13:14" /><char style="wj">They fulfill the Prophet Isaiah’s prophecy, which says,</char>
-    </para>
+      <verse number="14" style="v" sid="MAT 13:14" /><char style="wj">They fulfill the Prophet Isaiah’s prophecy, which says,</char></para>
     <para style="pi" vid="MAT 13:14"></para>
     <para style="pi" vid="MAT 13:14"><char style="wj">“While you all are hearing, you will not understand</char></para>
     <para style="pi" vid="MAT 13:14"><char style="wj">(</char><char style="it"><char style="wj">i.e., it’ll go in one ear and out the next</char></char><char
@@ -2899,8 +2867,7 @@
         style="wj">).</char><verse eid="MAT 13:14"/>
     </para>
     <para style="pi">
-      <verse number="15" style="v" sid="MAT 13:15" /><char style="wj">Indeed, the heart of this people has thickened</char>
-    </para>
+      <verse number="15" style="v" sid="MAT 13:15" /><char style="wj">Indeed, the heart of this people has thickened</char></para>
     <para style="pi" vid="MAT 13:15"><char style="wj">And they have heard with bogged-down ears</char></para>
     <para style="pi" vid="MAT 13:15"><char style="wj">And they have shut their eyes,</char></para>
     <para style="pi" vid="MAT 13:15"><char style="wj">(</char><char style="it"><char style="wj">i.e.,</char></char><char style="wj"> </char><char
@@ -2947,8 +2914,7 @@
         style="sup">[B]</char><char style="wj"> right next to all the wheat, then took off. </char><verse eid="MAT 13:25" />
       <verse number="26" style="v" sid="MAT 13:26" /><char style="wj">When the stalks reached maturity, it became apparent that there was also crab grass.
         </char><verse eid="MAT 13:26" />
-      <verse number="27" style="v" sid="MAT 13:27" /><char style="wj">The owner’s workers came and told him,</char>
-    </para>
+      <verse number="27" style="v" sid="MAT 13:27" /><char style="wj">The owner’s workers came and told him,</char></para>
     <para style="p" vid="MAT 13:27"><char style="wj">“‘Sir, didn’t we use good seed when we sowed the field? Where’d this crab grass come
         from?’</char><verse eid="MAT 13:27"/>
     </para>
@@ -2980,8 +2946,7 @@
     <para style="p">
       <verse number="34" style="v" sid="MAT 13:34" />Jesus spoke all these things to the crowd by way of parables, and he didn’t say anything apart from using
         a parable, <verse eid="MAT 13:34" />
-      <verse number="35" style="v" sid="MAT 13:35" />so that the Psalm<char style="sup">[i]</char> would be fulfilled,
-    </para>
+      <verse number="35" style="v" sid="MAT 13:35" />so that the Psalm<char style="sup">[i]</char> would be fulfilled,</para>
     <para style="pi" vid="MAT 13:35"></para>
     <para style="pi" vid="MAT 13:35">I will open my mouth by means of analogy.</para>
     <para style="pi" vid="MAT 13:35">I will pour out of it</para>
@@ -3036,8 +3001,7 @@
         be weeping and gnashing of teeth</char><char style="sup">[C]</char><char style="wj">.”</char><verse eid="MAT 13:50" />
     </para>
     <para style="p">
-      <verse number="51" style="v" sid="MAT 13:51" /><char style="wj">”Do you understand all of these things?”</char>
-    </para>
+      <verse number="51" style="v" sid="MAT 13:51" /><char style="wj">”Do you understand all of these things?”</char></para>
     <para style="p" vid="MAT 13:51">They <char style="it">then </char>tell him, “yes.”<verse eid="MAT 13:51"/>
     </para>
     <para style="p">
@@ -3242,8 +3206,7 @@
         When the crowd heard, they followed him on foot from the cities. <verse eid="MAT 14:13" />
       <verse number="14" style="v" sid="MAT 14:14" />He went out and saw the great crowd and felt a deep inner compassion for them and cured all those who
         weren’t well. <verse eid="MAT 14:14" />
-      <verse number="15" style="v" sid="MAT 14:15" />When it got late, his disciples came to him and said,
-    </para>
+      <verse number="15" style="v" sid="MAT 14:15" />When it got late, his disciples came to him and said,</para>
     <para style="p" vid="MAT 14:15">“We’re out in the middle of nowhere, and it’s getting late. Dismiss the crowds so that they can venture
         out to the marketplaces in the surrounding towns and pick up something to eat.”<verse eid="MAT 14:15"/>
     </para>
@@ -3330,13 +3293,11 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="8" style="v" sid="MAT 15:8" /><char style="wj">”This people honor me with their lips,</char>
-    </para>
+      <verse number="8" style="v" sid="MAT 15:8" /><char style="wj">”This people honor me with their lips,</char></para>
     <para style="pi" vid="MAT 15:8"><char style="wj">But they keep their heart far away from me.</char><verse eid="MAT 15:8"/>
     </para>
     <para style="pi">
-      <verse number="9" style="v" sid="MAT 15:9" /><char style="wj">In vain they worship me,</char>
-    </para>
+      <verse number="9" style="v" sid="MAT 15:9" /><char style="wj">In vain they worship me,</char></para>
     <para style="pi" vid="MAT 15:9"><char style="wj">For teachings teaching man’s commandments.”</char><verse eid="MAT 15:9"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -3399,13 +3360,11 @@
       <verse number="32" style="v" sid="MAT 15:32" />Now Jesus summoned his disciples and said, <char style="wj">“I have deep compassion for the crowd because
         they’ve been here with me for three days now and haven’t had anything to eat. I don’t want to dismiss
         them hungry, lest they pass out on the trip back.” </char><verse eid="MAT 15:32" />
-      <verse number="33" style="v" sid="MAT 15:33" />His disciples chimed in,
-    </para>
+      <verse number="33" style="v" sid="MAT 15:33" />His disciples chimed in,</para>
     <para style="p" vid="MAT 15:33">“Where in the middle of nowhere can we get all the bread needed to fill up such a large crowd?”<verse eid="MAT 15:33"/>
     </para>
     <para style="p">
-      <verse number="34" style="v" sid="MAT 15:34" />Jesus continued and said, “How much bread do you have?”
-    </para>
+      <verse number="34" style="v" sid="MAT 15:34" />Jesus continued and said, “How much bread do you have?”</para>
     <para style="p" vid="MAT 15:34">They said, “Seven loaves plus a little bit of fish.”<verse eid="MAT 15:34"/>
     </para>
     <para style="p">
@@ -3519,8 +3478,7 @@
         Pharisees’ and Sadducees’ teaching.<verse eid="MAT 16:12" />
     </para>
     <para style="p">
-      <verse number="13" style="v" sid="MAT 16:13" />Having arrived in the parts of Caesarea Philippi, he asked his disciples,
-    </para>
+      <verse number="13" style="v" sid="MAT 16:13" />Having arrived in the parts of Caesarea Philippi, he asked his disciples,</para>
     <para style="p" vid="MAT 16:13"><char style="wj">“Who do people say that the Man</char><char style="sup">[d]</char><char style="wj">
         is?”</char><verse eid="MAT 16:13"/>
     </para>
@@ -4124,8 +4082,7 @@
       <verse number="15" style="v" sid="MAT 19:15" />He laid his hands on them and then left from there.<verse eid="MAT 19:15" />
     </para>
     <para style="p">
-      <verse number="16" style="v" sid="MAT 19:16" />Just like that, a young man approached him and said,
-    </para>
+      <verse number="16" style="v" sid="MAT 19:16" />Just like that, a young man approached him and said,</para>
     <para style="p" vid="MAT 19:16">“Teacher, what good must I do in order to have that special fullness of life (eternal life)?”<verse eid="MAT 19:16"/>
     </para>
     <para style="p">
@@ -4138,8 +4095,7 @@
         style="wj">life, keep the commandments.”</char><verse eid="MAT 19:17" />
     </para>
     <para style="p">
-      <verse number="18" style="v" sid="MAT 19:18" />Engaged in the conversation, he said to him, “Which ones?”
-    </para>
+      <verse number="18" style="v" sid="MAT 19:18" />Engaged in the conversation, he said to him, “Which ones?”</para>
     <para style="p" vid="MAT 19:18">Jesus said, <char style="wj">“These ones: ‘Do not murder’…’Do not commit adultery’…’Do not steal’…’Do
         not lie when giving your word’…</char><verse eid="MAT 19:18"/>
       <verse number="19" style="v" sid="MAT 19:19" /><char style="wj">’Honor your father and mother’…’You shall love your neighbor as yourself’.”</char><verse eid="MAT 19:19" />
@@ -4355,8 +4311,7 @@
       <verse number="20" style="v" sid="MAT 20:20" />Then the mother of the sons of Zebedee came with her sons to bow down and ask something from him.<verse eid="MAT 20:20" />
     </para>
     <para style="p">
-      <verse number="21" style="v" sid="MAT 20:21" />He said, <char style="wj">“What do you want?”</char>
-    </para>
+      <verse number="21" style="v" sid="MAT 20:21" />He said, <char style="wj">“What do you want?”</char></para>
     <para style="p" vid="MAT 20:21">Taking advantage of the moment, she said, “Appoint these two sons of mine to be your right-hand men in
         your kingdom.<char style="sup">[h]</char>”<verse eid="MAT 20:21"/>
     </para>
@@ -4385,13 +4340,11 @@
     </para>
     <para style="p">
       <verse number="29" style="v" sid="MAT 20:29" />A large crowd followed him as he left Jericho. <verse eid="MAT 20:29" />
-      <verse number="30" style="v" sid="MAT 20:30" />Suddenly two blind men sitting alongside the road heard that Jesus was passing by, and shouted out,
-    </para>
+      <verse number="30" style="v" sid="MAT 20:30" />Suddenly two blind men sitting alongside the road heard that Jesus was passing by, and shouted out,</para>
     <para style="p" vid="MAT 20:30">“Have mercy on us, sir, you godsend<char style="sup">[k]</char>!”<verse eid="MAT 20:30"/>
     </para>
     <para style="p">
-      <verse number="31" style="v" sid="MAT 20:31" />But the crowd yelled at them to keep quiet. But all the more louder they shouted out,
-    </para>
+      <verse number="31" style="v" sid="MAT 20:31" />But the crowd yelled at them to keep quiet. But all the more louder they shouted out,</para>
     <para style="p" vid="MAT 20:31">“Have mercy on us, sir, you godsend!!”<verse eid="MAT 20:31"/>
     </para>
     <para style="p">
@@ -4475,8 +4428,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="5" style="v" sid="MAT 21:5" />Say to the socialites
-    </para>
+      <verse number="5" style="v" sid="MAT 21:5" />Say to the socialites</para>
     <para style="pi" vid="MAT 21:5">In the God-intended city of Jerusalem<char style="sup">[A]</char>:</para>
     <para style="pi" vid="MAT 21:5">“Look!—your king is coming your way,</para>
     <para style="pi" vid="MAT 21:5">Self-restrained and soft-spoken<char style="sup">[a]</char> and mounted on a donkey</para>
@@ -4488,8 +4440,7 @@
       <verse number="7" style="v" sid="MAT 21:7" />They lead away the donkey and the foal and placed their outer garments on them, and he sat on them. <verse eid="MAT 21:7" />
       <verse number="8" style="v" sid="MAT 21:8" />Most of the crowd spread their outer garments out on the road before him, while others chopped off tree
         branches and spread them out on the road. <verse eid="MAT 21:8" />
-      <verse number="9" style="v" sid="MAT 21:9" />And the crowd of forerunners and the crowd of tail-runners kept shouting,
-    </para>
+      <verse number="9" style="v" sid="MAT 21:9" />And the crowd of forerunners and the crowd of tail-runners kept shouting,</para>
     <para style="pi" vid="MAT 21:9"></para>
     <para style="pi" vid="MAT 21:9">Rescue us<char style="sup">[b]</char> by the godsend!<char style="sup">[c]</char></para>
     <para style="pi" vid="MAT 21:9">Praise be to him who comes at the Lord’s behest<char style="sup">[d]</char></para>
@@ -4576,8 +4527,7 @@
         </char><verse eid="MAT 21:40" />
       <verse number="41" style="v" sid="MAT 21:41" />They told him, “He’s going to cruelly annihilate those wicked men and lease the vineyard out to other
         farmers, ones who, when harvest time comes, will give him his produce.” <verse eid="MAT 21:41" />
-      <verse number="42" style="v" sid="MAT 21:42" />Jesus said to them, <char style="wj">“You never read the Scripture,</char>
-    </para>
+      <verse number="42" style="v" sid="MAT 21:42" />Jesus said to them, <char style="wj">“You never read the Scripture,</char></para>
     <para style="pi" vid="MAT 21:42"></para>
     <para style="pi" vid="MAT 21:42"><char style="wj">“The stone which the masons inspected and rejected:</char></para>
     <para style="pi" vid="MAT 21:42"><char style="wj">This became the main cornerstone.</char></para>
@@ -4749,8 +4699,7 @@
     </para>
     <para style="p">
       <verse number="15" style="v" sid="MAT 22:15" />The Pharisees then met together to come up with a plan to find a way to trip him up in one of his statements.<verse eid="MAT 22:15" />
-      <verse number="16" style="v" sid="MAT 22:16" />They sent him their disciples along with the Herodians saying,
-    </para>
+      <verse number="16" style="v" sid="MAT 22:16" />They sent him their disciples along with the Herodians saying,</para>
     <para style="p" vid="MAT 22:16">“Teacher, we know that you’re honest and that what you teach is the true way to God and that you could
         care less what anyone thinks about you<char style="sup">[d]</char>; the fact is, you don’t key off other
         people’s attitudes<char style="sup">[e]</char>. <verse eid="MAT 22:16"/>
@@ -4759,16 +4708,14 @@
     <para style="p">
       <verse number="18" style="v" sid="MAT 22:18" />Knowing how evil they were, Jesus said, <char style="wj">“Hypocrites—why are you trying to trip</char><char
         style="sup">[f]</char><char style="wj"> me up? </char><verse eid="MAT 22:18" />
-      <verse number="19" style="v" sid="MAT 22:19" /><char style="wj">Show me the coin that’s used to pay the tax with.”</char>
-    </para>
+      <verse number="19" style="v" sid="MAT 22:19" /><char style="wj">Show me the coin that’s used to pay the tax with.”</char></para>
     <para style="p" vid="MAT 22:19">They brought him a denarius.<verse eid="MAT 22:19"/>
     </para>
     <para style="p">
       <verse number="20" style="v" sid="MAT 22:20" />On top of the situation, he said, <char style="wj">“Whose picture do you see etched in here?”</char><verse eid="MAT 22:20" />
     </para>
     <para style="p">
-      <verse number="21" style="v" sid="MAT 22:21" />They, keeping up with the conversation, said to him, “Caesar’s.”
-    </para>
+      <verse number="21" style="v" sid="MAT 22:21" />They, keeping up with the conversation, said to him, “Caesar’s.”</para>
     <para style="p" vid="MAT 22:21">Then not missing a beat, he said, <char style="wj">“So then, give Caesar’s things to Caesar, and God’s
         things to God.”</char><verse eid="MAT 22:21"/>
     </para>
@@ -4815,8 +4762,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="44" style="v" sid="MAT 22:44" /><char style="wj">”An all-powerful Lord said to my lord,</char>
-    </para>
+      <verse number="44" style="v" sid="MAT 22:44" /><char style="wj">”An all-powerful Lord said to my lord,</char></para>
     <para style="pi" vid="MAT 22:44"><char style="wj">Be my right-hand man</char><char style="sup">[m]</char></para>
     <para style="pi" vid="MAT 22:44"><char style="wj">Until I</char><char style="it"><char style="wj"> decide to</char></char><char style="wj">
         subdue your enemies and subjugate them to you</char><char style="sup">[n]</char><verse eid="MAT 22:44"/>
@@ -5209,8 +5155,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="29" style="v" sid="MAT 24:29" /><char style="wj">”Right after the suffering of those days,</char>
-    </para>
+      <verse number="29" style="v" sid="MAT 24:29" /><char style="wj">”Right after the suffering of those days,</char></para>
     <para style="pi" vid="MAT 24:29"></para>
     <para style="pi" vid="MAT 24:29"><char style="wj">The sun will go dark</char></para>
     <para style="pi" vid="MAT 24:29"><char style="wj">And the moon won’t shine</char></para>
@@ -5754,8 +5699,9 @@
         I kiss, he’s the one; seize him.” <verse eid="MAT 26:48" />
       <verse number="49" style="v" sid="MAT 26:49" />He went straight over to Jesus and said, “Delighted <char style="it">to see you</char>, Teacher<char
         style="sup">[D]</char>!”<char style="sup">[m]</char>, and kissed him cordially” <verse eid="MAT 26:49" />
-      <verse number="50" style="v" sid="MAT 26:50" />Jesus said to him, <char style="wj">“What brings you here, bro</char><char style="sup">[n]</char><char
-        style="wj">?”</char> They then went over and laid their hands on Jesus and apprehended him.<verse eid="MAT 26:50" />
+      <verse number="50" style="v" sid="MAT 26:50" />Jesus said to him, <char style="wj">“What brings you here, bro (</char><char style="it"><char style="wj">spoken
+        sarcastically</char></char><char style="wj">)</char><char style="sup">[n]</char><char style="wj">?”</char>
+        They then went over and laid their hands on Jesus and apprehended him.<verse eid="MAT 26:50" />
     </para>
     <para style="p">
       <verse number="51" style="v" sid="MAT 26:51" />And, like that, one of the people who were with Jesus drew his sword and struck the high priest’s slave,
@@ -5875,7 +5821,11 @@
     </note>
     <note caller="[n]" style="f">
       <char style="fk">[n]</char>
-      <char style="ft"><char style="it">bro…</char>Lit: <char style="it">comrade</char></char>
+      <char style="ft"><char style="it">bro (spoken sarcastically)…</char>Lit: <char style="it">comrade. </char>The definition
+        is more akin to <char style="it">colleague</char>. Rendered <char style="it">bro </char>to convey sarcasm,
+        not to be cheeky. Only found three times in the NT (all in Matt: here, Matt. 20:13; 22:12), and because
+        of this the meaning is influenced by  how it’s used in the other two places. Used confrontationally in
+        20:13; used sarcastically in 22:12. I chose a sarcastic usage.</char>
     </note>
     <note caller="[o]" style="f">
       <char style="fk">[o]</char>
@@ -5973,15 +5923,13 @@
       <verse number="7" style="v" sid="MAT 27:7" />They had a meeting over it, took the money, and bought the potter’s field<char style="sup">[B]</char>
         with it, to be used as a graveyard for foreigners. <verse eid="MAT 27:7" />
       <verse number="8" style="v" sid="MAT 27:8" />For this reason, that field’s called the Blood Field nowadays. <verse eid="MAT 27:8" />
-      <verse number="9" style="v" sid="MAT 27:9" />Only then was the Prophet Jeremiah’s prophecy fulfilled, which says,
-    </para>
+      <verse number="9" style="v" sid="MAT 27:9" />Only then was the Prophet Jeremiah’s prophecy fulfilled, which says,</para>
     <para style="pi" vid="MAT 27:9"></para>
     <para style="pi" vid="MAT 27:9">And they took the thirty-coin payment</para>
     <para style="pi" vid="MAT 27:9">The price that had been paid by the ultimate Israelites<char style="sup">[C]</char><verse eid="MAT 27:9"/>
     </para>
     <para style="pi">
-      <verse number="10" style="v" sid="MAT 27:10" />And they paid for the potter’s field
-    </para>
+      <verse number="10" style="v" sid="MAT 27:10" />And they paid for the potter’s field</para>
     <para style="pi" vid="MAT 27:10">According to the arrangements made by my Lord<verse eid="MAT 27:10"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -6005,19 +5953,16 @@
         of a dream I had about him.” <verse eid="MAT 27:19" />
       <verse number="20" style="v" sid="MAT 27:20" />But the chief priests and the councilmen persuaded the crowd to ask for Barabbas, so that Jesus would
         be disposed of. <verse eid="MAT 27:20" />
-      <verse number="21" style="v" sid="MAT 27:21" />Having considered the matter, the governor said to them,
-    </para>
+      <verse number="21" style="v" sid="MAT 27:21" />Having considered the matter, the governor said to them,</para>
     <para style="p" vid="MAT 27:21">“Which of these two do you want me to set free?”</para>
     <para style="p" vid="MAT 27:21">They said, “Barabbas!”<verse eid="MAT 27:21"/>
     </para>
     <para style="p">
-      <verse number="22" style="v" sid="MAT 27:22" />Not quitting, Pilate said, “What shall I do then with Jesus, who’s called the Messiah?” 
-    </para>
+      <verse number="22" style="v" sid="MAT 27:22" />Not quitting, Pilate said, “What shall I do then with Jesus, who’s called the Messiah?” </para>
     <para style="p" vid="MAT 27:22">But making no difference, they all said, “Let him be crucified!”<verse eid="MAT 27:22"/>
     </para>
     <para style="p">
-      <verse number="23" style="v" sid="MAT 27:23" />He said, “Just what has he done wrong?”
-    </para>
+      <verse number="23" style="v" sid="MAT 27:23" />He said, “Just what has he done wrong?”</para>
     <para style="p" vid="MAT 27:23">But they began to yell louder and louder, “Let him be crucified!”<verse eid="MAT 27:23"/>
     </para>
     <para style="m">

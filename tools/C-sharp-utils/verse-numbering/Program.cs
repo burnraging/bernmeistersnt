@@ -27,7 +27,7 @@ class ConsoleWrapper   // verse-numbering
         // **** deleteme end
 #if DEBUG
         args = new string[] { "-i", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\intermediate-files",  // input file's folder
-                              "-d", @"the-bernmeisters-new-testament-220-DESTRUCTIVE-verse-numbering.txt",            // docx text file name (NOTE: different than usx-gen version!)
+                              "-d", @"the-bernmeisters-new-testament-223-DESTRUCTIVE-verse-numbering-MARKED-UP.txt",            // docx text file name (NOTE: different than usx-gen version!)
                               "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\intermediate-files",  //
                               "-f", @"verses-by-lines.txt" };
 #endif

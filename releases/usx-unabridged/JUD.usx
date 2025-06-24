@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -42,8 +42,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="JUD 1" />
     <para style="p">
-      <verse number="1" style="v" sid="JUD 1:1" />Jude, the servant of Jesus Christ <char style="it">and the </char>brother of James:
-    </para>
+      <verse number="1" style="v" sid="JUD 1:1" />Jude, the servant of Jesus Christ <char style="it">and the </char>brother of James:</para>
     <para style="p" vid="JUD 1:1">To the beloved in the Father-God and in Jesus Christ, those who have been preserved as God’s elect:<verse eid="JUD 1:1"/>
     </para>
     <para style="p">
@@ -97,8 +96,7 @@
         wandering stars for whom the gloom of darkness has been forevermore reserved.<verse eid="JUD 1:13" />
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="JUD 1:14" />Now Enoch, the seventh <char style="it">generation</char> from Adam, prophesied about them, saying:
-    </para>
+      <verse number="14" style="v" sid="JUD 1:14" />Now Enoch, the seventh <char style="it">generation</char> from Adam, prophesied about them, saying:</para>
     <para style="p" vid="JUD 1:14">“Look at this now—the Lord came with his holy myriads <verse eid="JUD 1:14"/>
       <verse number="15" style="v" sid="JUD 1:15" />to enact judgment against everyone and convict every living being in regard to all their ungodly works
         which they did in an ungodly way and about all the harsh<char style="sup">[h]</char> things which ungodly

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -65,8 +65,7 @@
       <verse number="18" style="v" sid="1CO 1:18" />The message of the cross, you see, is stupidity to those who are lost and dying on the one hand, but
         to those who are being saved (i.e., being rescued from spiritual, moral, and physical calamity), it’s
         the power of God. <verse eid="1CO 1:18" />
-      <verse number="19" style="v" sid="1CO 1:19" />For it’s written in the Old Testament:
-    </para>
+      <verse number="19" style="v" sid="1CO 1:19" />For it’s written in the Old Testament:</para>
     <para style="pi" vid="1CO 1:19"></para>
     <para style="pi" vid="1CO 1:19">I’ll destroy the wisdom of the wise,</para>
     <para style="pi" vid="1CO 1:19">And I’ll annul the understanding of those who understand<verse eid="1CO 1:19"/>
@@ -102,7 +101,6 @@
       <verse number="31" style="v" sid="1CO 1:31" />so it’d turn out just like it’s written in the Old Testament, “Let the one who brags about his accomplishments
         brag in the Lord.”<verse eid="1CO 1:31" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -126,8 +124,7 @@
         a wisdom which God knew beforehand in eternity past and intended for our glory, <verse eid="1CO 2:7" />
       <verse number="8" style="v" sid="1CO 2:8" />a wisdom which none of the rulers of this age knew, understood, or recognized, for if they had, they
         wouldn’t have crucified the Lord of Glory. <verse eid="1CO 2:8" />
-      <verse number="9" style="v" sid="1CO 2:9" />No, the wisdom isn’t like that, it’s like it’s written instead:
-    </para>
+      <verse number="9" style="v" sid="1CO 2:9" />No, the wisdom isn’t like that, it’s like it’s written instead:</para>
     <para style="pi" vid="1CO 2:9"></para>
     <para style="pi" vid="1CO 2:9">That which eye hasn’t seen and ear hasn’t heard</para>
     <para style="pi" vid="1CO 2:9">And hasn’t arisen and come to rest upon any human heart—</para>
@@ -155,13 +152,11 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="16" style="v" sid="1CO 2:16" />Who has known, understood, or recognized the Lord’s mind?
-    </para>
+      <verse number="16" style="v" sid="1CO 2:16" />Who has known, understood, or recognized the Lord’s mind?</para>
     <para style="pi" vid="1CO 2:16">Who mentors Him?</para>
     <para style="pi" vid="1CO 2:16"></para>
     <para style="m" vid="1CO 2:16">We, however, have a mind which is of Christ.<verse eid="1CO 2:16"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -218,15 +213,13 @@
     <para style="p">
       <verse number="18" style="v" sid="1CO 3:18" />Let no one fool himself utterly in this regard: if any of you considers himself to be wise in this age,
         let him become stupid, so that he would become wise; <verse eid="1CO 3:18" />
-      <verse number="19" style="v" sid="1CO 3:19" />for the wisdom of this world is stupidity to God. In fact, it’s written in the Old Testament:
-    </para>
+      <verse number="19" style="v" sid="1CO 3:19" />for the wisdom of this world is stupidity to God. In fact, it’s written in the Old Testament:</para>
     <para style="pi" vid="1CO 3:19"></para>
     <para style="pi" vid="1CO 3:19">He’s catching the wise in their subtle trickery<verse eid="1CO 3:19"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="20" style="v" sid="1CO 3:20" />And another verse says,
-    </para>
+      <verse number="20" style="v" sid="1CO 3:20" />And another verse says,</para>
     <para style="pi" vid="1CO 3:20"></para>
     <para style="pi" vid="1CO 3:20">The Lord understands the arguments of the wise—</para>
     <para style="pi" vid="1CO 3:20">He knows that they’re futile<verse eid="1CO 3:20"/>
@@ -239,7 +232,6 @@
         or the future— <verse eid="1CO 3:22" />
       <verse number="23" style="v" sid="1CO 3:23" />are Christ’s devotees, and Christ is a devotee of God.<verse eid="1CO 3:23" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -302,7 +294,6 @@
       <verse number="21" style="v" sid="1CO 4:21" />Which would you rather have? That I’d take a staff with me to correct you with when I go visit you, or
         that I’d visit you in a love-spirit and with soft-spoken gentleness?<verse eid="1CO 4:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -344,7 +335,6 @@
         on the inside? <verse eid="1CO 5:12" />
       <verse number="13" style="v" sid="1CO 5:13" />God judges those on the outside. The Old Testament says, “Get rid of your evil person.”<verse eid="1CO 5:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -398,7 +388,6 @@
         dwell in, thereby living among us, the Spirit which you have from God, and that you don’t own yourselves?<verse eid="1CO 6:19" />
       <verse number="20" style="v" sid="1CO 6:20" />You’ve been bought at a high price; therefore, glorify God with your collective-body.<verse eid="1CO 6:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 6" />
   <!--   **********   -->
   <!--   Chapter  7   -->
@@ -516,7 +505,6 @@
       <verse number="40" style="v" sid="1CO 7:40" />But in my opinion she’d be happier if she were to stay the way she is (i.e., stay unmarried after becoming
         a widow), and I think I have the agreement of the Spirit of God too.<verse eid="1CO 7:40" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 7" />
   <!--   **********   -->
   <!--   Chapter  8   -->
@@ -561,7 +549,6 @@
       <verse number="13" style="v" sid="1CO 8:13" />That’s why if food causes my comrade to stumble, there’s no way whatsoever that I’ll ever eat sacrificial
         meat again, so that I won’t be a stumbling block to my brother.<verse eid="1CO 8:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 8" />
   <!--   **********   -->
   <!--   Chapter  9   -->
@@ -591,8 +578,7 @@
         of the harvest. <verse eid="1CO 9:10" />
       <verse number="11" style="v" sid="1CO 9:11" />If we sowed into you the Holy Spirit-related things which are the backbone of your spiritual lives, is
         it a big deal if we reap the physical things we need to live by from you? <verse eid="1CO 9:11" />
-      <verse number="12" style="v" sid="1CO 9:12" />If others have the right of taking a percentage from you, don’t we all the more so?
-    </para>
+      <verse number="12" style="v" sid="1CO 9:12" />If others have the right of taking a percentage from you, don’t we all the more so?</para>
     <para style="p" vid="1CO 9:12">No, we’re not asserting this right; instead we put up with all kinds of things so that nothing would
         hinder the Gospel, the good-news message of Christ. <verse eid="1CO 9:12"/>
       <verse number="13" style="v" sid="1CO 9:13" />Don’t you know that they who work the sacred duties in the temple feed on the sacrifices offered at the
@@ -635,7 +621,6 @@
         it roughly and wearing it down; I subdue it and make it my slave, lest I, having proclaimed the Gospel
         to others, should somehow or someway fail to live up to the standard it sets.<verse eid="1CO 9:27" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 9" />
   <!--   **********   -->
   <!--   Chapter 10   -->
@@ -655,8 +640,7 @@
       <verse number="5" style="v" sid="1CO 10:5" />But God was not pleased with many of them; their dead bodies were strewn about the wilderness as we see.<verse eid="1CO 10:5" />
       <verse number="6" style="v" sid="1CO 10:6" />Now the lives these people led is an example, a pattern, a parallel of our own lives, so that we not
         have strong yearnings bordering on sensual passions for evil, just as some of them had. <verse eid="1CO 10:6" />
-      <verse number="7" style="v" sid="1CO 10:7" />Neither become idolaters, just as some of them did, as it’s written in the Old Testament,
-    </para>
+      <verse number="7" style="v" sid="1CO 10:7" />Neither become idolaters, just as some of them did, as it’s written in the Old Testament,</para>
     <para style="pi" vid="1CO 10:7"></para>
     <para style="pi" vid="1CO 10:7">The folk-people sat down to eat and drink</para>
     <para style="pi" vid="1CO 10:7">And when they were done got up to play<verse eid="1CO 10:7"/>
@@ -726,7 +710,6 @@
       <verse number="33" style="v" sid="1CO 10:33" />just as I too try to fit in with everyone by not offending them or causing alarm among them, not pursuing
         my own interests but rather the interests of the majority, so that they might be saved.<verse eid="1CO 10:33" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 10" />
   <!--   **********   -->
   <!--   Chapter 11   -->
@@ -792,20 +775,24 @@
     <para style="p">
       <verse number="23" style="v" sid="1CO 11:23" />Delving into this topic more deeply, I received from the Lord and took to heart that which I also presented
         and entrusted to you, that the night the Lord Jesus was betrayed and arrested, he took a loaf, <verse eid="1CO 11:23" />
-      <verse number="24" style="v" sid="1CO 11:24" />prayed, broke it, and said,
-    </para>
+      <verse number="24" style="v" sid="1CO 11:24" />prayed, broke it, and said,</para>
     <para style="pi" vid="1CO 11:24"></para>
     <para style="pi" vid="1CO 11:24"><char style="wj">This is my body which is</char></para>
-    <para style="pi" vid="1CO 11:24"><char style="wj">Lifted up, broken, and distributed for your sakes.</char></para>
+    <para style="pi" vid="1CO 11:24"><char style="it"><char style="wj">Lifted up, broken, and distributed </char></char><char style="wj">for
+        your sakes.</char>
+    </para>
     <para style="pi" vid="1CO 11:24"><char style="wj">Do this for the purpose of refreshing your memories of me.</char><verse eid="1CO 11:24"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="25" style="v" sid="1CO 11:25" />In the same fashion he also took the cup while dining, saying,
-    </para>
+      <verse number="25" style="v" sid="1CO 11:25" />In the same fashion he also took the cup while dining, saying,</para>
     <para style="pi" vid="1CO 11:25"></para>
-    <para style="pi" vid="1CO 11:25"><char style="wj">This cup is the new covenant ratified by means of my blood.</char></para>
-    <para style="pi" vid="1CO 11:25"><char style="wj">As often as you choose to or happen to drink from the cup,</char></para>
+    <para style="pi" vid="1CO 11:25"><char style="wj">This cup is the new covenant </char><char style="it"><char style="wj">ratified </char></char><char
+        style="wj">by means of my blood.</char>
+    </para>
+    <para style="pi" vid="1CO 11:25"><char style="wj">As often as you choose to or happen to drink </char><char style="it"><char style="wj">from
+        the cup,</char></char>
+    </para>
     <para style="pi" vid="1CO 11:25"><char style="wj">Do this for the purpose of refreshing your memories of me.</char><verse eid="1CO 11:25"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -830,14 +817,13 @@
         gatherings in such a way that it results in him being judged and pronounced guilty.</para>
     <para style="p" vid="1CO 11:34">Now as far as the other issues I mean to address, I’ll settle these whenever I happen to come visit.<verse eid="1CO 11:34"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 11" />
   <!--   **********   -->
   <!--   Chapter 12   -->
   <!--   **********   -->
   <chapter number="12" style="c" sid="1CO 12" />
     <para style="p">
-      <verse number="1" style="v" sid="1CO 12:1" />Concerning spirituals (things which are of nature related to the Holy Spirit: i.e., spiritual gifts,
+      <verse number="1" style="v" sid="1CO 12:1" />Concerning The Spirituals (things which are of nature related to the Holy Spirit: i.e., spiritual gifts,
         ministries, and extraordinary manifestations of the Holy Spirit), comrades, I don’t want you to fail
         to understand this. <verse eid="1CO 12:1" />
       <verse number="2" style="v" sid="1CO 12:2" />You know for a fact that when you were pagans in close contact with the mute and dumb idols, as long
@@ -901,11 +887,9 @@
         they? Not everyone performs miracles, do they? <verse eid="1CO 12:29" />
       <verse number="30" style="v" sid="1CO 12:30" />Not everyone has one of the various gifts of healings, do they? Not everyone speaks in tongues, do they?
         Not everyone interprets messages in tongues, do they? <verse eid="1CO 12:30" />
-      <verse number="31" style="v" sid="1CO 12:31" />But maintain a burning desire for the greater gifts.
-    </para>
+      <verse number="31" style="v" sid="1CO 12:31" />But maintain a burning desire for the greater gifts.</para>
     <para style="p" vid="1CO 12:31">Yet I’ll show you a road to take which is superior to this…<verse eid="1CO 12:31"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 12" />
   <!--   **********   -->
   <!--   Chapter 13   -->
@@ -945,7 +929,6 @@
     <para style="p">
       <verse number="13" style="v" sid="1CO 13:13" />At the present time faith, hope, and love remain—these three—but the greatest of them is love.<verse eid="1CO 13:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 13" />
   <!--   **********   -->
   <!--   Chapter 14   -->
@@ -990,7 +973,7 @@
       <verse number="16" style="v" sid="1CO 14:16" />Otherwise, if you were to give a praise, blessing, or consecration with the spirit, a person who isn’t
         versed in the things of the Spirit and doesn’t speak in tongues—how will he say “amen” (i.e., speak a
         verbal affirmation) upon hearing Your Blessing, since he doesn’t know what you’re saying? <verse eid="1CO 14:16" />
-      <verse number="17" style="v" sid="1CO 14:17" />For you certainly give a blessing well, but the other person who’s not versed in the things of the Spirit
+      <verse number="17" style="v" sid="1CO 14:17" />For you certainly give thanks well, but the other person who’s not versed in the things of the Spirit
         doesn’t get anything out of it. <verse eid="1CO 14:17" />
       <verse number="18" style="v" sid="1CO 14:18" />I give God thanks that I speak in tongues more than you all, <verse eid="1CO 14:18" />
       <verse number="19" style="v" sid="1CO 14:19" />but putting that to the side, when I’m in a church I want to speak five words or so using my mind so
@@ -999,8 +982,7 @@
     <para style="p">
       <verse number="20" style="v" sid="1CO 14:20" />Comrades, don’t become children in your thought processes, but instead, act like toddlers with the evil
         you’re inundated with and become adults in your thought processes. <verse eid="1CO 14:20" />
-      <verse number="21" style="v" sid="1CO 14:21" />It’s written in the Old Testament:
-    </para>
+      <verse number="21" style="v" sid="1CO 14:21" />It’s written in the Old Testament:</para>
     <para style="pi" vid="1CO 14:21"></para>
     <para style="pi" vid="1CO 14:21">“In different tongues</para>
     <para style="pi" vid="1CO 14:21">And by the lips of different people</para>
@@ -1038,8 +1020,7 @@
       <verse number="31" style="v" sid="1CO 14:31" />The fact is all of you can prophecy one after another, so that everyone would learn and be exhorted,
         comforted, counseled, and advised; <verse eid="1CO 14:31" />
       <verse number="32" style="v" sid="1CO 14:32" />the spirits of prophets are subordinate to and take directions from prophets. <verse eid="1CO 14:32" />
-      <verse number="33" style="v" sid="1CO 14:33" />You see, God is not a product of confusion but of peace.
-    </para>
+      <verse number="33" style="v" sid="1CO 14:33" />You see, God is not a product of confusion but of peace.</para>
     <para style="p" vid="1CO 14:33">As in all the congregations of those who believe in Christ, <verse eid="1CO 14:33"/>
       <verse number="34" style="v" sid="1CO 14:34" />have the women in the churches keep silent. The fact of the matter is, I don’t allow them to speak aloud
         addressing the entire congregation, but have them submit instead, just as the Old Testament concurs.<verse eid="1CO 14:34" />
@@ -1056,7 +1037,6 @@
         speaking in tongues— <verse eid="1CO 14:39" />
       <verse number="40" style="v" sid="1CO 14:40" />But let everything be done properly and orderly.<verse eid="1CO 14:40" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 14" />
   <!--   **********   -->
   <!--   Chapter 15   -->
@@ -1144,8 +1124,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="33" style="v" sid="1CO 15:33" />Don’t be fooled into believing that; realize this instead:
-    </para>
+      <verse number="33" style="v" sid="1CO 15:33" />Don’t be fooled into believing that; realize this instead:</para>
     <para style="pi" vid="1CO 15:33"></para>
     <para style="pi" vid="1CO 15:33">The wrong crowd corrupts good conduct<verse eid="1CO 15:33"/>
     </para>
@@ -1180,8 +1159,7 @@
       <verse number="44" style="v" sid="1CO 15:44" />sown a soul-body (i.e., a body having all the quintessential human elements: one that has a thirst for
         the things of this life, that thinks and feels as humans do, has human frailties), raised a spiritual-body.
         If it is a soul-body, it is also a spiritual-body: <verse eid="1CO 15:44" />
-      <verse number="45" style="v" sid="1CO 15:45" />this is also the way it’s written in the Old Testament,
-    </para>
+      <verse number="45" style="v" sid="1CO 15:45" />this is also the way it’s written in the Old Testament,</para>
     <para style="pi" vid="1CO 15:45"></para>
     <para style="pi" vid="1CO 15:45">The first man Adam became a living-soul</para>
     <para style="pi" vid="1CO 15:45"></para>
@@ -1212,8 +1190,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="55" style="v" sid="1CO 15:55" />Death, where is your victory?
-    </para>
+      <verse number="55" style="v" sid="1CO 15:55" />Death, where is your victory?</para>
     <para style="pi" vid="1CO 15:55">Death, where is your sting?<verse eid="1CO 15:55"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -1227,7 +1204,6 @@
         and proliferating in the Lord’s work at all times, knowing for certain that your work in the Lord is
         not for nothing, is not going to waste.<verse eid="1CO 15:58" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1CO 15" />
   <!--   **********   -->
   <!--   Chapter 16   -->

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -35,8 +35,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="EPH 1" />
     <para style="p">
-      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—
-    </para>
+      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—</para>
     <para style="p" vid="EPH 1:1">To the saints (i.e., God’s people) who are in Ephesus and to those who are faithful<char style="sup">[A]</char>
         in Christ Jesus:<verse eid="EPH 1:1"/>
     </para>
@@ -470,8 +469,7 @@
       <verse number="7" style="v" sid="EPH 4:7" />Now the unearned gift which God gives out of His kindness<char style="sup">[B]</char> was given to each
         individual according to the specific amount <char style="it">and peculiar characteristics</char><char
         style="sup">[c]</char><char style="it"> </char>of the gift of Christ. <verse eid="EPH 4:7" />
-      <verse number="8" style="v" sid="EPH 4:8" />In light of this <char style="it">the Book of Psalms</char> says,
-    </para>
+      <verse number="8" style="v" sid="EPH 4:8" />In light of this <char style="it">the Book of Psalms</char> says,</para>
     <para style="pi" vid="EPH 4:8"></para>
     <para style="pi" vid="EPH 4:8">Once he ascended to a high <char style="it">place</char><char style="sup">[C]</char><char style="it">,</char></para>
     <para style="pi" vid="EPH 4:8">He bedazzled the captives<char style="sup">[d]</char>—</para>
@@ -816,8 +814,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="31" style="v" sid="EPH 5:31" />Because of this
-    </para>
+      <verse number="31" style="v" sid="EPH 5:31" />Because of this</para>
     <para style="pi" vid="EPH 5:31">A man shall leave <char style="it">his </char>father and mother</para>
     <para style="pi" vid="EPH 5:31">And adhere to his wife,</para>
     <para style="pi" vid="EPH 5:31">And the two will be <char style="it">molded </char>into a single flesh<verse eid="EPH 5:31"/>

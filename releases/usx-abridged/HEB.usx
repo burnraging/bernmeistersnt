@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -33,8 +33,7 @@
       <verse number="4" style="v" sid="HEB 1:4" />having become so much better than the angels because he has inherited a name (i.e., a title; a position
         of authority; a statement of who he is; a reputation) which makes him more excellent, more distinguished
         than they. <verse eid="HEB 1:4" />
-      <verse number="5" style="v" sid="HEB 1:5" />Furthermore, to which of the angels did He say:
-    </para>
+      <verse number="5" style="v" sid="HEB 1:5" />Furthermore, to which of the angels did He say:</para>
     <para style="pi" vid="HEB 1:5"></para>
     <para style="pi" vid="HEB 1:5">You are my son,</para>
     <para style="pi" vid="HEB 1:5">Today I have begotten you</para>
@@ -53,8 +52,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="7" style="v" sid="HEB 1:7" />Contrast that to this: He says this directing it to the angels,
-    </para>
+      <verse number="7" style="v" sid="HEB 1:7" />Contrast that to this: He says this directing it to the angels,</para>
     <para style="pi" vid="HEB 1:7"></para>
     <para style="pi" vid="HEB 1:7">The One Who makes His angels spirits,</para>
     <para style="pi" vid="HEB 1:7">And makes those who serve Him</para>
@@ -63,8 +61,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="8" style="v" sid="HEB 1:8" />And contrast that to this: in regard to the son He says,
-    </para>
+      <verse number="8" style="v" sid="HEB 1:8" />And contrast that to this: in regard to the son He says,</para>
     <para style="pi" vid="HEB 1:8"></para>
     <para style="pi" vid="HEB 1:8">Your throne, God, will persist out to forever and ever,</para>
     <para style="pi" vid="HEB 1:8">And the scepter of straightness</para>
@@ -79,8 +76,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="9" style="v" sid="HEB 1:9" />You loved righteousness and hated lawlessness
-    </para>
+      <verse number="9" style="v" sid="HEB 1:9" />You loved righteousness and hated lawlessness</para>
     <para style="pi" vid="HEB 1:9">(i.e., You hated those who refuse to be restrained</para>
     <para style="pi" vid="HEB 1:9">By the laws of God and of man).</para>
     <para style="pi" vid="HEB 1:9">Because of this God—your God—anointed you</para>
@@ -92,8 +88,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="10" style="v" sid="HEB 1:10" />And not only that passage, but this one too:
-    </para>
+      <verse number="10" style="v" sid="HEB 1:10" />And not only that passage, but this one too:</para>
     <para style="pi" vid="HEB 1:10"></para>
     <para style="pi" vid="HEB 1:10">In reference to the beginning,</para>
     <para style="pi" vid="HEB 1:10">You, Lord, laid the foundation of the Earth,</para>
@@ -101,15 +96,13 @@
     <para style="pi" vid="HEB 1:10">Are Your handiwork.<verse eid="HEB 1:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="HEB 1:11" />These very things will be destroyed;
-    </para>
+      <verse number="11" style="v" sid="HEB 1:11" />These very things will be destroyed;</para>
     <para style="pi" vid="HEB 1:11">You, though, will still be there.</para>
     <para style="pi" vid="HEB 1:11">Everything will grow old and eventually wear out</para>
     <para style="pi" vid="HEB 1:11">Like shirts, pants, and capes do.<verse eid="HEB 1:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="HEB 1:12" />Like You would do to a cape
-    </para>
+      <verse number="12" style="v" sid="HEB 1:12" />Like You would do to a cape</para>
     <para style="pi" vid="HEB 1:12">When it’s too old to be worn anymore,</para>
     <para style="pi" vid="HEB 1:12">You will roll them up or fold them,</para>
     <para style="pi" vid="HEB 1:12">Put them away,</para>
@@ -120,8 +113,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="13" style="v" sid="HEB 1:13" />To which of the angels did He direct this verse which He has spoken in the past:
-    </para>
+      <verse number="13" style="v" sid="HEB 1:13" />To which of the angels did He direct this verse which He has spoken in the past:</para>
     <para style="pi" vid="HEB 1:13"></para>
     <para style="pi" vid="HEB 1:13">Assume the position as My chief executive</para>
     <para style="pi" vid="HEB 1:13">Until such a time that your enemies</para>
@@ -133,7 +125,6 @@
         being dispatched for the purpose of being an assistant to those who are about to be receiving the relief
         which is rightfully theirs?<verse eid="HEB 1:14" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -157,8 +148,7 @@
     <para style="p">
       <verse number="5" style="v" sid="HEB 2:5" />But returning to this topic about angels we’ve been talking about here: the fact of the matter is that
         He didn’t subordinate to angels the civilized world which was to come, <verse eid="HEB 2:5" />
-      <verse number="6" style="v" sid="HEB 2:6" />but somebody somewhere solemnly delivered a truthful statement to the contrary saying,
-    </para>
+      <verse number="6" style="v" sid="HEB 2:6" />but somebody somewhere solemnly delivered a truthful statement to the contrary saying,</para>
     <para style="pi" vid="HEB 2:6"></para>
     <para style="pi" vid="HEB 2:6">What is man, that You would remember him,</para>
     <para style="pi" vid="HEB 2:6">(i.e., give a hoot about him)</para>
@@ -168,14 +158,12 @@
     <para style="pi" vid="HEB 2:6">(i.e., check on him with a purpose in mind)<verse eid="HEB 2:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="HEB 2:7" />You demoted him to a position
-    </para>
+      <verse number="7" style="v" sid="HEB 2:7" />You demoted him to a position</para>
     <para style="pi" vid="HEB 2:7">Which is somewhat lower than the angels;</para>
     <para style="pi" vid="HEB 2:7">You crowned him in glory and honor;<verse eid="HEB 2:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="HEB 2:8" />You subordinated all things to him,
-    </para>
+      <verse number="8" style="v" sid="HEB 2:8" />You subordinated all things to him,</para>
     <para style="pi" vid="HEB 2:8">Putting them under his feet</para>
     <para style="pi" vid="HEB 2:8">(i.e., completely squashed and enslaved</para>
     <para style="pi" vid="HEB 2:8">everything to him).</para>
@@ -192,8 +180,7 @@
         many sons to glory, to complete what was demanded of the originator of their salvation by various sufferings.<verse eid="HEB 2:10" />
       <verse number="11" style="v" sid="HEB 2:11" />And, you see, the one who’s making others holy and those who are being made holy both come out of one
         God; for this reason he’s not ashamed to call those being made holy “brothers” (i.e., comrades), <verse eid="HEB 2:11" />
-      <verse number="12" style="v" sid="HEB 2:12" />saying,
-    </para>
+      <verse number="12" style="v" sid="HEB 2:12" />saying,</para>
     <para style="pi" vid="HEB 2:12"></para>
     <para style="pi" vid="HEB 2:12">I’ll spread the word about Your excellent title</para>
     <para style="pi" vid="HEB 2:12">To my brothers.</para>
@@ -202,8 +189,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="13" style="v" sid="HEB 2:13" />Plus another verse,
-    </para>
+      <verse number="13" style="v" sid="HEB 2:13" />Plus another verse,</para>
     <para style="pi" vid="HEB 2:13"></para>
     <para style="pi" vid="HEB 2:13">I will reach the point</para>
     <para style="pi" vid="HEB 2:13">Where I have complete confidence in him</para>
@@ -231,7 +217,6 @@
         he had to pass, he is able to come to the rescue of those who, on an ongoing basis, are subjected to
         trials, tests, and temptations.<verse eid="HEB 2:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -256,26 +241,22 @@
         confidence and to its boasting (i.e., what we beam with pride over when we talk).<verse eid="HEB 3:6" />
     </para>
     <para style="p">
-      <verse number="7" style="v" sid="HEB 3:7" />In light of this, it’s just like the Holy Spirit says in the Old Testament,
-    </para>
+      <verse number="7" style="v" sid="HEB 3:7" />In light of this, it’s just like the Holy Spirit says in the Old Testament,</para>
     <para style="pi" vid="HEB 3:7"></para>
     <para style="pi" vid="HEB 3:7">If you happen to hear His voice today,<verse eid="HEB 3:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="HEB 3:8" />Don’t harden your hearts like they did in the
-    </para>
+      <verse number="8" style="v" sid="HEB 3:8" />Don’t harden your hearts like they did in the</para>
     <para style="pi" vid="HEB 3:8">Went-Over-the-Edge-and-Rebelled episode,</para>
     <para style="pi" vid="HEB 3:8">Like when they were hardened according to the time</para>
     <para style="pi" vid="HEB 3:8">When they put Me through a test</para>
     <para style="pi" vid="HEB 3:8">In the wilderness of Sinai,<verse eid="HEB 3:8"/>
     </para>
     <para style="pi">
-      <verse number="9" style="v" sid="HEB 3:9" />A test in which your predecessors
-    </para>
+      <verse number="9" style="v" sid="HEB 3:9" />A test in which your predecessors</para>
     <para style="pi" vid="HEB 3:9">Put Me through to see if I would pass.</para>
     <para style="pi" vid="HEB 3:9">And they saw the things I did <verse eid="HEB 3:9"/>
-      <verse number="10" style="v" sid="HEB 3:10" />Over a forty year period.
-    </para>
+      <verse number="10" style="v" sid="HEB 3:10" />Over a forty year period.</para>
     <para style="pi" vid="HEB 3:10">In light of this, I was provoked to anger</para>
     <para style="pi" vid="HEB 3:10">By that generation and said,</para>
     <para style="pi" vid="HEB 3:10">“They always wander off the true path</para>
@@ -283,8 +264,7 @@
     <para style="pi" vid="HEB 3:10">They did not know, recognize or understand My ways.”<verse eid="HEB 3:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="HEB 3:11" />As I swore I would do in My outburst of wrath:
-    </para>
+      <verse number="11" style="v" sid="HEB 3:11" />As I swore I would do in My outburst of wrath:</para>
     <para style="pi" vid="HEB 3:11">“There’s not a chance that they’ll enter My rest”.<verse eid="HEB 3:11"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -296,8 +276,7 @@
         tendency of sin to cause a person to become delusional. <verse eid="HEB 3:13" />
       <verse number="14" style="v" sid="HEB 3:14" />The fact of the matter is that we have become partakers of Christ if we happen to firmly adhere from
         beginning to end to that which is of the undergirding reality <verse eid="HEB 3:14" />
-      <verse number="15" style="v" sid="HEB 3:15" />by what we’re being told:
-    </para>
+      <verse number="15" style="v" sid="HEB 3:15" />by what we’re being told:</para>
     <para style="pi" vid="HEB 3:15"></para>
     <para style="pi" vid="HEB 3:15">If you happen to hear His voice today,</para>
     <para style="pi" vid="HEB 3:15">Don’t harden your hearts like they did in the</para>
@@ -313,7 +292,6 @@
       <verse number="19" style="v" sid="HEB 3:19" />We see that they were not able to enter because of unbelief (i.e., their stubborn refusal to believe
         what God said).<verse eid="HEB 3:19" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -339,8 +317,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="5" style="v" sid="HEB 4:5" />Plus what’s in this verse:
-    </para>
+      <verse number="5" style="v" sid="HEB 4:5" />Plus what’s in this verse:</para>
     <para style="pi" vid="HEB 4:5"></para>
     <para style="pi" vid="HEB 4:5">There’s not a chance that they’ll enter My rest<verse eid="HEB 4:5"/>
     </para>
@@ -383,7 +360,6 @@
       <verse number="16" style="v" sid="HEB 4:16" />So let us approach the throne of grace with boldness to receive mercy and find grace, the end result
         being help at the right time.<verse eid="HEB 4:16" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -410,8 +386,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="6" style="v" sid="HEB 5:6" />This is also consistent with what a different verse says:
-    </para>
+      <verse number="6" style="v" sid="HEB 5:6" />This is also consistent with what a different verse says:</para>
     <para style="pi" vid="HEB 5:6"></para>
     <para style="pi" vid="HEB 5:6">You are a priest and will be one forevermore</para>
     <para style="pi" vid="HEB 5:6">According to the order of Melchizedek<verse eid="HEB 5:6"/>
@@ -438,7 +413,6 @@
       <verse number="14" style="v" sid="HEB 5:14" />But solid food is for grown-ups, who in the course of their maturity have developed and trained their
         faculties of perception to distinguish both good and bad.<verse eid="HEB 5:14" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -478,8 +452,7 @@
     </para>
     <para style="p">
       <verse number="13" style="v" sid="HEB 6:13" />You see, God made a promise to Abraham, and since He didn’t have anyone better to swear by swore by Himself<verse eid="HEB 6:13" />
-      <verse number="14" style="v" sid="HEB 6:14" />saying,
-    </para>
+      <verse number="14" style="v" sid="HEB 6:14" />saying,</para>
     <para style="pi" vid="HEB 6:14"></para>
     <para style="pi" vid="HEB 6:14">I’m absolutely going to bless your socks off</para>
     <para style="pi" vid="HEB 6:14">And grow your numbers in spades<verse eid="HEB 6:14"/>
@@ -501,7 +474,6 @@
       <verse number="20" style="v" sid="HEB 6:20" />where a trailblazer entered on our behalf—Jesus—now that he forever became a high priest in the priestly
         order of Melchizedek.<verse eid="HEB 6:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 6" />
   <!--   **********   -->
   <!--   Chapter  7   -->
@@ -545,8 +517,7 @@
       <verse number="16" style="v" sid="HEB 7:16" />a priest who has not come into being according to a law of commandment of flesh (i.e., according to rules
         which require you to be of a certain lineage) but rather according to the power of an indestructible
         life. <verse eid="HEB 7:16" />
-      <verse number="17" style="v" sid="HEB 7:17" />In this regard, this statement of truth is declared in the Old Testament:
-    </para>
+      <verse number="17" style="v" sid="HEB 7:17" />In this regard, this statement of truth is declared in the Old Testament:</para>
     <para style="pi" vid="HEB 7:17"></para>
     <para style="pi" vid="HEB 7:17">You are a priest and will be one forevermore</para>
     <para style="pi" vid="HEB 7:17">According to the order of Melchizedek<verse eid="HEB 7:17"/>
@@ -585,7 +556,6 @@
         forevermore established as high priest a son who has been made to be the end-all and who has been made
         complete ad-infinitum.<verse eid="HEB 7:28" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 7" />
   <!--   **********   -->
   <!--   Chapter  8   -->
@@ -617,8 +587,7 @@
     <para style="p">
       <verse number="7" style="v" sid="HEB 8:7" />You see, if the first covenant had no defects or problems, there would be no basis for going about seeking
         a second covenant. <verse eid="HEB 8:7" />
-      <verse number="8" style="v" sid="HEB 8:8" />In this regard, in pointing out problems He tells them,
-    </para>
+      <verse number="8" style="v" sid="HEB 8:8" />In this regard, in pointing out problems He tells them,</para>
     <para style="pi" vid="HEB 8:8"></para>
     <para style="pi" vid="HEB 8:8">Here now—“A time is coming,” says the Lord,</para>
     <para style="pi" vid="HEB 8:8">“A time in which I will cause a new covenant</para>
@@ -626,8 +595,7 @@
     <para style="pi" vid="HEB 8:8">Where the nations of Israel and Judah are concerned—<verse eid="HEB 8:8"/>
     </para>
     <para style="pi">
-      <verse number="9" style="v" sid="HEB 8:9" />A covenant that isn’t modeled after 
-    </para>
+      <verse number="9" style="v" sid="HEB 8:9" />A covenant that isn’t modeled after </para>
     <para style="pi" vid="HEB 8:9">The covenant I made with your ancestors</para>
     <para style="pi" vid="HEB 8:9">During the time I put My hand on them</para>
     <para style="pi" vid="HEB 8:9">(i.e., supernaturally intervened in their lives)</para>
@@ -637,8 +605,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="10" style="v" sid="HEB 8:10" />”Because the very covenant I will enter into
-    </para>
+      <verse number="10" style="v" sid="HEB 8:10" />”Because the very covenant I will enter into</para>
     <para style="pi" vid="HEB 8:10">With the nation of Israel after that period of time,”</para>
     <para style="pi" vid="HEB 8:10">Says the Lord,</para>
     <para style="pi" vid="HEB 8:10">“Is a covenant where I will go about delivering</para>
@@ -648,8 +615,7 @@
     <para style="pi" vid="HEB 8:10">And they will assume the role of being my people.<verse eid="HEB 8:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="HEB 8:11" />There is no conceivable scenario where each person
-    </para>
+      <verse number="11" style="v" sid="HEB 8:11" />There is no conceivable scenario where each person</para>
     <para style="pi" vid="HEB 8:11">Will have to teach his fellow citizen or his comrade</para>
     <para style="pi" vid="HEB 8:11">Telling them how to know the Lord,</para>
     <para style="pi" vid="HEB 8:11">Since everyone will know Me directly</para>
@@ -657,8 +623,7 @@
     <para style="pi" vid="HEB 8:11">To those who of them who are great,<verse eid="HEB 8:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="HEB 8:12" />Because I will treat their wrong-doings with mercy,
-    </para>
+      <verse number="12" style="v" sid="HEB 8:12" />Because I will treat their wrong-doings with mercy,</para>
     <para style="pi" vid="HEB 8:12">And I will absolutely not remember their sins anymore.”<verse eid="HEB 8:12"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -666,7 +631,6 @@
       <verse number="13" style="v" sid="HEB 8:13" />By saying the word “new” in conjunction with this other covenant, He obsoleted the first covenant. But
         whatever thing is growing old and becoming obsolete has nearly faded into obscurity.<verse eid="HEB 8:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 8" />
   <!--   **********   -->
   <!--   Chapter  9   -->
@@ -752,7 +716,6 @@
         look to him for salvation (i.e., look to him to protect them from potential harm, whatever that might
         be).<verse eid="HEB 9:28" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 9" />
   <!--   **********   -->
   <!--   Chapter 10   -->
@@ -766,21 +729,18 @@
         would have no more sins on their consciences once they had been cleansed? <verse eid="HEB 10:2" />
       <verse number="3" style="v" sid="HEB 10:3" />No—in doing those things year after year, there’s a reminder of sins that need to be cleansed. <verse eid="HEB 10:3" />
       <verse number="4" style="v" sid="HEB 10:4" />The fact of the matter is that it’s impossible for the blood of bulls and goats to take away sins. <verse eid="HEB 10:4" />
-      <verse number="5" style="v" sid="HEB 10:5" />In this light, while entering the world Jesus said,
-    </para>
+      <verse number="5" style="v" sid="HEB 10:5" />In this light, while entering the world Jesus said,</para>
     <para style="pi" vid="HEB 10:5"></para>
     <para style="pi" vid="HEB 10:5">“Sacrifice and offering was not what You wanted;</para>
     <para style="pi" vid="HEB 10:5">Instead, You prepared a body for me.<verse eid="HEB 10:5"/>
     </para>
     <para style="pi">
-      <verse number="6" style="v" sid="HEB 10:6" />You were not pleased
-    </para>
+      <verse number="6" style="v" sid="HEB 10:6" />You were not pleased</para>
     <para style="pi" vid="HEB 10:6">With the usual burnt offerings</para>
     <para style="pi" vid="HEB 10:6">And the like surrounding sin.”<verse eid="HEB 10:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="HEB 10:7" />Then I said, “Hey, I have come—
-    </para>
+      <verse number="7" style="v" sid="HEB 10:7" />Then I said, “Hey, I have come—</para>
     <para style="pi" vid="HEB 10:7">If you rummage through the right scroll</para>
     <para style="pi" vid="HEB 10:7">You’ll find this written about me—</para>
     <para style="pi" vid="HEB 10:7">‘I have come to do Your will, O God.’”<verse eid="HEB 10:7"/>
@@ -811,16 +771,14 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="16" style="v" sid="HEB 10:16" />”This is the very covenant
-    </para>
+      <verse number="16" style="v" sid="HEB 10:16" />”This is the very covenant</para>
     <para style="pi" vid="HEB 10:16">Which I will make with them after that period of time,”</para>
     <para style="pi" vid="HEB 10:16">Says the Lord,</para>
     <para style="pi" vid="HEB 10:16">“Granting My laws to be upon their heart and upon their mind,</para>
     <para style="pi" vid="HEB 10:16">As I grant, so will I write them.<verse eid="HEB 10:16"/>
     </para>
     <para style="pi">
-      <verse number="17" style="v" sid="HEB 10:17" />And as far as their sins and of their lawlessness
-    </para>
+      <verse number="17" style="v" sid="HEB 10:17" />And as far as their sins and of their lawlessness</para>
     <para style="pi" vid="HEB 10:17">(i.e., things that have their origin in the refusal to</para>
     <para style="pi" vid="HEB 10:17">Be restrained by the rules of God and of man)</para>
     <para style="pi" vid="HEB 10:17">And things that have their origin in the same:</para>
@@ -876,14 +834,12 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="37" style="v" sid="HEB 10:37" />The fact of the matter is that
-    </para>
+      <verse number="37" style="v" sid="HEB 10:37" />The fact of the matter is that</para>
     <para style="pi" vid="HEB 10:37">In just a little, little while now</para>
     <para style="pi" vid="HEB 10:37">He who’s coming will come and won’t delay any further.<verse eid="HEB 10:37"/>
     </para>
     <para style="pi">
-      <verse number="38" style="v" sid="HEB 10:38" />But the person I deem righteous
-    </para>
+      <verse number="38" style="v" sid="HEB 10:38" />But the person I deem righteous</para>
     <para style="pi" vid="HEB 10:38">Will live out of faith,</para>
     <para style="pi" vid="HEB 10:38">But if he shirks his faith,</para>
     <para style="pi" vid="HEB 10:38">My soul will take no pleasure in him.<verse eid="HEB 10:38"/>
@@ -894,7 +850,6 @@
         have the characteristics of a person of faith whose actions result in the acquisition and securing of
         the soul (i.e., the part of you that makes you unique).<verse eid="HEB 10:39" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 10" />
   <!--   **********   -->
   <!--   Chapter 11   -->
@@ -1020,7 +975,6 @@
         sake but did not obtain the promise, <verse eid="HEB 11:39" />
       <verse number="40" style="v" sid="HEB 11:40" />God having provided something better for us, so that their ranks would not be complete without us added.<verse eid="HEB 11:40" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 11" />
   <!--   **********   -->
   <!--   Chapter 12   -->
@@ -1037,16 +991,14 @@
       <verse number="3" style="v" sid="HEB 12:3" />Furthermore, consider for a moment that he has endured such extreme opposition from sinners, so that
         you not grow weary in the depths of your souls and capitulate— <verse eid="HEB 12:3" />
       <verse number="4" style="v" sid="HEB 12:4" />You have yet to resist to the point of bloodshed, <verse eid="HEB 12:4" />
-      <verse number="5" style="v" sid="HEB 12:5" />and you’ve completely forgotten the encouragement which addresses you as sons:
-    </para>
+      <verse number="5" style="v" sid="HEB 12:5" />and you’ve completely forgotten the encouragement which addresses you as sons:</para>
     <para style="pi" vid="HEB 12:5"></para>
     <para style="pi" vid="HEB 12:5">My son, do not take lightly the discipline of the Lord</para>
     <para style="pi" vid="HEB 12:5">As he molds you into the person you need to be</para>
     <para style="pi" vid="HEB 12:5">Nor capitulate when corrected by Him.<verse eid="HEB 12:5"/>
     </para>
     <para style="pi">
-      <verse number="6" style="v" sid="HEB 12:6" />You see, whom the Lord loves He disciplines,
-    </para>
+      <verse number="6" style="v" sid="HEB 12:6" />You see, whom the Lord loves He disciplines,</para>
     <para style="pi" vid="HEB 12:6">And He thrashes every son</para>
     <para style="pi" vid="HEB 12:6">Whom He has whole-heartedly welcomed as His own.<verse eid="HEB 12:6"/>
     </para>
@@ -1118,7 +1070,6 @@
         of thankfulness, one in which we serve God in a way that pleases Him, keeping it with reverence and awe:<verse eid="HEB 12:28" />
       <verse number="29" style="v" sid="HEB 12:29" />For our God is a consuming fire.<verse eid="HEB 12:29" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="HEB 12" />
   <!--   **********   -->
   <!--   Chapter 13   -->
@@ -1140,8 +1091,7 @@
     <para style="p">
       <verse number="5" style="v" sid="HEB 13:5" />Be sure that the kind of life you live is absent the love of money; He himself said, “There’s no way
         I’ll ever leave you or forsake you.” <verse eid="HEB 13:5" />
-      <verse number="6" style="v" sid="HEB 13:6" />This gives us confidence so much so that we perk up and have the gumption to say,
-    </para>
+      <verse number="6" style="v" sid="HEB 13:6" />This gives us confidence so much so that we perk up and have the gumption to say,</para>
     <para style="pi" vid="HEB 13:6"></para>
     <para style="pi" vid="HEB 13:6">The Lord is my helper; I will not fear.</para>
     <para style="pi" vid="HEB 13:6">What can a person do to me?<verse eid="HEB 13:6"/>

@@ -110,8 +110,31 @@ namespace common_dll
 #pragma warning restore
 
 
+        // *** Zefania-woj-comment begin
+        //However, the Zefania XML file needs to be corrected, as some <STYLE> elements contain invalid sub elements.
+        //
+        //Specifically, the following error occurs:
+        //
+        //"The 'STYLE' element has an invalid sub-element 'BR'. The expected list of possible elements is: 'STYLE, GRAM, SUP'."
+        //
+        //Please check your file using the Zefania XML Module Validator:
+        //https://sourceforge.net/projects/zefania-sharp/files/Tools/Zefania%20XML%20Modulvalidator/
+        //
+        //Below is an example of the correct nesting according to the schema:
+        //
+        //<VERS vnumber="11">
+        //    <BR art="x-nl" />
+        //    <BR art="x-nl" />
+        //    <BR art="x-nl" />
+        //    <STYLE css="color:#FF0000">
+        //        Blessed are you when you are insulted, and you are persecuted, and when they say all sorts of bad things about you on account of believing in me.
+        //    </STYLE>
+        //</VERS>
         // Converting to Zefania 2005, not Zefania 2014
         // AFAIKT Z2014 doesn't support red text (css=color:#FF0000)
+        // *** Zefania-woj-comment end
+
+
         public static void ZConvert(string outputFileName)
         {
             BibleBooks.Init();
@@ -294,9 +317,23 @@ namespace common_dll
             // 'verseText' is text to be printed
             // 'markupBitField' is markup on a per-char basis
             // 'breakCount' is number of para breaks to apply *before* this char
+            // 'straddlingParagraphMarker applies *before* this char
             char[][] verseText = new char[MAX_NUM_VERSES][];    // [][2000]
             int[][] markupBitField = new int[MAX_NUM_VERSES][];
             int[][] breakCount = new int[MAX_NUM_VERSES][];
+            bool[][] straddlingParagraphMarker = new bool[MAX_NUM_VERSES][];
+            // 'straddlingParagraphMarker' addresses this bug:
+            //    Missing a space when verses which continue onto different paragraphs are spliced together
+            //
+            // Ex Matt 3:3
+            //  Is:
+            //      <VERS vnumber="3"><BR art="x-nl" count="2"/><BR art="x-nl"/><BR art="x-nl"/>You see, what’s taking
+            //        place here is the prophecy from Isaiah which says, The sound of shouting in the countryside:“Block
+            //        off the road the Lord will take!Barricade the streets he’ll be on!”</VERS>
+            //  Should insert a space after "countryside:", between "take!" and "Barricade", etc.
+            //      <VERS vnumber="3"><BR art="x-nl" count="2"/><BR art="x-nl"/><BR art="x-nl"/>You see, what’s taking
+            //        place here is the prophecy from Isaiah which says, The sound of shouting in the countryside: “Block
+            //        off the road the Lord will take! Barricade the streets he’ll be on!”</VERS>
 
             // current verse number (and hence A-index in 'verseText', etc) being processed
             int vNumber = -1;   // [A][]
@@ -336,6 +373,8 @@ namespace common_dll
                     if (doingAVerse)
                     {
                         breakCount[vNumber][charOffset]++;
+
+                        straddlingParagraphMarker[vNumber][charOffset] = true;
                     }
                     else
                     {
@@ -362,6 +401,7 @@ namespace common_dll
                         formattingStack[stackDepth] = BOLD;
                         formattingStack[stackDepth] = ITALICS;
                         stackDepth++;
+                        currentCharStyleMask |= BOLD | ITALICS;
                     }
                     else if (charStyle == "it")
                     {
@@ -408,6 +448,7 @@ namespace common_dll
                         verseText[vNumber] = new char[MAX_NUM_CHARS_IN_A_VERSE];
                         markupBitField[vNumber] = new int[MAX_NUM_CHARS_IN_A_VERSE];
                         breakCount[vNumber] = new int[MAX_NUM_CHARS_IN_A_VERSE];
+                        straddlingParagraphMarker[vNumber] = new bool[MAX_NUM_CHARS_IN_A_VERSE];
 
                         // catch up on any para or break elements which occured between verses
                         if (interVerseParagraphBreakCount > 0 && !(doingFirstVerse && charOffset == 0))
@@ -430,6 +471,7 @@ namespace common_dll
                         Array.Resize(ref verseText[vNumber], charOffset);
                         Array.Resize(ref markupBitField[vNumber], charOffset);
                         Array.Resize(ref breakCount[vNumber], charOffset);
+                        Array.Resize(ref straddlingParagraphMarker[vNumber], charOffset);
 
                         doingAVerse = false;
                         doingFirstVerse = false;
@@ -520,6 +562,50 @@ namespace common_dll
             Array.Resize(ref verseText, vNumber + 1);
             Array.Resize(ref markupBitField, vNumber + 1);
             Array.Resize(ref breakCount, vNumber + 1);
+            Array.Resize(ref straddlingParagraphMarker, vNumber + 1);
+
+            // Adjust 'verseText' to insert spaces according to 'straddlingParagraphMarker'
+            // Must insert/shift 'markupBitField' and 'breakCount' to keep them aligned
+            //   with 'verseText'
+            for (int verseNumber = 1; verseNumber < verseText.Length && straddlingParagraphMarker[verseNumber] != null; verseNumber++)
+            {
+                int numberOfStraddles = 0;
+                for (int i = 0; i < straddlingParagraphMarker[verseNumber].Length; i++)
+                {
+                    if (straddlingParagraphMarker[verseNumber][i])
+                        numberOfStraddles++;
+                }
+
+                int rawLength = verseText[verseNumber].Length;
+                int reformedLength = rawLength + numberOfStraddles;
+                char[] reformedText = new char[reformedLength];
+                int[] reformedMarkupBitField = new int[reformedLength];
+                int[] reformedBreakCount = new int[reformedLength];
+
+                int x = reformedLength - 1;
+                for (int offset = rawLength - 1; offset >= 0; offset--)
+                {
+                    reformedText[x] = verseText[verseNumber][offset];
+                    reformedMarkupBitField[x] = markupBitField[verseNumber][offset];
+                    reformedBreakCount[x] = breakCount[verseNumber][offset];
+                    x--;
+
+                    if (straddlingParagraphMarker[verseNumber][offset])
+                    {
+                        reformedText[x] = ' ';
+                        int markup = 0;
+                        if (offset > 0)
+                            markup = markupBitField[verseNumber][offset - 1];  // copy previous markup to new space for continuity
+                        reformedMarkupBitField[x] = 0;
+                        reformedBreakCount[x] = 0;
+                        x--;
+                    }
+                }
+
+                verseText[verseNumber] = reformedText;
+                markupBitField[verseNumber] = reformedMarkupBitField;
+                breakCount[verseNumber] = reformedBreakCount;
+            }
 
             Line[N++] = String.Format("{0}<CHAPTER cnumber=\"{1}\">", Indent[Lvl], chapterNumber);
             Lvl++;
@@ -537,7 +623,7 @@ namespace common_dll
 
                     // All Zefania examples have no leading or trailing spaces
                     //   inside verse elements. Must assume app viewers expect this.
-                    //   Leading spaces don't normall exist
+                    //   Leading spaces don't normally exist
                     int trailingSpaceCount = 0;
                     for (int offset = rawLength - 1; offset >= 0; offset--)
                     {
@@ -563,7 +649,41 @@ namespace common_dll
 
                         if (!isExtraPassBeyondText)
                         {
+                            //int previousBreakCount = 0;
                             int thisBreakCount = breakCount[verseNumber][offset];
+
+                            // See *** Zefania-woj-comment
+                            bool previousWasWoj = false;
+                            bool previousWasBreak = thisBreakCount > 0;
+                            if (offset > 0)
+                            {
+                                previousWasWoj = (markupBitField[verseNumber][offset - 1] & WORDS_OF_JESUS) != 0;
+                            }
+                            bool nextWillBeBreak = false;
+                            bool nextIsWoj = false;
+                            if (offset < truncatedRawLength - 1)
+                            {
+                                nextWillBeBreak = breakCount[verseNumber][offset + 1] > 0;
+                                nextIsWoj = (markupBitField[verseNumber][offset + 1] & WORDS_OF_JESUS) != 0;
+                            }
+                            bool currentIsWoj = (markupBitField[verseNumber][offset] & WORDS_OF_JESUS) != 0;
+
+                            bool terminateWojBeforeLineBreak = nextWillBeBreak && currentIsWoj && nextIsWoj;
+                            bool resumeWojAfterLineBreak = previousWasBreak && previousWasWoj && currentIsWoj;
+
+                            if (terminateWojBeforeLineBreak)
+                            {
+                                string debugComment = "";
+
+#pragma warning disable CS8629
+                                if (ZDEBUG_ADD_STYLE_ENDING_COMMENTS.Value == true)
+#pragma warning restore
+                                {
+                                    debugComment += String.Format("<!-- end css-red FOR BREAK -->");
+                                }
+
+                                verseTextSingleLine += String.Format("{0}</STYLE>", debugComment);
+                            }
 
                             // Types of breaks are "x-p" (new paragraph) and "x-nl" (new line).
                             // I don't know what the difference is; might be based on HTML though
@@ -586,6 +706,20 @@ namespace common_dll
                             {
                                 verseTextSingleLine += String.Format("<BR art=\"x-nl\" count=\"{0}\"/>", thisBreakCount);
                             }
+
+                            if (resumeWojAfterLineBreak)
+                            {
+                                string debugComment = "";
+
+                                if (ZDEBUG_ADD_STYLE_ENDING_COMMENTS.Value == true)
+#pragma warning restore
+                                {
+                                    debugComment += String.Format("<!-- start css-red FOR BREAK -->");
+                                }
+
+                                verseTextSingleLine += String.Format("<STYLE css=\"color:#FF0000\">{0}", debugComment);
+                            }
+
                         }
 
                         int thisCharStyleMask = 0;    // if 'isExtraPassBeyondText'=='true', then all masks get turned off

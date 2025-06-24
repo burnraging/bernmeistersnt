@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="2CO 1" />
     <para style="p">
-      <verse number="1" style="v" sid="2CO 1:1" />Paul, an apostle of Christ Jesus by God’s will, and his fellow comrade Timothy—
-    </para>
+      <verse number="1" style="v" sid="2CO 1:1" />Paul, an apostle of Christ Jesus by God’s will, and his fellow comrade Timothy—</para>
     <para style="p" vid="2CO 1:1">To the church of God that is in Corinth, joined by the saints (i.e., God’s people) who are all over Achaia:<verse eid="2CO 1:1"/>
     </para>
     <para style="p">
@@ -95,7 +94,6 @@
       <verse number="24" style="v" sid="2CO 1:24" />not that we act in a domineering manner towards you of the Faith—no—we work together as helpers of your
         grace: for you have stood by faith.<verse eid="2CO 1:24" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -146,7 +144,6 @@
         it’s coming from someone who’s sincere through-and-through—no—we speak the word of God in Christ like
         it’s coming directly from God while we stand before God.<verse eid="2CO 2:17" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -195,7 +192,6 @@
         we all are transformed into the same image going from one gaze of glory to another gaze of even more
         glory, just as we go from one gaze of the Spirit of the Lord to another gaze of even more of the Spirit.<verse eid="2CO 3:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -247,7 +243,6 @@
       <verse number="18" style="v" sid="2CO 4:18" />while we’re not looking at the things which are seen but the things that are not seen: for the things
         which are seen are transient, but the things which are not seen are eternal.<verse eid="2CO 4:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -311,7 +306,6 @@
       <verse number="21" style="v" sid="2CO 5:21" />He who had never consummated sin was made sin on our behalf so that we would become righteous of a nature
         of God’s righteousness in him (melded with him: in him, with him, and living life by means of him).”<verse eid="2CO 5:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -320,8 +314,7 @@
     <para style="p">
       <verse number="1" style="v" sid="2CO 6:1" />Being those who work together to minister to others, we do plead with you to not take in God’s grace
         and have nothing to show for it. <verse eid="2CO 6:1" />
-      <verse number="2" style="v" sid="2CO 6:2" />In fact, the Old Testament says,
-    </para>
+      <verse number="2" style="v" sid="2CO 6:2" />In fact, the Old Testament says,</para>
     <para style="pi" vid="2CO 6:2"></para>
     <para style="pi" vid="2CO 6:2">I heard you just in time</para>
     <para style="pi" vid="2CO 6:2">And I helped you</para>
@@ -367,20 +360,17 @@
     <para style="pi" vid="2CO 6:16">And they will be my folk-people.<verse eid="2CO 6:16"/>
     </para>
     <para style="pi">
-      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst
-    </para>
+      <verse number="17" style="v" sid="2CO 6:17" />In light of this come out from their midst</para>
     <para style="pi" vid="2CO 6:17">And be separate,” Says the Lord,</para>
     <para style="pi" vid="2CO 6:17">“And don’t touch things which</para>
     <para style="pi" vid="2CO 6:17">Are vile, disgusting, and forbidden to touch,</para>
     <para style="pi" vid="2CO 6:17">And I will receive you and take you in,<verse eid="2CO 6:17"/>
     </para>
     <para style="pi">
-      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,
-    </para>
+      <verse number="18" style="v" sid="2CO 6:18" />And I will be a Father to you,</para>
     <para style="pi" vid="2CO 6:18">And you will be sons and daughters to Me,”</para>
     <para style="pi" vid="2CO 6:18">Says the Lord Almighty.<verse eid="2CO 6:18"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 6" />
   <!--   **********   -->
   <!--   Chapter  7   -->
@@ -427,8 +417,7 @@
       <verse number="12" style="v" sid="2CO 7:12" />So now, that I’m even writing to you at all, I’m not doing so because of something you did wrong or because
         of some wrong done to us, rather because of the priority and urgency at which you’ve made the things
         we confronted you with before God materialize. <verse eid="2CO 7:12" />
-      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.
-    </para>
+      <verse number="13" style="v" sid="2CO 7:13" />We’ve been encouraged by this.</para>
     <para style="p" vid="2CO 7:13">On the subject of what’s been an encouragement to us, hearing the news that Titus is happy gave me even
         more joy, since his spirit was refreshed by you all. <verse eid="2CO 7:13"/>
       <verse number="14" style="v" sid="2CO 7:14" />I had told him a thing or two about you, telling him how proud I am of you, and I wasn’t disappointed
@@ -438,7 +427,6 @@
         as you received him with fear and trembling. <verse eid="2CO 7:15" />
       <verse number="16" style="v" sid="2CO 7:16" />I rejoice since I have confidence in you in every respect.<verse eid="2CO 7:16" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 7" />
   <!--   **********   -->
   <!--   Chapter  8   -->
@@ -479,8 +467,7 @@
         out of equality. <verse eid="2CO 8:13" />
       <verse number="14" style="v" sid="2CO 8:14" />The way things stand at the moment, your abundance of material possessions is directed towards their
         lack so that equality would take shape, <verse eid="2CO 8:14" />
-      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,
-    </para>
+      <verse number="15" style="v" sid="2CO 8:15" />just as it’s written,</para>
     <para style="pi" vid="2CO 8:15"></para>
     <para style="pi" vid="2CO 8:15">He who has much didn’t have a surplus</para>
     <para style="pi" vid="2CO 8:15">And he who has a little didn’t lack<verse eid="2CO 8:15"/>
@@ -511,7 +498,6 @@
       <verse number="24" style="v" sid="2CO 8:24" />So the pointed demonstration of your love and of the tremendous things we tell them about you is taking
         place in full view of the churches.<verse eid="2CO 8:24" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 8" />
   <!--   **********   -->
   <!--   Chapter  9   -->
@@ -522,7 +508,7 @@
         (i.e., our fellow believers). <verse eid="2CO 9:1" />
       <verse number="2" style="v" sid="2CO 9:2" />You see, having observed you, I know your enthusiasm, an enthusiasm I speak proudly about to the Macedonians,
         namely that Achaia started making preparations a year ago and that your passion for this project motivated
-        a great many people there. <verse eid="2CO 9:2" />
+        a great many peoplethere. <verse eid="2CO 9:2" />
       <verse number="3" style="v" sid="2CO 9:3" />I dispatched the comrades so that the tremendous things we say about you regarding this matter would
         not be for nothing, so that it would be just like I kept saying over and over again that you were making
         preparations— <verse eid="2CO 9:3" />
@@ -544,8 +530,7 @@
       <verse number="8" style="v" sid="2CO 9:8" />In fact God is able to proliferate all kinds of grace (i.e., good things, in terms of money and material
         goods) to us, so that in all situations always having enough of everything you would exude any and every
         good work, <verse eid="2CO 9:8" />
-      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:
-    </para>
+      <verse number="9" style="v" sid="2CO 9:9" />just as it’s written:</para>
     <para style="pi" vid="2CO 9:9"></para>
     <para style="pi" vid="2CO 9:9">He scattered, he gave to the needy</para>
     <para style="pi" vid="2CO 9:9">His righteousness remains in place forever<verse eid="2CO 9:9"/>
@@ -569,7 +554,6 @@
     <para style="p">
       <verse number="15" style="v" sid="2CO 9:15" />God is so kind with this indescribable gift of His!<verse eid="2CO 9:15" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 9" />
   <!--   **********   -->
   <!--   Chapter 10   -->
@@ -626,7 +610,6 @@
       <verse number="18" style="v" sid="2CO 10:18" />You see, the person who promotes himself—that’s not the individual who obtains the approval of God, rather
         the one whom the Lord speaks well of is the one who gains the approval instead.<verse eid="2CO 10:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 10" />
   <!--   **********   -->
   <!--   Chapter 11   -->
@@ -718,7 +701,6 @@
       <verse number="33" style="v" sid="2CO 11:33" />and I was put through a window in the city wall and lowered to the ground in a basket and slipped out
         of his hands.<verse eid="2CO 11:33" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 11" />
   <!--   **********   -->
   <!--   Chapter 12   -->
@@ -742,18 +724,18 @@
       <verse number="6" style="v" sid="2CO 12:6" />You see, if I were to want to talk big, I won’t be acting like a fool as I talk: in fact, I’d be telling
         the truth. But I’ll spare you, lest someone make incorrect assumptions based on what he sees or hears
         that comes from me <verse eid="2CO 12:6" />
-      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.
-    </para>
+      <verse number="7" style="v" sid="2CO 12:7" />and by means of the extraordinary nature of the revelations.</para>
     <para style="p" vid="2CO 12:7">With this in mind, so that I not be lifted up and over (i.e., leap over the hurdles of life), a “thorn
         in the flesh” (an idiom referring to an antagonist which vexes and harasses continuously) was given to
         me, an agent of Satan, so that he would buffet me (i.e., strike me repeatedly and non-stop), so that
         I not be lifted up and over. <verse eid="2CO 12:7"/>
       <verse number="8" style="v" sid="2CO 12:8" />Because of this I begged the Lord three times that it be taken away from me, <verse eid="2CO 12:8" />
-      <verse number="9" style="v" sid="2CO 12:9" />and he told me,
-    </para>
+      <verse number="9" style="v" sid="2CO 12:9" />and he told me,</para>
     <para style="pi" vid="2CO 12:9"></para>
-    <para style="pi" vid="2CO 12:9"><char style="wj">My grace which I give to you is sufficient,</char></para>
-    <para style="pi" vid="2CO 12:9"><char style="wj">For the power which accompanies it</char></para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">My grace </char><char style="it"><char style="wj">which I give </char></char><char style="wj">to
+        you is sufficient,</char>
+    </para>
+    <para style="pi" vid="2CO 12:9"><char style="wj">For the power </char><char style="it"><char style="wj">which accompanies it</char></char></para>
     <para style="pi" vid="2CO 12:9"><char style="wj">Is brought to completion in weakness</char><verse eid="2CO 12:9"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -801,15 +783,13 @@
         to the uncleanness (i.e., lewd, crude, disgusting behavior), fornication (i.e., loose sexual morals),
         and licentiousness (i.e., unrestrained indulgence in immoral, physical pleasures) which you have practiced.<verse eid="2CO 12:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2CO 12" />
   <!--   **********   -->
   <!--   Chapter 13   -->
   <!--   **********   -->
   <chapter number="13" style="c" sid="2CO 13" />
     <para style="p">
-      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.
-    </para>
+      <verse number="1" style="v" sid="2CO 13:1" />This’ll be the third time I’ll visit you.</para>
     <para style="pi" vid="2CO 13:1"></para>
     <para style="pi" vid="2CO 13:1">Based upon what’s spoken from the mouth</para>
     <para style="pi" vid="2CO 13:1">Of two or better yet three witnesses</para>
@@ -843,15 +823,14 @@
     <para style="p">
       <verse number="10" style="v" sid="2CO 13:10" />Because of this, I write these words while absent, so that when I get there and am staying with you,
         I won’t be using the authority which the Lord assigned to me in a harsh manner, an authority which is
-        to be used for edification and not is to be used destructively.<verse eid="2CO 13:10" />
+        to be used for edification and not to be used destructively.<verse eid="2CO 13:10" />
     </para>
     <para style="p">
       <verse number="11" style="v" sid="2CO 13:11" />One last thing, comrades: rejoice, mend your ways, be comforted and encouraged, stay in agreement, live
         in peace, and the God of that wonderful, peaceful love will be with you.<verse eid="2CO 13:11" />
     </para>
     <para style="p">
-      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug from me.
-    </para>
+      <verse number="12" style="v" sid="2CO 13:12" />Give each other a holy hug from me.</para>
     <para style="p" vid="2CO 13:12">All the saints (i.e., your fellow believers in all the churches) greet you.<verse eid="2CO 13:12"/>
     </para>
     <para style="p">

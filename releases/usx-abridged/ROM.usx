@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -104,7 +104,6 @@
         things deserve to die—not only do they do these things, but they’re in lockstep-agreement and think highly
         of those who practice them.<verse eid="ROM 1:32" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -189,7 +188,6 @@
         the Spirit not by the letter (i.e., by the rigid interpretation and application of God’s edicts); that
         person’s praise is not from people but from God.<verse eid="ROM 2:29" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -224,26 +222,22 @@
     <para style="p">
       <verse number="9" style="v" sid="ROM 3:9" />What then? Do we have an advantage? Not entirely. The fact is, we Jews—and throw in all Westerners too—have
         been pre-indicted for being dominated by sin, <verse eid="ROM 3:9" />
-      <verse number="10" style="v" sid="ROM 3:10" />just like it’s recorded in Scripture:
-    </para>
+      <verse number="10" style="v" sid="ROM 3:10" />just like it’s recorded in Scripture:</para>
     <para style="pi" vid="ROM 3:10"></para>
     <para style="pi" vid="ROM 3:10">There is no person who’s righteous—not one.<verse eid="ROM 3:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="ROM 3:11" />There’s no person who understands.
-    </para>
+      <verse number="11" style="v" sid="ROM 3:11" />There’s no person who understands.</para>
     <para style="pi" vid="ROM 3:11">No one seeks out God.<verse eid="ROM 3:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="ROM 3:12" />All of them veered off in a bad direction;
-    </para>
+      <verse number="12" style="v" sid="ROM 3:12" />All of them veered off in a bad direction;</para>
     <para style="pi" vid="ROM 3:12">The whole lot of them is useless.</para>
     <para style="pi" vid="ROM 3:12">There’s no one who does good</para>
     <para style="pi" vid="ROM 3:12">—Not even a single person.<verse eid="ROM 3:12"/>
     </para>
     <para style="pi">
-      <verse number="13" style="v" sid="ROM 3:13" />Their throat is an open grave.
-    </para>
+      <verse number="13" style="v" sid="ROM 3:13" />Their throat is an open grave.</para>
     <para style="pi" vid="ROM 3:13">They deceive others with their tongues.</para>
     <para style="pi" vid="ROM 3:13">Cobra venom is under their lips, under the lips of those<verse eid="ROM 3:13"/>
     </para>
@@ -251,21 +245,18 @@
       <verse number="14" style="v" sid="ROM 3:14" />Whose mouth cusses and has a bitter taste in it.<verse eid="ROM 3:14" />
     </para>
     <para style="pi">
-      <verse number="15" style="v" sid="ROM 3:15" />Their feet are keen to shed blood
-    </para>
+      <verse number="15" style="v" sid="ROM 3:15" />Their feet are keen to shed blood</para>
     <para style="pi" vid="ROM 3:15">(i.e., they are acutely prone to shed blood).<verse eid="ROM 3:15"/>
     </para>
     <para style="pi">
-      <verse number="16" style="v" sid="ROM 3:16" />Ruin and misery is in their paths
-    </para>
+      <verse number="16" style="v" sid="ROM 3:16" />Ruin and misery is in their paths</para>
     <para style="pi" vid="ROM 3:16">(i.e., for them, ruin and misery is inevitable and unavoidable),<verse eid="ROM 3:16"/>
     </para>
     <para style="pi">
       <verse number="17" style="v" sid="ROM 3:17" />And they haven’t discerned a path of peace,<verse eid="ROM 3:17" />
     </para>
     <para style="pi">
-      <verse number="18" style="v" sid="ROM 3:18" />There is no fear of God directly in front of their eyes
-    </para>
+      <verse number="18" style="v" sid="ROM 3:18" />There is no fear of God directly in front of their eyes</para>
     <para style="pi" vid="ROM 3:18">(i.e., their hearts’ desire is not fascinated</para>
     <para style="pi" vid="ROM 3:18">by a deep reverence for God).<verse eid="ROM 3:18"/>
     </para>
@@ -306,7 +297,6 @@
       <verse number="31" style="v" sid="ROM 3:31" />Is law (i.e., the expectation of having to obey the list of God’s rules) preempted through faith? Don’t
         even think about it—on the contrary: law is established.<verse eid="ROM 3:31" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -317,8 +307,7 @@
       <verse number="2" style="v" sid="ROM 4:2" />You see, if Abraham was justified (i.e., examined by a judge and declared to be in the right) by works,
         he has bragging-rights (i.e., he has the right to be proud of and brag about his personal achievements);
         but no—not with God. <verse eid="ROM 4:2" />
-      <verse number="3" style="v" sid="ROM 4:3" />Taking a closer look, what does the Scripture say?
-    </para>
+      <verse number="3" style="v" sid="ROM 4:3" />Taking a closer look, what does the Scripture say?</para>
     <para style="pi" vid="ROM 4:3"></para>
     <para style="pi" vid="ROM 4:3">Abraham had faith in God, and it was credited to him as righteousness<verse eid="ROM 4:3"/>
     </para>
@@ -334,13 +323,11 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="7" style="v" sid="ROM 4:7" />Blessed are they whose lawless deeds have been forgiven
-    </para>
+      <verse number="7" style="v" sid="ROM 4:7" />Blessed are they whose lawless deeds have been forgiven</para>
     <para style="pi" vid="ROM 4:7">And whose sins have been covered over.<verse eid="ROM 4:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="ROM 4:8" />Blessed is a man to whom the Lord
-    </para>
+      <verse number="8" style="v" sid="ROM 4:8" />Blessed is a man to whom the Lord</para>
     <para style="pi" vid="ROM 4:8">Will definitely not impute sin.<verse eid="ROM 4:8"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -390,7 +377,6 @@
       <verse number="25" style="v" sid="ROM 4:25" />who was handed over and delivered to those who killed him by our sins and was raised by our justification
         (i.e., the process of getting us to where we are acquitted of our sins before God).<verse eid="ROM 4:25" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -464,7 +450,6 @@
         would reign through righteousness resulting in eternal life (i.e., that special fullness of life, one
         which begins in this lifetime) through our Lord Jesus Christ.<verse eid="ROM 5:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -539,7 +524,6 @@
       <verse number="23" style="v" sid="ROM 6:23" />For the wages of the sin inherent in all humans is death, but the gift of God is that special fullness
         of life (eternal life) in Christ Jesus our Lord.<verse eid="ROM 6:23" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 6" />
   <!--   **********   -->
   <!--   Chapter  7   -->
@@ -623,7 +607,6 @@
         of God (i.e., to a principle set in place by God), but on the other hand I’m enslaved in flesh to a law
         of sin (i.e., to a principle of sin caused by carnality).<verse eid="ROM 7:25" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 7" />
   <!--   **********   -->
   <!--   Chapter  8   -->
@@ -717,8 +700,7 @@
         who also intercedes on our behalf? <verse eid="ROM 8:34" />
       <verse number="35" style="v" sid="ROM 8:35" />What will separate us from the love of Christ—tribulation…distress…persecution…famine…nakedness…danger…sword
         (i.e., another’s imposition of brute force upon you even to the threat of death)? <verse eid="ROM 8:35" />
-      <verse number="36" style="v" sid="ROM 8:36" />Just as it’s written:
-    </para>
+      <verse number="36" style="v" sid="ROM 8:36" />Just as it’s written:</para>
     <para style="pi" vid="ROM 8:36"></para>
     <para style="pi" vid="ROM 8:36">We’re being put to death all day long for Your sake</para>
     <para style="pi" vid="ROM 8:36">We’ve been slated for slaughter as though we’re sheep of slaughter<verse eid="ROM 8:36"/>
@@ -732,7 +714,6 @@
       <verse number="39" style="v" sid="ROM 8:39" />nor heights (i.e., high highs) nor depths (i.e., depths of despair) nor some other creature will be able
         to separate us from the love of God, love which is in Christ Jesus our Lord.<verse eid="ROM 8:39" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 8" />
   <!--   **********   -->
   <!--   Chapter  9   -->
@@ -768,8 +749,7 @@
         choice in God’s purpose would persist— <verse eid="ROM 9:11" />
       <verse number="12" style="v" sid="ROM 9:12" />not as a works-outcome but rather as a calling-outcome, the free choice of the One Who calls—she was
         told that, “the older and therefore superior one shall serve the younger,” <verse eid="ROM 9:12" />
-      <verse number="13" style="v" sid="ROM 9:13" />as it’s written:
-    </para>
+      <verse number="13" style="v" sid="ROM 9:13" />as it’s written:</para>
     <para style="pi" vid="ROM 9:13"></para>
     <para style="pi" vid="ROM 9:13">I loved Isaac;</para>
     <para style="pi" vid="ROM 9:13">I hated (i.e., despised; had contempt for; loathed) Esau<verse eid="ROM 9:13"/>
@@ -777,8 +757,7 @@
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
       <verse number="14" style="v" sid="ROM 9:14" />What’s the takeaway? Not that God’s unfair, right?—Don’t even think about it. <verse eid="ROM 9:14" />
-      <verse number="15" style="v" sid="ROM 9:15" />Furthermore, he tells Moses:
-    </para>
+      <verse number="15" style="v" sid="ROM 9:15" />Furthermore, he tells Moses:</para>
     <para style="pi" vid="ROM 9:15"></para>
     <para style="pi" vid="ROM 9:15">I’ll have mercy on whom I so happen to show mercy to</para>
     <para style="pi" vid="ROM 9:15">And have pity on whom I so happen to have pity on<verse eid="ROM 9:15"/>
@@ -787,8 +766,7 @@
     <para style="m">
       <verse number="16" style="v" sid="ROM 9:16" />So then it’s not based on the person desiring this or that or the one pursuing this or that, but rather
         it’s a product of the mercy of God. <verse eid="ROM 9:16" />
-      <verse number="17" style="v" sid="ROM 9:17" />In fact, in regard to Pharaoh the Old Testament says:
-    </para>
+      <verse number="17" style="v" sid="ROM 9:17" />In fact, in regard to Pharaoh the Old Testament says:</para>
     <para style="pi" vid="ROM 9:17"></para>
     <para style="pi" vid="ROM 9:17">I brought you to prominence for this:</para>
     <para style="pi" vid="ROM 9:17">In order to demonstrate in you My power</para>
@@ -814,22 +792,19 @@
       <verse number="23" style="v" sid="ROM 9:23" />And what if He, in order that the riches of His glory be made known, wanted to demonstrate His kindness
         upon vessels of mercy, ones that have been prepared beforehand for an ends of glory, <verse eid="ROM 9:23" />
       <verse number="24" style="v" sid="ROM 9:24" />even us, whom He called, not only from among the Jews but from among the Gentiles as well? <verse eid="ROM 9:24" />
-      <verse number="25" style="v" sid="ROM 9:25" />Also, like in the Book of Hosea:
-    </para>
+      <verse number="25" style="v" sid="ROM 9:25" />Also, like in the Book of Hosea:</para>
     <para style="pi" vid="ROM 9:25"></para>
     <para style="pi" vid="ROM 9:25">I will call the people who aren’t My people “My people,”</para>
     <para style="pi" vid="ROM 9:25">And the unloved woman “beloved.”<verse eid="ROM 9:25"/>
     </para>
     <para style="pi">
-      <verse number="26" style="v" sid="ROM 9:26" />And it will come to pass that in the place
-    </para>
+      <verse number="26" style="v" sid="ROM 9:26" />And it will come to pass that in the place</para>
     <para style="pi" vid="ROM 9:26">Where they were told “You are not My people,”</para>
     <para style="pi" vid="ROM 9:26">There they’ll be called “sons of the Living God.”<verse eid="ROM 9:26"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="27" style="v" sid="ROM 9:27" />Now while representing Israel, Isaiah cried out, 
-    </para>
+      <verse number="27" style="v" sid="ROM 9:27" />Now while representing Israel, Isaiah cried out, </para>
     <para style="pi" vid="ROM 9:27"></para>
     <para style="pi" vid="ROM 9:27">Even if the descendants of Israel happened to be</para>
     <para style="pi" vid="ROM 9:27">As numerous as the grains of sand on the seashore,</para>
@@ -837,16 +812,14 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="28" style="v" sid="ROM 9:28" />Furthermore Isaiah said:
-    </para>
+      <verse number="28" style="v" sid="ROM 9:28" />Furthermore Isaiah said:</para>
     <para style="pi" vid="ROM 9:28"></para>
     <para style="pi" vid="ROM 9:28">Wrap it up lickety-split—</para>
     <para style="pi" vid="ROM 9:28">That’s what the Lord will do upon the earth<verse eid="ROM 9:28"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="29" style="v" sid="ROM 9:29" />And just as Isaiah said before the fact:
-    </para>
+      <verse number="29" style="v" sid="ROM 9:29" />And just as Isaiah said before the fact:</para>
     <para style="pi" vid="ROM 9:29"></para>
     <para style="pi" vid="ROM 9:29">Had not the Army Commander-in-Chief</para>
     <para style="pi" vid="ROM 9:29">Left behind seed (i.e., progeny; heirs) for us,</para>
@@ -861,15 +834,13 @@
         law (i.e., didn’t live up to the standards of those rules)? <verse eid="ROM 9:31" />
       <verse number="32" style="v" sid="ROM 9:32" />Because of what? Because their pursuit of righteousness wasn’t from a standpoint of faith but was pursued
         as though it could be attained from a standpoint of works. They crashed into the collision-stone, <verse eid="ROM 9:32" />
-      <verse number="33" style="v" sid="ROM 9:33" />just like it’s written:
-    </para>
+      <verse number="33" style="v" sid="ROM 9:33" />just like it’s written:</para>
     <para style="pi" vid="ROM 9:33"></para>
     <para style="pi" vid="ROM 9:33">Look here! I’m laying a collision-stone</para>
     <para style="pi" vid="ROM 9:33">In Zion (i.e., in My yet-to-come relationship with mankind)</para>
     <para style="pi" vid="ROM 9:33">And a problem-causing rock</para>
     <para style="pi" vid="ROM 9:33">And he who believes and trusts in it/him</para>
-    <para style="pi" vid="ROM 9:33">Won’t have any regrets</para>
-    <para style="p" vid="ROM 9:33">HeH<verse eid="ROM 9:33"/>
+    <para style="pi" vid="ROM 9:33">Won’t have any regrets<verse eid="ROM 9:33"/>
     </para>
   <chapter eid="ROM 9" />
   <!--   **********   -->
@@ -894,8 +865,7 @@
         heart, “Who will ascend into heaven” (that is, to bring Christ down), or, <verse eid="ROM 10:6" />
       <verse number="7" style="v" sid="ROM 10:7" />“Who will descend into the abyss (i.e., the world of the dead; the place of eternal identity-loss)” (that
         is, to bring Christ up out of the world of the dead); <verse eid="ROM 10:7" />
-      <verse number="8" style="v" sid="ROM 10:8" />Rather, what does the Old Testament say? It says:
-    </para>
+      <verse number="8" style="v" sid="ROM 10:8" />Rather, what does the Old Testament say? It says:</para>
     <para style="pi" vid="ROM 10:8"></para>
     <para style="pi" vid="ROM 10:8">The spoken-word is near you,</para>
     <para style="pi" vid="ROM 10:8">In your mouth and in your heart</para>
@@ -905,8 +875,7 @@
         him from the dead, you will be saved (i.e., rescued from spiritual, moral, mental, and physical calamity).<verse eid="ROM 10:9" />
       <verse number="10" style="v" sid="ROM 10:10" />You see, the word is believed with the heart, and the end-result is righteousness; the word is confessed
         with the mouth, and the end-result is salvation (i.e., the state of being saved). <verse eid="ROM 10:10" />
-      <verse number="11" style="v" sid="ROM 10:11" />To this point, the Old Testament says:
-    </para>
+      <verse number="11" style="v" sid="ROM 10:11" />To this point, the Old Testament says:</para>
     <para style="pi" vid="ROM 10:11"></para>
     <para style="pi" vid="ROM 10:11">He who trusts and believes in it</para>
     <para style="pi" vid="ROM 10:11">Won’t have any regrets<verse eid="ROM 10:11"/>
@@ -921,8 +890,7 @@
     <para style="p">
       <verse number="14" style="v" sid="ROM 10:14" />So how could they call upon him whom they haven’t believed in? How could they believe in a person they
         haven’t heard of? Apart from people preaching to them, how could they hear about him? <verse eid="ROM 10:14" />
-      <verse number="15" style="v" sid="ROM 10:15" />How could these people preach if they haven’t been sent out? As it’s written:
-    </para>
+      <verse number="15" style="v" sid="ROM 10:15" />How could these people preach if they haven’t been sent out? As it’s written:</para>
     <para style="pi" vid="ROM 10:15"></para>
     <para style="pi" vid="ROM 10:15">Oh, how beautiful are the feet (i.e., the course and direction of the lives)</para>
     <para style="pi" vid="ROM 10:15">Of those evangelizing the good things of God<verse eid="ROM 10:15"/>
@@ -951,21 +919,18 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="20" style="v" sid="ROM 10:20" />And Isaiah takes it to another level and says:
-    </para>
+      <verse number="20" style="v" sid="ROM 10:20" />And Isaiah takes it to another level and says:</para>
     <para style="pi" vid="ROM 10:20"></para>
     <para style="pi" vid="ROM 10:20">I was discovered by those not seeking Me;</para>
     <para style="pi" vid="ROM 10:20">I became manifest to those not inquiring of Me<verse eid="ROM 10:20"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="21" style="v" sid="ROM 10:21" />But to Israel it says:
-    </para>
+      <verse number="21" style="v" sid="ROM 10:21" />But to Israel it says:</para>
     <para style="pi" vid="ROM 10:21"></para>
     <para style="pi" vid="ROM 10:21">All day long I’ve had My arms stretched out</para>
     <para style="pi" vid="ROM 10:21">To a disobedient and contrary folk<verse eid="ROM 10:21"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 10" />
   <!--   **********   -->
   <!--   Chapter 11   -->
@@ -981,14 +946,12 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="3" style="v" sid="ROM 11:3" />Lord, they killed Your prophets, they tore down Your altars,
-    </para>
+      <verse number="3" style="v" sid="ROM 11:3" />Lord, they killed Your prophets, they tore down Your altars,</para>
     <para style="pi" vid="ROM 11:3">And I’m the only survivor, and they’re out to get me<verse eid="ROM 11:3"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="4" style="v" sid="ROM 11:4" />What does God’s Divine Answer tell him instead?
-    </para>
+      <verse number="4" style="v" sid="ROM 11:4" />What does God’s Divine Answer tell him instead?</para>
     <para style="pi" vid="ROM 11:4"></para>
     <para style="pi" vid="ROM 11:4">I’ve kept at My disposal seven-thousand men,</para>
     <para style="pi" vid="ROM 11:4">Those individuals in particular</para>
@@ -1002,8 +965,7 @@
         qualify as being grace. <verse eid="ROM 11:6" />
       <verse number="7" style="v" sid="ROM 11:7" />What then? What Israel sought after, that’s what it didn’t obtain; it obtained the free choice by grace,
         but the rest who weren’t part of the remnant were hardened on the inside <verse eid="ROM 11:7" />
-      <verse number="8" style="v" sid="ROM 11:8" />just as it’s written:
-    </para>
+      <verse number="8" style="v" sid="ROM 11:8" />just as it’s written:</para>
     <para style="pi" vid="ROM 11:8"></para>
     <para style="pi" vid="ROM 11:8">God gave them a deep, intense mindset of stupefaction,</para>
     <para style="pi" vid="ROM 11:8">Eyes incapable of sight and ears incapable of hearing,</para>
@@ -1011,8 +973,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="9" style="v" sid="ROM 11:9" />And in the Old Testament David says:
-    </para>
+      <verse number="9" style="v" sid="ROM 11:9" />And in the Old Testament David says:</para>
     <para style="pi" vid="ROM 11:9"></para>
     <para style="pi" vid="ROM 11:9">Let their sustenance, provision, relaxation, and merriment</para>
     <para style="pi" vid="ROM 11:9">Turn into a snare and into a net</para>
@@ -1020,8 +981,7 @@
     <para style="pi" vid="ROM 11:9">And into a tit-for-tat payback meted out to them.<verse eid="ROM 11:9"/>
     </para>
     <para style="pi">
-      <verse number="10" style="v" sid="ROM 11:10" />Let their vision deteriorate to the point where they can’t see,
-    </para>
+      <verse number="10" style="v" sid="ROM 11:10" />Let their vision deteriorate to the point where they can’t see,</para>
     <para style="pi" vid="ROM 11:10">And throughout all of this let their back be</para>
     <para style="pi" vid="ROM 11:10">Thrown out and mangled up, leaving them hunched over.<verse eid="ROM 11:10"/>
     </para>
@@ -1077,8 +1037,7 @@
     <para style="pi" vid="ROM 11:26">He’ll repel ungodliness from Israel.<verse eid="ROM 11:26"/>
     </para>
     <para style="pi">
-      <verse number="27" style="v" sid="ROM 11:27" />And this is the Covenant from Me to them,
-    </para>
+      <verse number="27" style="v" sid="ROM 11:27" />And this is the Covenant from Me to them,</para>
     <para style="pi" vid="ROM 11:27">That I’ll take away their sins.<verse eid="ROM 11:27"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -1099,13 +1058,11 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="34" style="v" sid="ROM 11:34" />In fact, who knew what was on the Lord’s mind?
-    </para>
+      <verse number="34" style="v" sid="ROM 11:34" />In fact, who knew what was on the Lord’s mind?</para>
     <para style="pi" vid="ROM 11:34">Or who became His decision-making advisor?<verse eid="ROM 11:34"/>
     </para>
     <para style="pi">
-      <verse number="35" style="v" sid="ROM 11:35" />Or who’s loaned him anything
-    </para>
+      <verse number="35" style="v" sid="ROM 11:35" />Or who’s loaned him anything</para>
     <para style="pi" vid="ROM 11:35">That He’ll have to pay back?<verse eid="ROM 11:35"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -1113,7 +1070,6 @@
       <verse number="36" style="v" sid="ROM 11:36" />…Because from Him and through Him and to Him are all things—to Him be the Glory forever and ever. And
         let us pause for a moment to let that sink in.<verse eid="ROM 11:36" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 11" />
   <!--   **********   -->
   <!--   Chapter 12   -->
@@ -1150,39 +1106,32 @@
         pep, diligence, and self-motivation; whether being merciful, let the same be applied in cheerfulness.<verse eid="ROM 12:8" />
     </para>
     <para style="p">
-      <verse number="9" style="v" sid="ROM 12:9" />Let the love you have be genuine and without hypocrisy.
-    </para>
+      <verse number="9" style="v" sid="ROM 12:9" />Let the love you have be genuine and without hypocrisy.</para>
     <para style="p" vid="ROM 12:9">Hate the evil that’s in the world, adhere to the good.<verse eid="ROM 12:9"/>
     </para>
     <para style="p">
-      <verse number="10" style="v" sid="ROM 12:10" />With a close comradeship, engage in close friendships formed out of natural affection.
-    </para>
+      <verse number="10" style="v" sid="ROM 12:10" />With a close comradeship, engage in close friendships formed out of natural affection.</para>
     <para style="p" vid="ROM 12:10">In the high value with which you esteem others, put each other ahead of yourselves.<verse eid="ROM 12:10"/>
     </para>
     <para style="p">
-      <verse number="11" style="v" sid="ROM 12:11" />Using pep, diligence, and self-motivation, don’t be lazy.
-    </para>
+      <verse number="11" style="v" sid="ROM 12:11" />Using pep, diligence, and self-motivation, don’t be lazy.</para>
     <para style="p" vid="ROM 12:11">In the Spirit be zealous.</para>
     <para style="p" vid="ROM 12:11">Serve in the Lord.<verse eid="ROM 12:11"/>
     </para>
     <para style="p">
-      <verse number="12" style="v" sid="ROM 12:12" />In good times, rejoice; in bad times, persevere.
-    </para>
+      <verse number="12" style="v" sid="ROM 12:12" />In good times, rejoice; in bad times, persevere.</para>
     <para style="p" vid="ROM 12:12">Pray constantly—continuously.<verse eid="ROM 12:12"/>
     </para>
     <para style="p">
-      <verse number="13" style="v" sid="ROM 12:13" />Be intimately familiar with the needs of the saints, your fellow believers.
-    </para>
+      <verse number="13" style="v" sid="ROM 12:13" />Be intimately familiar with the needs of the saints, your fellow believers.</para>
     <para style="p" vid="ROM 12:13">Reach out to those who are new or who are different—make this your pastime.<verse eid="ROM 12:13"/>
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="ROM 12:14" />Have a good word to say about those who persecute others.
-    </para>
+      <verse number="14" style="v" sid="ROM 12:14" />Have a good word to say about those who persecute others.</para>
     <para style="p" vid="ROM 12:14">Bless and don’t curse.<verse eid="ROM 12:14"/>
     </para>
     <para style="p">
-      <verse number="15" style="v" sid="ROM 12:15" />Rejoice with those who’re rejoicing.
-    </para>
+      <verse number="15" style="v" sid="ROM 12:15" />Rejoice with those who’re rejoicing.</para>
     <para style="p" vid="ROM 12:15">Weep with those who’re weeping.<verse eid="ROM 12:15"/>
     </para>
     <para style="p">
@@ -1192,23 +1141,20 @@
         big for your boots.<verse eid="ROM 12:16" />
     </para>
     <para style="p">
-      <verse number="17" style="v" sid="ROM 12:17" />When anyone does something bad to you, don’t do something bad to them in return.
-    </para>
+      <verse number="17" style="v" sid="ROM 12:17" />When anyone does something bad to you, don’t do something bad to them in return.</para>
     <para style="p" vid="ROM 12:17">Have respect for what people generally regard as beautiful and what they hold in high esteem.<verse eid="ROM 12:17"/>
     </para>
     <para style="p">
       <verse number="18" style="v" sid="ROM 12:18" />If at all possible, for your own part, be at peace with everyone.<verse eid="ROM 12:18" />
     </para>
     <para style="p">
-      <verse number="19" style="v" sid="ROM 12:19" />Don’t take your own revenge, beloved, but leave room for the wrath of God. You see, it’s written:
-    </para>
+      <verse number="19" style="v" sid="ROM 12:19" />Don’t take your own revenge, beloved, but leave room for the wrath of God. You see, it’s written:</para>
     <para style="pi" vid="ROM 12:19"></para>
     <para style="pi" vid="ROM 12:19">“Vengeance is for Me to do, I’ll pay them back,” says the Lord<verse eid="ROM 12:19"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="20" style="v" sid="ROM 12:20" />Instead of taking revenge:
-    </para>
+      <verse number="20" style="v" sid="ROM 12:20" />Instead of taking revenge:</para>
     <para style="pi" vid="ROM 12:20"></para>
     <para style="pi" vid="ROM 12:20">If your enemy happens to be hungry, give him something to eat.</para>
     <para style="pi" vid="ROM 12:20">If he happens to be thirsty, give him some water.</para>
@@ -1218,7 +1164,6 @@
     <para style="m">
       <verse number="21" style="v" sid="ROM 12:21" />Don’t be defeated by the bad things people do to you, but defeat bad things with good things.<verse eid="ROM 12:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 12" />
   <!--   **********   -->
   <!--   Chapter 13   -->
@@ -1266,7 +1211,6 @@
       <verse number="14" style="v" sid="ROM 13:14" />Instead, clothe yourselves in the Lord Jesus Christ and make no provision to indulge the desires of the
         flesh (i.e., one’s carnal nature).<verse eid="ROM 13:14" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 13" />
   <!--   **********   -->
   <!--   Chapter 14   -->
@@ -1306,8 +1250,7 @@
     <para style="p">
       <verse number="10" style="v" sid="ROM 14:10" />Who do you think you are, you who judges your fellow comrade? Or I can also say, who do you think you
         are to despise your comrade? You see, we’ll all have to stand in the courtroom before God the judge,<verse eid="ROM 14:10" />
-      <verse number="11" style="v" sid="ROM 14:11" />seeing that it’s written:
-    </para>
+      <verse number="11" style="v" sid="ROM 14:11" />seeing that it’s written:</para>
     <para style="pi" vid="ROM 14:11"></para>
     <para style="pi" vid="ROM 14:11">“As surely as I live,” says the Lord, “I swear</para>
     <para style="pi" vid="ROM 14:11">That everyone willingly or not</para>
@@ -1347,7 +1290,6 @@
         the point where he’s condemned (i.e., objectively guilty of wrong-doing), since that’s not a product
         of faith. Anything which is not a product of faith is a sin.<verse eid="ROM 14:23" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 14" />
   <!--   **********   -->
   <!--   Chapter 15   -->
@@ -1357,8 +1299,7 @@
       <verse number="1" style="v" sid="ROM 15:1" />We who are capable ought to bear the struggles of those who are incapable and not just please ourselves
         (i.e., not just make ourselves happy). <verse eid="ROM 15:1" />
       <verse number="2" style="v" sid="ROM 15:2" />Let each of us please the neighbor at hand for his betterment. <verse eid="ROM 15:2" />
-      <verse number="3" style="v" sid="ROM 15:3" />You see, Christ didn’t go around pleasing himself either, but led a life according to this verse instead:
-    </para>
+      <verse number="3" style="v" sid="ROM 15:3" />You see, Christ didn’t go around pleasing himself either, but led a life according to this verse instead:</para>
     <para style="pi" vid="ROM 15:3"></para>
     <para style="pi" vid="ROM 15:3">The reproaches of those who reproach You fell upon me<verse eid="ROM 15:3"/>
     </para>
@@ -1377,8 +1318,7 @@
       <verse number="8" style="v" sid="ROM 15:8" />In fact, I’m saying that Christ has already become a minister of circumcision (i.e., a minister to those
         following the Law of Moses) on behalf of the truth of God arriving at a place where he proved that the
         promises of the patriarchs are reliable, <verse eid="ROM 15:8" />
-      <verse number="9" style="v" sid="ROM 15:9" />but became a servant to the Gentiles on behalf of mercies which glorified God, as it’s written:
-    </para>
+      <verse number="9" style="v" sid="ROM 15:9" />but became a servant to the Gentiles on behalf of mercies which glorified God, as it’s written:</para>
     <para style="pi" vid="ROM 15:9"></para>
     <para style="pi" vid="ROM 15:9">On account of this, while among Gentiles</para>
     <para style="pi" vid="ROM 15:9">I will confess praises to You out loud,</para>
@@ -1386,23 +1326,20 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="10" style="v" sid="ROM 15:10" />And another verse says:
-    </para>
+      <verse number="10" style="v" sid="ROM 15:10" />And another verse says:</para>
     <para style="pi" vid="ROM 15:10"></para>
     <para style="pi" vid="ROM 15:10">Rejoice, Gentiles, with His folk-people<verse eid="ROM 15:10"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="11" style="v" sid="ROM 15:11" />And another:
-    </para>
+      <verse number="11" style="v" sid="ROM 15:11" />And another:</para>
     <para style="pi" vid="ROM 15:11"></para>
     <para style="pi" vid="ROM 15:11">All you Gentiles praise the Lord,</para>
     <para style="pi" vid="ROM 15:11">And have all the folk-people praise Him<verse eid="ROM 15:11"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="12" style="v" sid="ROM 15:12" />And another verse from Isaiah says:
-    </para>
+      <verse number="12" style="v" sid="ROM 15:12" />And another verse from Isaiah says:</para>
     <para style="pi" vid="ROM 15:12"></para>
     <para style="pi" vid="ROM 15:12">There’ll be a root planted from out of David’s father Jesse,</para>
     <para style="pi" vid="ROM 15:12">And the offshoot produced from it will be ruling Gentiles.</para>
@@ -1434,8 +1371,7 @@
       <verse number="20" style="v" sid="ROM 15:20" />but took me in such a way as to travel from Jerusalem to Illyricum with the aspiration of evangelizing
         in places where nobody knows for certain what Christ is all about, in order that I not build a building
         upon someone else’s foundation, <verse eid="ROM 15:20" />
-      <verse number="21" style="v" sid="ROM 15:21" />but instead that the evangelization would be according to what was written in the Old Testament,
-    </para>
+      <verse number="21" style="v" sid="ROM 15:21" />but instead that the evangelization would be according to what was written in the Old Testament,</para>
     <para style="pi" vid="ROM 15:21"></para>
     <para style="pi" vid="ROM 15:21">The announcement about Him will be</para>
     <para style="pi" vid="ROM 15:21">To those who haven’t seen Him,</para>
@@ -1471,7 +1407,6 @@
         and I are together. <verse eid="ROM 15:32" />
       <verse number="33" style="v" sid="ROM 15:33" />May the God of peace be with you all. So be it.<verse eid="ROM 15:33" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="ROM 15" />
   <!--   **********   -->
   <!--   Chapter 16   -->
@@ -1487,8 +1422,7 @@
       <verse number="3" style="v" sid="ROM 16:3" />Say hello to Priscilla and Aquila for me, my coworkers in Christ Jesus, <verse eid="ROM 16:3" />
       <verse number="4" style="v" sid="ROM 16:4" />the very people who stuck their necks out for me, putting their life on the line—It’s not just me who’s
         thankful for them but all the Gentile churches are too. <verse eid="ROM 16:4" />
-      <verse number="5" style="v" sid="ROM 16:5" />Say hello to everyone who attends her house-church too.
-    </para>
+      <verse number="5" style="v" sid="ROM 16:5" />Say hello to everyone who attends her house-church too.</para>
     <para style="p" vid="ROM 16:5">Say hello to my good friend Epenetus, who was the first one to receive Christ in the Roman province of
         Asia. <verse eid="ROM 16:5"/>
       <verse number="6" style="v" sid="ROM 16:6" />Say hello to Mary, who worked her tail off for you. <verse eid="ROM 16:6" />

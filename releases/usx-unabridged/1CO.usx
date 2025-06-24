@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -90,8 +90,7 @@
       <verse number="18" style="v" sid="1CO 1:18" />The message of the cross, you see, is stupidity to those who are lost and dying on the one hand, but
         to those who are being saved (i.e., being rescued from spiritual, moral, and physical calamity), it’s
         the power of God. <verse eid="1CO 1:18" />
-      <verse number="19" style="v" sid="1CO 1:19" />For it’s written <char style="it">in the Old Testament</char>:
-    </para>
+      <verse number="19" style="v" sid="1CO 1:19" />For it’s written <char style="it">in the Old Testament</char>:</para>
     <para style="pi" vid="1CO 1:19"></para>
     <para style="pi" vid="1CO 1:19">I’ll destroy the wisdom of the wise,</para>
     <para style="pi" vid="1CO 1:19">And I’ll annul the understanding of those who understand<verse eid="1CO 1:19"/>
@@ -256,8 +255,7 @@
         and intended for our glory, <verse eid="1CO 2:7" />
       <verse number="8" style="v" sid="1CO 2:8" />a wisdom which none of the rulers of this age knew, understood, or recognized, for if they had, they
         wouldn’t have crucified the Lord of Glory. <verse eid="1CO 2:8" />
-      <verse number="9" style="v" sid="1CO 2:9" />No, <char style="it">the wisdom isn’t like that, </char>it’s like it’s written <char style="it">instead</char>:
-    </para>
+      <verse number="9" style="v" sid="1CO 2:9" />No, <char style="it">the wisdom isn’t like that, </char>it’s like it’s written <char style="it">instead</char>:</para>
     <para style="pi" vid="1CO 2:9"></para>
     <para style="pi" vid="1CO 2:9">That which eye hasn’t seen and ear hasn’t heard</para>
     <para style="pi" vid="1CO 2:9">And hasn’t arisen <char style="it">and come to rest</char> upon any human heart—</para>
@@ -287,8 +285,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="16" style="v" sid="1CO 2:16" />Who has known, understood, or recognized the Lord’s mind?
-    </para>
+      <verse number="16" style="v" sid="1CO 2:16" />Who has known, understood, or recognized the Lord’s mind?</para>
     <para style="pi" vid="1CO 2:16">Who mentors Him?</para>
     <para style="pi" vid="1CO 2:16"></para>
     <para style="m" vid="1CO 2:16">We, however, have a mind which is of Christ.<verse eid="1CO 2:16"/>
@@ -432,8 +429,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="20" style="v" sid="1CO 3:20" />And another <char style="it">verse says</char>,
-    </para>
+      <verse number="20" style="v" sid="1CO 3:20" />And another <char style="it">verse says</char>,</para>
     <para style="pi" vid="1CO 3:20"></para>
     <para style="pi" vid="1CO 3:20">The Lord understands the arguments of the wise—</para>
     <para style="pi" vid="1CO 3:20"><char style="it">He knows</char> that they’re futile<verse eid="1CO 3:20"/>
@@ -1344,8 +1340,7 @@
       <verse number="11" style="v" sid="1CO 9:11" />If we sowed into you the Holy Spirit-related things<char style="sup">[d]</char> <char style="it">which
         are the backbone of your spiritual lives</char>, is it a big deal if we reap the physical things <char
         style="it">we need to live by </char>from you? <verse eid="1CO 9:11" />
-      <verse number="12" style="v" sid="1CO 9:12" />If others have the right of taking a percentage from you, don’t we all the more so?
-    </para>
+      <verse number="12" style="v" sid="1CO 9:12" />If others have the right of taking a percentage from you, don’t we all the more so?</para>
     <para style="p" vid="1CO 9:12">No, we’re not asserting this right; instead we put up with all <char style="it">kinds of </char>things
         so that nothing would hinder the Gospel, the good-news message of Christ. <verse eid="1CO 9:12"/>
       <verse number="13" style="v" sid="1CO 9:13" />Don’t you know that they who work the sacred <char style="it">duties in the temple </char>feed on <char
@@ -1486,8 +1481,7 @@
         the wilderness as we see. <verse eid="1CO 10:5" />
       <verse number="6" style="v" sid="1CO 10:6" />Now the lives these people led is an example, a pattern, a parallel of our own lives, so that we not
         have strong yearnings bordering on sensual passions for evil, just as some of them had. <verse eid="1CO 10:6" />
-      <verse number="7" style="v" sid="1CO 10:7" />Neither become idolaters, just as some of them did, as it’s written <char style="it">in the Old Testament</char>,
-    </para>
+      <verse number="7" style="v" sid="1CO 10:7" />Neither become idolaters, just as some of them did, as it’s written <char style="it">in the Old Testament</char>,</para>
     <para style="pi" vid="1CO 10:7"></para>
     <para style="pi" vid="1CO 10:7">The folk-people sat down to eat and drink</para>
     <para style="pi" vid="1CO 10:7">And <char style="it">when they were done </char>got up to play<char style="sup">[B]</char><verse eid="1CO 10:7"/>
@@ -1742,8 +1736,7 @@
     <para style="p">
       <verse number="23" style="v" sid="1CO 11:23" />Delving into this topic more deeply, I received from the Lord and took to heart that which I also presented
         and entrusted to you, that the night the Lord Jesus was betrayed and arrested, he took a loaf, <verse eid="1CO 11:23" />
-      <verse number="24" style="v" sid="1CO 11:24" />prayed, broke it, and said,
-    </para>
+      <verse number="24" style="v" sid="1CO 11:24" />prayed, broke it, and said,</para>
     <para style="pi" vid="1CO 11:24"></para>
     <para style="pi" vid="1CO 11:24"><char style="wj">This is my body which is</char></para>
     <para style="pi" vid="1CO 11:24"><char style="it"><char style="wj">Lifted up, broken, and distributed </char></char><char style="wj">for
@@ -1753,8 +1746,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="25" style="v" sid="1CO 11:25" />In the same fashion he also took the cup while dining, saying,
-    </para>
+      <verse number="25" style="v" sid="1CO 11:25" />In the same fashion he also took the cup while dining, saying,</para>
     <para style="pi" vid="1CO 11:25"></para>
     <para style="pi" vid="1CO 11:25"><char style="wj">This cup is the new covenant </char><char style="it"><char style="wj">ratified </char></char><char
         style="wj">by means of my blood.</char>
@@ -1883,8 +1875,8 @@
   <!--   **********   -->
   <chapter number="12" style="c" sid="1CO 12" />
     <para style="p">
-      <verse number="1" style="v" sid="1CO 12:1" />Concerning spirituals<char style="sup">[A]</char> (things which are of nature related to the Holy Spirit:
-        i.e., spiritual gifts, ministries, and extraordinary manifestations of the Holy Spirit), comrades<char
+      <verse number="1" style="v" sid="1CO 12:1" />Concerning The Spirituals<char style="sup">[A]</char> (things which are of nature related to the Holy
+        Spirit: i.e., spiritual gifts, ministries, and extraordinary manifestations of the Holy Spirit), comrades<char
         style="sup">[a]</char>, I don’t want you to fail to understand this. <verse eid="1CO 12:1" />
       <verse number="2" style="v" sid="1CO 12:2" />You know for a fact that when you were pagans in close contact with<char style="sup">[b]</char> the <char
         style="it">mute and </char>dumb idols, as long as<char style="sup">[c]</char> you kept on being led<char
@@ -1960,8 +1952,7 @@
       <verse number="30" style="v" sid="1CO 12:30" />Not everyone has <char style="it">one of the various</char> gifts of healings, <char style="it">do they</char>?
         Not everyone speaks in tongues, <char style="it">do they</char>? Not everyone interprets <char style="it">messages
         in tongues, do they</char><char style="sup">[E]</char>? <verse eid="1CO 12:30" />
-      <verse number="31" style="v" sid="1CO 12:31" />But maintain a burning desire for the greater gifts.
-    </para>
+      <verse number="31" style="v" sid="1CO 12:31" />But maintain a burning desire for the greater gifts.</para>
     <para style="p" vid="1CO 12:31">Yet I’ll show you a road <char style="it">to take</char> which is superior <char style="it">to this</char><char
         style="sup">[F]</char>…<verse eid="1CO 12:31"/>
     </para>
@@ -2022,23 +2013,25 @@
     </note>
     <note caller="[A]" style="f">
       <char style="fk">[A]</char>
-      <char style="ft"><char style="it">spirituals</char>…The Gk. word <char style="it">pneumatikos </char><char style="w" strong="G04152">πνευματικός</char>).<char
-        style="it"> </char>The Gk. noun <char style="it">pneuma </char>(spirit, πνεῦμα/Strong’s 4151) terminated
-        with the adjective ending <char style="it">tikos, </char>a suffix<char style="it"> </char>which “marks
-        ability or fitness” of the verb it appends according to Bullinger. The adjective, having been formed,
-        is used substantively as a noun in this verse, forming a new noun. This new Gk. noun means “belonging
-        to or of pneuma; of the pneuma.” As pneuma has multiple meanings—a spiritual being (the Holy Spirit,
-        a human spirit, a demonic spirit); related to things of the spirit; prevailing attitude—pneumatikos acquires
-        these flavors of meaning: related to or of the Holy Spirit; related to or of a human spirit; or simply
-        the word <char style="it">spiritual</char> as it’s understood in English. Though Paul didn’t invent this
-        word, he coined the usage of it in the NT. The meaning of pneumatikos in Paul’s writings is best understood
-        from the way Paul uses it and from firsthand Christian experience—not from what’s written in the lexicons.
-        When pneumatikos appears in the NT, the context will guide you as to which of these various definitions
-        to use. In v. 1 here, the context suggests things related to or pertaining to the Holy Spirit, where
-        <char style="it">Holy Spirit </char>is a synecdoche which refers to his workings, similar to the way
-        Holy Spirit is used a synecdoche to refer to the baptism in the Holy Spirit (an example being Acts 8:15).
-        So pneumatikos as used here refers to things that the Holy Spirit does and not the Holy Spirit himself
-        per se. This is not the case in other NT usages of pneumatikos, as pneumatikos’s meaning is context-dependent.</char>
+      <char style="ft"><char style="it">The Spirituals</char>…The plural form of the Gk. word <char style="it">pneumatikos </char><char
+        style="w" strong="G04152">πνευματικός</char>) with the definite article, which isn’t ordinarily needed
+        in this case (this creates emphasis).<char style="it"> </char>The Gk. noun <char style="it">pneuma </char>(spirit,
+        πνεῦμα/Strong’s 4151) terminated with the adjective ending <char style="it">tikos, </char>a suffix<char
+        style="it"> </char>which “marks ability or fitness” of the verb it appends according to Bullinger. The
+        adjective, having been formed, is used substantively as a noun in this verse, forming a new noun. This
+        new Gk. noun means “belonging to or of pneuma; of the pneuma.” As pneuma has multiple meanings—a spiritual
+        being (the Holy Spirit, a human spirit, a demonic spirit); related to things of the spirit; prevailing
+        attitude—pneumatikos acquires these flavors of meaning: related to or of the Holy Spirit; related to
+        or of a human spirit; or simply the word <char style="it">spiritual</char> as it’s understood in English.
+        Though Paul didn’t invent this word, he coined the usage of it in the NT. The meaning of pneumatikos
+        in Paul’s writings is best understood from the way Paul uses it and from firsthand Christian experience—not
+        from what’s written in the lexicons. When pneumatikos appears in the NT, the context will guide you as
+        to which of these various definitions to use. In v. 1 here, the context suggests things related to or
+        pertaining to the Holy Spirit, where <char style="it">Holy Spirit </char>is a synecdoche which refers
+        to his workings, similar to the way Holy Spirit is used a synecdoche to refer to the baptism in the Holy
+        Spirit (an example being Acts 8:15). So pneumatikos as used here refers to things that the Holy Spirit
+        does and not the Holy Spirit himself per se. This is not the case in other NT usages of pneumatikos,
+        as pneumatikos’s meaning is context-dependent.</char>
     </note>
     <note caller="[B]" style="f">
       <char style="fk">[B]</char>
@@ -2295,8 +2288,8 @@
         a person who isn’t versed in the things of the Spirit and doesn’t speak in tongues<char style="sup">[B]</char>—how
         will he say “amen” (i.e., speak a verbal affirmation) upon <char style="it">hearing </char>Your Blessing<char
         style="sup">[k]</char>, since he doesn’t know what you’re saying? <verse eid="1CO 14:16" />
-      <verse number="17" style="v" sid="1CO 14:17" />For you certainly give a blessing well, but the other <char style="it">person who’s not versed in the
-        things of the Spirit </char>doesn’t get anything out of it. <verse eid="1CO 14:17" />
+      <verse number="17" style="v" sid="1CO 14:17" />For you certainly give thanks well, but the other <char style="it">person who’s not versed in the things
+        of the Spirit </char>doesn’t get anything out of it. <verse eid="1CO 14:17" />
       <verse number="18" style="v" sid="1CO 14:18" />I give God thanks that I speak in tongues more than you all, <verse eid="1CO 14:18" />
       <verse number="19" style="v" sid="1CO 14:19" />but putting that to the side, <char style="it">when I’m</char> in a church I want to speak five words
         <char style="it">or so</char> using my mind so that I would pass on instruction to others, rather than
@@ -2306,8 +2299,7 @@
       <verse number="20" style="v" sid="1CO 14:20" />Comrades, don’t become children in <char style="it">your</char> thought processes, but instead, act like
         toddlers with the evil <char style="it">you’re inundated with</char> and become adults in <char style="it">your</char>
         thought processes. <verse eid="1CO 14:20" />
-      <verse number="21" style="v" sid="1CO 14:21" />It’s written in the Old Testament<char style="sup">[l]</char>:
-    </para>
+      <verse number="21" style="v" sid="1CO 14:21" />It’s written in the Old Testament<char style="sup">[l]</char>:</para>
     <para style="pi" vid="1CO 14:21"></para>
     <para style="pi" vid="1CO 14:21">“In different tongues</para>
     <para style="pi" vid="1CO 14:21">And by the lips of different people</para>
@@ -2350,8 +2342,7 @@
       <verse number="31" style="v" sid="1CO 14:31" />The fact is all of you can prophecy one after another, so that everyone would learn and be exhorted,
         comforted, counseled, and advised; <verse eid="1CO 14:31" />
       <verse number="32" style="v" sid="1CO 14:32" />the spirits of prophets are subordinate to and take directions from prophets.<char style="sup">[F]</char><verse eid="1CO 14:32" />
-      <verse number="33" style="v" sid="1CO 14:33" />You see, God is not a product of confusion but of peace.
-    </para>
+      <verse number="33" style="v" sid="1CO 14:33" />You see, God is not a product of confusion but of peace.</para>
     <para style="p" vid="1CO 14:33">As in all the congregations of those who believe in Christ, <verse eid="1CO 14:33"/>
       <verse number="34" style="v" sid="1CO 14:34" />have the women in the churches keep silent. The fact of the matter is, I don’t allow them to speak <char
         style="it">aloud</char> <char style="it">addressing the entire congregation</char><char style="sup">[G]</char>,
@@ -2643,8 +2634,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="33" style="v" sid="1CO 15:33" />Don’t be fooled <char style="it">into believing that; realize this instead</char>:
-    </para>
+      <verse number="33" style="v" sid="1CO 15:33" />Don’t be fooled <char style="it">into believing that; realize this instead</char>:</para>
     <para style="pi" vid="1CO 15:33"></para>
     <para style="pi" vid="1CO 15:33">The wrong crowd corrupts good conduct<verse eid="1CO 15:33"/>
     </para>
@@ -2684,8 +2674,7 @@
       <verse number="44" style="v" sid="1CO 15:44" />sown a soul-body (i.e., a body having all the quintessential human elements: one that has a thirst for
         the things of this life, that thinks and feels as humans do, has human frailties), raised a spiritual-body.
         If it is a soul-body, it is also a spiritual-body: <verse eid="1CO 15:44" />
-      <verse number="45" style="v" sid="1CO 15:45" />this is also the way it’s written <char style="it">in the Old Testament</char>,
-    </para>
+      <verse number="45" style="v" sid="1CO 15:45" />this is also the way it’s written <char style="it">in the Old Testament</char>,</para>
     <para style="pi" vid="1CO 15:45"></para>
     <para style="pi" vid="1CO 15:45">The first man Adam became<char style="sup">[t]</char> a living-soul</para>
     <para style="pi" vid="1CO 15:45"></para>
@@ -2719,8 +2708,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="55" style="v" sid="1CO 15:55" />Death, where is your victory?
-    </para>
+      <verse number="55" style="v" sid="1CO 15:55" />Death, where is your victory?</para>
     <para style="pi" vid="1CO 15:55">Death, where is your sting<char style="sup">[w]</char>?<verse eid="1CO 15:55"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->

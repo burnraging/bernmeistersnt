@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -24,8 +24,7 @@
         Jesus:<verse eid="2TI 1:1" />
     </para>
     <para style="p">
-      <verse number="2" style="v" sid="2TI 1:2" />To Timothy, a dear son:
-    </para>
+      <verse number="2" style="v" sid="2TI 1:2" />To Timothy, a dear son:</para>
     <para style="p" vid="2TI 1:2">Grace, Mercy, Peace, and so much more from God the Father and our Lord Christ Jesus.<verse eid="2TI 1:2"/>
     </para>
     <para style="p">
@@ -72,7 +71,6 @@
       <verse number="18" style="v" sid="2TI 1:18" />May the Lord grant that he find mercy from the Lord on that day—And he helped out in so many ways in
         Ephesus, as you are keenly aware of.<verse eid="2TI 1:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2TI 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -102,20 +100,17 @@
         glory.<verse eid="2TI 2:10" />
     </para>
     <para style="p">
-      <verse number="11" style="v" sid="2TI 2:11" />You can count on this passage being true:
-    </para>
+      <verse number="11" style="v" sid="2TI 2:11" />You can count on this passage being true:</para>
     <para style="pi" vid="2TI 2:11"></para>
     <para style="pi" vid="2TI 2:11">For if we died together, we shall also live together.<verse eid="2TI 2:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="2TI 2:12" />If we endure, we shall also reign together.
-    </para>
+      <verse number="12" style="v" sid="2TI 2:12" />If we endure, we shall also reign together.</para>
     <para style="pi" vid="2TI 2:12">If we’re going to deny him,</para>
     <para style="pi" vid="2TI 2:12">That’s the same person who’ll deny us.<verse eid="2TI 2:12"/>
     </para>
     <para style="pi">
-      <verse number="13" style="v" sid="2TI 2:13" />If we refuse to believe in him,
-    </para>
+      <verse number="13" style="v" sid="2TI 2:13" />If we refuse to believe in him,</para>
     <para style="pi" vid="2TI 2:13">That’s the same person who’ll remain true to his word;</para>
     <para style="pi" vid="2TI 2:13">He can’t deny himself, you see.<verse eid="2TI 2:13"/>
     </para>
@@ -158,7 +153,6 @@
       <verse number="26" style="v" sid="2TI 2:26" />and they come to their senses and free themselves from the devil’s trap, having had been captured alive
         and taken prisoner by him for the purpose of doing that rascal’s will.<verse eid="2TI 2:26" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2TI 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -204,7 +198,6 @@
       <verse number="17" style="v" sid="2TI 3:17" />so that God’s man or woman would be capable, proficient, and properly equipped for the purpose of doing
         any kind of good work imaginable.<verse eid="2TI 3:17" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="2TI 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -237,8 +230,7 @@
       <verse number="10" style="v" sid="2TI 4:10" />Demas, you see, has deserted me, since he loved the present age (i.e., loved how life can be lived in
         the world as it exists in the times we live in) more, and went to Thessalonica; Crescans went to Galatia,
         Titus to Dalmatia. <verse eid="2TI 4:10" />
-      <verse number="11" style="v" sid="2TI 4:11" />Only Luke is still here with me.
-    </para>
+      <verse number="11" style="v" sid="2TI 4:11" />Only Luke is still here with me.</para>
     <para style="p" vid="2TI 4:11">Pick up Mark and take him with you, since he’s useful for being an assistant to me. <verse eid="2TI 4:11"/>
     </para>
     <para style="p">
@@ -261,8 +253,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="18" style="v" sid="2TI 4:18" />The Lord will rescue me
-    </para>
+      <verse number="18" style="v" sid="2TI 4:18" />The Lord will rescue me</para>
     <para style="pi" vid="2TI 4:18">From all the things the evil one does</para>
     <para style="pi" vid="2TI 4:18">And keep rescuing me</para>
     <para style="pi" vid="2TI 4:18">Until I make it to His kingdom in heaven.</para>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -38,8 +38,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="7" style="v" sid="REV 1:7" />Look!—he’s breaking through the clouds
-    </para>
+      <verse number="7" style="v" sid="REV 1:7" />Look!—he’s breaking through the clouds</para>
     <para style="pi" vid="REV 1:7">And every set of eyes will see him,</para>
     <para style="pi" vid="REV 1:7">Even those who pierced him,</para>
     <para style="pi" vid="REV 1:7">And all the tribes of the earth</para>
@@ -76,55 +75,62 @@
       <verse number="17" style="v" sid="REV 1:17" />When I saw him, I fell at his feet as though I was dead. He put his right hand on me while saying, <char
         style="wj">“Don’t be afraid. I’m the first and the last </char><verse eid="REV 1:17" />
       <verse number="18" style="v" sid="REV 1:18" /><char style="wj">and the living one. I happened to die and—as you can see—I’m alive forever and ever,
-        and I have the keys to the mysterious world of death. </char><verse eid="REV 1:18" />
+        and I have the keys to the mysterious world of death</char><char style="wj">. </char><verse eid="REV 1:18" />
       <verse number="19" style="v" sid="REV 1:19" /><char style="wj">So write what you see and that which is and that which is going to come to pass after
         these things. </char><verse eid="REV 1:19" />
-      <verse number="20" style="v" sid="REV 1:20" /><char style="wj">As far as the mystery of the seven stars which are in my right hand and the seven golden
-        lamps: the seven stars are men who utter prophesies or deliver sermons (agents or messengers) at the
-        seven churches, and the lamps are the seven churches.”</char><verse eid="REV 1:20" />
+      <verse number="20" style="v" sid="REV 1:20" /><char style="it"><char style="wj">As far as </char></char><char style="wj">the mystery of the seven stars
+        which are in my right hand and the seven golden lamps: the seven stars are </char><char style="it"><char
+        style="wj">men who utter prophesies or deliver sermons </char></char><char style="wj">(agents or messengers)
+        at the seven churches, and the lamps are the seven churches.”</char><verse eid="REV 1:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
   <!--   **********   -->
   <chapter number="2" style="c" sid="REV 2" />
     <para style="p">
-      <verse number="1" style="v" sid="REV 2:1" /><char style="wj">”Write the following to the agent in the Ephesus church:</char>
-    </para>
-    <para style="p" vid="REV 2:1"><char style="wj">“The one who holds the seven stars in his right hand says, ‘From the one who walks in
-        the midst of the seven golden lamps: </char><verse eid="REV 2:1"/>
-      <verse number="2" style="v" sid="REV 2:2" /><char style="wj">I know your deeds and not just that but your toil and perseverance, and the fact that
-        you won’t tolerate evil men. You scrutinize and push back against those who call themselves apostles—but
-        aren’t—and discover that they’re liars. </char><verse eid="REV 2:2" />
+      <verse number="1" style="v" sid="REV 2:1" /><char style="wj">”Write the following to the agent in the Ephesus church:</char></para>
+    <para style="p" vid="REV 2:1"><char style="wj">“The one who holds the seven stars in his right hand says, ‘</char><char style="it"><char
+        style="wj">From</char></char><char style="wj"> the one who walks in the midst of the seven golden lamps:
+        </char><verse eid="REV 2:1"/>
+      <verse number="2" style="v" sid="REV 2:2" /><char style="wj">I know your deeds and </char><char style="it"><char style="wj">not just that but </char></char><char
+        style="wj">your toil and perseverance, and the fact that you won’t tolerate evil men. You scrutinize
+        and push back against those who call themselves apostles—but aren’t—and discover that they’re liars.
+        </char><verse eid="REV 2:2" />
       <verse number="3" style="v" sid="REV 2:3" /><char style="wj">You have perseverance and endure on account of my reputation and everything I stand
-        for, and you haven’t become worn out over it. </char><verse eid="REV 2:3" />
+        for</char><char style="wj">, and you haven’t become worn out </char><char style="it"><char style="wj">over
+        it</char></char><char style="wj">. </char><verse eid="REV 2:3" />
       <verse number="4" style="v" sid="REV 2:4" /><char style="wj">That aside—I have an issue with you, that you’ve abandoned—divorced in fact—your Original
         Love. </char><verse eid="REV 2:4" />
-      <verse number="5" style="v" sid="REV 2:5" /><char style="wj">So remember the place from where you’ve fallen, have a change of heart and of ways,
-        and act the way you used to. If you don’t, I’m going to come to you and remove your lamp from its normal
-        resting place—if you don’t have a change of heart and of ways.</char><verse eid="REV 2:5" />
+      <verse number="5" style="v" sid="REV 2:5" /><char style="wj">So remember the place from where you’ve fallen, have a change of heart and of ways</char><char
+        style="wj">, and act the way you used to. If you don’t, I’m </char><char style="it"><char style="wj">going
+        to</char></char><char style="wj"> come to you and remove your lamp from its </char><char style="it"><char
+        style="wj">normal resting </char></char><char style="wj">place—if you don’t have a change of heart and
+        of ways.</char><verse eid="REV 2:5" />
     </para>
     <para style="p">
       <verse number="6" style="v" sid="REV 2:6" /><char style="wj">”’That aside, you say this, that you hate what the Nicolaitans do; I hate what they
         do as well.’</char><verse eid="REV 2:6" />
     </para>
     <para style="p">
-      <verse number="7" style="v" sid="REV 2:7" /><char style="wj">”He says, ’If you’re able to listen and take to heart what is said, hear what the Spirit
-        is saying to the churches: to him who overcomes I’ll grant that he eats from the tree of life, the one
-        in God’s paradise.’”</char><verse eid="REV 2:7" />
+      <verse number="7" style="v" sid="REV 2:7" /><char style="wj">”He says, ’If you’re able to listen </char><char style="it"><char style="wj">and take
+        to heart what is said</char></char><char style="wj">, hear what</char><char style="wj"> the Spirit is
+        saying to the churches: to him who overcomes I’ll grant that he eats from the tree of life, the one in
+        God’s paradise.’”</char><verse eid="REV 2:7" />
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="8" style="v" sid="REV 2:8" /><char style="wj">”Write the following to the agent in the Smyrna church:</char>
-    </para>
-    <para style="p" vid="REV 2:8"><char style="wj">“The first and the last, the one who appeared back from the dead and lived again says,
-        </char><verse eid="REV 2:8"/>
+      <verse number="8" style="v" sid="REV 2:8" /><char style="wj">”Write the following to the agent in the Smyrna church:</char></para>
+    <para style="p" vid="REV 2:8"><char style="wj">“The first and the last, the one who appeared </char><char style="it"><char style="wj">back
+        </char></char><char style="wj">from the dead and lived </char><char style="it"><char style="wj">again</char></char><char
+        style="wj"> says, </char><verse eid="REV 2:8"/>
       <verse number="9" style="v" sid="REV 2:9" /><char style="wj">‘I know your ordeal and your poverty (no—you are rich) and the blasphemy from those
-        who consider themselves to be Jews but aren’t but instead are a group from Satan. </char><verse eid="REV 2:9" />
+        who consider themselves to be Jews but aren’t but instead are a group from Satan</char><char style="wj">.
+        </char><verse eid="REV 2:9" />
       <verse number="10" style="v" sid="REV 2:10" /><char style="wj">Don’t fear anything that you’re going to suffer. Look now—the devil is going to toss
         six of you in jail in order to put pressure on you to break you, and your ordeal will last for six days.
-        Show yourself to be faithful to the point of death, and I’ll give you the victor’s wreath of life.</char><verse eid="REV 2:10" />
+        Show yourself</char><char style="wj"> to be faithful to the point of death, and I’ll give you the victor’s
+        wreath of life.</char><verse eid="REV 2:10" />
     </para>
     <para style="p">
       <verse number="11" style="v" sid="REV 2:11" /><char style="wj">”’If you’re able to listen and take to heart what is said, hear what the Spirit is saying
@@ -132,18 +138,20 @@
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="12" style="v" sid="REV 2:12" /><char style="wj">”Write the following to the agent in the Pergamum church:</char>
-    </para>
-    <para style="p" vid="REV 2:12"><char style="wj">“He who owns the sharp, two-edged Thracian sword says, </char><verse eid="REV 2:12"/>
-      <verse number="13" style="v" sid="REV 2:13" /><char style="wj">’I know where you reside: it’s where the Citadel of Satan is. You hold fast to my reputation
-        and everything I stand for and refused to deny my faith during the days of Antipas, my Faithful Witness,
-        who was killed, taken from you, where Satan resides.</char><verse eid="REV 2:13" />
+      <verse number="12" style="v" sid="REV 2:12" /><char style="wj">”Write the following to the agent in the Pergamum church:</char></para>
+    <para style="p" vid="REV 2:12"><char style="wj">“He who owns the sharp, two-edged Thracian sword</char><char style="wj"> says, </char><verse eid="REV 2:12"/>
+      <verse number="13" style="v" sid="REV 2:13" /><char style="wj">’I know where you reside: </char><char style="it"><char style="wj">it’s </char></char><char
+        style="wj">where the Citadel</char><char style="wj"> of Satan </char><char style="it"><char style="wj">is.
+        </char></char><char style="wj">You hold fast to my reputation and everything I stand for and refused
+        to deny my faith during the days of Antipas, my Faithful Witness, who was killed, taken from you, where
+        Satan resides.</char><verse eid="REV 2:13" />
     </para>
     <para style="p">
       <verse number="14" style="v" sid="REV 2:14" /><char style="wj">”’That aside, I have a bit of an issue with you, that you have some there who adhere
         to the doctrine of Balaam, who taught Balak to contrive and implement a plan that would attract and thereby
-        lure the Israelites (and—boy—weren’t they your typical Israelites?) into sin, specifically to eat food
-        sacrificed to idols and to commit fornication. </char><verse eid="REV 2:14" />
+        lure the Israelites (and—boy—weren’t they your typical Israelites?) into sin</char><char style="wj">,
+        </char><char style="it"><char style="wj">specifically </char></char><char style="wj">to eat food sacrificed
+        to idols and to commit fornication. </char><verse eid="REV 2:14" />
       <verse number="15" style="v" sid="REV 2:15" /><char style="wj">In the same manner, you also have some there who likewise adhere to the doctrine of
         the Nicolaitans. </char><verse eid="REV 2:15" />
       <verse number="16" style="v" sid="REV 2:16" /><char style="wj">So have a change of heart and of ways. If you don’t, I’ll come in a hurry and engage
@@ -151,35 +159,40 @@
     </para>
     <para style="p">
       <verse number="17" style="v" sid="REV 2:17" /><char style="wj">’”If you’re able to listen and take to heart what is said, hear what the Spirit is saying
-        to the churches: I’ll give hidden manna (i.e. the bread which God sent each day from the sky to feed
-        Israel) to the one who overcomes and will give him a voting ballot, one that casts a vote in his favor,
-        and one that has a new name written on the ballot, one which nobody knows except for the one receiving
-        it.’”</char><verse eid="REV 2:17" />
+        to the churches: I’ll give hidden manna (</char><char style="it"><char style="wj">i.e. the bread which
+        God sent each day from the sky to feed Israel</char></char><char style="wj">) to the one who overcomes
+        and will give him a voting ballot, one that casts a vote in his favor, and one that has a new name written
+        on the ballot</char><char style="wj">, one which nobody knows except for the one receiving it.’”</char><verse eid="REV 2:17" />
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="18" style="v" sid="REV 2:18" /><char style="wj">”Write the following to the agent in the Thyatira church:</char>
-    </para>
-    <para style="p" vid="REV 2:18"><char style="wj">“The Son of God, the one has eyes like wheels of fire which turn around and around,
-        and whose feet are the same as bronze or copper melting in a furnace, says, </char><verse eid="REV 2:18"/>
+      <verse number="18" style="v" sid="REV 2:18" /><char style="wj">”Write the following to the agent in the Thyatira church:</char></para>
+    <para style="p" vid="REV 2:18"><char style="wj">“The Son of God, the one has eyes like wheels of fire </char><char style="it"><char
+        style="wj">which turn around and around</char></char><char style="wj">, and whose feet are the same as
+        bronze or copper melting in a furnace,</char><char style="it"><char style="wj"> </char></char><char style="wj">says,
+        </char><verse eid="REV 2:18"/>
       <verse number="19" style="v" sid="REV 2:19" /><char style="wj">’I know your deeds, and the your love, your faith, that you do the right thing, and
         your perseverance, and that your deeds lately have been more abundant than the ones you did when first
         starting out. </char><verse eid="REV 2:19" />
       <verse number="20" style="v" sid="REV 2:20" /><char style="wj">That aside, I have something against you, that you allow the woman Jezebel, the one
-        who calls herself a prophetess, to do what she does. She teaches, deceives, and leads astray My Servants,
-        enticing them to commit adultery and to eat food sacrificed to idols. </char><verse eid="REV 2:20" />
+        who calls herself a prophetess, </char><char style="it"><char style="wj">to do what she does. </char></char><char
+        style="wj">She teaches, deceives, and leads astray My Servants, </char><char style="it"><char style="wj">enticing
+        them</char></char><char style="wj"> to commit adultery and to eat food sacrificed to idols. </char><verse eid="REV 2:20" />
       <verse number="21" style="v" sid="REV 2:21" /><char style="wj">I gave her a certain amount of time to have a change of heart and of ways, and she isn’t
-        willing to change from her ways of fornication. </char><verse eid="REV 2:21" />
-      <verse number="22" style="v" sid="REV 2:22" /><char style="wj">See here—I’m going to cause her to be bedfast, she and those committing adultery with
-        her—I’ll cause them to undergo an extreme ordeal, if they choose not to change their ways. </char><verse eid="REV 2:22" />
-      <verse number="23" style="v" sid="REV 2:23" /><char style="wj">And her devotees—I’ll cause them to die an awful, agonizing death. And everyone in the
-        church will put the pieces together and understand that I myself am the one who delves into and examines
-        minds and hearts, and will pay each of you all commensurate with your deeds.</char><verse eid="REV 2:23" />
+        willing to change from her </char><char style="it"><char style="wj">ways of </char></char><char style="wj">fornication.
+        </char><verse eid="REV 2:21" />
+      <verse number="22" style="v" sid="REV 2:22" /><char style="wj">See here—I’m going to cause her to be bedfast</char><char style="wj">, she and those
+        committing adultery with her—I’ll cause them to undergo an extreme ordeal, if they choose not to change
+        their ways. </char><verse eid="REV 2:22" />
+      <verse number="23" style="v" sid="REV 2:23" /><char style="wj">And her devotees</char><char style="wj">—I’ll cause them to die an awful, agonizing
+        death</char><char style="wj">. And everyone in the church will put the pieces together and understand
+        that I myself am the one who delves into and examines minds and hearts, and will pay each of you all
+        commensurate with your deeds.</char><verse eid="REV 2:23" />
     </para>
     <para style="p">
       <verse number="24" style="v" sid="REV 2:24" /><char style="wj">”’Now I say to you others in Thyatira, those who don’t adhere to her teaching, those
         in particular who haven’t had close, intimate relations (as they say) with the deep things of Satan:
-        I won’t burden you with anything more. </char><verse eid="REV 2:24" />
+        I won’t burden you with anything more</char><char style="wj">. </char><verse eid="REV 2:24" />
       <verse number="25" style="v" sid="REV 2:25" /><char style="wj">However, hold fast to what you have up until I happen to arrive. </char><verse eid="REV 2:25" />
       <verse number="26" style="v" sid="REV 2:26" /><char style="wj">And he who overcomes and he who is diligent to put into practice my deeds until it’s
         all said-and-done…</char></para>
@@ -187,70 +200,74 @@
     <para style="pi" vid="REV 2:26"><char style="wj">“’I’ll give him authority over the nations</char><verse eid="REV 2:26"/>
     </para>
     <para style="pi">
-      <verse number="27" style="v" sid="REV 2:27" /><char style="wj">And will shepherd (rule) them with an iron staff</char>
-    </para>
+      <verse number="27" style="v" sid="REV 2:27" /><char style="wj">And will shepherd (rule) them with an iron staff</char></para>
     <para style="pi" vid="REV 2:27"><char style="wj">As the clay pots are broken into pieces</char><verse eid="REV 2:27"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="28" style="v" sid="REV 2:28" /><char style="wj">”’As I too have received from my Father, I will give him the Early Morning Star (i.e.
-        Venus as it appears at night). </char><verse eid="REV 2:28" />
+      <verse number="28" style="v" sid="REV 2:28" /><char style="wj">”’As I too have received from my Father, I will give him the Early Morning Star (</char><char
+        style="it"><char style="wj">i.e. Venus as it appears at night</char></char><char style="wj">). </char><verse eid="REV 2:28" />
       <verse number="29" style="v" sid="REV 2:29" /><char style="wj">If you’re able to hear and take to heart what is said, listen to what the Spirit is
         telling the churches.’”</char><verse eid="REV 2:29" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
   <!--   **********   -->
   <chapter number="3" style="c" sid="REV 3" />
     <para style="p">
-      <verse number="1" style="v" sid="REV 3:1" /><char style="wj">”Write the following to the agent in the Sardis church:</char>
-    </para>
+      <verse number="1" style="v" sid="REV 3:1" /><char style="wj">”Write the following to the agent in the Sardis church:</char></para>
     <para style="p" vid="REV 3:1"><char style="wj">“The one who has the seven Spirits of God and the seven stars says, ‘I know your deeds,
-        that you have a reputation for being spiritually alive, but in fact you’re spiritually dead. </char><verse eid="REV 3:1"/>
+        that you have a reputation for being </char><char style="it"><char style="wj">spiritually</char></char><char
+        style="wj"> alive, but </char><char style="it"><char style="wj">in fact</char></char><char style="wj">
+        you’re </char><char style="it"><char style="wj">spiritually </char></char><char style="wj">dead</char><char
+        style="wj">. </char><verse eid="REV 3:1"/>
       <verse number="2" style="v" sid="REV 3:2" /><char style="wj">Get ahold of yourself and stay focused, and reestablish what hasn’t been affected yet
-        that’s in the process of dying out; for I do not deem your works adequate to be presented before my God
-        and undergo His intense scrutiny. </char><verse eid="REV 3:2" />
-      <verse number="3" style="v" sid="REV 3:3" /><char style="wj">So remember how it is you have come to receive and take to heart the word of God, and
-        how you have heard and complied with it all, and have a change of heart and of ways. So if you choose
-        not to stay focused, I’ll come like a thief, and there’s no way at all you’ll be able to figure out what
-        time I’ll burglarize you.</char><verse eid="REV 3:3" />
+        that’s in the process of dying out</char><char style="wj">; for I do not deem your works adequate to
+        be presented before my God and undergo His intense scrutiny</char><char style="wj">. </char><verse eid="REV 3:2" />
+      <verse number="3" style="v" sid="REV 3:3" /><char style="wj">So remember how it is you have come to receive </char><char style="it"><char style="wj">and
+        take to heart the word of God</char></char><char style="wj">, and how you have heard and complied with
+        it all, and have a change of heart and of ways</char><char style="wj">. So if you choose not to stay
+        focused, I’ll come like a thief, and there’s no way at all you’ll be able to figure out what time I’ll
+        burglarize</char><char style="wj"> you.</char><verse eid="REV 3:3" />
     </para>
     <para style="p">
       <verse number="4" style="v" sid="REV 3:4" /><char style="wj">”’That aside, you have a few reputable people in Sardis who haven’t gotten their clothing
         dirty and will walk about with me in white clothing, because they’re worthy. </char><verse eid="REV 3:4" />
       <verse number="5" style="v" sid="REV 3:5" /><char style="wj">The one who overcomes in this way will be clothed in white, and there’s no way whatsoever
-        that I’ll delete the name of such a person from the Book of Life, and I’ll confess his name before the
-        Father, in His very presence, and before His angels.</char><verse eid="REV 3:5" />
+        that I’ll delete the name </char><char style="it"><char style="wj">of such a person</char></char><char
+        style="wj"> from the Book of Life, and I’ll confess his name before the Father, in His very presence,
+        and before His angels</char><char style="wj">.</char><verse eid="REV 3:5" />
     </para>
     <para style="p">
-      <verse number="6" style="v" sid="REV 3:6" /><char style="wj">”’If you’re able to hear and take to heart what is said, listen to what the Spirit is
-        telling the churches.’”</char><verse eid="REV 3:6" />
+      <verse number="6" style="v" sid="REV 3:6" /><char style="wj">”’If you’re able to hear and take to heart what is said, listen to what</char><char
+        style="wj"> the Spirit is telling the churches.’”</char><verse eid="REV 3:6" />
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="7" style="v" sid="REV 3:7" /><char style="wj">”Write the following to the agent in the Philadelphia church:</char>
-    </para>
-    <para style="p" vid="REV 3:7"><char style="wj">“The worthy one, the true one, the one who has the David-key, the one who opens doors
-        and nobody shuts, and shuts and nobody opens, says, </char><verse eid="REV 3:7"/>
+      <verse number="7" style="v" sid="REV 3:7" /><char style="wj">”Write the following to the agent in the Philadelphia</char><char style="wj"> church:</char></para>
+    <para style="p" vid="REV 3:7"><char style="wj">“The worthy one, the true one, the one who has the David-key, the one who opens </char><char
+        style="it"><char style="wj">doors </char></char><char style="wj">and nobody shuts, and shuts and nobody
+        opens, says, </char><verse eid="REV 3:7"/>
       <verse number="8" style="v" sid="REV 3:8" /><char style="wj">‘I know your works. Take a look—I’ve given you an open door and put it right in front
-        of you, a door which no one can shut, since you have a little power and have kept my system of thought,
-        and have not denied what I stand for.</char><verse eid="REV 3:8" />
+        of you, a door which no one can shut, since you have a little power and have kept my system of thought</char><char
+        style="wj">, and have not denied what I stand for</char><char style="wj">.</char><verse eid="REV 3:8" />
     </para>
     <para style="p">
-      <verse number="9" style="v" sid="REV 3:9" /><char style="wj">Look now—I’m permitting—indeed, causing—those from the synagogue of Satan (those who
-        consider themselves to be Jews, but aren’t, but are liars instead)—look—I’ll make it so they’ll have
-        to come and humble themselves before your feet, and they’ll understand that I love you. </char><verse eid="REV 3:9" />
-      <verse number="10" style="v" sid="REV 3:10" /><char style="wj">Since you’ve adhered to what my idea of perseverance is, I too will keep you safe from
-        the moment of trial, which will put the pressure on all those who inhabit the earth and reveal what comes
-        out of them: good or bad. </char><verse eid="REV 3:10" />
+      <verse number="9" style="v" sid="REV 3:9" /><char style="wj">Look now—I’m permitting—indeed, causing</char><char style="wj">—those from the synagogue
+        of Satan (those who consider themselves to be Jews, but aren’t, but are liars instead)—look—I’ll make
+        it so they’ll have to come and humble themselves before your feet, and they’ll understand that I love
+        you. </char><verse eid="REV 3:9" />
+      <verse number="10" style="v" sid="REV 3:10" /><char style="wj">Since you’ve adhered to </char><char style="it"><char style="wj">what </char></char><char
+        style="wj">my idea of perseverance </char><char style="it"><char style="wj">is</char></char><char style="wj">,
+        I too will keep you safe from the moment of trial, which will put the pressure on all those who inhabit
+        the earth and reveal what comes out of them: good or bad. </char><verse eid="REV 3:10" />
       <verse number="11" style="v" sid="REV 3:11" /><char style="wj">I’m coming post-haste. Hold tight to what you have, so that nobody can take the victor’s
-        trophy from you. </char><verse eid="REV 3:11" />
+        trophy</char><char style="wj"> from you. </char><verse eid="REV 3:11" />
       <verse number="12" style="v" sid="REV 3:12" /><char style="wj">I’ll make him who overcomes a pillar in my God’s temple, and there’s no chance that
-        he’ll ever again leave it and be forced to stay outside. I’ll write my God’s name upon him and the name
-        of God’s city, the new Jerusalem, which is coming down out of the sky from my God, and will write my
-        New Name.</char><verse eid="REV 3:12" />
+        he’ll ever again leave it </char><char style="it"><char style="wj">and be forced to stay</char></char><char
+        style="wj"> outside. I’ll write my God’s name upon him</char><char style="wj"> and the name of God’s
+        city, the new Jerusalem, which is coming down out of the sky from my God, and will write my New Name.</char><verse eid="REV 3:12" />
     </para>
     <para style="p">
       <verse number="13" style="v" sid="REV 3:13" /><char style="wj">”’If you’re able to hear and take to heart what is said, listen to what the Spirit is
@@ -258,25 +275,27 @@
     </para>
     <para style="p" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="14" style="v" sid="REV 3:14" /><char style="wj">”Write the following to the agent in the Laodicea church:</char>
-    </para>
-    <para style="p" vid="REV 3:14"><char style="wj">“The so-be-it, the Faithful and True Witness, the beginning of God’s creation says,
-        </char><verse eid="REV 3:14"/>
+      <verse number="14" style="v" sid="REV 3:14" /><char style="wj">”Write the following to the agent in the Laodicea church:</char></para>
+    <para style="p" vid="REV 3:14"><char style="wj">“The so-be-it</char><char style="wj">, the Faithful and True Witness, the beginning
+        of God’s creation says, </char><verse eid="REV 3:14"/>
       <verse number="15" style="v" sid="REV 3:15" /><char style="wj">’I know your works, that you’re neither cold nor hot. Oh, how I’d prefer that you were
-        cold or hot, one or the other. </char><verse eid="REV 3:15" />
+        cold or hot, </char><char style="it"><char style="wj">one or the other</char></char><char style="wj">.
+        </char><verse eid="REV 3:15" />
       <verse number="16" style="v" sid="REV 3:16" /><char style="wj">The way things are, that you’re neither cold nor hot—you’re lukewarm—I’m going to spit
         you out of my mouth, </char><verse eid="REV 3:16" />
       <verse number="17" style="v" sid="REV 3:17" /><char style="wj">because you say, “I’m rich, and I’ve reached the point where I’m rich enough that I
         don’t need anything.” But you don’t know that you’re wretched, pitiable, poor, blind, and naked. </char><verse eid="REV 3:17" />
-      <verse number="18" style="v" sid="REV 3:18" /><char style="wj">I recommend that you buy gold from me which has been purified by heating it up and melting
-        it, buy white clothing from me so that you can cover your body with it, and the shame caused by your
-        nakedness won’t be publicized, and buy eye ointment from me to rub on your eyes so you’ll be able to
-        see. </char><verse eid="REV 3:18" />
+      <verse number="18" style="v" sid="REV 3:18" /><char style="wj">I recommend that you buy gold from me</char><char style="wj"> which has been purified
+        by heating it up and melting it, buy white clothing from me so that you can cover your body with it,
+        and the shame caused by your nakedness won’t be publicized, and buy eye ointment from me to rub on your
+        eyes so you’ll be able to see. </char><verse eid="REV 3:18" />
       <verse number="19" style="v" sid="REV 3:19" /><char style="wj">As many as I happen to take a liking to, I point out their flaws and correct them the
         way a parent would a child. So be eager to have a change of heart and of ways. </char><verse eid="REV 3:19" />
-      <verse number="20" style="v" sid="REV 3:20" /><char style="wj">See here—I’m standing at the door and knocking. If someone happens to hear my knocking
-        sound and open the door, I’ll enter on into his home and have an enjoyable dinner with him, and he’ll
-        do the same with me. </char><verse eid="REV 3:20" />
+      <verse number="20" style="v" sid="REV 3:20" /><char style="wj">See here—I’m standing at the door and knocking. If someone happens to hear my </char><char
+        style="it"><char style="wj">knocking </char></char><char style="wj">sound and open the door, I’ll enter
+        on into his home and have </char><char style="it"><char style="wj">an enjoyable </char></char><char style="wj">dinner
+        with him, and he’ll </char><char style="it"><char style="wj">do the same</char></char><char style="wj">
+        with me. </char><verse eid="REV 3:20" />
       <verse number="21" style="v" sid="REV 3:21" /><char style="wj">To the overcomer I’ll grant that he be seated with me by my throne, as I too have conquered
         and have overcome and was seated with my Father by His throne.</char><verse eid="REV 3:21" />
     </para>
@@ -284,7 +303,6 @@
       <verse number="22" style="v" sid="REV 3:22" /><char style="wj">”’If you’re able to hear and take to heart what is said, listen to what the Spirit is
         telling the churches.’”</char><verse eid="REV 3:22" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -302,8 +320,7 @@
         elders dressed in white and upon their heads were golden laurels, victors’ crowns. <verse eid="REV 4:4" />
       <verse number="5" style="v" sid="REV 4:5" />Out of the one throne came thunder and lightning. Seven lamps of fire burned before the throne, and these
         are the seven Spirits of God. <verse eid="REV 4:5" />
-      <verse number="6" style="v" sid="REV 4:6" />And before the throne there was a glass lake like crystal.
-    </para>
+      <verse number="6" style="v" sid="REV 4:6" />And before the throne there was a glass lake like crystal.</para>
     <para style="p" vid="REV 4:6">In the midst of the throne and around the throne were four animal-like creatures, with eyes all over
         them on the front and on the back. <verse eid="REV 4:6"/>
       <verse number="7" style="v" sid="REV 4:7" />The first creature was like a lion, the second like a calf, the third had the face of a man, the fourth
@@ -324,14 +341,12 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="11" style="v" sid="REV 4:11" />You are worthy, our Lord God
-    </para>
+      <verse number="11" style="v" sid="REV 4:11" />You are worthy, our Lord God</para>
     <para style="pi" vid="REV 4:11">To receive the glory, the honor, and the power</para>
     <para style="pi" vid="REV 4:11">Because You created all things</para>
     <para style="pi" vid="REV 4:11">And by means of Your will</para>
     <para style="pi" vid="REV 4:11">They were determined to be and were created<verse eid="REV 4:11"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -356,8 +371,7 @@
       <verse number="8" style="v" sid="REV 5:8" />and when he took the scroll, the four creatures and the twenty-four elders fell and prostrated themselves
         before the lamb, each of them having a harp and a golden vial of incense, which are the prayers of those
         who are holy. <verse eid="REV 5:8" />
-      <verse number="9" style="v" sid="REV 5:9" />And they sing a new song saying in it,
-    </para>
+      <verse number="9" style="v" sid="REV 5:9" />And they sing a new song saying in it,</para>
     <para style="pi" vid="REV 5:9"></para>
     <para style="pi" vid="REV 5:9">You are worthy to take the scroll</para>
     <para style="pi" vid="REV 5:9">And to break open its seals</para>
@@ -366,16 +380,14 @@
     <para style="pi" vid="REV 5:9">From among every clan, language, culture, and ethnicity.<verse eid="REV 5:9"/>
     </para>
     <para style="pi">
-      <verse number="10" style="v" sid="REV 5:10" />And you made them into a priestly kingdom for our God,
-    </para>
+      <verse number="10" style="v" sid="REV 5:10" />And you made them into a priestly kingdom for our God,</para>
     <para style="pi" vid="REV 5:10">And they will reign upon the earth.<verse eid="REV 5:10"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
       <verse number="11" style="v" sid="REV 5:11" />I looked and heard a sound of many angels surrounding the throne and of the creatures and elders. There
         were millions and millions and billions and billions in number, <verse eid="REV 5:11" />
-      <verse number="12" style="v" sid="REV 5:12" />all saying in a loud voice,
-    </para>
+      <verse number="12" style="v" sid="REV 5:12" />all saying in a loud voice,</para>
     <para style="pi" vid="REV 5:12"></para>
     <para style="pi" vid="REV 5:12">Worthy is the slain lamb to receive</para>
     <para style="pi" vid="REV 5:12">The power and wealth and wisdom and strength</para>
@@ -395,7 +407,6 @@
       <verse number="14" style="v" sid="REV 5:14" />The four creatures proceeded to say, “So be it,” and the elders fell and prostrated themselves and offered
         up worship.<verse eid="REV 5:14" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->
@@ -446,7 +457,6 @@
         attention of the One sitting on the throne and from the wrath of the lamb, <verse eid="REV 6:16" />
       <verse number="17" style="v" sid="REV 6:17" />because the Great Day of their wrath has arrived, and who can withstand it?”<verse eid="REV 6:17" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 6" />
   <!--   **********   -->
   <!--   Chapter  7   -->
@@ -464,26 +474,22 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="5" style="v" sid="REV 7:5" />From the tribe of Judah: 12,000
-    </para>
+      <verse number="5" style="v" sid="REV 7:5" />From the tribe of Judah: 12,000</para>
     <para style="pi" vid="REV 7:5">From the tribe of Reuben: 12,000</para>
     <para style="pi" vid="REV 7:5">From the tribe of Gad: 12,000<verse eid="REV 7:5"/>
     </para>
     <para style="pi">
-      <verse number="6" style="v" sid="REV 7:6" />From the tribe of Asher: 12,000
-    </para>
+      <verse number="6" style="v" sid="REV 7:6" />From the tribe of Asher: 12,000</para>
     <para style="pi" vid="REV 7:6">From the tribe of Naphtali: 12,000</para>
     <para style="pi" vid="REV 7:6">From the tribe of Manasseh: 12,000<verse eid="REV 7:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="REV 7:7" />From the tribe of Simeon: 12,000
-    </para>
+      <verse number="7" style="v" sid="REV 7:7" />From the tribe of Simeon: 12,000</para>
     <para style="pi" vid="REV 7:7">From the tribe of Levi: 12,000</para>
     <para style="pi" vid="REV 7:7">From the tribe of Issachar: 12,000<verse eid="REV 7:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="REV 7:8" />From the tribe of Zebulon: 12,000
-    </para>
+      <verse number="8" style="v" sid="REV 7:8" />From the tribe of Zebulon: 12,000</para>
     <para style="pi" vid="REV 7:8">From the tribe of Joseph: 12,000</para>
     <para style="pi" vid="REV 7:8">From the tribe of Benjamin: 12,000<verse eid="REV 7:8"/>
     </para>
@@ -492,8 +498,7 @@
       <verse number="9" style="v" sid="REV 7:9" />After these things I looked and—like that—a large crowd, the size of which is unknown, from every ethnicity,
         clan, culture, and language was brought to stand before the throne and before the lamb, and they were
         clothed in white robes and had palm branches in their hands, <verse eid="REV 7:9" />
-      <verse number="10" style="v" sid="REV 7:10" />and were crying out in a loud voice,
-    </para>
+      <verse number="10" style="v" sid="REV 7:10" />and were crying out in a loud voice,</para>
     <para style="pi" vid="REV 7:10"></para>
     <para style="pi" vid="REV 7:10">The protection we enjoy we attribute to our God</para>
     <para style="pi" vid="REV 7:10">Who’s seated upon the throne</para>
@@ -503,8 +508,7 @@
     <para style="m">
       <verse number="11" style="v" sid="REV 7:11" />And all the angels who were stood around the throne, the elders, and the four creatures fell on their
         faces before God and worshipped Him <verse eid="REV 7:11" />
-      <verse number="12" style="v" sid="REV 7:12" />saying,
-    </para>
+      <verse number="12" style="v" sid="REV 7:12" />saying,</para>
     <para style="pi" vid="REV 7:12"></para>
     <para style="pi" vid="REV 7:12">We heartily agree:</para>
     <para style="pi" vid="REV 7:12">The blessing, the glory, the wisdom, the thanksgiving,</para>
@@ -514,20 +518,17 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="13" style="v" sid="REV 7:13" />One of the elders reflected upon this and said to me,
-    </para>
+      <verse number="13" style="v" sid="REV 7:13" />One of the elders reflected upon this and said to me,</para>
     <para style="p" vid="REV 7:13">“These people who are wearing the white robes—who are they and what are they all about?”<verse eid="REV 7:13"/>
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="REV 7:14" />I told him, “My good fellow, you know the answer.”
-    </para>
+      <verse number="14" style="v" sid="REV 7:14" />I told him, “My good fellow, you know the answer.”</para>
     <para style="p" vid="REV 7:14">And he told me, “These are the ones coming out of the Great Tribulation and who have washed their robes
         by bleaching them in the blood of the lamb.”<verse eid="REV 7:14"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="15" style="v" sid="REV 7:15" />Because of this they are before God’s throne
-    </para>
+      <verse number="15" style="v" sid="REV 7:15" />Because of this they are before God’s throne</para>
     <para style="pi" vid="REV 7:15">In His very presence, the center of His attention</para>
     <para style="pi" vid="REV 7:15">And perform a worship of religious service to Him</para>
     <para style="pi" vid="REV 7:15">Day and night in His temple.</para>
@@ -535,19 +536,16 @@
     <para style="pi" vid="REV 7:15">Will set up camp among them.<verse eid="REV 7:15"/>
     </para>
     <para style="pi">
-      <verse number="16" style="v" sid="REV 7:16" />They will not ever again hunger or thirst,
-    </para>
+      <verse number="16" style="v" sid="REV 7:16" />They will not ever again hunger or thirst,</para>
     <para style="pi" vid="REV 7:16">Nor will the sun beat down upon them</para>
     <para style="pi" vid="REV 7:16">Nor any scorching heat,<verse eid="REV 7:16"/>
     </para>
     <para style="pi">
-      <verse number="17" style="v" sid="REV 7:17" />Because the lamb on high in the midst of the throne
-    </para>
+      <verse number="17" style="v" sid="REV 7:17" />Because the lamb on high in the midst of the throne</para>
     <para style="pi" vid="REV 7:17">Shepherds them and will take them</para>
     <para style="pi" vid="REV 7:17">Down a path to a spring of living water,</para>
     <para style="pi" vid="REV 7:17">And God has wiped every tear away from their eyes.<verse eid="REV 7:17"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 7" />
   <!--   **********   -->
   <!--   Chapter  8   -->
@@ -593,7 +591,6 @@
         woe, woe to the inhabitants of the Earth from the sounds of the remaining trumpets which the three angels
         are going to blow.<verse eid="REV 8:13" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 8" />
   <!--   **********   -->
   <!--   Chapter  9   -->
@@ -650,7 +647,6 @@
         can neither see, hear, or walk around. <verse eid="REV 9:20" />
       <verse number="21" style="v" sid="REV 9:21" />They wouldn’t repent of their murders, their recreational drug use, their fornication, or their thievery.<verse eid="REV 9:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 9" />
   <!--   **********   -->
   <!--   Chapter 10   -->
@@ -684,7 +680,6 @@
         mouth, but when I swallowed it, it upset my stomach. <verse eid="REV 10:10" />
       <verse number="11" style="v" sid="REV 10:11" />They then tell me, “You must yet again prophesy in about many cultures, ethnicities, languages, and kings.”<verse eid="REV 10:11" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 10" />
   <!--   **********   -->
   <!--   Chapter 11   -->
@@ -730,8 +725,7 @@
       <verse number="14" style="v" sid="REV 11:14" />The second woe is over; look out—the third woe comes right on its heels!<verse eid="REV 11:14" />
     </para>
     <para style="p">
-      <verse number="15" style="v" sid="REV 11:15" />The seventh angel blew his trumpet, and loud voices started to be heard in heaven saying,
-    </para>
+      <verse number="15" style="v" sid="REV 11:15" />The seventh angel blew his trumpet, and loud voices started to be heard in heaven saying,</para>
     <para style="pi" vid="REV 11:15"></para>
     <para style="pi" vid="REV 11:15">The kingdom of the established order of our Lord</para>
     <para style="pi" vid="REV 11:15">Has come to pass,</para>
@@ -742,8 +736,7 @@
     <para style="p">
       <verse number="16" style="v" sid="REV 11:16" />The twenty-four elders who are seated upon their thrones before God fell on their faces and worshipped
         God <verse eid="REV 11:16" />
-      <verse number="17" style="v" sid="REV 11:17" />saying,
-    </para>
+      <verse number="17" style="v" sid="REV 11:17" />saying,</para>
     <para style="pi" vid="REV 11:17"></para>
     <para style="pi" vid="REV 11:17">We thank you Lord God Almighty</para>
     <para style="pi" vid="REV 11:17">Who is and Who was,</para>
@@ -751,8 +744,7 @@
     <para style="pi" vid="REV 11:17">And have begun to reign with it.<verse eid="REV 11:17"/>
     </para>
     <para style="pi">
-      <verse number="18" style="v" sid="REV 11:18" />And the nations became enraged,
-    </para>
+      <verse number="18" style="v" sid="REV 11:18" />And the nations became enraged,</para>
     <para style="pi" vid="REV 11:18">And Your wrath came,</para>
     <para style="pi" vid="REV 11:18">And with it the right time for the dead to be judged</para>
     <para style="pi" vid="REV 11:18">And to give to Your servants the prophets</para>
@@ -767,7 +759,6 @@
       <verse number="19" style="v" sid="REV 11:19" />God’s heavenly temple was opened, the ark of His covenant was seen in His temple, and thunder and lightning,
         earthquakes, and hailstone occurred.<verse eid="REV 11:19" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 11" />
   <!--   **********   -->
   <!--   Chapter 12   -->
@@ -795,8 +786,7 @@
       <verse number="9" style="v" sid="REV 12:9" />and the Great Dragon, the Ancient Serpent, the one called “Slanderer” (i.e. “the Devil”)—yes indeed:
         Satan—the one who deceives the entire inhabited world—he was driven to the Earth, and his angels too
         were driven out with him. <verse eid="REV 12:9" />
-      <verse number="10" style="v" sid="REV 12:10" />I heard a loud voice in heaven saying,
-    </para>
+      <verse number="10" style="v" sid="REV 12:10" />I heard a loud voice in heaven saying,</para>
     <para style="pi" vid="REV 12:10"></para>
     <para style="pi" vid="REV 12:10">The end of our misery, the security, the power,</para>
     <para style="pi" vid="REV 12:10">The kingdom of our God,</para>
@@ -806,15 +796,13 @@
     <para style="pi" vid="REV 12:10">The one who accuses them before our God day and night.<verse eid="REV 12:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="REV 12:11" />And they defeated him by means of the lamb’s blood
-    </para>
+      <verse number="11" style="v" sid="REV 12:11" />And they defeated him by means of the lamb’s blood</para>
     <para style="pi" vid="REV 12:11">And the logic of his solemn declaration.</para>
     <para style="pi" vid="REV 12:11">They didn’t love their life</para>
     <para style="pi" vid="REV 12:11">Even to the point of death.<verse eid="REV 12:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="REV 12:12" />On account of this be glad:
-    </para>
+      <verse number="12" style="v" sid="REV 12:12" />On account of this be glad:</para>
     <para style="pi" vid="REV 12:12">You the sky, the atmosphere, outer space, and heaven</para>
     <para style="pi" vid="REV 12:12">And those who are camped out in you—</para>
     <para style="pi" vid="REV 12:12">Woe to the land and sea</para>
@@ -837,7 +825,6 @@
     <para style="p">
       <verse number="18" style="v" sid="REV 12:18" />And the dragon stood on the seashore…<verse eid="REV 12:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 12" />
   <!--   **********   -->
   <!--   Chapter 13   -->
@@ -870,8 +857,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="10" style="v" sid="REV 13:10" />If someone is destined to captivity,
-    </para>
+      <verse number="10" style="v" sid="REV 13:10" />If someone is destined to captivity,</para>
     <para style="pi" vid="REV 13:10">To captivity he heads.</para>
     <para style="pi" vid="REV 13:10">If someone is to be killed by a sword,</para>
     <para style="pi" vid="REV 13:10">Killed by a sword he will.</para>
@@ -899,7 +885,6 @@
       <verse number="18" style="v" sid="REV 13:18" />Here’s the tricky part: let he who’s mentally proficient in dealing with large numbers count the beast’s
         number, for it is a man’s number, and his number is 666.<verse eid="REV 13:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 13" />
   <!--   **********   -->
   <!--   Chapter 14   -->
@@ -965,7 +950,6 @@
       <verse number="20" style="v" sid="REV 14:20" />The winepress was tread outside the city, and blood flowed out of the winepress creating a stream about
         shoulder-high and stretching out 200 miles/300 km.<verse eid="REV 14:20" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 14" />
   <!--   **********   -->
   <!--   Chapter 15   -->
@@ -979,8 +963,7 @@
       <verse number="2" style="v" sid="REV 15:2" />I saw something like a glass sea mixed with flames, and the ones who prevailed against the onslaught
         of the beast, against his replica, and against the number of his name standing there at the glass sea,
         in possession of God’s harps. <verse eid="REV 15:2" />
-      <verse number="3" style="v" sid="REV 15:3" />They sang the song of Moses, the servant of God, and the song of the lamb saying,
-    </para>
+      <verse number="3" style="v" sid="REV 15:3" />They sang the song of Moses, the servant of God, and the song of the lamb saying,</para>
     <para style="pi" vid="REV 15:3"></para>
     <para style="pi" vid="REV 15:3">Great and Marvelous are Your works,</para>
     <para style="pi" vid="REV 15:3">Lord God Almighty,</para>
@@ -988,8 +971,7 @@
     <para style="pi" vid="REV 15:3">King of the nations.<verse eid="REV 15:3"/>
     </para>
     <para style="pi">
-      <verse number="4" style="v" sid="REV 15:4" />Who does not fear and reverence You
-    </para>
+      <verse number="4" style="v" sid="REV 15:4" />Who does not fear and reverence You</para>
     <para style="pi" vid="REV 15:4">To the utmost extent,</para>
     <para style="pi" vid="REV 15:4">To the point of fearing you, Lord?</para>
     <para style="pi" vid="REV 15:4">Because You alone are pious</para>
@@ -1007,7 +989,6 @@
       <verse number="8" style="v" sid="REV 15:8" />The temple was filled up with smoke, and the source of the smoke is God’s glory and His power. No one
         was able to enter the temple until the seven plagues of the seven angels happened to finish.<verse eid="REV 15:8" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 15" />
   <!--   **********   -->
   <!--   Chapter 16   -->
@@ -1028,22 +1009,19 @@
     <para style="p">
       <verse number="4" style="v" sid="REV 16:4" />The third one poured out his bowl on the rivers and on the springs of water, and the water turned into
         blood. <verse eid="REV 16:4" />
-      <verse number="5" style="v" sid="REV 16:5" />I heard the angel who affected the waters say,
-    </para>
+      <verse number="5" style="v" sid="REV 16:5" />I heard the angel who affected the waters say,</para>
     <para style="pi" vid="REV 16:5"></para>
     <para style="pi" vid="REV 16:5">You are correct</para>
     <para style="pi" vid="REV 16:5">You Who is and Who was—You Who are pious,<verse eid="REV 16:5"/>
     </para>
     <para style="pi">
-      <verse number="6" style="v" sid="REV 16:6" />Because saints’ and prophets’ blood has been spilled,
-    </para>
+      <verse number="6" style="v" sid="REV 16:6" />Because saints’ and prophets’ blood has been spilled,</para>
     <para style="pi" vid="REV 16:6">And You’ve given them blood to drink up.</para>
     <para style="pi" vid="REV 16:6">They deserve it.<verse eid="REV 16:6"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="7" style="v" sid="REV 16:7" />And from the altar I heard someone say,
-    </para>
+      <verse number="7" style="v" sid="REV 16:7" />And from the altar I heard someone say,</para>
     <para style="pi" vid="REV 16:7"></para>
     <para style="p" vid="REV 16:7">Yes indeed, Lord God Almighty</para>
     <para style="p" vid="REV 16:7">True and correct are Your judgments<verse eid="REV 16:7"/>
@@ -1072,8 +1050,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="15" style="v" sid="REV 16:15" />See here now: I’m coming like a thief.
-    </para>
+      <verse number="15" style="v" sid="REV 16:15" />See here now: I’m coming like a thief.</para>
     <para style="pi" vid="REV 16:15">Blessed is he who stays focused</para>
     <para style="pi" vid="REV 16:15">And retains his clothing</para>
     <para style="pi" vid="REV 16:15">So that he won’t walk about naked</para>
@@ -1096,7 +1073,6 @@
         of the plague of hail, the human race blasphemed God, since the plague in and of itself was severe—really
         severe.<verse eid="REV 16:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 16" />
   <!--   **********   -->
   <!--   Chapter 17   -->
@@ -1147,7 +1123,6 @@
         to give their kingdom to the beast, until such a time that God’s ideas be completed. <verse eid="REV 17:17" />
       <verse number="18" style="v" sid="REV 17:18" />And the woman which you saw is the Great City which has a kingdom built upon the kings of the Earth.<verse eid="REV 17:18" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 17" />
   <!--   **********   -->
   <!--   Chapter 18   -->
@@ -1156,8 +1131,7 @@
     <para style="p">
       <verse number="1" style="v" sid="REV 18:1" />After these things happened, I saw another angel come down out of the sky, one who has great authority
         and power, and the Earth was illuminated by his majestic splendor. <verse eid="REV 18:1" />
-      <verse number="2" style="v" sid="REV 18:2" />He cried out in a loud voice,
-    </para>
+      <verse number="2" style="v" sid="REV 18:2" />He cried out in a loud voice,</para>
     <para style="pi" vid="REV 18:2"></para>
     <para style="pi" vid="REV 18:2">Fallen! Fallen is Babylon the Great!</para>
     <para style="pi" vid="REV 18:2">She has become the haunt of harassing spirits</para>
@@ -1167,8 +1141,7 @@
     <para style="pi" vid="REV 18:2">And of all things people have come to hate,<verse eid="REV 18:2"/>
     </para>
     <para style="pi">
-      <verse number="3" style="v" sid="REV 18:3" />Because all the nations have gotten drunk
-    </para>
+      <verse number="3" style="v" sid="REV 18:3" />Because all the nations have gotten drunk</para>
     <para style="pi" vid="REV 18:3">On the wine of her fornication,</para>
     <para style="pi" vid="REV 18:3">And the kings of the Earth have fornicated with her,</para>
     <para style="pi" vid="REV 18:3">And the merchants of the Earth have gotten rich</para>
@@ -1176,8 +1149,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="4" style="v" sid="REV 18:4" />And I heard another voice speaking from the sky,
-    </para>
+      <verse number="4" style="v" sid="REV 18:4" />And I heard another voice speaking from the sky,</para>
     <para style="pi" vid="REV 18:4"></para>
     <para style="pi" vid="REV 18:4">Come out, my people, from her</para>
     <para style="pi" vid="REV 18:4">So that you don’t partner with her,</para>
@@ -1185,22 +1157,19 @@
     <para style="pi" vid="REV 18:4">And that you don’t receive a dose of her plagues,<verse eid="REV 18:4"/>
     </para>
     <para style="pi">
-      <verse number="5" style="v" sid="REV 18:5" />Because her sins have piled up
-    </para>
+      <verse number="5" style="v" sid="REV 18:5" />Because her sins have piled up</para>
     <para style="pi" vid="REV 18:5">All the way to the sky,</para>
     <para style="pi" vid="REV 18:5">And God has remembered her wrong-doings.<verse eid="REV 18:5"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="6" style="v" sid="REV 18:6" />Pay her back the way she dished it out to you,
-    </para>
+      <verse number="6" style="v" sid="REV 18:6" />Pay her back the way she dished it out to you,</para>
     <para style="pi" vid="REV 18:6">And up the ante according to her deeds.</para>
     <para style="pi" vid="REV 18:6">Using the same cup she did her mixing in,</para>
     <para style="pi" vid="REV 18:6">Mix a cocktail for her which is twice as concentrated.<verse eid="REV 18:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="REV 18:7" />So much as it glorified her
-    </para>
+      <verse number="7" style="v" sid="REV 18:7" />So much as it glorified her</para>
     <para style="pi" vid="REV 18:7">And made her revel in luxury,</para>
     <para style="pi" vid="REV 18:7">Give such torment and mourning as that to her.</para>
     <para style="pi" vid="REV 18:7"></para>
@@ -1210,8 +1179,7 @@
     <para style="pi" vid="REV 18:7">There’s no way at all that I’ll experience mourning”—<verse eid="REV 18:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="REV 18:8" />On account of this,
-    </para>
+      <verse number="8" style="v" sid="REV 18:8" />On account of this,</para>
     <para style="pi" vid="REV 18:8">Her plagues will arrive in one day:</para>
     <para style="pi" vid="REV 18:8">Death, mourning, and famine.</para>
     <para style="pi" vid="REV 18:8">She’ll be purged thoroughly by fire</para>
@@ -1222,8 +1190,7 @@
     <para style="p">
       <verse number="9" style="v" sid="REV 18:9" />The kings of the Earth will weep and thump their chests in mourning over her, those who fornicated with
         her and reveled in her luxury, when they eventually see the smoke of her conflagration, <verse eid="REV 18:9" />
-      <verse number="10" style="v" sid="REV 18:10" />while standing far back because they’re terrified of her torment, saying,
-    </para>
+      <verse number="10" style="v" sid="REV 18:10" />while standing far back because they’re terrified of her torment, saying,</para>
     <para style="pi" vid="REV 18:10"></para>
     <para style="pi" vid="REV 18:10">Woe! Woe to the Great City!</para>
     <para style="pi" vid="REV 18:10">The Mighty City Babylon—</para>
@@ -1241,8 +1208,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="14" style="v" sid="REV 18:14" />And the large pieces of fruit that come in late-summer
-    </para>
+      <verse number="14" style="v" sid="REV 18:14" />And the large pieces of fruit that come in late-summer</para>
     <para style="pi" vid="REV 18:14">Consisting of your soul’s desire</para>
     <para style="pi" vid="REV 18:14">Departed from you,</para>
     <para style="pi" vid="REV 18:14">And all the sumptuous and splendid things</para>
@@ -1254,8 +1220,7 @@
     <para style="m">
       <verse number="15" style="v" sid="REV 18:15" />Those who trade in these things, the merchants who got rich off her, will stand far back because they’re
         terrified of her torment, <verse eid="REV 18:15" />
-      <verse number="16" style="v" sid="REV 18:16" />saying,
-    </para>
+      <verse number="16" style="v" sid="REV 18:16" />saying,</para>
     <para style="pi" vid="REV 18:16"></para>
     <para style="pi" vid="REV 18:16">Woe! Woe to the Great City!</para>
     <para style="pi" vid="REV 18:16">Clothed in fine linen, in luxurious scarlet,</para>
@@ -1268,8 +1233,7 @@
         and sailors and whoever works in the boating industry stood far back <verse eid="REV 18:17" />
       <verse number="18" style="v" sid="REV 18:18" />and, upon seeing the smoke of her conflagration, shouted, “Have you ever seen anyone annihilated the
         same way as the Great City was?” <verse eid="REV 18:18" />
-      <verse number="19" style="v" sid="REV 18:19" />Weeping and mourning, they poured dirt on their heads and cried out,
-    </para>
+      <verse number="19" style="v" sid="REV 18:19" />Weeping and mourning, they poured dirt on their heads and cried out,</para>
     <para style="pi" vid="REV 18:19"></para>
     <para style="pi" vid="REV 18:19">Woe! Woe to the Great City!</para>
     <para style="pi" vid="REV 18:19">Everyone who put ships out to sea got rich</para>
@@ -1277,16 +1241,14 @@
     <para style="pi" vid="REV 18:19">Because in one hour she has been wiped out.<verse eid="REV 18:19"/>
     </para>
     <para style="pi">
-      <verse number="20" style="v" sid="REV 18:20" />Rejoice over her, sky and heaven
-    </para>
+      <verse number="20" style="v" sid="REV 18:20" />Rejoice over her, sky and heaven</para>
     <para style="pi" vid="REV 18:20">And saints, apostles, and prophets,</para>
     <para style="pi" vid="REV 18:20">Because the justice that we’re owed from her,</para>
     <para style="pi" vid="REV 18:20">God in His judgment has applied to her.<verse eid="REV 18:20"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="21" style="v" sid="REV 18:21" />An angel who is strong took a stone the size of a large millstone and slammed it into the sea saying,
-    </para>
+      <verse number="21" style="v" sid="REV 18:21" />An angel who is strong took a stone the size of a large millstone and slammed it into the sea saying,</para>
     <para style="pi" vid="REV 18:21"></para>
     <para style="pi" vid="REV 18:21">In the same kind of swift, sudden, convulsive slam</para>
     <para style="pi" vid="REV 18:21">As this stone was thrown</para>
@@ -1294,8 +1256,7 @@
     <para style="pi" vid="REV 18:21">And has not yet been found—not a trace.<verse eid="REV 18:21"/>
     </para>
     <para style="pi">
-      <verse number="22" style="v" sid="REV 18:22" />And any sound of harp players
-    </para>
+      <verse number="22" style="v" sid="REV 18:22" />And any sound of harp players</para>
     <para style="pi" vid="REV 18:22">And their accompanying band of musicians</para>
     <para style="pi" vid="REV 18:22">And flute players and trumpet players</para>
     <para style="pi" vid="REV 18:22">And every artisan from every form of art</para>
@@ -1305,8 +1266,7 @@
     <para style="pi" vid="REV 18:22">Could not be heard in you—not even a trace,<verse eid="REV 18:22"/>
     </para>
     <para style="pi">
-      <verse number="23" style="v" sid="REV 18:23" />And a lamp’s light
-    </para>
+      <verse number="23" style="v" sid="REV 18:23" />And a lamp’s light</para>
     <para style="pi" vid="REV 18:23">Won’t shine yet again in you—</para>
     <para style="pi" vid="REV 18:23">Not a chance,</para>
     <para style="pi" vid="REV 18:23">And the sound of a bride and groom together</para>
@@ -1320,28 +1280,24 @@
     <para style="pi" vid="REV 18:23">And you have led them down the primrose path.<verse eid="REV 18:23"/>
     </para>
     <para style="pi">
-      <verse number="24" style="v" sid="REV 18:24" />The prophets’ and saints’ blood
-    </para>
+      <verse number="24" style="v" sid="REV 18:24" />The prophets’ and saints’ blood</para>
     <para style="pi" vid="REV 18:24">Has been found in her, and the blood</para>
     <para style="pi" vid="REV 18:24">Of all those who’ve been slain upon the Earth.<verse eid="REV 18:24"/>
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 18" />
   <!--   **********   -->
   <!--   Chapter 19   -->
   <!--   **********   -->
   <chapter number="19" style="c" sid="REV 19" />
     <para style="p">
-      <verse number="1" style="v" sid="REV 19:1" />After these things happened, I heard what sounded like the voice of an enormous crowd in heaven saying,
-    </para>
+      <verse number="1" style="v" sid="REV 19:1" />After these things happened, I heard what sounded like the voice of an enormous crowd in heaven saying,</para>
     <para style="pi" vid="REV 19:1"></para>
     <para style="pi" vid="REV 19:1">Hallelujah! (praise be to God)</para>
     <para style="pi" vid="REV 19:1">For protecting us,</para>
     <para style="pi" vid="REV 19:1">For the glory and the power of our God,<verse eid="REV 19:1"/>
     </para>
     <para style="pi">
-      <verse number="2" style="v" sid="REV 19:2" />Because His judgments are absolutely correct in their truth,
-    </para>
+      <verse number="2" style="v" sid="REV 19:2" />Because His judgments are absolutely correct in their truth,</para>
     <para style="pi" vid="REV 19:2">Because He’s judged the Great Harlot</para>
     <para style="pi" vid="REV 19:2">Who ruined the Earth</para>
     <para style="pi" vid="REV 19:2">By polluting it with her fornication</para>
@@ -1350,8 +1306,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="3" style="v" sid="REV 19:3" />They completed what they had spoken by speaking a second time,
-    </para>
+      <verse number="3" style="v" sid="REV 19:3" />They completed what they had spoken by speaking a second time,</para>
     <para style="pi" vid="REV 19:3"></para>
     <para style="pi" vid="REV 19:3">Hallelujah!</para>
     <para style="pi" vid="REV 19:3">Her smoke billows up and billows up forever and ever.<verse eid="REV 19:3"/>
@@ -1365,8 +1320,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="5" style="v" sid="REV 19:5" />And a voice issued forth from the throne saying,
-    </para>
+      <verse number="5" style="v" sid="REV 19:5" />And a voice issued forth from the throne saying,</para>
     <para style="pi" vid="REV 19:5"></para>
     <para style="pi" vid="REV 19:5">Praise our God</para>
     <para style="pi" vid="REV 19:5">All His servants</para>
@@ -1382,22 +1336,19 @@
     <para style="pi" vid="REV 19:6">Because our Lord God Almighty reigns.<verse eid="REV 19:6"/>
     </para>
     <para style="pi">
-      <verse number="7" style="v" sid="REV 19:7" />Let us rejoice and be glad
-    </para>
+      <verse number="7" style="v" sid="REV 19:7" />Let us rejoice and be glad</para>
     <para style="pi" vid="REV 19:7">And give Him the glory,</para>
     <para style="pi" vid="REV 19:7">Because the time has arrived for the lamb’s marriage,</para>
     <para style="pi" vid="REV 19:7">And his bride-to-be has prepared herself,<verse eid="REV 19:7"/>
     </para>
     <para style="pi">
-      <verse number="8" style="v" sid="REV 19:8" />And she was given bright, clean, fine linen to put on:
-    </para>
+      <verse number="8" style="v" sid="REV 19:8" />And she was given bright, clean, fine linen to put on:</para>
     <para style="pi" vid="REV 19:8">You see, the linen is the righteous deeds</para>
     <para style="pi" vid="REV 19:8">Of the set-apart-people.<verse eid="REV 19:8"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="p">
-      <verse number="9" style="v" sid="REV 19:9" />He then tells me, “Write this down: Blessed are those who’ve been invited to the lamb’s marriage dinner.”
-    </para>
+      <verse number="9" style="v" sid="REV 19:9" />He then tells me, “Write this down: Blessed are those who’ve been invited to the lamb’s marriage dinner.”</para>
     <para style="p" vid="REV 19:9">He continues, “These words are truly from God.”<verse eid="REV 19:9"/>
     </para>
     <para style="p">
@@ -1432,7 +1383,6 @@
       <verse number="21" style="v" sid="REV 19:21" />The remainder were killed by the Thracian sword that comes out of the mouth of the one mounted on the
         horse, and all of the previously mentioned birds ate their flesh until they were too full to eat anymore.<verse eid="REV 19:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 19" />
   <!--   **********   -->
   <!--   Chapter 20   -->
@@ -1482,7 +1432,6 @@
       <verse number="15" style="v" sid="REV 20:15" />And if any given person’s name wasn’t found written in the Book of Life, he was thrown into the Lake
         of Fire.<verse eid="REV 20:15" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 20" />
   <!--   **********   -->
   <!--   Chapter 21   -->
@@ -1549,7 +1498,6 @@
         who lies about doing detestable things—only those who’ve been written in the lamb’s Book of Life may
         enter.<verse eid="REV 21:27" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 21" />
   <!--   **********   -->
   <!--   Chapter 22   -->
@@ -1568,8 +1516,7 @@
         Lord God will provide illumination for them and will reign forever and ever.<verse eid="REV 22:5" />
     </para>
     <para style="p">
-      <verse number="6" style="v" sid="REV 22:6" />He told me, “These here words are ever true in their faithfulness.”
-    </para>
+      <verse number="6" style="v" sid="REV 22:6" />He told me, “These here words are ever true in their faithfulness.”</para>
     <para style="p" vid="REV 22:6">The Lord, the God of the prophetic utterances of the prophets, sent His angel to show His servants what
         must come to pass post-haste.<verse eid="REV 22:6"/>
     </para>
@@ -1592,7 +1539,8 @@
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
       <verse number="12" style="v" sid="REV 22:12" /><char style="wj">See here—I’m coming post-haste. I have cash on hand to pay each person according to
-        the work he’s done for the day. </char><verse eid="REV 22:12" />
+        the work he’s done </char><char style="it"><char style="wj">for the day</char></char><char style="wj">.</char><char
+        style="wj"> </char><verse eid="REV 22:12" />
       <verse number="13" style="v" sid="REV 22:13" /><char style="wj">I am the A-Z, the first and the last, beginning and the end.</char><verse eid="REV 22:13" />
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -1605,7 +1553,7 @@
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
       <verse number="16" style="v" sid="REV 22:16" /><char style="wj">I, Jesus, dispatched my agent to declare these things to you in the churches. I am the
-        direct-descendant of David, the Bright Morning Star. </char><verse eid="REV 22:16" />
+        direct-descendant</char><char style="wj"> of David, the Bright Morning Star. </char><verse eid="REV 22:16" />
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
@@ -1619,8 +1567,7 @@
         of life and to the holy city, which has been written about in this scroll.<verse eid="REV 22:19" />
     </para>
     <para style="p">
-      <verse number="20" style="v" sid="REV 22:20" />He who confirms these things says:
-    </para>
+      <verse number="20" style="v" sid="REV 22:20" />He who confirms these things says:</para>
     <para style="pi" vid="REV 22:20"></para>
     <para style="pi" vid="REV 22:20"><char style="wj">“Yes indeed, I’m coming post-haste.”</char></para>
     <para style="pi" vid="REV 22:20"></para>
@@ -1630,6 +1577,5 @@
     <para style="p">
       <verse number="21" style="v" sid="REV 22:21" />May the grace of the Lord Jesus be with everyone.<verse eid="REV 22:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="REV 22" />
 </usx>

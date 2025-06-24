@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -36,8 +36,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="2TH 1" />
     <para style="p">
-      <verse number="1" style="v" sid="2TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:
-    </para>
+      <verse number="1" style="v" sid="2TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:</para>
     <para style="p" vid="2TH 1:1">To the church in Thessalonica in God our Father and the Lord Jesus Christ:<verse eid="2TH 1:1"/>
     </para>
     <para style="p">

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -58,8 +58,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="JAS 1" />
     <para style="p">
-      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of <char style="it">the</char> Lord Jesus Christ:
-    </para>
+      <verse number="1" style="v" sid="JAS 1:1" />James, a servant/slave of God and of <char style="it">the</char> Lord Jesus Christ:</para>
     <para style="p" vid="JAS 1:1">To <char style="it">the</char> <char style="it">blood-descendants of </char>the<char style="it"> </char>twelve
         tribes <char style="it">of Israel</char><char style="sup">[A]</char> who are among the Diaspora (<char
         style="it">i.e. the scattering of Jews all over the world</char>):

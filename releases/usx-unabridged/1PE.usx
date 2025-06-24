@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -45,8 +45,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="1PE 1" />
     <para style="p">
-      <verse number="1" style="v" sid="1PE 1:1" />Peter, missionary<char style="sup">[a]</char> of Jesus Christ:
-    </para>
+      <verse number="1" style="v" sid="1PE 1:1" />Peter, missionary<char style="sup">[a]</char> of Jesus Christ:</para>
     <para style="p" vid="1PE 1:1">To <char style="it">the</char> <char style="it">specially </char>chosen temporary residents<char style="sup">[b]</char>
         (<char style="it">namely, </char>the scattered <char style="it">believers</char> of Pontus, Galatia,
         Cappadocia, Asia, and Bithynia) <verse eid="1PE 1:1"/>
@@ -115,8 +114,7 @@
         hearts, <verse eid="1PE 1:22" />
       <verse number="23" style="v" sid="1PE 1:23" />having been rebirthed not from perishable seed but from imperishable, through the living Word of God—and
         <char style="it">the Word </char>remains <char style="it">with us</char>. <verse eid="1PE 1:23" />
-      <verse number="24" style="v" sid="1PE 1:24" />Therefore <char style="it">the Bible says</char>:
-    </para>
+      <verse number="24" style="v" sid="1PE 1:24" />Therefore <char style="it">the Bible says</char>:</para>
     <para style="pi" vid="1PE 1:24"></para>
     <para style="pi" vid="1PE 1:24">Every physical body</para>
     <para style="pi" vid="1PE 1:24">And man’s attempts to live righteously apart from God</para>
@@ -129,8 +127,7 @@
     <para style="pi" vid="1PE 1:24">And the blossoms fall off,<verse eid="1PE 1:24"/>
     </para>
     <para style="pi">
-      <verse number="25" style="v" sid="1PE 1:25" />But the Word of the Lord remains forever.
-    </para>
+      <verse number="25" style="v" sid="1PE 1:25" />But the Word of the Lord remains forever.</para>
     <para style="pi" vid="1PE 1:25"></para>
     <para style="m" vid="1PE 1:25">This <char style="it">very same “Word of the Lord” </char>is the evangelized-message which was put to
         you.<verse eid="1PE 1:25"/>
@@ -271,8 +268,7 @@
       <verse number="5" style="v" sid="1PE 2:5" />And you as living stones—<char style="it">living stones which form</char> a spiritual edifice—you yourselves
         are being constructed into a holy priesthood to offer up<char style="sup">[b]</char> spiritual sacrifices
         (analogous to animal sacrifices) acceptable to God through Jesus Christ. <verse eid="1PE 2:5" />
-      <verse number="6" style="v" sid="1PE 2:6" />Therefore the Bible<char style="sup">[c]</char> contains this:
-    </para>
+      <verse number="6" style="v" sid="1PE 2:6" />Therefore the Bible<char style="sup">[c]</char> contains this:</para>
     <para style="pi" vid="1PE 2:6"></para>
     <para style="pi" vid="1PE 2:6">See here now: I’m putting a stone in place</para>
     <para style="pi" vid="1PE 2:6">In <char style="it">that conceptual, symbolic, idealized city</char> Zion—</para>
@@ -284,8 +280,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="7" style="v" sid="1PE 2:7" />So honor and value <char style="it">goes to</char> you believers. But to those who refuse to believe:
-    </para>
+      <verse number="7" style="v" sid="1PE 2:7" />So honor and value <char style="it">goes to</char> you believers. But to those who refuse to believe:</para>
     <para style="pi" vid="1PE 2:7"></para>
     <para style="pi" vid="1PE 2:7">A stone which the builders</para>
     <para style="pi" vid="1PE 2:7">Failed during inspection and rejected—</para>
@@ -294,8 +289,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="m">
-      <verse number="8" style="v" sid="1PE 2:8" />…And:
-    </para>
+      <verse number="8" style="v" sid="1PE 2:8" />…And:</para>
     <para style="pi" vid="1PE 2:8"></para>
     <para style="pi" vid="1PE 2:8">A stone which causes one to veer off into a ditch</para>
     <para style="pi" vid="1PE 2:8">Resulting in wrong-doing</para>
@@ -312,8 +306,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="10" style="v" sid="1PE 2:10" />Back then they were not a people
-    </para>
+      <verse number="10" style="v" sid="1PE 2:10" />Back then they were not a people</para>
     <para style="pi" vid="1PE 2:10">But now <char style="it">are </char>a people of God.</para>
     <para style="pi" vid="1PE 2:10">They had not been shown mercy</para>
     <para style="pi" vid="1PE 2:10">But now are being shown mercy.<verse eid="1PE 2:10"/>
@@ -358,8 +351,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="22" style="v" sid="1PE 2:22" />…Who committed no sin
-    </para>
+      <verse number="22" style="v" sid="1PE 2:22" />…Who committed no sin</para>
     <para style="pi" vid="1PE 2:22">Nor was guile found in his mouth<verse eid="1PE 2:22"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
@@ -589,20 +581,17 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="10" style="v" sid="1PE 3:10" />For he who wishes to love life
-    </para>
+      <verse number="10" style="v" sid="1PE 3:10" />For he who wishes to love life</para>
     <para style="pi" vid="1PE 3:10">And see good days:</para>
     <para style="pi" vid="1PE 3:10">Have him halt his tongue from bad</para>
     <para style="pi" vid="1PE 3:10">And <char style="it">his </char>lips from the utterance of guile.<verse eid="1PE 3:10"/>
     </para>
     <para style="pi">
-      <verse number="11" style="v" sid="1PE 3:11" />Let him turn away from bad and do good,
-    </para>
+      <verse number="11" style="v" sid="1PE 3:11" />Let him turn away from bad and do good,</para>
     <para style="pi" vid="1PE 3:11">Search for peace and pursue it.<verse eid="1PE 3:11"/>
     </para>
     <para style="pi">
-      <verse number="12" style="v" sid="1PE 3:12" />Because the Lord’s eyes are upon the righteous,
-    </para>
+      <verse number="12" style="v" sid="1PE 3:12" />Because the Lord’s eyes are upon the righteous,</para>
     <para style="pi" vid="1PE 3:12">And His ears <char style="it">hearken </char>to their prayers,</para>
     <para style="pi" vid="1PE 3:12">But the full attention<char style="sup">[m]</char> of the Lord <char style="it">is directed</char></para>
     <para style="pi" vid="1PE 3:12">At those who do bad.<verse eid="1PE 3:12"/>
@@ -856,8 +845,7 @@
         getting closer and closer</char> for the Judgment to begin, a judgment starting from God’s house <char
         style="it">and extending</char> <char style="it">outwards</char>. And if it starts with us first, how
         will things turn out for those who don’t believe in the Gospel? <verse eid="1PE 4:17" />
-      <verse number="18" style="v" sid="1PE 4:18" />And…
-    </para>
+      <verse number="18" style="v" sid="1PE 4:18" />And…</para>
     <para style="pi" vid="1PE 4:18"></para>
     <para style="pi" vid="1PE 4:18">If the righteous man just barely squeaks by<char style="sup">[p]</char></para>
     <para style="pi" vid="1PE 4:18">The rank-sinner<char style="sup">[q]</char>—what’s to come of him<char style="sup">[r]</char>?<verse eid="1PE 4:18"/>
@@ -1019,8 +1007,7 @@
         and declaring these things to be God’s true grace—stand in and stick to the grace!<char style="sup">[C]</char>.<verse eid="1PE 5:12" />
       <verse number="13" style="v" sid="1PE 5:13" />The sister-church in <char style="it">metaphorical </char>Babylon (<char style="it">which is Rome</char>)<char
         style="sup">[D]</char>, greets you, and <char style="it">so does </char>Mark my son<char style="sup">[E]</char>.<verse eid="1PE 5:13" />
-      <verse number="14" style="v" sid="1PE 5:14" />Greet one another with hearty handshakes and warm hugs of love<char style="sup">[F]</char>.
-    </para>
+      <verse number="14" style="v" sid="1PE 5:14" />Greet one another with hearty handshakes and warm hugs of love<char style="sup">[F]</char>.</para>
     <para style="p" vid="1PE 5:14">Peace to you all in Christ.<verse eid="1PE 5:14"/>
     </para>
   <!--   .........   -->

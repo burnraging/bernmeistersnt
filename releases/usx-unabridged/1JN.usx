@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -120,15 +120,13 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="12" style="v" sid="1JN 2:12" />I’m writing to you, children,
-    </para>
+      <verse number="12" style="v" sid="1JN 2:12" />I’m writing to you, children,</para>
     <para style="pi" vid="1JN 2:12">Because your sins have been forgiven</para>
     <para style="pi" vid="1JN 2:12">On account of His reputation and everything He stands for<char style="sup">[d]</char>.<verse eid="1JN 2:12"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="13" style="v" sid="1JN 2:13" />I’m writing to you, fathers, because, since day-one,
-    </para>
+      <verse number="13" style="v" sid="1JN 2:13" />I’m writing to you, fathers, because, since day-one,</para>
     <para style="pi" vid="1JN 2:13">You’ve arrived at the point</para>
     <para style="pi" vid="1JN 2:13">Where you know and understand Him.</para>
     <para style="pi" vid="1JN 2:13"></para>
@@ -137,8 +135,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="14" style="v" sid="1JN 2:14" />I wrote to you, you boys <char style="it">who work</char><char style="sup">[A]</char>,
-    </para>
+      <verse number="14" style="v" sid="1JN 2:14" />I wrote to you, you boys <char style="it">who work</char><char style="sup">[A]</char>,</para>
     <para style="pi" vid="1JN 2:14">Because you’ve come to know the Father.</para>
     <para style="pi" vid="1JN 2:14"></para>
     <para style="pi" vid="1JN 2:14">I wrote to you, fathers, because, since day-one,</para>
@@ -440,8 +437,7 @@
       <verse number="14" style="v" sid="1JN 4:14" />We have seen and we go on record<char style="sup">[b]</char> that the Father has sent the son, the savior
         of the world. <verse eid="1JN 4:14" />
       <verse number="15" style="v" sid="1JN 4:15" />If said person were to confess that Jesus is the Son of God, God dwells in him and He in God. <verse eid="1JN 4:15" />
-      <verse number="16" style="v" sid="1JN 4:16" />And we have come to know, to understand, and to believe the love which God has in us.
-    </para>
+      <verse number="16" style="v" sid="1JN 4:16" />And we have come to know, to understand, and to believe the love which God has in us.</para>
     <para style="p" vid="1JN 4:16">God is love, and the one dwelling in the <char style="it">Christian </char>love dwells in God, and God
         dwells in him; <verse eid="1JN 4:16"/>
       <verse number="17" style="v" sid="1JN 4:17" />by this, the love has been brought to perfection among us. This is so that we would have confidence on

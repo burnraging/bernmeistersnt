@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -23,8 +23,7 @@
       <verse number="1" style="v" sid="COL 1:1" />From Paul the apostle of Christ Jesus through the agency of the will of God and from Comrade Timothy,<verse eid="COL 1:1" />
     </para>
     <para style="p">
-      <verse number="2" style="v" sid="COL 1:2" />To the saints (i.e., the believers in Christ)—what faithful comrades!—in Colossae,
-    </para>
+      <verse number="2" style="v" sid="COL 1:2" />To the saints (i.e., the believers in Christ)—what faithful comrades!—in Colossae,</para>
     <para style="p" vid="COL 1:2">Grace and peace to you from our Father-God:<verse eid="COL 1:2"/>
     </para>
     <para style="p">
@@ -97,7 +96,6 @@
       <verse number="29" style="v" sid="COL 1:29" />I’m also doing hard work towards that end, striving according to His working, a working which works in
         me in a powerful way.<verse eid="COL 1:29" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="COL 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -162,7 +160,6 @@
         and in maintaining an unassuming, self-abasing demeanor and in treating the body harshly, but are of
         no value in the effort to conciliate the flesh. <verse eid="COL 2:23" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="COL 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -245,7 +242,6 @@
       <verse number="25" style="v" sid="COL 3:25" />Furthermore, as far as the wrong-doer is concerned: what he did wrong will come back to haunt him, irrespective
         of who the wrong-doer is.<verse eid="COL 3:25" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="COL 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -303,8 +299,7 @@
         out to completion.”<verse eid="COL 4:17" />
     </para>
     <para style="p">
-      <verse number="18" style="v" sid="COL 4:18" />I’m writing the greeting-section of this letter in my own handwriting, the handwriting of Paul.
-    </para>
+      <verse number="18" style="v" sid="COL 4:18" />I’m writing the greeting-section of this letter in my own handwriting, the handwriting of Paul.</para>
     <para style="p" vid="COL 4:18">Remember my bonds.</para>
     <para style="p" vid="COL 4:18">May the grace of God be with you.<verse eid="COL 4:18"/>
     </para>

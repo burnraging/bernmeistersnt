@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Unabridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT, Unabridged Version 1 -->
+<!-- The Bernmeister's NT, Unabridged Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -40,8 +40,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="1TH 1" />
     <para style="p">
-      <verse number="1" style="v" sid="1TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:
-    </para>
+      <verse number="1" style="v" sid="1TH 1:1" /><char style="it">From </char>Paul, Silas, and Timothy:</para>
     <para style="p" vid="1TH 1:1">To the church of Thessalonica in the Father-God and <char style="it">the </char>Lord Jesus Christ:</para>
     <para style="p" vid="1TH 1:1">Grace to you and peace.<verse eid="1TH 1:1"/>
     </para>
@@ -500,8 +499,7 @@
     <para style="p" vid="1TH 5:13">Keep the peace among yourselves.<verse eid="1TH 5:13"/>
     </para>
     <para style="p">
-      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.
-    </para>
+      <verse number="14" style="v" sid="1TH 5:14" />We plead with you, comrades, that you advice, warn, admonish, and instruct the disorderly and insubordinate.</para>
     <para style="p" vid="1TH 5:14">Cheer up those who are discouraged.</para>
     <para style="p" vid="1TH 5:14">Take a strong interest in and help those who are weak (i.e., those who are unwell; worn out with a sickness;
         too physically weak to take care of themselves; powerless to do anything about their circumstances).

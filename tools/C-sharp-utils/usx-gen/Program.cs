@@ -58,11 +58,11 @@ class ConsoleWrapper
 
         args = new string[] { "-i", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\tools\intermediate-files", // intermediate file's folder
 #if UNABRIDGED_VERSION
-                              "-d", @"the-bernmeisters-new-testament-220-DESTRUCTIVE-usx-gen-MARKED-UP.txt",     // docx selective search&replace text file name
+                              "-d", @"the-bernmeisters-new-testament-224-DESTRUCTIVE-usx-gen-MARKED-UP.txt",     // docx selective search&replace text file name
                               "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\usx-unabridged",  // unabridged edition's output folder
                               "-unabridged" };
 #else
-                              "-d", @"the-bernmeisters-new-testament-v1-abridged-DESTRUCTIVE-usx-gen-MARKED-UP.txt",               // docx selective search&replacetext file name
+                              "-d", @"the-bernmeisters-new-testament-224-DESTRUCTIVE-usx-gen-MARKED-UP.txt",     // docx selective search&replacetext file name
                               "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\usx-abridged",    // abridged edition's output folder
                               "-abridged" };
 #endif
@@ -143,7 +143,7 @@ class ConsoleWrapper
 
         //********  Start modify for your translation ********
 
-        common_dll.UsxConverter.USX_TRANSLATION_VERSION = "1";
+        common_dll.UsxConverter.USX_TRANSLATION_VERSION = "2";
 
         if (!isUnabridgedEdition)
         {

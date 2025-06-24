@@ -25,7 +25,7 @@ using common_dll;
 class ConsoleWrapper    // usx3-to-zefania
 {
     private const string USX3_TO_ZEFANIA_VERSION = "1.0";
-    private const string ZEFANIA_OUTPUT_FILE_NAME = @"the-bernmeisters-nt-v1-zefania-2005.xml";
+    private const string ZEFANIA_OUTPUT_FILE_NAME = @"the-bernmeisters-nt-v2-zefania-2005.xml";
 
     public static bool TOZ_SUPPRESS_PARA_BREAKS = true;
 
@@ -60,7 +60,7 @@ class ConsoleWrapper    // usx3-to-zefania
 #if DEBUG
         args = new string[] { "-i", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\usx-abridged",        // input folder, not output
                               "-o", @"E:\Bernie\Ekklesia\the-bernmeisters-nt\git-repo\releases\zefania-abridged",    // output folder
-                              "-f", @"the-bernmeisters-nt-v1-zefania-2005.xml",                                      // output file name
+                              "-f", ZEFANIA_OUTPUT_FILE_NAME,                                                        // output file name
                               "-s", @"zefania-info-file.txt"};                                                       // information fields
 #endif
 
@@ -133,8 +133,8 @@ class ConsoleWrapper    // usx3-to-zefania
             throw new Exception("suppresses warning");
 
         Console.WriteLine("Using:");
-        Console.WriteLine(" Input folder =           {0}", inputFolder);
-        Console.WriteLine(" Output folder =          {0}", outputFolder);
+        Console.WriteLine(" Input folder =          {0}", inputFolder);
+        Console.WriteLine(" Output folder =         {0}", outputFolder);
         Console.WriteLine(" Output file name =        {0}", outputFileName);
         Console.WriteLine(" Information file name = {0}", fqInformationFileName);
 

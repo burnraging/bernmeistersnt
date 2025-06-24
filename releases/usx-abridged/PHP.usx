@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="PHP 1" />
     <para style="p">
-      <verse number="1" style="v" sid="PHP 1:1" />From Paul and Timothy, slaves of Christ Jesus,
-    </para>
+      <verse number="1" style="v" sid="PHP 1:1" />From Paul and Timothy, slaves of Christ Jesus,</para>
     <para style="p" vid="PHP 1:1">To all the saints (i.e., believers) in Christ Jesus who live in Philippi together with the bishops (i.e.,
         head pastors; overseers) and deacons (i.e., assistant pastors; assistants entrusted with significant
         responsibilities; heads of ministry departments):<verse eid="PHP 1:1"/>
@@ -97,7 +96,6 @@
       <verse number="30" style="v" sid="PHP 1:30" />having the same anguish and conflict as he did, the very thing you saw happening to and in me and now
         hear reports are happening to and in me.<verse eid="PHP 1:30" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="PHP 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -172,7 +170,6 @@
       <verse number="30" style="v" sid="PHP 2:30" />since he came close to death on account of Christ’s work, risking his very life so that he would fill
         in the gap caused by your drop-off in serving me.<verse eid="PHP 2:30" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="PHP 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -234,9 +231,8 @@
         the spiritual domain and in heaven itself), from which we also eagerly await a savior, namely the Lord
         Jesus Christ, to come out of, <verse eid="PHP 3:20" />
       <verse number="21" style="v" sid="PHP 3:21" />who will transform our humble, lowly, abased bodies into a body of his glory done in a way which is consistent
-        with him operating in what he’s capable of and with him making all things subject to himself.</para>
-    <para style="p" vid="PHP 3:21"><verse eid="PHP 3:21"/></para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
+        with him operating in what he’s capable of and with him making all things subject to himself.<verse eid="PHP 3:21" />
+    </para>
   <chapter eid="PHP 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -20,8 +20,7 @@
   <!--   **********   -->
   <chapter number="1" style="c" sid="EPH 1" />
     <para style="p">
-      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—
-    </para>
+      <verse number="1" style="v" sid="EPH 1:1" />Paul, apostle (i.e., missionary) of Christ Jesus through the will of God—</para>
     <para style="p" vid="EPH 1:1">To the saints (i.e., God’s people) who are in Ephesus and to those who are faithful in Christ Jesus:<verse eid="EPH 1:1"/>
     </para>
     <para style="p">
@@ -81,7 +80,6 @@
         to be forcefully dominated by him), and gave him—the one who’s the head over all things—to the church,<verse eid="EPH 1:22" />
       <verse number="23" style="v" sid="EPH 1:23" />which is his body, the maximum amount which every little bit of everything is filled to.<verse eid="EPH 1:23" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="EPH 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -142,7 +140,6 @@
         main anchor point, <verse eid="EPH 2:20" />
       <verse number="21" style="v" sid="EPH 2:21" />in whom you too are being custom-built into a dwelling place of God in the Spirit.<verse eid="EPH 2:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="EPH 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -197,7 +194,6 @@
       <verse number="21" style="v" sid="EPH 3:21" />to Him be the glory in the church and in Christ Jesus extending out to all the generations that will
         forevermore come. And let us pause a moment for that to sink in.<verse eid="EPH 3:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="EPH 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -221,8 +217,7 @@
     <para style="p">
       <verse number="7" style="v" sid="EPH 4:7" />Now the unearned gift which God gives out of His kindness was given to each individual according to the
         specific amount and peculiar characteristics of the gift of Christ. <verse eid="EPH 4:7" />
-      <verse number="8" style="v" sid="EPH 4:8" />In light of this the Book of Psalms says,
-    </para>
+      <verse number="8" style="v" sid="EPH 4:8" />In light of this the Book of Psalms says,</para>
     <para style="pi" vid="EPH 4:8"></para>
     <para style="pi" vid="EPH 4:8">Once he ascended to a high place,</para>
     <para style="pi" vid="EPH 4:8">He bedazzled the captives—</para>
@@ -304,7 +299,6 @@
         and extending goodwill just as God in Christ was gracious, forgiving, and extended goodwill to you as
         well.<verse eid="EPH 4:32" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="EPH 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
@@ -383,8 +377,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="31" style="v" sid="EPH 5:31" />Because of this
-    </para>
+      <verse number="31" style="v" sid="EPH 5:31" />Because of this</para>
     <para style="pi" vid="EPH 5:31">A man shall leave his father and mother</para>
     <para style="pi" vid="EPH 5:31">And adhere to his wife,</para>
     <para style="pi" vid="EPH 5:31">And the two will be molded into a single flesh<verse eid="EPH 5:31"/>
@@ -395,7 +388,6 @@
       <verse number="33" style="v" sid="EPH 5:33" />But in any case, make sure every one of you down to the last man love his wife as he loves himself, but
         make sure wives have a deep reverence and respect for their husbands, one which borders on fear.<verse eid="EPH 5:33" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="EPH 5" />
   <!--   **********   -->
   <!--   Chapter  6   -->

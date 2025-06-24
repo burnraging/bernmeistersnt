@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Bernmeister's New Testament, Abridged Edition -->
 <!-- Copyright © 2024 Bernard M. Woodland -->
-<!-- Version 1 -->
+<!-- Version 2 -->
 <!-- Public domain -->
-<!-- The Bernmeister's NT Version 1 -->
+<!-- The Bernmeister's NT Version 2 -->
 <usx version="3.0">
   <!--   *******************   -->
   <!--   Titles and TOC Info   -->
@@ -43,7 +43,6 @@
       <verse number="10" style="v" sid="1JN 1:10" />If we were to say on a given occasion that we’ve reached the point where we haven’t sinned, we’re making
         Him out to be a liar and His word (His system of thought) is not in us.<verse eid="1JN 1:10" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1JN 1" />
   <!--   **********   -->
   <!--   Chapter  2   -->
@@ -77,15 +76,13 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="12" style="v" sid="1JN 2:12" />I’m writing to you, children,
-    </para>
+      <verse number="12" style="v" sid="1JN 2:12" />I’m writing to you, children,</para>
     <para style="pi" vid="1JN 2:12">Because your sins have been forgiven</para>
     <para style="pi" vid="1JN 2:12">On account of His reputation and everything He stands for.<verse eid="1JN 2:12"/>
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="13" style="v" sid="1JN 2:13" />I’m writing to you, fathers, because, since day-one,
-    </para>
+      <verse number="13" style="v" sid="1JN 2:13" />I’m writing to you, fathers, because, since day-one,</para>
     <para style="pi" vid="1JN 2:13">You’ve arrived at the point</para>
     <para style="pi" vid="1JN 2:13">Where you know and understand Him.</para>
     <para style="pi" vid="1JN 2:13"></para>
@@ -94,8 +91,7 @@
     </para>
     <para style="pi" />    <!-- Spacer line. No verse associated with it. -->
     <para style="pi">
-      <verse number="14" style="v" sid="1JN 2:14" />I wrote to you, you boys who work,
-    </para>
+      <verse number="14" style="v" sid="1JN 2:14" />I wrote to you, you boys who work,</para>
     <para style="pi" vid="1JN 2:14">Because you’ve come to know the Father.</para>
     <para style="pi" vid="1JN 2:14"></para>
     <para style="pi" vid="1JN 2:14">I wrote to you, fathers, because, since day-one,</para>
@@ -149,7 +145,6 @@
       <verse number="29" style="v" sid="1JN 2:29" />If you’ve come to know for a fact that he’s righteous, you know and understand that everyone who practices
         righteousness also has been begotten from Him and by Him.<verse eid="1JN 2:29" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1JN 2" />
   <!--   **********   -->
   <!--   Chapter  3   -->
@@ -210,7 +205,6 @@
       <verse number="24" style="v" sid="1JN 3:24" />And the keeper of His commandments dwells in him and he in him. And by this we know and understand that
         he dwells in us: we know from the Spirit he gave us.<verse eid="1JN 3:24" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1JN 3" />
   <!--   **********   -->
   <!--   Chapter  4   -->
@@ -250,8 +244,7 @@
         He’s given us. <verse eid="1JN 4:13" />
       <verse number="14" style="v" sid="1JN 4:14" />We have seen and we go on record that the Father has sent the son, the savior of the world. <verse eid="1JN 4:14" />
       <verse number="15" style="v" sid="1JN 4:15" />If said person were to confess that Jesus is the Son of God, God dwells in him and He in God. <verse eid="1JN 4:15" />
-      <verse number="16" style="v" sid="1JN 4:16" />And we have come to know, to understand, and to believe the love which God has in us.
-    </para>
+      <verse number="16" style="v" sid="1JN 4:16" />And we have come to know, to understand, and to believe the love which God has in us.</para>
     <para style="p" vid="1JN 4:16">God is love, and the one dwelling in the Christian love dwells in God, and God dwells in him; <verse eid="1JN 4:16"/>
       <verse number="17" style="v" sid="1JN 4:17" />by this, the love has been brought to perfection among us. This is so that we would have confidence on
         judgment day, since just as That One is, we too are the same way in this world. <verse eid="1JN 4:17" />
@@ -263,7 +256,6 @@
         whom he’s seen can’t love the God whom he hasn’t seen. <verse eid="1JN 4:20" />
       <verse number="21" style="v" sid="1JN 4:21" />And we possess this commandment, that the one who loves God would love his comrade too.<verse eid="1JN 4:21" />
     </para>
-    <para style="p" />    <!-- Spacer line. No verse associated with it. -->
   <chapter eid="1JN 4" />
   <!--   **********   -->
   <!--   Chapter  5   -->
